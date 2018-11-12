@@ -11,42 +11,109 @@ library(sm)
 library(ggplot2)
 library(stylo)
 
-setwd("~/Dropbox/R/HF_PC/")  
+setwd("~/Dropbox/R/HF_PC/")
+setwd("~/Dropbox/github/sister_peg/")  
 
 options(scipen=999)  # turn off scientific notation like 1e+06
 options(stringsAsFactors = FALSE)
 
-tests <- c("delta", "nsc", "svm", "naivebayes")
+#tests <- c("delta", "nsc", "svm", "naivebayes")
 char_word <- c("w", "w", "w", "c", "c", "c", "c", "c")
-word_num <- c("1", "2", "3", "2", "3", "4", "5", "6")
+tok_num <- c("1", "2", "3", "2", "3", "4", "5", "6")
 
 
 #RUN TESTS
-for (test_list in 1:length(word_num)) {
-  cat("\nRunning test", test_list, " out of ", length(word_num))
-  classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[test_list], 
-           ngram.size=as.numeric(word_num[test_list]), encoding = "UTF-8", classification.method="delta")
+for (i in 1:length(tok_num)) {
+  cat("\nRunning test", i, " out of ", length(tok_num))
+  #Delta test
+  classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i], 
+           ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="delta")
   results_fn <- paste0("data/aa/", author_name, f1s[x], "_delta_", page_counts[z], "_", 
-                       paste0(word_num[test_list], char_word[test_list]), ".txt")
+                       paste0(tok_num[i], char_word[i]), ".txt")
   file.rename("final_results.txt", results_fn)
-  
-  classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[test_list], 
-           ngram.size=as.numeric(word_num[test_list]), encoding = "UTF-8", classification.method="knn", 
+  #Knn test
+  classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i], 
+           ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="knn", 
+           k.value=3,
            use.existing.freq.tables = TRUE)
   
   results_fn <- paste0("data/aa/", author_name, f1s[x], "_knn_", page_counts[z], "_", 
-                       paste0(word_num[test_list], char_word[test_list]), ".txt")
+                       paste0(tok_num[i], char_word[i]), ".txt")
   file.rename("final_results.txt", results_fn)
-  
-  classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[test_list], 
-           ngram.size=as.numeric(word_num[test_list]), encoding = "UTF-8", classification.method="nsc", 
+  #NSC test
+  classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i], 
+           ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="nsc", 
            use.existing.freq.tables = TRUE)
   results_fn <- paste0("data/aa/", author_name, f1s[x], "_nsc_", page_counts[z], "_", 
-                       paste0(word_num[test_list], char_word[test_list]), ".txt")
+                       paste0(tok_num[i], char_word[i]), ".txt")
   file.rename("final_results.txt", results_fn)
-  
+  #svm test
+  classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i], 
+           ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="svm", 
+           svm.kernel="linear",
+           use.existing.freq.tables = TRUE)
+  results_fn <- paste0("data/aa/", author_name, f1s[x], "_svm_", page_counts[z], "_", 
+                       paste0(tok_num[i], char_word[i]), ".txt")
+  file.rename("final_results.txt", results_fn)
+  #naivebayes test
+  classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i], 
+           ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="naivebayes", 
+           use.existing.freq.tables = TRUE)
+  results_fn <- paste0("data/aa/", author_name, f1s[x], "_naivebayes_", page_counts[z], "_", 
+                       paste0(tok_num[i], char_word[i]), ".txt")
+  file.rename("final_results.txt", results_fn)
 }
 
+
+
+
+
+#RUN TESTS
+for (i in 1:length(tok_num)) {
+  cat("\nRunning test", i, " out of ", length(tok_num))
+  #Delta test
+  classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i], 
+           ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="delta",
+           sampling="normal.sampling", sample.size=5000)
+  results_fn <- paste0("results/delta_", paste0(tok_num[i], char_word[i]), ".txt")
+  file.rename("final_results.txt", results_fn)
+
+  #Knn test
+  classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i], 
+           ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="knn", 
+           k.value=10,
+           use.existing.freq.tables = TRUE,
+           sampling="normal.sampling", sample.size=5000)
+  
+  results_fn <- paste0("results/knn_", paste0(tok_num[i], char_word[i]), ".txt")
+  file.rename("final_results.txt", results_fn)
+
+    #NSC test
+  classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i], 
+           ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="nsc", 
+           use.existing.freq.tables = TRUE,
+           sampling="normal.sampling", sample.size=5000)
+  results_fn <- paste0("results/nsc_", paste0(tok_num[i], char_word[i]), ".txt")
+  file.rename("final_results.txt", results_fn)
+}
+  #svm test
+  classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i], 
+           ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="svm", 
+           svm.kernel="linear", svm.cost=1,
+           #use.existing.freq.tables = TRUE,
+           sampling="normal.sampling", sample.size=1500)
+  results_fn <- paste0("data/aa/", author_name, f1s[x], "_svm_", page_counts[z], "_", 
+                       paste0(tok_num[i], char_word[i]), ".txt")
+  file.rename("final_results.txt", results_fn)
+  #naivebayes test
+  classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i], 
+           ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="naivebayes", 
+           #use.existing.freq.tables = TRUE
+           )
+  results_fn <- paste0("data/aa/", author_name, f1s[x], "_naivebayes_", page_counts[z], "_", 
+                       paste0(tok_num[i], char_word[i]), ".txt")
+  file.rename("final_results.txt", results_fn)
+}
 
 
 #create author and corpora size plot
@@ -80,6 +147,13 @@ for (i in 1:length(authors)) {
     }
   }
 }
+
+
+classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i], 
+         ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="svm", 
+         svm.kernel="linear")
+
+
 
 authors <- gsub("[.]", "", authors)
 authors[5] <- "Griffith, Elizabeth, 1727-1793"

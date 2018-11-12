@@ -1,0 +1,118 @@
+
+
+
+Ferguson_merged_3 	-->	 Hume
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+
+100 MFW , culled @ 0%,  26 of 27	(96.3%)
+
+
+
+Ferguson_merged_3 	-->	 Hume
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+
+200 MFW , culled @ 0%,  26 of 27	(96.3%)
+
+
+
+Ferguson_merged_1 	-->	 Hume
+Ferguson_merged_2 	-->	 Hume
+Ferguson_merged_3 	-->	 Hume
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+
+300 MFW , culled @ 0%,  24 of 27	(88.9%)
+
+
+
+Ferguson_merged_1 	-->	 Hume
+Ferguson_merged_3 	-->	 Hume
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+
+400 MFW , culled @ 0%,  25 of 27	(92.6%)
+
+
+
+Ferguson_merged_1 	-->	 Hume
+Ferguson_merged_2 	-->	 Hume
+Ferguson_merged_3 	-->	 Hume
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+
+500 MFW , culled @ 0%,  24 of 27	(88.9%)
+
+
+
+Ferguson_merged_1 	-->	 Hume
+Ferguson_merged_2 	-->	 Hume
+Ferguson_merged_3 	-->	 Hume
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+
+600 MFW , culled @ 0%,  24 of 27	(88.9%)
+
+
+
+Ferguson_merged_1 	-->	 Hume
+Ferguson_merged_2 	-->	 Hume
+Ferguson_merged_3 	-->	 Hume
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+
+700 MFW , culled @ 0%,  24 of 27	(88.9%)
+
+
+
+Ferguson_merged_2 	-->	 Hume
+Ferguson_merged_3 	-->	 Hume
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+
+800 MFW , culled @ 0%,  25 of 27	(92.6%)
+
+
+
+Ferguson_merged_2 	-->	 Hume
+Ferguson_merged_3 	-->	 Hume
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+
+900 MFW , culled @ 0%,  25 of 27	(92.6%)
+
+
+
+Ferguson_merged_3 	-->	 Hume
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+
+1000 MFW , culled @ 0%,  26 of 27	(96.3%)
+
+General attributive success:  249 of 270 (92.2%)
+
+MFWs from 100 to 1000 @ increment 100
+Culling from 0 to 0 @ increment 20
+Pronouns deleted: FALSE
+
