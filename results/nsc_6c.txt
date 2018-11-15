@@ -37,7 +37,7 @@ sister_peg_checked_4 	-->	 Hume
 
 
 
-sister_peg_checked_1 	-->	 Ferguson
+sister_peg_checked_1 	-->	 Hume
 sister_peg_checked_2 	-->	 Hume
 sister_peg_checked_3 	-->	 Hume
 sister_peg_checked_4 	-->	 Hume
@@ -46,7 +46,7 @@ sister_peg_checked_4 	-->	 Hume
 
 
 
-sister_peg_checked_1 	-->	 Ferguson
+sister_peg_checked_1 	-->	 Hume
 sister_peg_checked_2 	-->	 Hume
 sister_peg_checked_3 	-->	 Hume
 sister_peg_checked_4 	-->	 Hume
@@ -55,7 +55,7 @@ sister_peg_checked_4 	-->	 Hume
 
 
 
-sister_peg_checked_1 	-->	 Ferguson
+sister_peg_checked_1 	-->	 Hume
 sister_peg_checked_2 	-->	 Hume
 sister_peg_checked_3 	-->	 Hume
 sister_peg_checked_4 	-->	 Hume
@@ -64,7 +64,7 @@ sister_peg_checked_4 	-->	 Hume
 
 
 
-sister_peg_checked_1 	-->	 Ferguson
+sister_peg_checked_1 	-->	 Hume
 sister_peg_checked_2 	-->	 Hume
 sister_peg_checked_3 	-->	 Hume
 sister_peg_checked_4 	-->	 Hume
@@ -73,7 +73,7 @@ sister_peg_checked_4 	-->	 Hume
 
 
 
-sister_peg_checked_1 	-->	 Ferguson
+sister_peg_checked_1 	-->	 Hume
 sister_peg_checked_2 	-->	 Hume
 sister_peg_checked_3 	-->	 Hume
 sister_peg_checked_4 	-->	 Hume
@@ -82,7 +82,7 @@ sister_peg_checked_4 	-->	 Hume
 
 
 
-sister_peg_checked_1 	-->	 Ferguson
+sister_peg_checked_1 	-->	 Hume
 sister_peg_checked_2 	-->	 Hume
 sister_peg_checked_3 	-->	 Hume
 sister_peg_checked_4 	-->	 Hume

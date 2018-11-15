@@ -15,57 +15,13 @@ setwd("~/Dropbox/R/HF_PC/")
 setwd("~/Dropbox/github/sister_peg/")  
 
 options(scipen=999)  # turn off scientific notation like 1e+06
-options(stringsAsFactors = FALSE)
+#options(stringsAsFactors = FALSE)
 
 #tests <- c("delta", "nsc", "svm", "naivebayes")
 char_word <- c("w", "w", "w", "c", "c", "c", "c", "c")
 tok_num <- c("1", "2", "3", "2", "3", "4", "5", "6")
 
-
-#RUN TESTS
-for (i in 1:length(tok_num)) {
-  cat("\nRunning test", i, " out of ", length(tok_num))
-  #Delta test
-  classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i], 
-           ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="delta")
-  results_fn <- paste0("data/aa/", author_name, f1s[x], "_delta_", page_counts[z], "_", 
-                       paste0(tok_num[i], char_word[i]), ".txt")
-  file.rename("final_results.txt", results_fn)
-  #Knn test
-  classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i], 
-           ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="knn", 
-           k.value=3,
-           use.existing.freq.tables = TRUE)
-  
-  results_fn <- paste0("data/aa/", author_name, f1s[x], "_knn_", page_counts[z], "_", 
-                       paste0(tok_num[i], char_word[i]), ".txt")
-  file.rename("final_results.txt", results_fn)
-  #NSC test
-  classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i], 
-           ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="nsc", 
-           use.existing.freq.tables = TRUE)
-  results_fn <- paste0("data/aa/", author_name, f1s[x], "_nsc_", page_counts[z], "_", 
-                       paste0(tok_num[i], char_word[i]), ".txt")
-  file.rename("final_results.txt", results_fn)
-  #svm test
-  classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i], 
-           ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="svm", 
-           svm.kernel="linear",
-           use.existing.freq.tables = TRUE)
-  results_fn <- paste0("data/aa/", author_name, f1s[x], "_svm_", page_counts[z], "_", 
-                       paste0(tok_num[i], char_word[i]), ".txt")
-  file.rename("final_results.txt", results_fn)
-  #naivebayes test
-  classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i], 
-           ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="naivebayes", 
-           use.existing.freq.tables = TRUE)
-  results_fn <- paste0("data/aa/", author_name, f1s[x], "_naivebayes_", page_counts[z], "_", 
-                       paste0(tok_num[i], char_word[i]), ".txt")
-  file.rename("final_results.txt", results_fn)
-}
-
-
-
+TRY CULLING
 
 
 #RUN TESTS
@@ -88,168 +44,64 @@ for (i in 1:length(tok_num)) {
   results_fn <- paste0("results/knn_", paste0(tok_num[i], char_word[i]), ".txt")
   file.rename("final_results.txt", results_fn)
 
-    #NSC test
+  #NSC test
   classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i], 
            ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="nsc", 
            use.existing.freq.tables = TRUE,
            sampling="normal.sampling", sample.size=5000)
   results_fn <- paste0("results/nsc_", paste0(tok_num[i], char_word[i]), ".txt")
   file.rename("final_results.txt", results_fn)
-}
   #svm test
   classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i], 
            ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="svm", 
            svm.kernel="linear", svm.cost=1,
-           #use.existing.freq.tables = TRUE,
+           use.existing.freq.tables = TRUE,
            sampling="normal.sampling", sample.size=1500)
-  results_fn <- paste0("data/aa/", author_name, f1s[x], "_svm_", page_counts[z], "_", 
-                       paste0(tok_num[i], char_word[i]), ".txt")
+  results_fn <- paste0("results/svm_", paste0(tok_num[i], char_word[i]), ".txt")
   file.rename("final_results.txt", results_fn)
   #naivebayes test
   classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i], 
            ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="naivebayes", 
-           #use.existing.freq.tables = TRUE
+           use.existing.freq.tables = TRUE
            )
-  results_fn <- paste0("data/aa/", author_name, f1s[x], "_naivebayes_", page_counts[z], "_", 
-                       paste0(tok_num[i], char_word[i]), ".txt")
+  results_fn <- paste0("results/nb_", paste0(tok_num[i], char_word[i]), ".txt")
   file.rename("final_results.txt", results_fn)
 }
 
 
-#create author and corpora size plot
-f1s <- c(50, 55, 60, 65, 70, 75, 80, 85, 90)
-f1_50 <- c()
-f1_55 <- c()
-f1_60 <- c()
-f1_65 <- c()
-f1_70 <- c()
-f1_75 <- c()
-f1_80 <- c()
-f1_85 <- c()
-f1_90 <- c()
-total_pages <- c()
-total_docs <- c()
-authors <- tail(names(sort(table(author_df$author))),25)
-for (i in 1:length(authors)) {
-  cat("\nWorking on", authors[i], "\n")
-  temp_df <- author_df[which(author_df$author == authors[i]),]
-  total_pages <- c(total_pages, nrow(temp_df))
-  total_docs <- c(total_docs, length(unique(temp_df$id)))
-  for (x in 1:length(f1s)) {
-    if (x == length(f1s)) {
-      f1_90 <- c(f1_90, length(which(temp_df$f1 >= (as.numeric(f1s[x])/100))))
-    } else if (x == 1) {
-      f1_50 <- c(f1_50, length(which(temp_df$f1 <= (as.numeric(f1s[x])/100))))
+#importing data
+
+bad_results <- data.frame(name=c("hume", "ferg"), results=0)
+good_results <- data.frame(name=c("hume", "ferg"), results=0)
+result_files <- list.files("results/", full.names = TRUE)
+tests <- c("delta", "knn", "nb", "nsc", "svm")
+
+for (x in 1:length(result_files)) {
+  test <- read.delim(result_files[x], header = FALSE)
+  grepl(tests, result_files[x])
+  testing <- TRUE
+  test_cutoffs <- c(1, grep("MFW", test$V1)-1, grep("MFW", test$V1)+1)
+  test_cutoffs <- sort(test_cutoffs)
+  test_cutoffs <- test_cutoffs[-c((length(test_cutoffs)),(length(test_cutoffs))-1,(length(test_cutoffs))-2)]
+  while(testing == TRUE) {
+    if(length(test_cutoffs) == 0) { 
+      testing <- FALSE 
+      next
+    }
+    temp_results <- test[test_cutoffs[1]:test_cutoffs[2],]
+    if (any(grepl("merged", temp_results$V1))) {
+      bad_results$results[1] <- bad_results$results[1] + length(grep("Hume", temp_results$V3))
+      bad_results$results[2] <- bad_results$results[2] + length(grep("Ferguson", temp_results$V3))
+      test_cutoffs <- test_cutoffs[-c(1:2)]
+      next
     } else {
-      temp_length <- get(paste0("f1_", f1s[x]))
-      temp_length <- c(temp_length, length(which(temp_df$f1 >= (as.numeric(f1s[x])/100) & temp_df$f1 < (as.numeric(f1s[x+1])/100))))
-      assign(paste0("f1_", f1s[x]), temp_length)
+      good_results$results[1] <- good_results$results[1] + length(grep("Hume", temp_results$V3))
+      good_results$results[2] <- good_results$results[2] + length(grep("Ferguson", temp_results$V3))
+      test_cutoffs <- test_cutoffs[-c(1:2)]
+      next
     }
   }
 }
-
-
-classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i], 
-         ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="svm", 
-         svm.kernel="linear")
-
-
-
-authors <- gsub("[.]", "", authors)
-authors[5] <- "Griffith, Elizabeth, 1727-1793"
-authors[7] <- "Home, Henry (Lord Kames), 1696-1782"
-authors[8] <- "Lennox, Charlotte, c. 1729-1804"
-authors[11] <- "Leclerc (comte de Buffon), 1707-1788"
-authors[22] <- "Defoe, Daniel, 1660-1731"
-authors[23] <- "Pratt, Samuel Jackson, 1749-1814"
-authors[25] <- "Goldsmith, Oliver, 1728-1774"
-
-
-plot_df <- data.frame(authors, total_pages, total_docs, f1_50,f1_55 ,f1_60, f1_65, f1_70,
-                      f1_75, f1_80, f1_85,  f1_90, stringsAsFactors = FALSE)
-
-colnames(plot_df) <- c("authors", "total_pages", "total_docs", "<55%", "55-60%", "60-65%", "65-70%",      
-                       "70-75%", "75-80%", "80-85%", "85-90%", ">90%")
-
-plot_df <- plot_df[order(-plot_df$total_pages),]
-plot_df$authors <- factor(plot_df$authors, levels=unique(as.character(plot_df$authors)) )
-
-
-
-
-mm <- plot_df[,-c(2,3)]
-mm <- melt(mm, id='authors')
-
-
-#this one is the working one I Think
-ggplot(mm)  + 
-  geom_bar(aes(x=authors, y=value, fill=variable),stat="identity",position = position_stack(reverse = TRUE))+
-  
-  labs(title="Total F1 ranked pages per author") +
-  scale_fill_grey(start = .9, end = .2)+
-  ylab("Pages") +
-  scale_y_continuous(expand = c(0, 0)) +
-  theme(axis.title.y = element_blank()) +
-  
-  coord_flip()
-
-
-
-############################################################################################
-#pull list of too shrot corps
-
-
-authors <- tail(names(sort(table(author_df$author))),25)
-f1s <- c(50, 55, 60, 65, 70, 75, 80, 85, 90)
-page_counts <- c(1000, 2500, 5000, 10000)
-short_corps <- c()
-
-#1) Create corpus
-#for (i in 6:length(authors)) {
-for (i in 1:length(authors)) {
-  #for (i in 13:13) {
-  cat("\nWorking on", authors[i], "\n")
-  temp_df <- author_df[which(author_df$author == authors[i]),]
-  #specific f1
-  
-  for (x in 1:length(f1s)) {
-    #for (x in 2:length(f1s)) {
-    
-    cat("Working on", f1s[x], "F1 range\n")
-    #subset corp by F1 score
-    if (x == length(f1s)) {
-      temp_doc <- temp_df[which(temp_df$f1 >= (as.numeric(f1s[x])/100)),]
-    } else if (x == 1) {
-      temp_doc <- temp_df[which(temp_df$f1 <= (as.numeric(f1s[x])/100)),]
-    } else {
-      temp_doc <- temp_df[which(temp_df$f1 >= (as.numeric(f1s[x])/100) & temp_df$f1 < (as.numeric(f1s[x+1])/100)),]
-    }
-    #get specific number of tokens and create corpora
-    
-    for (z in 1:length(page_counts)) {
-      #for (z in 3:length(page_counts)) {
-      
-      
-      number_of_pages <- mean(ntoken(temp_doc$tcp))
-      number_of_pages <- page_counts[z] / number_of_pages
-      number_of_pages <- ceiling(number_of_pages)
-      if (sum(ntoken(temp_doc$tcp)) < page_counts[z]) {
-        temp <- paste0(authors[i], "_", page_counts[z], "_", f1s[x])
-        short_corps <- c(short_corps, temp)
-        cat("x")
-      }
-    }
-  }
-}
-
-
-
-
-
-
-
-
-
 
 
 

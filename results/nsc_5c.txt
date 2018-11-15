@@ -1,7 +1,7 @@
 
 
 
-Ferguson_merged_3 	-->	 Hume
+Hume_merged_test_10 	-->	 Ferguson
 sister_peg_checked_1 	-->	 Hume
 sister_peg_checked_2 	-->	 Hume
 sister_peg_checked_3 	-->	 Hume

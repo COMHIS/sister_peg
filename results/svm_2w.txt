@@ -1,0 +1,97 @@
+
+
+
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+
+100 MFW , culled @ 0%,  27 of 27	(100%)
+
+
+
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+
+200 MFW , culled @ 0%,  27 of 27	(100%)
+
+
+
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+
+300 MFW , culled @ 0%,  27 of 27	(100%)
+
+
+
+sister_peg_checked_1 	-->	 Ferguson
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+
+400 MFW , culled @ 0%,  27 of 27	(100%)
+
+
+
+sister_peg_checked_1 	-->	 Ferguson
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+
+500 MFW , culled @ 0%,  27 of 27	(100%)
+
+
+
+sister_peg_checked_1 	-->	 Ferguson
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+
+600 MFW , culled @ 0%,  27 of 27	(100%)
+
+
+
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+
+700 MFW , culled @ 0%,  27 of 27	(100%)
+
+
+
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+
+800 MFW , culled @ 0%,  27 of 27	(100%)
+
+
+
+sister_peg_checked_1 	-->	 Ferguson
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+
+900 MFW , culled @ 0%,  27 of 27	(100%)
+
+
+
+sister_peg_checked_1 	-->	 Ferguson
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+
+1000 MFW , culled @ 0%,  27 of 27	(100%)
+
+General attributive success:  270 of 270 (100%)
+
+MFWs from 100 to 1000 @ increment 100
+Culling from 0 to 0 @ increment 20
+Pronouns deleted: FALSE
+
