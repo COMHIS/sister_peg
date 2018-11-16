@@ -1,0 +1,300 @@
+
+
+
+Ferguson_merged_sec_1 	-->	 Hume
+Ferguson_merged_sec_2 	-->	 Hume
+Ferguson_merged_sec_4 	-->	 Hume
+Ferguson_merged_sec_8 	-->	 Hume
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Ferguson
+sister_peg_checked_9 	-->	 Ferguson
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+
+100 MFW , culled @ 0%,  47 of 51	(92.2%)
+
+
+
+Ferguson_merged_sec_2 	-->	 Hume
+Ferguson_merged_sec_3 	-->	 Hume
+Ferguson_merged_sec_4 	-->	 Hume
+Ferguson_merged_sec_8 	-->	 Hume
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Ferguson
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Ferguson
+sister_peg_checked_8 	-->	 Ferguson
+sister_peg_checked_9 	-->	 Ferguson
+sister_peg_checked_10 	-->	 Ferguson
+sister_peg_checked_11 	-->	 Ferguson
+
+200 MFW , culled @ 0%,  47 of 51	(92.2%)
+
+
+
+Ferguson_merged_sec_2 	-->	 Hume
+Ferguson_merged_sec_3 	-->	 Hume
+Ferguson_merged_sec_11 	-->	 Hume
+Hume_merged_sec_2 	-->	 Ferguson
+Hume_merged_sec_3 	-->	 Ferguson
+sister_peg_checked_1 	-->	 Ferguson
+sister_peg_checked_2 	-->	 Ferguson
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Ferguson
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Ferguson
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Ferguson
+sister_peg_checked_9 	-->	 Ferguson
+sister_peg_checked_10 	-->	 Ferguson
+sister_peg_checked_11 	-->	 Ferguson
+
+300 MFW , culled @ 0%,  46 of 51	(90.2%)
+
+
+
+Ferguson_merged_sec_3 	-->	 Hume
+Hume_merged_sec_3 	-->	 Ferguson
+Hume_merged_sec_8 	-->	 Ferguson
+Hume_merged_sec_9 	-->	 Ferguson
+Hume_merged_sec_28 	-->	 Ferguson
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Ferguson
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Ferguson
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Ferguson
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Ferguson
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Ferguson
+sister_peg_checked_11 	-->	 Ferguson
+
+400 MFW , culled @ 0%,  46 of 51	(90.2%)
+
+
+
+Ferguson_merged_sec_3 	-->	 Hume
+Hume_merged_sec_4 	-->	 Ferguson
+Hume_merged_sec_8 	-->	 Ferguson
+Hume_merged_sec_9 	-->	 Ferguson
+sister_peg_checked_1 	-->	 Ferguson
+sister_peg_checked_2 	-->	 Ferguson
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Ferguson
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Ferguson
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Ferguson
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Ferguson
+sister_peg_checked_11 	-->	 Ferguson
+
+500 MFW , culled @ 0%,  47 of 51	(92.2%)
+
+
+
+Ferguson_merged_sec_3 	-->	 Hume
+Hume_merged_sec_1 	-->	 Ferguson
+Hume_merged_sec_3 	-->	 Ferguson
+Hume_merged_sec_4 	-->	 Ferguson
+Hume_merged_sec_5 	-->	 Ferguson
+Hume_merged_sec_8 	-->	 Ferguson
+Hume_merged_sec_9 	-->	 Ferguson
+Hume_merged_sec_12 	-->	 Ferguson
+Hume_merged_sec_19 	-->	 Ferguson
+Hume_merged_sec_20 	-->	 Ferguson
+Hume_merged_sec_26 	-->	 Ferguson
+Hume_merged_sec_29 	-->	 Ferguson
+Hume_merged_sec_39 	-->	 Ferguson
+sister_peg_checked_1 	-->	 Ferguson
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Ferguson
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Ferguson
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Ferguson
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Ferguson
+sister_peg_checked_11 	-->	 Ferguson
+
+600 MFW , culled @ 0%,  38 of 51	(74.5%)
+
+
+
+Hume_merged_sec_1 	-->	 Ferguson
+Hume_merged_sec_3 	-->	 Ferguson
+Hume_merged_sec_4 	-->	 Ferguson
+Hume_merged_sec_8 	-->	 Ferguson
+Hume_merged_sec_9 	-->	 Ferguson
+Hume_merged_sec_11 	-->	 Ferguson
+Hume_merged_sec_12 	-->	 Ferguson
+Hume_merged_sec_13 	-->	 Ferguson
+Hume_merged_sec_15 	-->	 Ferguson
+Hume_merged_sec_19 	-->	 Ferguson
+Hume_merged_sec_20 	-->	 Ferguson
+Hume_merged_sec_21 	-->	 Ferguson
+Hume_merged_sec_22 	-->	 Ferguson
+Hume_merged_sec_25 	-->	 Ferguson
+Hume_merged_sec_28 	-->	 Ferguson
+Hume_merged_sec_30 	-->	 Ferguson
+Hume_merged_sec_31 	-->	 Ferguson
+Hume_merged_sec_34 	-->	 Ferguson
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Ferguson
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Ferguson
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Ferguson
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Ferguson
+sister_peg_checked_11 	-->	 Ferguson
+
+700 MFW , culled @ 0%,  33 of 51	(64.7%)
+
+
+
+Hume_merged_sec_3 	-->	 Ferguson
+Hume_merged_sec_4 	-->	 Ferguson
+Hume_merged_sec_8 	-->	 Ferguson
+Hume_merged_sec_9 	-->	 Ferguson
+Hume_merged_sec_11 	-->	 Ferguson
+Hume_merged_sec_12 	-->	 Ferguson
+Hume_merged_sec_13 	-->	 Ferguson
+Hume_merged_sec_14 	-->	 Ferguson
+Hume_merged_sec_15 	-->	 Ferguson
+Hume_merged_sec_19 	-->	 Ferguson
+Hume_merged_sec_20 	-->	 Ferguson
+Hume_merged_sec_25 	-->	 Ferguson
+Hume_merged_sec_26 	-->	 Ferguson
+Hume_merged_sec_27 	-->	 Ferguson
+Hume_merged_sec_28 	-->	 Ferguson
+Hume_merged_sec_30 	-->	 Ferguson
+Hume_merged_sec_33 	-->	 Ferguson
+sister_peg_checked_1 	-->	 Ferguson
+sister_peg_checked_2 	-->	 Ferguson
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Ferguson
+sister_peg_checked_5 	-->	 Ferguson
+sister_peg_checked_6 	-->	 Ferguson
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Ferguson
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Ferguson
+sister_peg_checked_11 	-->	 Ferguson
+
+800 MFW , culled @ 0%,  34 of 51	(66.7%)
+
+
+
+Hume_merged_sec_1 	-->	 Ferguson
+Hume_merged_sec_3 	-->	 Ferguson
+Hume_merged_sec_4 	-->	 Ferguson
+Hume_merged_sec_5 	-->	 Ferguson
+Hume_merged_sec_7 	-->	 Ferguson
+Hume_merged_sec_8 	-->	 Ferguson
+Hume_merged_sec_9 	-->	 Ferguson
+Hume_merged_sec_10 	-->	 Ferguson
+Hume_merged_sec_11 	-->	 Ferguson
+Hume_merged_sec_12 	-->	 Ferguson
+Hume_merged_sec_13 	-->	 Ferguson
+Hume_merged_sec_14 	-->	 Ferguson
+Hume_merged_sec_15 	-->	 Ferguson
+Hume_merged_sec_19 	-->	 Ferguson
+Hume_merged_sec_20 	-->	 Ferguson
+Hume_merged_sec_21 	-->	 Ferguson
+Hume_merged_sec_22 	-->	 Ferguson
+Hume_merged_sec_23 	-->	 Ferguson
+Hume_merged_sec_24 	-->	 Ferguson
+Hume_merged_sec_25 	-->	 Ferguson
+Hume_merged_sec_26 	-->	 Ferguson
+Hume_merged_sec_27 	-->	 Ferguson
+Hume_merged_sec_28 	-->	 Ferguson
+Hume_merged_sec_29 	-->	 Ferguson
+Hume_merged_sec_30 	-->	 Ferguson
+Hume_merged_sec_33 	-->	 Ferguson
+Hume_merged_sec_35 	-->	 Ferguson
+Hume_merged_sec_38 	-->	 Ferguson
+Hume_merged_sec_39 	-->	 Ferguson
+Hume_merged_sec_40 	-->	 Ferguson
+sister_peg_checked_1 	-->	 Ferguson
+sister_peg_checked_2 	-->	 Ferguson
+sister_peg_checked_3 	-->	 Ferguson
+sister_peg_checked_4 	-->	 Ferguson
+sister_peg_checked_5 	-->	 Ferguson
+sister_peg_checked_6 	-->	 Ferguson
+sister_peg_checked_7 	-->	 Ferguson
+sister_peg_checked_8 	-->	 Ferguson
+sister_peg_checked_9 	-->	 Ferguson
+sister_peg_checked_10 	-->	 Ferguson
+sister_peg_checked_11 	-->	 Ferguson
+
+900 MFW , culled @ 0%,  21 of 51	(41.2%)
+
+
+
+Hume_merged_sec_1 	-->	 Ferguson
+Hume_merged_sec_2 	-->	 Ferguson
+Hume_merged_sec_3 	-->	 Ferguson
+Hume_merged_sec_4 	-->	 Ferguson
+Hume_merged_sec_5 	-->	 Ferguson
+Hume_merged_sec_7 	-->	 Ferguson
+Hume_merged_sec_8 	-->	 Ferguson
+Hume_merged_sec_9 	-->	 Ferguson
+Hume_merged_sec_10 	-->	 Ferguson
+Hume_merged_sec_11 	-->	 Ferguson
+Hume_merged_sec_12 	-->	 Ferguson
+Hume_merged_sec_13 	-->	 Ferguson
+Hume_merged_sec_14 	-->	 Ferguson
+Hume_merged_sec_15 	-->	 Ferguson
+Hume_merged_sec_16 	-->	 Ferguson
+Hume_merged_sec_17 	-->	 Ferguson
+Hume_merged_sec_19 	-->	 Ferguson
+Hume_merged_sec_20 	-->	 Ferguson
+Hume_merged_sec_21 	-->	 Ferguson
+Hume_merged_sec_22 	-->	 Ferguson
+Hume_merged_sec_23 	-->	 Ferguson
+Hume_merged_sec_25 	-->	 Ferguson
+Hume_merged_sec_26 	-->	 Ferguson
+Hume_merged_sec_27 	-->	 Ferguson
+Hume_merged_sec_28 	-->	 Ferguson
+Hume_merged_sec_30 	-->	 Ferguson
+Hume_merged_sec_31 	-->	 Ferguson
+Hume_merged_sec_33 	-->	 Ferguson
+Hume_merged_sec_34 	-->	 Ferguson
+Hume_merged_sec_35 	-->	 Ferguson
+Hume_merged_sec_38 	-->	 Ferguson
+Hume_merged_sec_39 	-->	 Ferguson
+Hume_merged_sec_40 	-->	 Ferguson
+sister_peg_checked_1 	-->	 Ferguson
+sister_peg_checked_2 	-->	 Ferguson
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Ferguson
+sister_peg_checked_5 	-->	 Ferguson
+sister_peg_checked_6 	-->	 Ferguson
+sister_peg_checked_7 	-->	 Ferguson
+sister_peg_checked_8 	-->	 Ferguson
+sister_peg_checked_9 	-->	 Ferguson
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Ferguson
+
+1000 MFW , culled @ 0%,  18 of 51	(35.3%)
+
+General attributive success:  377 of 510 (73.9%)
+
+MFWs from 100 to 1000 @ increment 100
+Culling from 0 to 0 @ increment 20
+Pronouns deleted: FALSE
+

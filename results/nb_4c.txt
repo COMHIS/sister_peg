@@ -1,95 +1,65 @@
 
 
 
-sister_peg_checked_1 	-->	 Hume
-sister_peg_checked_2 	-->	 Hume
-sister_peg_checked_3 	-->	 Hume
-sister_peg_checked_4 	-->	 Hume
+sister_peg_checked 	-->	 Hume
 
-100 MFW , culled @ 0%,  27 of 27	(100%)
+100 MFW , culled @ 0%,  7 of 7	(100%)
 
 
 
-sister_peg_checked_1 	-->	 Hume
-sister_peg_checked_2 	-->	 Hume
-sister_peg_checked_3 	-->	 Hume
-sister_peg_checked_4 	-->	 Hume
+sister_peg_checked 	-->	 Hume
 
-200 MFW , culled @ 0%,  27 of 27	(100%)
+200 MFW , culled @ 0%,  7 of 7	(100%)
 
 
 
-sister_peg_checked_1 	-->	 Hume
-sister_peg_checked_2 	-->	 Hume
-sister_peg_checked_3 	-->	 Hume
-sister_peg_checked_4 	-->	 Hume
+sister_peg_checked 	-->	 Hume
 
-300 MFW , culled @ 0%,  27 of 27	(100%)
+300 MFW , culled @ 0%,  7 of 7	(100%)
 
 
 
-sister_peg_checked_1 	-->	 Hume
-sister_peg_checked_2 	-->	 Hume
-sister_peg_checked_3 	-->	 Hume
-sister_peg_checked_4 	-->	 Hume
+sister_peg_checked 	-->	 Hume
 
-400 MFW , culled @ 0%,  27 of 27	(100%)
+400 MFW , culled @ 0%,  7 of 7	(100%)
 
 
 
-sister_peg_checked_1 	-->	 Hume
-sister_peg_checked_2 	-->	 Hume
-sister_peg_checked_3 	-->	 Hume
-sister_peg_checked_4 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
 
-500 MFW , culled @ 0%,  27 of 27	(100%)
+500 MFW , culled @ 0%,  7 of 7	(100%)
 
 
 
-sister_peg_checked_1 	-->	 Hume
-sister_peg_checked_2 	-->	 Hume
-sister_peg_checked_3 	-->	 Hume
-sister_peg_checked_4 	-->	 Hume
+sister_peg_checked 	-->	 Hume
 
-600 MFW , culled @ 0%,  27 of 27	(100%)
+600 MFW , culled @ 0%,  7 of 7	(100%)
 
 
 
-sister_peg_checked_1 	-->	 Hume
-sister_peg_checked_2 	-->	 Hume
-sister_peg_checked_3 	-->	 Hume
-sister_peg_checked_4 	-->	 Hume
+sister_peg_checked 	-->	 Hume
 
-700 MFW , culled @ 0%,  27 of 27	(100%)
+700 MFW , culled @ 0%,  7 of 7	(100%)
 
 
 
-sister_peg_checked_1 	-->	 Hume
-sister_peg_checked_2 	-->	 Hume
-sister_peg_checked_3 	-->	 Hume
-sister_peg_checked_4 	-->	 Hume
+sister_peg_checked 	-->	 Hume
 
-800 MFW , culled @ 0%,  27 of 27	(100%)
+800 MFW , culled @ 0%,  7 of 7	(100%)
 
 
 
-sister_peg_checked_1 	-->	 Hume
-sister_peg_checked_2 	-->	 Hume
-sister_peg_checked_3 	-->	 Hume
-sister_peg_checked_4 	-->	 Hume
+sister_peg_checked 	-->	 Hume
 
-900 MFW , culled @ 0%,  27 of 27	(100%)
+900 MFW , culled @ 0%,  7 of 7	(100%)
 
 
 
-sister_peg_checked_1 	-->	 Hume
-sister_peg_checked_2 	-->	 Hume
-sister_peg_checked_3 	-->	 Hume
-sister_peg_checked_4 	-->	 Hume
+sister_peg_checked 	-->	 Hume
 
-1000 MFW , culled @ 0%,  27 of 27	(100%)
+1000 MFW , culled @ 0%,  7 of 7	(100%)
 
-General attributive success:  270 of 270 (100%)
+General attributive success:  70 of 70 (100%)
 
 MFWs from 100 to 1000 @ increment 100
 Culling from 0 to 0 @ increment 20
