@@ -1,5006 +1,5006 @@
 # This file contains the words that were used for building the table
-# of frequencies. It can be also used for further tasks, and for this
+# of frequencies. It can be also used for the next tasks, and for this
 # purpose it can be manually revised, edited, deleted, culled, etc.
 # You can either delete unwanted words, or mark them with "#"
 # -----------------------------------------------------------------------
 
-of the
-in the
-to the
-and the
-to be
-by the
-of his
-of a
-from the
-on the
-that the
-it is
-with the
-for the
-of their
-the same
-all the
-in a
-may be
-the king
-of this
-the most
-which he
-and to
-as the
-he was
-in this
-in his
-he had
-to have
-and that
-which they
-the people
-it was
-which the
-had been
-is the
-to his
-of that
-the other
-that he
-at the
-in which
-but the
-to a
-in their
-and in
-as well
-is not
-with a
-the first
-the whole
-that of
-they are
-of all
-well as
-his own
-have been
-as a
-is a
-in order
-they were
-there is
-of any
-order to
-into the
-by a
-part of
-we may
-the english
-the mind
-to make
-of these
-and of
-that they
-we are
-of our
-who had
-of men
-to their
-not to
-and he
-of them
-which is
-to which
-against the
-and a
-which we
-such a
-him to
-by which
-of which
-by his
-and as
-or the
-i have
-under the
-should be
-the present
-so much
-upon the
-of an
-as to
-in all
-we have
-duke of
-a great
-i am
-of it
-what is
-and his
-in every
-their own
-of its
-they had
-and by
-he is
-the duke
-earl of
-to him
-in that
-of nature
-of her
-those who
-the queen
-must be
-which it
-them to
-which was
-was not
-was the
-in any
-regard to
-the romans
-the crown
-which had
-that it
-of those
-the great
-king of
-to this
-is to
-for a
-among the
-to give
-it may
-a man
-the state
-than the
-p the
-one of
-the roman
-the king^s
-to that
-and even
-the kingdom
-for his
-state of
-be the
-the earl
-the world
-if the
-able to
-are not
-with his
-when the
-the public
-by their
-the senate
-would be
-which are
-any other
-the fame
-the more
-the former
-without any
-that is
-the french
-of human
-from a
-or to
-of england
-idea of
-and it
-could not
-with which
-of every
-the greatest
-account of
-has been
-more than
-of france
-not only
-are the
-that in
-and was
-a new
-of such
-on this
-a very
-use of
-that a
-to any
-all his
-but as
-as they
-obliged to
-a p
-after the
-during the
-so far
-with regard
-and which
-can be
-where the
-each other
-the one
-will be
-but in
-of mankind
-at last
-according to
-not the
-and had
-and if
-from his
-this is
-those of
-that this
-object of
-on his
-not be
-as he
-as it
-who was
-at least
-to all
-means of
-vol p
-who were
-him and
-that we
-the person
-is no
-power of
-to take
-a few
-the only
-have a
-to them
-the general
-for this
-on which
-they have
-he has
-him in
-if he
-number of
-them and
-in some
-was a
-of life
-the laws
-them in
-h a
-the enemy
-might be
-in its
-and this
-such as
-from their
-the object
-is in
-if we
-as in
-the power
-p and
-a person
-by this
-course of
-to her
-it and
-species of
-in england
-the house
-any thing
-the law
-and tho
-and they
-in our
-be a
-whom he
-possession of
-when he
-of one
-do not
-when we
-the city
-did not
-the cause
-before the
-he would
-and is
-or in
-the government
-into a
-of what
-the latter
-between the
-by any
-we must
-that i
-him the
-of rome
-which i
-human nature
-for their
-the idea
-the very
-and all
-likely to
-there are
-which were
-them the
-all these
-the two
-the imagination
-soon after
-and were
-even the
-a more
-have no
-in such
-and their
-any of
-nature of
-over the
-but a
-is that
-it to
-from which
-had not
-and who
-some of
-while the
-were not
-we shall
-no more
-the war
-tho the
-we can
-on a
-that all
-that if
-in general
-seems to
-i shall
-or of
-of being
-of mind
-that there
-as an
-at a
-degree of
-she was
-to it
-to those
-would have
-she had
-order of
-power and
-every one
-of man
-was to
-the court
-many of
-and other
-cause of
-from this
-have the
-parts of
-the use
-were the
-even in
-nothing but
-of government
-c h
-the country
-of justice
-ought to
-sense of
-a certain
-of my
-or a
-the human
-with an
-and from
-and having
-of some
-at present
-necessary to
-and when
-could be
-hands of
-was in
-made to
-the hands
-it in
-the nature
-with all
-but this
-the second
-to do
-every thing
-principles of
-the late
-the place
-for that
-it be
-so many
-the nation
-the subject
-law of
-part i
-appearance of
-but it
-death of
-form of
-if it
-if they
-that she
-concerning the
-from that
-kind of
-the church
-there was
-on account
-seemed to
-the pope
-men are
-who are
-hoveden p
-instead of
-not in
-of war
-paris p
-principle of
-at first
-laws of
-on their
-authority of
-the prince
-force of
-of things
-and being
-only to
-that no
-the parliament
-with their
-all their
-made a
-any one
-is an
-no less
-than that
-than to
-to me
-history of
-the chief
-execution of
-it must
-supposed to
-the last
-to us
-m paris
-source of
-would not
-does not
-when they
-endeavoured to
-which she
-house of
-of great
-you will
-where he
-with that
-a general
-nature and
-same time
-and are
-far as
-had the
-men of
-to prevent
-the field
-that which
-the time
-as we
-in one
-began to
-but to
-but that
-it has
-to our
-against him
-and with
-the army
-to an
-the case
-to its
-and so
-of so
-said to
-that his
-at once
-cannot be
-he may
-head of
-may have
-such an
-are in
-still more
-the end
-of power
-are to
-he himself
-to every
-will not
-attended with
-the authority
-the highest
-want of
-with him
-on that
-sufficient to
-the head
-us to
-he could
-is so
-lib cap
-person who
-can never
-body of
-is more
-progress of
-that time
-to such
-and i
-it the
-matter of
-character of
-england and
-the inhabitants
-may not
-with great
-his army
-some time
-with this
-he might
-king and
-must have
-no longer
-reason to
-hopes of
-the best
-was so
-him a
-men and
-not a
-by that
-contrary to
-no one
-observe that
-the common
-the new
-without the
-an army
-the death
-had no
-an object
-at this
-him with
-seem to
-the name
-the matter
-in an
-the course
-the passions
-people and
-was at
-a like
-at that
-but i
-in those
-the following
-the rest
-which in
-in these
-it would
-of society
-the contrary
-vol ii
-and most
-in her
-the good
-to another
-but he
-name of
-the antient
-a little
-man of
-right of
-the effect
-if you
-the clergy
-to find
-france and
-vol i
-has a
-mind and
-the throne
-be more
-cause and
-force and
-the emperor
-the least
-for some
-might have
-system of
-the principal
-they may
-court of
-the right
-together with
-was now
-about the
-of your
-but if
-be found
-by an
-met with
-of good
-and every
-chron sax
-rymer vol
-the barons
-the utmost
-we find
-government and
-manner of
-to support
-which may
-conduct of
-founded on
-have not
-out of
-the means
-to observe
-and more
-effects of
-to what
-at rome
-favour of
-sax p
-as if
-he should
-of others
-be in
-determined to
-it will
-of europe
-the command
-he made
-in my
-life and
-man is
-sentiments of
-to these
-with some
-advantage of
-as much
-from all
-from one
-no doubt
-no other
-were to
-the execution
-had a
-himself and
-p but
-act of
-to receive
-what they
-and for
-from any
-government of
-the force
-to maintain
-the different
-to whom
-find that
-so that
-the progress
-to think
-employed in
-in other
-of henry
-of scotland
-ready to
-so long
-they would
-this time
-and at
-apt to
-for which
-is it
-of god
-of moral
-the number
-the republic
-evident that
-or any
-that prince
-the history
-a considerable
-a manner
-himself in
-it were
-relation of
-the royal
-i hope
-our own
-spirit of
-title of
-to pay
-even to
-p he
-what he
-command of
-much more
-p m
-the objects
-to himself
-a part
-bishop of
-him by
-time of
-variety of
-was no
-not so
-so great
-that every
-the part
-a right
-himself to
-it appears
-practice of
-the future
-these two
-to preserve
-the will
-you have
-by some
-human life
-make a
-to defend
-and have
-as i
-as that
-men in
-prince of
-while he
-who is
-choice of
-much as
-the sovereign
-the title
-tho he
-and after
-arise from
-occasion to
-queen of
-nor is
-the principles
-and on
-as his
-exposed to
-subject of
-to obtain
-was obliged
-a kind
-and no
-for him
-the order
-the young
-time to
-to employ
-by means
-in many
-to one
-both of
-exercise of
-him that
-less than
-place in
-sensible of
-be so
-beyond the
-it as
-where they
-which his
-with any
-with such
-a state
-desire of
-place of
-regarded as
-the commons
-to know
-an enemy
-come to
-him he
-his enemies
-if not
-ii p
-people in
-the practice
-the queen^s
-for any
-that as
-that their
-their country
-and we
-be made
-but tho
-he will
-his country
-his power
-of state
-proper to
-recourse to
-different from
-is of
-of religion
-the original
-but when
-deriv^d from
-disposed to
-or by
-that these
-the author
-to see
-to some
-whom they
-than a
-the passion
-the way
-what we
-are so
-at all
-found in
-foundation of
-had made
-or even
-p chron
-to form
-a different
-is said
-of another
-the civil
-either of
-point of
-the natural
-a greater
-and she
-i p
-if any
-knowledge of
-the council
-the form
-the relation
-of virtue
-other and
-said that
-there were
-to my
-war with
-who have
-willing to
-country and
-good and
-ideas of
-if i
-power to
-that was
-brompton p
-effect of
-endeavour to
-he found
-his brother
-his father
-i was
-in particular
-never be
-of scots
-they could
-in italy
-way of
-a particular
-influence of
-necessity of
-of time
-right to
-a good
-end of
-tis evident
-to render
-any particular
-every where
-in what
-objects of
-of public
-proposed to
-to put
-all of
-every other
-method of
-notion of
-of other
-the appearance
-them with
-up the
-be able
-his authority
-love of
-of italy
-than in
-the character
-the parties
-the necessity
-them by
-were in
-all those
-laws and
-reduced to
-some other
-a body
-at home
-consequence of
-his son
-the ordinary
-i must
-mind is
-that tho
-the universe
-you are
-a prince
-his life
-of many
-that you
-this purpose
-view of
-a people
-and not
-known to
-on any
-supported by
-the conduct
-a small
-and may
-authority and
-by its
-had taken
-have any
-in proportion
-like the
-rather than
-shall be
-the effects
-the mere
-the opposite
-the proper
-to carry
-a proper
-and an
-and what
-but what
-it but
-of peace
-to produce
-way to
-a parliament
-one to
-than any
-the greater
-time the
-after a
-difficult to
-for it
-it seems
-the manner
-the terms
-to keep
-whom the
-far from
-of york
-submit to
-to each
-defence of
-existence of
-most of
-of money
-only the
-part in
-the choice
-a mere
-and there
-justice and
-made the
-the nobility
-the question
-time and
-to rome
-inclined to
-the several
-them from
-to pass
-came to
-from it
-his subjects
-themselves to
-which might
-all its
-arises from
-he must
-in france
-reason and
-acquainted with
-along with
-he took
-i had
-in human
-it had
-o o
-of property
-pretence of
-the sense
-to you
-and therefore
-in favour
-inhabitants of
-operations of
-relating to
-the year
-w malm
-when it
-with them
-agreeable to
-had already
-had so
-i should
-may observe
-me to
-them a
-with her
-as their
-case of
-has no
-let us
-not of
-rights of
-the commonwealth
-the party
-the usual
-them that
-upon this
-war and
-as of
-be of
-by these
-consider the
-even of
-in reality
-in vain
-on all
-prospect of
-refused to
-respect to
-make the
-that purpose
-the danger
-the influence
-and made
-and where
-and yet
-but by
-impossible to
-love and
-of honour
-of two
-or that
-origin of
-rome and
-tis impossible
-at his
-from them
-in it
-master of
-the rights
-the sentiments
-this occasion
-upon his
-we cannot
-when i
-all our
-appears to
-but they
-peace and
-that age
-the advantage
-the heart
-the source
-they should
-were so
-and without
-been so
-been the
-sensible that
-these are
-of civil
-or if
-return to
-senate and
-the exercise
-the foundation
-towards the
-west p
-and consequently
-ibid p
-of no
-qualities of
-the principle
-the third
-them as
-thousand men
-within the
-a cause
-appear to
-betwixt the
-found that
-her to
-in different
-kingdom of
-liberty and
-one another
-reign of
-suppose that
-the beginning
-and its
-has not
-hundred and
-members of
-of reason
-office of
-put to
-the ground
-the ideas
-the sword
-being the
-off the
-themselves in
-to say
-upon him
-we consider
-allowed to
-by all
-condition of
-it by
-pleasure and
-scene of
-for an
-i believe
-in europe
-of nations
-or rather
-so little
-tho it
-to prove
-which has
-who has
-age and
-battle of
-certain that
-for ever
-for himself
-i can
-interests of
-possessed of
-that any
-that even
-that were
-what was
-year the
-account for
-any such
-arms and
-given to
-he said
-her own
-of parliament
-opportunity of
-situation of
-that when
-the origin
-themselves and
-a just
-and her
-and these
-him from
-influence on
-malm p
-place and
-the consul
-the persons
-to act
-upon a
-and would
-enter into
-is nothing
-persons of
-present to
-that kingdom
-the supreme
-this prince
-without a
-admit of
-b o
-by her
-man who
-nature is
-of ideas
-on every
-opposition to
-should have
-son of
-succession of
-the interest
-the military
-time in
-an end
-intended to
-liv chap
-more to
-of arms
-that country
-the office
-them but
-they might
-think of
-to bring
-to secure
-and such
-great and
-him as
-in so
-it a
-of law
-p hoveden
-proof of
-sent to
-the existence
-we should
-what the
-with those
-form a
-none of
-one who
-pride and
-society and
-that tis
-the advantages
-the age
-the arts
-the empire
-think that
-to remove
-while they
-engaged in
-in nature
-into his
-of edward
-of fortune
-over to
-p brompton
-state and
-the succession
-this was
-virtue and
-which you
-by force
-have had
-interest and
-minds of
-of different
-or his
-period of
-the ancient
-this kind
-confidered as
-from him
-people to
-pleased to
-power in
-that may
-to consider
-to submit
-under which
-were now
-brought to
-measure of
-of liberty
-person of
-the midst
-to explain
-a letter
-all this
-but not
-derived from
-easy to
-human mind
-only by
-order and
-passions and
-person and
-that by
-the honour
-the mean
-they must
-this particular
-tho they
-when a
-army of
-forms of
-king was
-kingdom and
-midst of
-of each
-of pleasure
-of right
-only in
-other hand
-people the
-rise to
-the reason
-the vulgar
-those which
-a principle
-army and
-danger of
-his friends
-the action
-the love
-was made
-an idea
-and tis
-applied to
-be no
-connected with
-his family
-in case
-interest of
-is still
-is there
-is very
-men who
-p w
-the event
-the peace
-to oppose
-which a
-all men
-during this
-each of
-either to
-made by
-matters of
-mean time
-men to
-soon as
-the result
-a view
-be admitted
-beginning of
-but is
-from an
-from thence
-i know
-of burgundy
-result of
-the bishop
-the minds
-the operations
-till the
-and some
-but being
-degrees of
-entered into
-i think
-law and
-many other
-not been
-p this
-take the
-the body
-the true
-with so
-causes and
-experience and
-for her
-in itself
-its own
-made him
-powers of
-since the
-than by
-the popular
-the siege
-because it
-crown of
-m west
-nature has
-o k
-the causes
-the senses
-the spirit
-there be
-where it
-against them
-as is
-he thought
-i may
-itself and
-meet with
-of him
-opinion of
-related to
-requisite to
-the real
-to enter
-to others
-which have
-as this
-because they
-between them
-but his
-from being
-give a
-i do
-that men
-the scotch
-this manner
-with france
-you may
-both the
-disposition of
-extent of
-him for
-his mind
-it should
-not yet
-or at
-same manner
-side of
-the earth
-the low
-the town
-this i
-a power
-a year
-found to
-probable that
-resolved to
-sir thomas
-the reign
-this subject
-to england
-to join
-to proceed
-years of
-and authority
-are more
-author of
-be an
-care of
-causes of
-his person
-if this
-mind to
-required to
-support of
-the lord
-the memory
-the scots
-too much
-was determined
-wisdom and
-a place
-conclude that
-continued to
-is at
-is made
-or other
-other the
-pretend to
-reason of
-the interests
-the sole
-to avoid
-to perform
-to your
-was still
-and effect
-at any
-conception of
-conduct and
-consideration of
-for them
-in scotland
-instance of
-nature in
-of both
-of thought
-people were
-the better
-under a
-which to
-affairs of
-from its
-instances of
-it with
-religion and
-tendency to
-the family
-to return
-us in
-view to
-after this
-but there
-committed to
-crown and
-is only
-it not
-say that
-than those
-that our
-the rebels
-thought proper
-to become
-to mankind
-to raise
-and many
-another and
-burnet vol
-consists in
-fitted to
-qualified to
-the manners
-the pleasure
-the states
-time that
-to procure
-upon which
-what i
-a strong
-and must
-archbishop of
-either in
-entitled to
-incapable of
-the possession
-the tribunes
-the understanding
-with it
-and has
-and then
-arts and
-experience of
-have an
-numbers of
-of interest
-the constitution
-through the
-to appear
-up to
-whether the
-a distance
-a law
-agreed to
-attempt to
-be said
-before he
-but we
-his kingdom
-imagine that
-of objects
-the affections
-the provinces
-the service
-to determine
-was also
-but even
-capable of
-change of
-good or
-great a
-her and
-impossible for
-sentiment of
-that such
-the citizens
-the soul
-to meet
-very much
-without being
-a single
-and while
-as far
-be not
-by such
-england the
-has the
-i cannot
-in common
-of reasoning
-orders of
-should not
-terms of
-the individual
-the occasion
-the truth
-we know
-a variety
-at their
-be employed
-enemy and
-from these
-had in
-his conduct
-if a
-is always
-life of
-means to
-much to
-not have
-of lancaster
-of st
-rules of
-the happiness
-the marriage
-they can
-thought that
-to lay
-to remain
-us that
-yet the
-all that
-an equal
-appeared to
-but of
-either by
-enough to
-have already
-he can
-loss of
-manners of
-of glocester
-of mere
-serve to
-the difference
-the populace
-they will
-this place
-to follow
-were at
-a long
-but also
-consent of
-every man
-had ever
-himself was
-man to
-objects and
-of science
-the members
-the poor
-will of
-a sufficient
-a third
-are of
-be supposed
-be taken
-both in
-great measure
-have made
-he sent
-himself the
-if there
-is founded
-man in
-marks of
-notwithstanding the
-of morality
-people of
-the foregoing
-the immediate
-and thus
-favourable to
-friends and
-in consequence
-is now
-of happiness
-right and
-the bishops
-the nobles
-upon them
-was very
-which men
-attempted to
-fame time
-full of
-had never
-judge of
-not by
-of defence
-persons who
-superior to
-the defence
-this reign
-title to
-to leave
-us and
-a species
-an opportunity
-and make
-camden p
-destined to
-from her
-gave him
-honour and
-in short
-it might
-mind of
-prince and
-property of
-susceptible of
-take place
-that are
-the cardinal
-the northern
-to believe
-was of
-which can
-a hundred
-conscious of
-every day
-evidence of
-for all
-from those
-his character
-in another
-into england
-maxims of
-men were
-mind in
-nations and
-not from
-of fact
-of normandy
-one is
-or from
-person to
-relation to
-subject to
-the condition
-the powers
-the situation
-the times
-tis certain
-to fix
-to go
-us the
-which their
-you to
-as possible
-could never
-enemies and
-had acquired
-happiness of
-is by
-joined to
-manner as
-measures of
-much less
-no sooner
-not always
-not any
-observed that
-people who
-presence of
-pretended to
-received the
-some degree
-the deity
-the greeks
-the property
-the prospect
-therefore to
-were obliged
-which that
-a nation
-among them
-arising from
-by those
-froissart liv
-from every
-heming p
-him of
-of canterbury
-of london
-of more
-pretensions to
-queen and
-rest of
-the cafe
-the holy
-the treaty
-this principle
-to gain
-took the
-was then
-with these
-a subject
-and be
-and gave
-answer to
-as you
-character and
-could have
-dangerous to
-family and
-for what
-had received
-in both
-industry and
-is evident
-is probable
-nature the
-of cause
-of manners
-of parts
-proportion as
-that has
-that that
-that to
-the actions
-the animal
-the money
-to death
-any person
-application of
-at which
-but on
-cut off
-example of
-great britain
-had given
-had hitherto
-his people
-imagination and
-long as
-of matter
-plan of
-reason why
-some measure
-than he
-the coast
-the example
-the fancy
-was an
-which this
-who in
-actions of
-against his
-are apt
-as soon
-be expected
-for instance
-found the
-from what
-habits of
-he gave
-him but
-i of
-invasion of
-letter to
-liberty of
-man and
-of age
-the castle
-the catholic
-the spanish
-to come
-to hear
-are now
-by experience
-equal to
-family of
-had formerly
-intention of
-it can
-manners and
-not at
-on him
-p it
-so well
-the scene
-the th
-them for
-thrown into
-unable to
-accustomed to
-affections of
-and evil
-and will
-as are
-believe that
-city of
-claim to
-from our
-give the
-of affairs
-of having
-one or
-power which
-that nothing
-the sea
-the term
-to account
-to resist
-was soon
-with whom
-above the
-and those
-conquest of
-considered as
-courage and
-h hunt
-himself with
-i will
-in time
-king to
-mankind and
-nobility and
-of philosophy
-of spain
-of success
-only one
-own country
-prevent the
-relations of
-returned to
-the administration
-the rich
-to imagine
-and can
-and others
-and still
-and virtue
-authority in
-in great
-in possession
-italy and
-led to
-orders to
-other animals
-proceed to
-suppos^d to
-the purpose
-the troops
-thro the
-to draw
-to restore
-to serve
-to set
-were made
-and experience
-and indeed
-and though
-besides the
-in society
-it for
-much the
-nations of
-of love
-the attention
-the magistrate
-the numbers
-this we
-to supply
-which every
-which would
-a number
-all other
-are at
-attention to
-being a
-cafe of
-continue to
-every part
-finding that
-form the
-governed by
-happiness and
-heard of
-in like
-is also
-no farther
-nor can
-of beauty
-of existence
-of pride
-that her
-the charge
-the conquest
-the earls
-the feudal
-the old
-to engage
-very little
-year of
-and good
-be any
-distribution of
-every person
-independent of
-king had
-made in
-p l
-property and
-purpose of
-rather to
-spirit and
-the loss
-the side
-the tower
-their power
-to command
-to distinguish
-your lordship
-but was
-force to
-government the
-ground of
-his way
-honour to
-i would
-most part
-natural and
-of force
-of natural
-of political
-others and
-our present
-that nobleman
-the battle
-the community
-the neighbouring
-the river
-the violence
-to mention
-to suppose
-us a
-acts of
-advantages of
-are made
-as by
-before they
-by reason
-distinction of
-of knowledge
-pursuit of
-the circumstances
-the qualities
-them they
-thought it
-thus the
-to man
-under his
-a scene
-a time
-all her
-and put
-army in
-be confidered
-being in
-circumstances of
-court and
-during his
-enabled to
-have recourse
-his death
-his former
-is as
-lib i
-like a
-low countries
-mind which
-mixture of
-murder of
-passions of
-proceed from
-that princess
-the count
-the next
-the past
-them into
-times of
-to themselves
-violence and
-was more
-we do
-a degree
-a moment
-a relation
-a war
-after his
-and hatred
-and our
-and under
-any considerable
-as those
-by it
-c i
-c the
-condition to
-daughter of
-is indeed
-is this
-left to
-rank and
-such is
-the air
-the blood
-the design
-the performance
-the son
-vice and
-was that
-we call
-with more
-world and
-accession of
-arts of
-be very
-become a
-become the
-by every
-common life
-earls of
-employed to
-english and
-for as
-gave the
-have done
-into their
-know that
-life in
-now in
-now to
-occasion of
-of making
-peace of
-power or
-reference to
-scotland and
-she would
-the danes
-to bear
-to conceive
-upon it
-violence of
-which all
-appeared in
-but from
-by whom
-entirely to
-him on
-his party
-lib ii
-my own
-of whom
-one and
-operation of
-received from
-the knowledge
-the spaniards
-their sovereign
-to attend
-and men
-any object
-been able
-can have
-efforts of
-fear of
-have in
-he did
-his dominions
-in opposition
-in spain
-is commonly
-left the
-make them
-necessary for
-of wisdom
-proportion to
-support the
-that an
-that monarch
-the liberty
-the measure
-the multitude
-the sentence
-the system
-the want
-they do
-this circumstance
-this law
-to expect
-under pretence
-a natural
-a superior
-against her
-any part
-be necessary
-be regarded
-but these
-civil wars
-council of
-difference of
-good of
-had now
-he received
-hence the
-henry the
-henry was
-his reign
-how to
-into which
-is necessary
-of intelligence
-of merit
-of necessity
-only a
-out the
-peace with
-purpose and
-remain in
-than of
-that place
-the distinction
-the moral
-the north
-the preservation
-the species
-to admit
-to judge
-to seize
-works of
-wou^d be
-a sudden
-a thousand
-action and
-administration of
-are told
-averse to
-been made
-by him
-by nature
-every individual
-few days
-for its
-for us
-from each
-genius of
-had long
-his present
-how much
-is supposed
-much of
-observance of
-offered to
-see the
-than they
-the desire
-the favour
-the neighbourhood
-the opinion
-the province
-this great
-to break
-to establish
-to excite
-to human
-to restrain
-up in
-was by
-well known
-a better
-ambition of
-and never
-and violence
-appear in
-assert that
-at london
-bound to
-but still
-effect and
-establishment of
-find the
-for my
-henry and
-his hands
-ideas and
-it from
-made of
-must not
-nature to
-never to
-nothing can
-of external
-of military
-of wales
-our ideas
-p in
-peculiar to
-protection of
-render the
-siege of
-situation and
-standard of
-states of
-the catholics
-the evidence
-the merit
-the the
-the work
-to attack
-who being
-a proof
-a separate
-a young
-and give
-are no
-attachment to
-give him
-human affairs
-in return
-most considerable
-nor the
-of action
-on both
-open to
-prepared to
-remains of
-same with
-that can
-the care
-the consequences
-the lords
-the preference
-the primate
-the safety
-value of
-way for
-a full
-ambition and
-and could
-and sir
-be done
-because the
-been in
-being able
-better than
-both to
-by them
-c c
-divided into
-even when
-found it
-general and
-guilty of
-his pretensions
-in your
-is most
-it i
-itself in
-made no
-men have
-merit of
-on her
-opinion that
-other in
-p h
-p year
-performance of
-preservation of
-sense and
-sent a
-the assembly
-the day
-the father
-the protection
-the strongest
-they found
-they themselves
-this account
-to discover
-to exist
-to london
-to send
-under this
-who by
-who would
-a common
-and justice
-are commonly
-as these
-betwixt them
-called the
-can we
-father and
-for such
-for these
-formed a
-hunt p
-if in
-inferior to
-is but
-jealousy of
-marriage with
-object is
-of greece
-of itself
-of there
-of thinking
-passion and
-people that
-prince who
-sentence of
-so as
-superiority of
-tend to
-that great
-the parts
-thing that
-to live
-venture to
-very different
-was become
-was only
-which must
-which no
-with many
-worthy of
-after he
-age of
-and character
-are all
-articles of
-be allowed
-be at
-be to
-beauty and
-breach of
-concurrence of
-he knew
-heylin p
-hundred thousand
-no man
-nothing to
-of arts
-of national
-other men
-party and
-proofs of
-prove that
-says he
-sentiments and
-submitted to
-that means
-the consideration
-the east
-the kings
-the life
-the particular
-the price
-the regent
-the rules
-them of
-to answer
-to confider
-to execute
-to society
-told that
-we would
-which being
-appears that
-authority to
-by one
-capacity of
-country the
-essential to
-every moment
-habit of
-hope that
-liberty to
-made his
-make any
-manner the
-not as
-objects which
-of elizabeth
-of history
-of norfolk
-or what
-parliament and
-proceeded to
-satisfied with
-set out
-shall not
-suitable to
-the fact
-the man
-the preceding
-the society
-their enemies
-ventured to
-war in
-whether of
-which tho
-with in
-with respect
-a perfect
-accept of
-are a
-because he
-diceto p
-favour and
-for me
-greatest part
-her husband
-impressions and
-it that
-knyghton p
-of general
-of warwic
-principles and
-success of
-that some
-the capital
-the forms
-the gates
-the less
-the value
-thought and
-to gratify
-where a
-which by
-a private
-a public
-about to
-also the
-an act
-by what
-even if
-find a
-fortune and
-freedom of
-from experience
-give them
-i the
-made them
-make it
-my lord
-nothing is
-of causes
-of commons
-one that
-order vital
-princes and
-quality of
-reason for
-shall find
-the difficulty
-the natives
-the reader
-to continue
-to extend
-to hold
-to retain
-to tell
-to treat
-to write
-upon any
-upon that
-a friend
-also to
-but no
-desire to
-dignity of
-give us
-his cause
-insisted on
-interest in
-is impossible
-king himself
-life the
-like manner
-made an
-make us
-of king
-of land
-of wealth
-or more
-out to
-p a
-rank of
-remained in
-restored to
-son to
-supply of
-th of
-the smallest
-these passions
-think it
-till he
-to inform
-together and
-was taken
-were a
-and military
-any farther
-any more
-before him
-c t
-carried to
-church of
-consider^d as
-correspondence with
-count of
-enemy the
-even where
-ever to
-fate of
-fit to
-hold of
-honour of
-in themselves
-informed of
-is deriv^d
-is well
-liv lib
-me that
-meant to
-object and
-of northumberland
-or less
-policy of
-receive the
-received a
-result from
-share of
-that those
-the extent
-the garrison
-the greek
-the national
-the reformation
-the subjects
-the walls
-they made
-this question
-to examine
-to express
-to justify
-to throw
-two hundred
-was likely
-young man
-a point
-actions and
-also in
-and humility
-been a
-both these
-dominion of
-end to
-ever be
-he never
-him at
-indifferent to
-is here
-makes us
-me i
-nation and
-of particular
-prepared for
-some years
-such was
-the establishment
-the political
-the superior
-the supposed
-the view
-their authority
-this case
-this may
-tis not
-to call
-vital p
-wars and
-what may
-where we
-whether in
-yet in
-a principal
-almost all
-and power
-aversion to
-but their
-common to
-cotton p
-disposition to
-first to
-for want
-france the
-have given
-here is
-himself by
-how far
-in arms
-it he
-it it
-no way
-of art
-of commerce
-on these
-placed in
-pleasure or
-province of
-s e
-security of
-subjects of
-that one
-the fate
-the higher
-the language
-the protestants
-their hands
-them on
-these circumstances
-this reason
-were still
-who can
-a country
-a force
-a total
-accounted for
-alliance with
-and gives
-and might
-and nothing
-and whose
-apprehension of
-as she
-attention of
-both sides
-by degrees
-care to
-contempt of
-continuance of
-even tho
-his government
-ii of
-in parliament
-made for
-not that
-of ambition
-of parties
-of sense
-of three
-place to
-provided for
-state the
-the affairs
-the contest
-the expence
-the maxims
-the nations
-the rank
-the relations
-the success
-the superiority
-the thought
-the word
-to govern
-truth and
-a mind
-a party
-a real
-a sense
-amidst the
-an hundred
-apart from
-appellation of
-art and
-before them
-but tis
-but which
-can only
-desirous of
-due to
-endowed with
-every particular
-expence of
-founded in
-friendship and
-great part
-have their
-having been
-her in
-himself had
-in asia
-me in
-object to
-of lord
-of order
-of truth
-plutarch in
-power is
-pretended that
-prince was
-put the
-remarkable that
-service of
-slate of
-sources of
-spain and
-subjects and
-sum of
-that very
-the consent
-the external
-the land
-the support
-the victory
-these were
-this last
-this nature
-tho this
-thought of
-to change
-to many
-to ourselves
-trivet p
-two years
-vol iii
-whole of
-years and
-a condition
-a present
-affairs and
-against all
-and afterwards
-and henry
-and industry
-as were
-at one
-attainment of
-before his
-civil and
-description of
-difference betwixt
-esteem and
-genius and
-give rise
-hands and
-has made
-i find
-interest to
-it necessary
-itself is
-king the
-money and
-nature or
-obtained a
-of animal
-of personal
-on them
-presented to
-temper and
-the carthaginians
-the gods
-the hopes
-the others
-the presence
-the reality
-the union
-them he
-thousand pounds
-to commit
-to enjoy
-to show
-train of
-upon their
-used to
-virtue of
-we suppose
-what has
-with its
-affirm that
-army to
-arrival of
-commerce and
-consequences of
-even by
-glad to
-hall fol
-heming vol
-him into
-his favour
-in hopes
-intention to
-is often
-liable to
-london and
-love or
-merely to
-no such
-not for
-of laws
-of rank
-or as
-or not
-public and
-says that
-secure the
-share in
-she should
-that account
-that where
-the ambition
-the doctrine
-the necessary
-this new
-thought to
-to both
-to promote
-to require
-us with
-w heming
-was much
-was sent
-we ought
-when any
-which at
-which could
-whom we
-a matter
-and upon
-arrive at
-assistance of
-case is
-charge of
-church and
-death and
-had always
-had at
-himself as
-his friend
-i wish
-ignorant of
-insomuch that
-is true
-knew that
-marriage of
-may in
-never have
-only of
-preserve the
-replied that
-safety of
-sent over
-tendency of
-than it
-that had
-the assistance
-the britains
-the ecclesiastical
-the ecclesiastics
-the impressions
-the princess
-then is
-this head
-to henry
-to provide
-to recover
-to speak
-views of
-w malmes
-was found
-which if
-with what
-years after
-you that
-a resolution
-abb p
-an easy
-and conduct
-and obliged
-animal life
-art of
-bened abb
-broke out
-but for
-by no
-cause to
-conformable to
-e c
-for every
-from some
-he proposed
-her the
-his enemy
-his liberty
-his troops
-in them
-intelligence of
-it or
-know not
-learn from
-leave the
-mankind in
-matter and
-notice of
-notions of
-of themselves
-on each
-on some
-still in
-the application
-the christian
-the citizen
-the dignity
-the high
-the judges
-the lady
-the supposition
-the transition
-themselves by
-these principles
-this matter
-three hundred
-to look
-u c
-vigour and
-were likely
-will and
-zeal for
-a large
-a second
-and effects
-and public
-and took
-ascribed to
-assembly of
-be entirely
-by our
-constitution of
-contented with
-deprived of
-during a
-existence and
-had any
-i say
-in matters
-in part
-itself to
-law in
-mind or
-most important
-observe the
-of carthage
-of common
-of either
-of persons
-of sylla
-or an
-our attention
-p diceto
-perhaps the
-she could
-strype vol
-the archbishop
-the commissioners
-the concurrence
-the genius
-the habits
-the norman
-the quarrel
-the secret
-the standard
-the sun
-the tribune
-their first
-them at
-tion of
-with every
-a promise
-actuated by
-advanced to
-an attempt
-an order
-approach of
-as being
-as for
-attention and
-belong to
-body and
-branch of
-but one
-circumstances which
-comparison of
-first of
-for in
-gives us
-have to
-her that
-higden p
-himself of
-his forces
-his purpose
-iii of
-iii p
-is known
-labour and
-member of
-merit and
-of morals
-only as
-opposition of
-others the
-person in
-proceeds from
-resolution of
-settlement of
-sir john
-than his
-the arrival
-the attainment
-the county
-the inferior
-the measures
-the night
-the obligation
-the pope^s
-this period
-to apply
-to mr
-to no
-took care
-virtue is
-war the
-were more
-what a
-whom it
-young prince
-a numerous
-a question
-a regular
-a roman
-a similar
-a situation
-ages of
-and pleasure
-are very
-be thought
-can ever
-castle of
-city and
-explain the
-for our
-from such
-he even
-him his
-his followers
-in others
-is found
-it could
-it does
-its members
-king in
-men the
-more of
-more the
-not able
-of asia
-of duty
-order in
-other nations
-power the
-pretensions of
-price of
-produce a
-proof that
-sovereign and
-stowe p
-the degree
-therefore the
-they be
-this measure
-to acquire
-to other
-to pursue
-us by
-useful to
-walsing p
-was never
-a being
-a free
-affection and
-and ideas
-and one
-any man
-application to
-as all
-by law
-courts of
-doctrine of
-examples of
-fall into
-here the
-his age
-his nature
-hope to
-is one
-might not
-objects are
-of kent
-on such
-one man
-one object
-one person
-place the
-proportioned to
-purpose he
-taken by
-than what
-that after
-that have
-the belief
-the pursuit
-themselves with
-there any
-therefore be
-tis the
-to advance
-to seek
-a much
-a secret
-against their
-and finding
-any degree
-as there
-be obtained
-benevolence and
-but an
-but where
-characters of
-combination of
-compared to
-concern for
-consider that
-depend on
-discovery of
-eldest son
-external objects
-first and
-god and
-good offices
-have found
-he soon
-his first
-into that
-is likely
-memory of
-mind the
-need not
-no means
-not being
-of guise
-of private
-on our
-p sim
-pretence for
-prevailed in
-pride or
-principles which
-referred to
-return of
-that case
-that ever
-the art
-the consuls
-the dominion
-the fear
-the small
-the sum
-the works
-tho a
-to attempt
-to reduce
-was supposed
-were it
-whatever is
-a passion
-a powerful
-a violent
-amount to
-any kind
-are still
-as little
-barons and
-be sufficient
-before we
-brother to
-citizens of
-condition and
-encrease of
-england was
-farther than
-had an
-he ordered
-he still
-his part
-ideas which
-in being
-in respect
-it follows
-know the
-late king
-made it
-make use
-manner and
-manner in
-may seem
-new and
-of enjoyment
-of excellence
-of friendship
-of philip
-of richard
-or no
-p that
-pain and
-person is
-powers and
-prudence and
-put in
-senses and
-so the
-son and
-still to
-success in
-the discovery
-the full
-the majority
-the notion
-the protector
-the remainder
-the rolls
-the security
-the trial
-their present
-themselves the
-therefore in
-therefore that
-to bestow
-to deliver
-to public
-told him
-we learn
-were then
-what it
-above all
-according as
-another in
-appointed to
-are founded
-article of
-attached to
-being now
-both by
-but while
-carried on
-case the
-cause or
-composed of
-connexion with
-consist in
-de la
-design of
-duty to
-every kind
-face of
-from abroad
-from whom
-happiness or
-has given
-have taken
-his will
-i could
-in each
-in no
-in war
-intelligent being
-is ever
-jealous of
-make him
-mankind the
-me a
-motives of
-much greater
-on its
-one in
-only that
-other but
-pleasure of
-promised to
-signs of
-still the
-suited to
-taken from
-the appellation
-the eye
-the face
-the freedom
-the murder
-the point
-the princes
-therefore is
-they never
-tis only
-to accept
-to declare
-to embrace
-to entertain
-to grant
-to operate
-to reason
-unknown to
-with each
-would never
-year and
-a foreign
-a king
-a pleasure
-a system
-also a
-an effect
-and both
-as from
-back to
-be attended
-both parties
-consent to
-consistent with
-division of
-fellow creatures
-he seems
-human society
-ideas are
-in person
-kingdom the
-may appear
-military force
-of course
-offices of
-own and
-p higden
-possible to
-qualities which
-raise the
-reality of
-resolution to
-rights and
-set of
-short of
-that whatever
-the commission
-the continent
-the established
-the forces
-the monks
-the operation
-the opposition
-the revenue
-the west
-though the
-to apprehend
-to confirm
-to depart
-to possess
-to surrender
-was afterwards
-which any
-which will
-who could
-who should
-with one
-a disposition
-a peculiar
-a woman
-amounted to
-and makes
-are always
-as when
-be brought
-besides that
-but all
-class of
-confidence and
-copy of
-danger to
-depends on
-detail of
-during that
-employ the
-enjoyment of
-except the
-fide of
-for themselves
-foundations of
-had left
-have seen
-he now
-heir of
-in most
-is sufficient
-kinds of
-king who
-knowledge and
-lib iii
-limits of
-look for
-make an
-natural to
-obtain the
-of faith
-of himself
-of humanity
-only be
-opportunity to
-or their
-others of
-over all
-p trivet
-passion of
-preference to
-prince had
-propensity to
-riches and
-rome the
-safety and
-sea and
-still farther
-the balance
-the conception
-the confidence
-the disposition
-the learned
-the main
-the material
-the observance
-the rule
-the subsequent
-the violent
-this opinion
-to france
-to so
-to turn
-was extremely
-when you
-whether it
-a difference
-a loss
-a pretence
-a treaty
-allow that
-an animal
-and how
-and manners
-and security
-army was
-as on
-be allow^d
-belonging to
-by another
-circumstance of
-edward the
-elevation of
-free from
-french king
-fruits of
-had recourse
-him or
-his place
-his time
-ii c
-in greece
-law to
-nature as
-of body
-of choice
-of equality
-of intelligent
-of people
-other parts
-ought not
-own nature
-paid to
-parts and
-people are
-prior to
-qualities and
-romans and
-romans were
-than from
-that for
-the approach
-the arms
-the conqueror
-the efforts
-the impression
-the streets
-the three
-their former
-to assume
-treaty of
-trial and
-trial of
-was his
-were all
-were no
-were of
-whether he
-a desire
-a most
-an account
-assent to
-be considered
-better to
-but only
-calculated to
-chron dunst
-contribute to
-distance from
-expected from
-for many
-for those
-his arrival
-his intention
-increase of
-is good
-is much
-keith p
-make no
-of death
-of extension
-of mr
-our perceptions
-p they
-passed the
-progress in
-provinces of
-reason or
-refped to
-rule of
-said the
-search of
-so good
-subjected to
-the armies
-the conditions
-the eyes
-the fourth
-the materials
-there may
-this argument
-tis a
-to get
-to open
-to satisfy
-to use
-took place
-walsingham p
-was able
-with other
-with you
-a military
-a word
-after all
-among his
-an impression
-and thereby
-are found
-army which
-be as
-beyond what
-but were
-case with
-commanded by
-conduct in
-direction of
-england he
-flor wigorn
-for i
-force in
-gave a
-gold and
-greater part
-he endeavoured
-he hoped
-himself on
-his name
-however the
-in danger
-incident to
-inclination to
-it cannot
-joined by
-know what
-language of
-life but
-lord chesterfield
-mark of
-nature that
-not even
-of benevolence
-of blood
-of in
-of new
-of passion
-one hand
-our senses
-out in
-people but
-person may
-persons and
-present and
-royal family
-ruin of
-taken in
-ten thousand
-the change
-the innocent
-the island
-the lower
-the quality
-the see
-the sentiment
-time when
-to destroy
-to fall
-to favour
-to guard
-to perceive
-to place
-to reconcile
-union of
-valour and
-was received
-when she
-which arises
-while we
-will have
-your letter
-zeal of
-advantage to
-affairs in
-and left
-and seemed
-and should
-approbation of
-ascribe to
-been already
-benefit of
-by so
-desired to
-desirous to
-during some
-ever so
-general rules
-grafton p
-greatness of
-had reason
-he left
-henry had
-his fellow
-his fortune
-in either
-in fact
-in him
-in times
-is any
-is remarkable
-it became
-normandy and
-object which
-of edinburgh
-of impressions
-officers of
-opposed to
-or hatred
-other person
-ourselves and
-p knyghton
-possest of
-produce the
-reasoning and
-see of
-sight of
-sim dun
-sir william
-so often
-st thom
-subject and
-taken to
-the benefit
-the british
-the conclusion
-the evil
-the foundations
-the fruits
-the judgment
-the limits
-the normans
-the papal
-the prelates
-the reformers
-the saxon
-them were
-they cannot
-thing to
-this event
-thom p
-those ages
-throne of
-to improve
-to increase
-views and
-was appointed
-was thought
-a double
-about this
-action of
-an action
-and courage
-and force
-and political
-and sent
-are said
-arms of
-as many
-as may
-as such
-b c
-balance of
-but are
-but such
-c a
-coast of
-common sense
-complained of
-confined to
-credit of
-died in
-do you
-dun p
-effect in
-essence of
-excited by
-fatal to
-find in
-here then
-his arms
-his command
-his interest
-his ministers
-id p
-if that
-ignorance and
-limited to
-may serve
-model of
-nature are
-near the
-not long
-of bodies
-of labour
-of violence
-other words
-over his
-possible for
-sect v
-shou^d be
-state in
-that so
-the athenians
-the characters
-the continuance
-the extreme
-the motion
-the saxons
-then in
-these qualities
-this letter
-this the
-to arms
-to force
-treaty with
-under any
-us of
-was even
-was ever
-which of
-with no
-a change
-a copy
-a day
-a perpetual
-all mankind
-all others
-all times
-an instance
-and england
-and honour
-as every
-be consider^d
-be doubted
-be known
-cease to
-civil society
-confidence in
-country in
-danger and
-directed to
-expected that
-follows that
-he immediately
-himself at
-his master
-his return
-his sister
-in london
-into this
-last to
-lived in
-masters of
-moved by
-names of
-nature but
-no reason
-of genius
-of orleans
-of sir
-of treason
-of words
-on board
-or is
-p flor
-partizans of
-person or
-prosecution of
-quantity of
-same effect
-same kind
-science and
-that while
-the company
-the frequent
-the glory
-the social
-the virtues
-their arms
-this country
-this he
-this means
-this that
-time he
-time it
-to acknowledge
-to begin
-to comprehend
-to conclude
-to furnish
-vain to
-war against
-was always
-when this
-which nature
-whom she
-wigorn p
-with our
-a design
-a short
-against this
-am not
-an entire
-an injury
-an intention
-are supposed
-as our
-as usual
-authority over
-behalf of
-belief of
-business and
-can do
-declared that
-difficulty of
-duties of
-epist st
-ever been
-every instance
-exemption from
-for your
-found himself
-have some
-held in
-him an
-his affairs
-his head
-his march
-his right
-his wife
-i c
-interest or
-into any
-is agreeable
-is certainly
-is sometimes
-jealousy and
-making a
-man the
-mode of
-my opinion
-nature which
-of distinction
-of ireland
-p these
-part with
-perceive the
-piece of
-power by
-shall we
-such are
-talk of
-tended to
-tends to
-that upon
-the camp
-the crime
-the difficulties
-the master
-the policy
-the privileges
-the resolution
-them is
-these words
-thing in
-this be
-this point
-to obey
-to protect
-was entirely
-a favourable
-absence of
-accused of
-admitted to
-against a
-ages and
-air of
-amongst the
-an immediate
-and government
-and render
-and you
-are only
-at liberty
-be given
-being to
-beverl p
-but having
-but must
-can give
-change in
-circumstances and
-conclusion of
-conjunction of
-discover the
-dunst vol
-employed by
-even after
-examine the
-for one
-force or
-give any
-had passed
-have so
-his body
-his successor
-his temper
-house and
-however is
-human reason
-imputed to
-in behalf
-in public
-is equally
-is perhaps
-is proper
-lead to
-leave to
-life to
-like that
-maintain the
-may perhaps
-never can
-not an
-obliged the
-obtained by
-of gold
-of individuals
-of suffolk
-of taste
-of vice
-on whom
-or on
-perception of
-princes of
-punishment of
-received with
-rendered the
-required that
-seized the
-strength and
-that many
-that nature
-the articles
-the beauty
-the events
-the few
-the irish
-the issue
-the jews
-the magistrates
-the names
-the sake
-their numbers
-these objects
-this island
-tho in
-throughout the
-to exercise
-to great
-to impose
-to prevail
-to yield
-unwilling to
-virtues of
-war was
-was one
-will never
-your lordships
-a necessary
-affection to
-an absolute
-an infinite
-an opinion
-and actions
-and goodness
-and wrong
-as any
-at an
-at paris
-authority the
-being of
-brought him
-circumstance which
-claim of
-confidence of
-considerable part
-council and
-d ewes
-depart from
-doubt of
-even with
-eyes of
-field and
-good as
-himself he
-his office
-history and
-in history
-in view
-is required
-is too
-lib v
-little more
-make his
-malmes lib
-many instances
-multitude of
-now become
-observation of
-of bedford
-of conduct
-of navarre
-of policy
-of us
-other of
-others to
-over them
-party in
-party of
-principle which
-privilege of
-privileges of
-proceeded from
-put an
-queen was
-reach of
-requisite for
-still continued
-sufficient for
-supply the
-taken the
-than this
-that at
-that could
-the absence
-the account
-the business
-the credit
-the frontiers
-the legislature
-the lowest
-the perception
-the soldiers
-the southern
-their ancestors
-their nature
-they took
-this idea
-times and
-titles of
-to assist
-to attain
-to men
-to move
-to retire
-two or
-v of
-we not
-which as
-who tho
-wished to
-with scotland
-without some
-yet it
-a battle
-affected by
-and perhaps
-and place
-and shall
-are often
-before i
-belonged to
-but with
-causes which
-confess that
-consisting of
-destruction of
-distinguished by
-drawn from
-edward and
-even a
-experience that
-fear and
-few of
-force the
-give it
-good sense
-good will
-had formed
-half of
-have it
-he cannot
-he put
-he who
-her majesty
-hopes that
-in writing
-into france
-is common
-is susceptible
-it so
-it wou^d
-judgment and
-just and
-known in
-l for
-law the
-little time
-many others
-mean to
-nations in
-observed to
-of charles
-of consequence
-of danger
-of learning
-of marius
-of trade
-of view
-on to
-p ann
-parliament the
-passions are
-place where
-prevailed on
-public interest
-sake of
-shall have
-term of
-the alps
-the legions
-the meaning
-the return
-the scottish
-this act
-tho not
-to decide
-to save
-to unite
-under their
-understanding and
-varieties of
-weakness of
-were also
-which there
-wish to
-with us
-work of
-a continual
-accounts of
-admiration of
-again to
-an original
-and malice
-and vice
-any time
-as yet
-asia and
-asser p
-asserted that
-be difficult
-be proper
-beauty of
-birth and
-business of
-by many
-chain of
-choice and
-circumstances in
-continu^d existence
-country to
-enjoy the
-established in
-europe and
-exertion of
-fell into
-followed by
-gervas p
-have occasion
-her with
-himself from
-himself into
-himself or
-his faculties
-his hand
-his partizans
-his personal
-hoped that
-i never
-if she
-in two
-in whatever
-interests and
-is never
-it appeared
-kind and
-law was
-letter from
-life is
-long been
-mankind are
-not on
-obedience to
-object in
-obligation to
-obtained the
-of brittany
-of events
-of fear
-of high
-out for
-p his
-parties and
-point out
-pope and
-power was
-produces a
-property in
-put them
-repetition of
-royal authority
-said he
-seized with
-strength of
-success and
-symptoms of
-taken place
-that particular
-that with
-the consequence
-the dangers
-the dauphin
-the election
-the firit
-the men
-the monarchy
-the pretensions
-the sequel
-the simple
-the western
-their forces
-their influence
-their way
-they ought
-they who
-this general
-this important
-this reasoning
-this very
-though not
-to escape
-to lead
-to regard
-together in
-transition of
-violent and
-was employed
-were employed
-where there
-which these
-wisdom goodness
-with my
-years before
-you and
-ypod neust
-a distinct
-a family
-a fleet
-a tendency
-after they
-among other
-and affection
-and capacity
-and order
-and principles
-and received
-and soon
-and vivacity
-approach to
-as no
-as not
-at discretion
-be happy
-be put
-bear the
-before it
-being and
-civil war
-defence and
-easy and
-either the
-enemy to
-england had
-expressions of
-field of
-foot and
-from my
-from rome
-government in
-great number
-had it
-have ever
-heart of
-his ambition
-his being
-his escape
-his lordship
-i see
-if his
-if possible
-ignorance of
-importance of
-impression of
-impressions of
-indeed the
-iv of
-joy and
-me and
-me the
-mind that
-much in
-nation the
-neighbourhood of
-neust p
-obligation of
-of affection
-of experience
-of imagination
-of pain
-of somerset
-of succession
-one may
-or misery
-over a
-p c
-p heming
-passion for
-power that
-present impression
-roman empire
-scheme of
-security and
-sort of
-supreme being
-taste and
-testimony of
-that on
-the allies
-the divine
-the hand
-the invasion
-the leaders
-the opportunity
-the reverse
-the sovereignty
-the zeal
-their common
-their mutual
-these sentiments
-this and
-throne and
-to shew
-to try
-two thousand
-use and
-viii c
-was accordingly
-we need
-were taken
-a gentleman
-a sovereign
-a stronger
-a supply
-a whole
-accompanied with
-acquired the
-acquisition of
-act in
-all human
-also of
-among themselves
-and among
-and cannot
-and humanity
-another the
-are we
-arrived at
-as her
-as long
-as one
-bede lib
-being is
-but at
-by giving
-chap i
-consent and
-consisted of
-constituent of
-disposition and
-do what
-engaged the
-far the
-fortune of
-gave them
-good to
-government which
-having no
-he began
-he came
-her son
-himself for
-his crown
-his great
-his natural
-his title
-ihould be
-is certain
-is therefore
-it we
-itself the
-lead us
-matter is
-matter to
-means the
-more dangerous
-more in
-more or
-nations the
-never was
-no wonder
-not appear
-not likely
-observing the
-of macedonia
-of pompey
-on what
-policy and
-price s
-proceedings of
-respect and
-romans had
-scenes of
-so to
-state to
-that power
-the capacity
-the comparison
-the constant
-the dutchess
-the experience
-the governor
-the period
-the ro-
-the road
-the south
-their lives
-their native
-this situation
-this system
-thoughts of
-three years
-upon us
-us from
-v c
-very same
-waverl p
-were very
-whom i
-wykes p
-you must
-your own
-a dangerous
-a measure
-a true
-all kinds
-and each
-and riches
-and silver
-army into
-ascendant over
-being so
-bestow on
-confider the
-consciousness of
-country of
-difference in
-dispose of
-dissolution of
-eadmer p
-effect is
-engaged to
-ewes p
-fix the
-force which
-free and
-go to
-government is
-had gained
-hearing of
-himself a
-his eldest
-his whole
-holingshed p
-if these
-immediately to
-in making
-in passing
-in private
-in search
-in treating
-into prison
-is entirely
-its influence
-kings of
-laid the
-made some
-may conclude
-may safely
-must necessarily
-necessary in
-next to
-no where
-not more
-not with
-not without
-nothing in
-observ^d that
-occasions of
-of anjou
-of antiquity
-of battle
-of britanny
-of corruption
-of industry
-of leicester
-of little
-of opinion
-of princes
-of winchester
-one can
-our reasonings
-people he
-person the
-pleased with
-points of
-possibly be
-power but
-properties of
-prove the
-relates to
-sent him
-some new
-spotswood p
-struck with
-that city
-that might
-the degrees
-the dutchy
-the fair
-the flames
-the fleet
-the free
-the honours
-the plan
-the publick
-the satisfaction
-the specific
-the tribes
-the variety
-their conduct
-them it
-themselves of
-these advantages
-they thought
-this power
-this respect
-tho i
-tho she
-to affirm
-to assemble
-to comply
-to decline
-to mind
-twenty thousand
-viz that
-war which
-was attended
-was brought
-was necessary
-was too
-whether they
-with others
-world the
-a civil
-a fair
-a high
-a notion
-a title
-against that
-and am
-and dangerous
-and natural
-and passions
-and regard
-any body
-any new
-assumed the
-be obliged
-be observed
-became the
-because we
-between these
-bounds of
-brought into
-called to
-connexion betwixt
-different parts
-diminution of
-do we
-embraced the
-encouraged by
-events which
-excellence and
-feel the
-fond of
-form and
-french monarch
-from you
-gives a
-glory of
-had by
-had done
-hand and
-happy in
-he saw
-himself master
-his father^s
-his good
-his military
-his mother
-idea and
-in battle
-in modern
-influence and
-ingulf p
-intitled to
-into an
-into italy
-into one
-is difficult
-it possible
-it this
-judgment of
-known that
-law which
-letter of
-marriage and
-may arise
-mean while
-men but
-never could
-of beneficence
-of language
-of late
-of mary
-only from
-our nature
-part ii
-part which
-passed in
-philosophy and
-provide for
-race of
-relation and
-restore the
-restrained by
-security to
-siege to
-strong and
-superstition and
-sure to
-t i
-t wykes
-taken prisoner
-the abuses
-the barbarous
-the gauls
-the historian
-the lands
-the lot
-the open
-the religious
-the ruin
-the statute
-the words
-their different
-their duty
-their turn
-them was
-themselves into
-this as
-this order
-to run
-upon her
-was called
-was carried
-we form
-what are
-whatever may
-which henry
-which our
-who having
-will find
-you can
-zeal and
-a mighty
-a nature
-a source
-advanced in
-all things
-all who
-allegiance to
-and fortune
-and great
-and moral
-and people
-and uncertain
-and whether
-any action
-any means
-appears from
-apprehensions of
-are many
-attempts to
-banks of
-begin to
-begin with
-care and
-citizens and
-contented to
-count de
-done to
-elizabeth and
-enemy in
-entered the
-event which
-find it
-for another
-for so
-formed by
-found a
-given him
-ground and
-had become
-hatred and
-have heard
-having the
-he then
-his court
-his house
-his other
-i suppose
-interest is
-into all
-into two
-is another
-it more
-laws which
-lot of
-merit in
-more easily
-name and
-nature we
+  o f   t h
+  t h a t  
+o f   t h e
+f   t h e  
+n   t h e  
+  w h i c h
+w h i c h  
+s   a n d  
+  i n   t h
+  t h e   p
+  w i t h  
+  t h e   s
+a t i o n  
+  t o   t h
+  t h i s  
+  t h e   c
+i n   t h e
+t o   t h e
+d   t h e  
+  t h e i r
+t h e i r  
+e   a n d  
+  a n d   t
+e   t h e  
+t   t h e  
+o   t h e  
+  f r o m  
+s   t h e  
+e d   t o  
+  t h e y  
+t i o n s  
+o n   o f  
+a n d   t h
+i o n   o f
+  t h e   m
+  h a v e  
+t i o n   o
+  t h e   f
+r   t h e  
+n d   t h e
+  w e r e  
+  t h e   e
+y   t h e  
+e d   t h e
+i n g   t h
+a t   t h e
+o n   t h e
+  t h e   a
+  t h e   r
+t h e   c o
+y   a n d  
+n   a n d  
+t h a t   t
+s   o f   t
+o t h e r  
+e s   o f  
+h a t   t h
+n g   t h e
+e   o f   t
+  t h e m  
+  a n d   a
+c e   o f  
+  o t h e r
+  t h e   d
+t h e   p r
+  t h e   o
+  b y   t h
+t   a n d  
+d   a n d  
+h   t h e  
+e d   b y  
+  m o r e  
+  t o   b e
+  a n d   i
+f r o m   t
+d   t h a t
+r o m   t h
+  t h e r e
+  t h e   l
+  t h e   i
+  g r e a t
+b y   t h e
+m   t h e  
+c t i o n  
+o m   t h e
+g   t h e  
+  t h e s e
+t h e s e  
+  o n   t h
+  t h e   t
+t o   b e  
+d   w i t h
+e d   i n  
+a t i o n s
+o r   t h e
+  e v e r y
+e r   t h e
+e v e r y  
+o n   a n d
+t i o n   a
+t i o n   t
+  f o r   t
+e s   a n d
+f o r   t h
+  s u c h  
+w i t h   t
+  o f   h i
+  t h e   g
+r   a n d  
+n s   o f  
+  n a t u r
+  t h e   w
+n a t i o n
+i t h   t h
+  a n d   s
+e   t h a t
+  t h a n  
+  p r i n c
+f   h i s  
+o f   h i s
+  s o m e  
+t h   t h e
+n c e   o f
+t y   o f  
+  b e e n  
+i o n   a n
+  o f   a  
+r e   t h e
+s   w h i c
+i t i o n  
+t   o f   t
+  a n d   w
+n   o f   t
+  t h e   h
+t h e   r e
+  a n d   c
+h i c h   t
+  a n d   h
+  w h a t  
+e   w a s  
+s   t h a t
+  w h e n  
+  a l l   t
+a l l   t h
+  i n t o  
+t s   o f  
+l l   t h e
+e r   o f  
+a s   t h e
+c e   a n d
+e d   w i t
+c h   t h e
+  t h e   n
+i c h   t h
+t h e   m o
+n t   o f  
+t h e r e  
+l   t h e  
+i o n s   o
+s s i o n  
+s e   o f  
+d   t o   t
+g r e a t  
+  a n d   e
+i t   i s  
+  w i l l  
+e r   t o  
+  i t   i s
+w o u l d  
+  w o u l d
+  p r e s e
+o n   t o  
+  b e i n g
+  a n d   p
+d   i n   t
+r a t i o n
+  t h e   b
+o n s   o f
+t h e   s a
+h e   c o n
+i o n   t h
+  t h o s e
+b e i n g  
+t h o s e  
+  t h e   k
+  m o s t  
+e s s i o n
+r e s e n t
+p r e s e n
+s   n o t  
+  p o w e r
+n   w h i c
+e   k i n g
+  e v e n  
+e s   t h e
+m e n t s  
+  a s   t h
+a t u r e  
+e c t i o n
+  t o   r e
+r e a s o n
+  a g a i n
+h i c h   h
+  u n d e r
+n   t h a t
+  p e r s o
+p e r s o n
+t h e   k i
+  m u s t  
+h e   k i n
+e f o r e  
+a n d   i n
+e n c e   o
+t h e   p e
+s i o n s  
+t h a t   i
+  w i t h o
+t h o u t  
+t y   a n d
+  o n l y  
+i t h o u t
+w i t h o u
+d   b y   t
+  b u t   t
+e   w i t h
+y   o f   t
+f   t h e i
+  c o n s i
+  a n d   m
+t i o n   i
+t h e   i n
+  i n t e r
+e d   a n d
+  o b j e c
+n d   t o  
+  r e a s o
+n   t h i s
+  p a r t i
+  u p o n  
+s t a n c e
+i o n s   a
+i t y   o f
+h o u l d  
+  v e r y  
+o b j e c t
+  w h e r e
+  a n d   o
+t h e   s e
+n a t u r e
+e   h a d  
+e r   a n d
+e n   t h e
+t i o n   w
+  s a m e  
+  s h o u l
+s h o u l d
+  o r d e r
+p e o p l e
+  p e o p l
+  m a d e  
+e   t o   t
+h e   s a m
+s   a r e  
+i o n   t o
+  s u p p o
+e   s a m e
+e o p l e  
+  a p p e a
+n   h i s  
+  a f t e r
+s   i n   t
+  h i m s e
+h i m s e l
+i m s e l f
+m s e l f  
+e   i n   t
+a g a i n s
+a i n s t  
+g a i n s t
+t   w a s  
+d i f f e r
+  o f   a n
+  c o u n t
+  a n d   f
+d   n o t  
+  g e n e r
+  m u c h  
+h i c h   i
+b u t   t h
+i n g   t o
+s   o f   a
+  c o n c e
+a p p e a r
+w h e r e  
+d   f r o m
+b j e c t  
+  t i m e  
+n g   t o  
+t h e   l a
+u t   t h e
+  a n d   d
+t   t h a t
+s   w e r e
+  k i n g  
+t h a t   a
+i f f e r e
+p o w e r  
+n d   t h a
+a n d   c o
+f f e r e n
+w i t h   a
+  i s   t h
+n s   a n d
+i t i e s  
+  c o m m o
+l e   t o  
+t h i n g  
+  f o u n d
+e n t   o f
+n c e   a n
+r a n c e  
+  s t a t e
+o u g h t  
+e a s u r e
+  m a y   b
+e   a r e  
+e d   t h a
+e r t a i n
+o f   t h i
+s i t i o n
+r i n c i p
+p r i n c i
+t h e   e n
+  a n d   b
+  n a t i o
+t h a t   h
+c o n s i d
+o n s i d e
+e   w h i c
+n s i d e r
+g o v e r n
+g e n e r a
+a i n e d  
+m a y   b e
+a b l e   t
+  g o v e r
+  t o   h i
+  t o   c o
+t h e   c a
+d   h i s  
+h e   p r o
+e   o f   a
+u t i o n  
+r s   o f  
+e   f o r  
+t e d   t h
+t a n c e  
+  d i f f e
+  c o u l d
+c o u l d  
+f i r s t  
+  f i r s t
+t h e   p a
+t e d   t o
+  m i n d  
+h i c h   w
+a y   b e  
+u n d e r  
+i s   t h e
+s   w i t h
+a c t i o n
+c t i o n s
+o r d e r  
+a n d   t o
+d   f o r  
+s   b u t  
+c a u s e  
+e   m o s t
+e l v e s  
+c e   t h e
+t h e   f o
+e n t i o n
+t h e   m a
+e s e n t  
+p o s e d  
+a f t e r  
+s e l v e s
+p u b l i c
+f   t h i s
+e n e r a l
+n d   o f  
+y   w h i c
+  t h e   v
+  i s   n o
+c o m m o n
+t h e   f i
+  p a r t  
+e   b u t  
+  o f   c o
+  p r o p e
+t h e   s u
+  s u b j e
+h e   p r e
+o u l d   b
+  a u t h o
+a u t h o r
+p o s i t i
+  a n d   r
+l e   o f  
+  c o n t r
+  h i s   p
+e n d e d  
+  c a u s e
+t h o u g h
+s t   t h e
+e c t e d  
+v e   t h e
+m e n t   o
+n c e   t h
+n t   t o  
+t h e   g r
+l   a n d  
+n t   a n d
+e n c e   a
+  w e l l  
+  i n   a  
+a n d   w h
+  e f f e c
+s i b l e  
+t   w i t h
+t h e   d i
+  m a n y  
+  o f   m a
+e   m a y  
+l a t i o n
+  p l a c e
+i t y   a n
+h e   w a s
+t h e   p o
+h e   m o s
+  n e v e r
+s i o n   o
+n   t h e i
+t h e r   t
+p r o p e r
+a n c e s  
+t h e   m i
+u l d   b e
+t s   a n d
+o s i t i o
+  a t   t h
+i t h e r  
+n d   i n  
+t a t i o n
+i o n s   t
+e   c o m m
+e   c o n s
+n e v e r  
+e f f e c t
+  h u m a n
+b l e   t o
+  f o r c e
+  h e   h a
+  n o t   t
+h e   c o u
+s u c h   a
+n m e n t  
+r e   o f  
+o n s   a n
+  a d v a n
+  w a s   a
+s t a t e  
+i e s   o f
+s   f r o m
+  t o   p r
+j e c t s  
+o b s e r v
+t h e y   a
+e   o t h e
+p r i n c e
+  o b s e r
+l d   b e  
+h e   c o m
+e s   t o  
+o r i t y  
+i e n c e  
+  m i g h t
+p a r t i c
+s u b j e c
+e t h e r  
+e   f r o m
+  p u b l i
+n e r a l  
+s   t o   t
+e i t h e r
+i c h   h e
+t h e   d e
+t h e   f a
+i n   t h i
+s   f o r  
+  m a k e  
+n d i n g  
+  t h o u g
+r a b l e  
+  s t i l l
+s t i l l  
+r n m e n t
+e   n o t  
+e r n m e n
+a n c e   o
+i n g   a n
+u b j e c t
+e n t   t h
+r   o f   t
+e a s o n  
+i n c i p l
+n c i p l e
+h e   h a d
+a r t i c u
+t i c u l a
+s u p p o s
+t h e   e x
+  t o   m a
+  o f   i t
+e n t   a n
+c h   h e  
+r t i c u l
+i c u l a r
+  t h e   u
+e r s o n  
+  p l e a s
+c o u n t r
+e n c e   t
+t   i n   t
+t h e   s t
+d e r   t h
+e r e n t  
+i n t e r e
+n e c e s s
+b j e c t s
+t h a t   w
+e s   i n  
+  h i s   a
+c t   o f  
+o n   i n  
+o   h a v e
+  g o o d  
+f e r e n t
+t   t h e y
+e r a t i o
+  t o   h a
+t h a t   o
+c e r t a i
+v e r n m e
+o n   w h i
+e n t   t o
+h a t   h e
+  h a d   b
+i n g   o f
+o v e r n m
+  n e c e s
+t e r e s t
+u b l i c  
+n t e r e s
+e r e   t h
+i o n   i n
+m i g h t  
+m   a n d  
+r s   a n d
+  i n   h i
+f   t h a t
+t h i s   p
+  c o n t i
+e   g r e a
+i n   h i s
+  h i s   c
+r t   o f  
+n g   o f  
+s   t h e y
+  f o r m e
+  t h e   q
+l y   t o  
+h   t h e y
+t h e   q u
+h e r e   i
+e m e n t  
+  t h e m s
+e m s e l v
+h e m s e l
+m s e l v e
+t h e m s e
+  e n t e r
+t   w h i c
+y   a r e  
+e   p e o p
+i n a t i o
+n a t u r a
+d   o f   t
+a l i t y  
+s   o f   h
+  w a s   t
+a t u r a l
+m a n n e r
+t h e   r o
+e   t h e y
+e d   f r o
+r e   i s  
+i o n   w h
+h u m a n  
+a n d   r e
+  m a n n e
+s s   o f  
+  h e   w a
+t   t h i s
+a s u r e  
+  h i s   f
+  s u c c e
+  r i g h t
+r e   t o  
+e r   i n  
+p o s s e s
+i l i t y  
+t h e   m e
+  a s   w e
+h i c h   a
+  y o u r  
+h e   p r i
+c e   t o  
+t e d   b y
+e r e f o r
+f o u n d  
+h e r e f o
+r i n g   t
+i o n s   w
+  h i m   t
+s   o f   m
+t h a n   t
+h a d   b e
+h e   g r e
+e   o f   h
+o f   t h a
+  i n   w h
+s s i o n s
+i s   n o t
+o r e   t h
+s e   t h e
+t h e   c h
+h e   f o r
+i s h e d  
+r   t h a t
+  b u t   i
+e d   h i m
+d   h i m  
+  c o n f i
+t o   h a v
+e   p a r t
+p l a c e  
+  l i f e  
+t h a t   p
+u t h o r i
+c o n t i n
+a t   h e  
+t h e m   t
+c a t i o n
+e d   f o r
+  p o s s e
+r e f o r e
+r e g a r d
+a v i n g  
+t h e r e f
+e r s   o f
+i t   w a s
+y   t h a t
+h i s   c o
+c e   i n  
+  f r a n c
+n   t o   t
+b e f o r e
+  b e f o r
+h e   p e o
+d i n g   t
+e   w h o  
+n   w i t h
+o s s e s s
+h e r   t h
+  a t t e n
+  r e g a r
+l e   t h e
+o n   t h a
+  o f   r e
+  q u e e n
+u r i n g  
+o   h i s  
+r e n c e  
+  a m o n g
+  i t   w a
+e d   o f  
+n d   c o n
+  b o t h  
+t i n g   t
+  t h i n g
+  w h o l e
+t h e r   a
+e r e n c e
+t h e   o t
+t h e y   w
+t h o r i t
+h e   o t h
+r e d   t o
+e d   o n  
+n o t h e r
+w h o l e  
+  a n o t h
+a n o t h e
+t   f o r  
+n t i o n  
+e   p r i n
+f o r c e  
+  o f   m e
+d   b e e n
+  r e c e i
+m e n t   a
+  a n y   o
+  e v e r  
+e   m o r e
+a t   i s  
+h o r i t y
+t o   h i s
+t e n c e  
+r e c e i v
+t   f r o m
+  f o r   a
+  e i t h e
+e s   w h i
+s   w e l l
+a d   b e e
+n g l a n d
+  h i s   s
+e n g l a n
+  e n g l a
+d e n c e  
+g l a n d  
+h a t   i s
+s e d   t o
+c u l a r  
+o u n t r y
+l e   a n d
+s e r v e  
+a n d   h a
+o n t i n u
+  o f   a l
+a t t e r  
+r e i g n  
+  p r e t e
+  v i r t u
+t h a t   s
+a n d   p r
+f r o m   a
+h e   f i r
+e m p l o y
+  g i v e  
+  n o t   a
+  r o m a n
+e r   t h a
+o n   o r  
+  b u t   a
+d   t o   a
+  h i s   o
+n   i n   t
+t h e   n a
+  e m p l o
+e   c o n t
+a n d   o f
+e s s   o f
+  p r o p o
+a n d   h e
+e   p r e s
+h a v e   a
+  o f   h e
+  r e l a t
+g e   o f  
+t   t o   t
+f e r e n c
+  t o   w h
+o n s   t h
+t h i s   i
+  c e r t a
+t e n d e d
+h a v i n g
+  h a v i n
+d   t h e m
+  t o   s u
+h e i r   p
+t a i n e d
+h e   q u e
+  o f   w h
+d   t o   h
+  r e q u i
+e c e i v e
+t o   c o n
+d i s t i n
+s   w h o  
+n   a n y  
+a t   o f  
+c o n c e r
+p r e s s i
+d i t i o n
+f o r m e r
+p r e t e n
+a n t a g e
+s u c c e s
+u c c e s s
+  o f   p r
+c o n t r a
+h i s   p r
+g r e a t e
+u a l l y  
+n   o f   a
+  d i s c o
+r t a i n  
+i n e d   t
+v a n t a g
+h a v e   b
+h e i r   c
+u n t r y  
+  t o   d e
+  c o n s e
+  p a s s i
+a d v a n t
+i n g   h i
+  d i s t i
+d v a n t a
+f a v o u r
+  h e n r y
+r y   a n d
+y   w e r e
+  o f   s u
+h e   w h o
+  a l s o  
+g   a n d  
+i n t o   t
+  a r e   t
+p t i o n  
+  w a s   s
+u e n c e  
+r e d   t h
+w e l l   a
+h e   m i n
+a s   w e l
+s   o f   s
+  c o n s t
+h e r e   t
+i n   w h i
+  o b l i g
+i n g   i n
+  a f f e c
+n d e r   t
+n t s   o f
+t h e   w h
+  f a v o u
+e   h i s  
+h e y   a r
+w h i l e  
+n g   a n d
+  w a s   n
+a f f e c t
+o u l d   n
+h   a n d  
+n e d   t o
+a s s i o n
+p a s s i o
+  i f   t h
+t   o f   a
+l e n c e  
+  t o   a  
+n t   t h e
+e   w h o l
+i c h   w e
+t e r   t h
+a c c o u n
+c c o u n t
+e n c e   i
+h e   p a r
+d   t o   b
+e r e   i s
+  c h a r a
+  e n g l i
+n s   t h e
+r e s s i o
+e   f i r s
+  q u a l i
+e y   a r e
+a n c e   a
+t e   t h e
+a m o n g  
+e   b e e n
+n g l i s h
+s   o f   p
+e n g l i s
+o f   a l l
+p o s s i b
+f   a n y  
+t h e   t r
+  w h o   h
+s t   o f  
+u s e   o f
+f   a l l  
+a v e   b e
+l l   a s  
+n t o   t h
+o w e v e r
+w e v e r  
+e   f o r m
+h o w e v e
+  h o w e v
+a m e n t  
+m a t t e r
+t h e   s o
+  m a t t e
+m e n t   t
+n   f o r  
+r   w i t h
+t h e r s  
+  a c c o u
+i n e s s  
+n   e v e r
+t h e r   i
+e   i n t e
+  w h i l e
+  t o   e x
+h a n   t h
+h o u g h t
+t   a n y  
+  c i r c u
+t h e y   h
+g l i s h  
+  p r o c e
+  t o   a n
+  o f   n a
+i o n   o r
+u p p o s e
+  s u p e r
+e   t h a n
+e d   a s  
+h e   s e n
+  p r o d u
+  w h o m  
+d   t h e i
+n   o r d e
+p r o d u c
+d a n g e r
+f r a n c e
+f r i e n d
+e   m i n d
+  f r i e n
+e l l   a s
+t i o n   b
+e   t h e m
+e c t   o f
+t e r m i n
+q u a l i t
+  e q u a l
+  o f   i n
+n e   o f  
+l i a m e n
+w a r d s  
+  p a r l i
+a r l i a m
+i a m e n t
+p a r l i a
+r l i a m e
+h a t   o f
+n d   a n d
+  c o n d u
+  i s   a  
+t h e   d u
+  a   c o n
+e d   h i s
+u p o n   t
+i n s t   t
+r n i n g  
+e   q u e e
+s   t o   b
+  m o r a l
+h e i r   o
+y   w i t h
+  i t s e l
+r d e r   t
+  d a n g e
+i t s e l f
+o n c e r n
+t h e   f r
+w h o   h a
+r e   a n d
+t   m a y  
+t s e l f  
+i t t e d  
+q u e e n  
+e   h a v e
+d e r e d  
+n s t   t h
+e t t e r  
+i t h   a  
+  o c c a s
+e   o b j e
+n   a l l  
+o c c a s i
+v i r t u e
+c a s i o n
+c c a s i o
+h e   r o m
+t h i s   s
+u s   a n d
+  f o r   h
+o t h e r s
+a s   t o  
+c o n d u c
+s   o w n  
+c h a r a c
+t e d   i n
+  o r   t h
+v e   b e e
+s i d e r a
+n u m b e r
+o n   i s  
+  n u m b e
+i c a t i o
+t y   t o  
+f f e c t  
+e r e s t  
+e   r o m a
+  s h a l l
+e   o f   m
+n c e   t o
+  a n d   n
+t   h i s  
+  c o m m i
+  h e r e  
+t a n c e s
+f e c t i o
+h e y   h a
+  c o n t e
+  s e n t i
+e   t i m e
+r i g h t  
+s h a l l  
+  a s   a  
+  i n   a n
+n   b u t  
+a t e l y  
+s e   a n d
+  o p p o s
+a n d   m a
+o t h i n g
+y   t o   t
+  c o m p a
+e x p e r i
+h e   p e r
+c e s s a r
+p l e a s u
+p o n   t h
+  e a c h  
+  i d e a  
+l e a s u r
+i e s   a n
+t e   o f  
+  e x p e r
+n o t h i n
+t h e   e a
+  n o t h i
+e   s t a t
+h e   s t a
+t i m e n t
+e n t i m e
+e n t i r e
+h i s   r e
+n t i m e n
+o f   m a n
+  e n t i r
+  p h i l o
+a r a c t e
+h a r a c t
+h e n r y  
+s e n t i m
+  l i k e  
+o n d u c t
+r a c t e r
+e c e s s a
+e p t i o n
+s   w a s  
+c e p t i o
+d u r i n g
+  d u r i n
+c i r c u m
+r   o w n  
+a n n e r  
+r e l a t i
+e n t l y  
+  a c t i o
+  o v e r  
+  t h e n  
+e r s   a n
+r e   i n  
+s   h a d  
+  c o n v e
+e   c o u n
+t h e   a r
+a n d   a s
+h e n   t h
+y   h a d  
+  l i b e r
+e n t s   o
+o s s i b l
+  i n   o r
+n   f r o m
+  a n d   l
+l i t t l e
+r   h i s  
+t u r a l  
+  a n d   g
+  l i t t l
+  p r o v i
+i t t l e  
+e   a n y  
+t h i s   c
+d e r   t o
+m e d i a t
+w h a t   i
+a t h e r  
+f o r t u n
+h e   e n g
+a r t   o f
+w i t h   h
+i n   o r d
+e   o f   s
+k e   o f  
+t   b u t  
+  h i m   a
+p r o c e e
+r o c e e d
+c o u n t  
+e n s i o n
+t e d   w i
+  s e n s e
+t h a t   m
+  f o r m  
+y   h i s  
+m e a n s  
+o n s   w h
+t   a l l  
+  m e a n s
+b i l i t y
+n   w a s  
+e g a r d  
+n s   t o  
+s e   t o  
+h e i r   a
+l y   t h e
+  b u t   w
+  e x i s t
+b l e   t h
+i f   t h e
+e n c e s  
+r i n c e  
+y   i n   t
+t e n t i o
+  a n   i n
+  a r m y  
+c e i v e d
+e i v e d  
+i t y   t h
+t   o f   h
+t h e   c r
+w a s   n o
+  h a d   a
+n g   t h a
+o s e d   t
+  o f   s o
+  w e   m a
+n d   a s  
+c o u r s e
+r e   n o t
+d   t h i s
+t h a t   c
+t y   t h e
+e n c e   w
+d s   o f  
+  c o m p l
+w a s   t h
+  b y   w h
+  k i n g d
+a n d   a n
+e   e n g l
+i n g d o m
+k i n g d o
+  b e c o m
+a l   a n d
+e   p e r s
+e r o u s  
+e   t h e i
+o f   n a t
+t i m e s  
+t h e   i m
+t h e   p u
+  f i n d  
+  i n s t a
+o f   a n y
+  d i f f i
+  o f   o u
+  t h i n k
+n c e   i n
+w h e n   t
+  l a w s  
+c h   i s  
+e d i a t e
+f   o u r  
+t h   o f  
+t h e m   a
+  d u k e  
+  i m a g i
+o f   o u r
+d   w h i c
+i m a g i n
+m a n k i n
+n k i n d  
+a n k i n d
+  m a n k i
+h e   d i s
+s e q u e n
+  a g r e e
+  a r e   a
+  d e s i r
+r y   t o  
+a n d   d e
+  c a n n o
+  s e v e r
+i s   c o n
+l i t i e s
+n o t   b e
+r e l i g i
+s i o n   t
+t i c a l  
+e l i g i o
+i n s t a n
+p p o s i t
+t h e   n e
+o m m o n  
+  r e l i g
+i o n s   i
+m e a s u r
+r o d u c e
+t h e   h o
+  c o u r t
+  o f   m o
+i l o s o p
+p h i l o s
+d e p e n d
+l o s o p h
+r e q u i r
+h i l o s o
+t h e   w o
+d   a l l  
+d   t o   p
+e   p r o p
+g   t h a t
+  m e a s u
+e s t a b l
+n s t a n c
+o u r s e  
+w e   m a y
+  h i s   e
+b s e r v e
+i n g   a  
+h e   n a t
+p a r t   o
+u l d   n o
+i m m e d i
+m e   o f  
+m m e d i a
+s o c i e t
+  i m m e d
+  s o c i e
+a n c e   t
+i o n   i s
+v e r   t h
+y   b u t  
+  l e s s  
+  h i s   m
+  l a s t  
+r e   t h a
+  j u s t i
+i s   o w n
+h i s   o w
+n i n g   t
+a n n o t  
+c a n n o t
+s t i t u t
+o   m a k e
+  b y   a  
+a n   t h e
+  f o l l o
+f i c u l t
+f o l l o w
+n e d   t h
+  e x e c u
+d   t o   s
+t h e   o b
+  a n y   p
+d   b y   a
+h e   e a r
+s   o f   c
+e x e c u t
+i r c u m s
+p r e h e n
+  a r e   n
+r   w h i c
+a t e   t h
+c e s   o f
+f f i c u l
+d i f f i c
+e n t   i n
+i f f i c u
+r e n d e r
+w i t h   s
+  e n g a g
+e   f o u n
+e   o f   p
+e s   t h a
+n e s s   o
+r o p e r  
+a s i o n  
+b e c o m e
+u r e   o f
+d i s p o s
+r   t o   t
+t h i s   a
+d   b u t  
+n d   h e  
+  d e t e r
+i n   t h a
+t o   m a k
+  a l w a y
+  p e r c e
+a b l i s h
+a l w a y s
+e   t o   a
+l w a y s  
+s t a b l i
+t a b l i s
+e   t h i s
+a t t e n d
+d   h a v e
+e   h a s  
+f   t h e s
+y   h a v e
+a n d   b e
+e n   i n  
+e   s u p p
+h e y   w e
+s t i n c t
+t o   p r o
+e s s e d  
+e y   w e r
+  d i s p o
+c u m s t a
+h e r e   a
+r c u m s t
+u m s t a n
+  s a i d  
+m s t a n c
+n c t i o n
+e r i e n c
+p e r i e n
+d e g r e e
+p e r f e c
+  d e g r e
+  i n t e n
+  s e c u r
+i   h a v e
+y   f o r  
+t y   i n  
+  w h o   w
+e r a b l e
+x p e r i e
+  i   h a v
+a i n   t h
+o t   t o  
+e   o f   c
+n o t   t o
+o   t h e i
+s s i b l e
+t h e   l e
+a r e   t h
+o f   m e n
+t h e   b e
+r i o u s  
+e n t e d  
+o r   t o  
+r y   o f  
+c h   w e  
+r   i n   t
+  o f f i c
+m i t t e d
+o   w h i c
+  e x t e n
+d   o n   t
+f   m e n  
+t i e s   o
+e t e r m i
+d e t e r m
+o f   h e r
+y   o t h e
+  p u r p o
+d   w a s  
+  i m p o s
+i c e   o f
+o   t h a t
+r e s e r v
+r s   t h e
+u c h   a  
+c i p l e s
+e r f e c t
+i p l e s  
+j u s t i c
+t e r   o f
+  n o t   b
+  s p e c i
+l d   n o t
+w h e t h e
+  t o   s e
+r i e n c e
+  w h e t h
+a n d   a  
+c i e n t  
+h e t h e r
+n s t i t u
+a b l e   a
+t a k e n  
+  o f   p a
+  a   m a n
+  e s t a b
+  e n e m y
+a n d   d i
+a n d   e v
+c i e t y  
+d   i n   a
+e s s a r y
+l i b e r t
+e d   a t  
+s s a r y  
+  w e   a r
+e   d u k e
+o c i e t y
+  f a m i l
+o f f i c e
+p u r p o s
+e   w e r e
+t o   w h i
+u r p o s e
+w e r e   t
+  a r e   s
+e n   o f  
+f   t h e m
+h e r   i n
+p i n i o n
+t h e   l o
+o p i n i o
+r d   t o  
+r s   t o  
+  o p i n i
+o   m u c h
+t i o n   f
+  o f   g o
+e   h i m  
+e s s   t h
+e q u e n t
+h o n o u r
+s s   a n d
+u s t i c e
+y   w a s  
+a n d   f o
+i m   t o  
+i c h   i s
+i t i o n s
+s   o f   e
+  t o   e n
+e   t h e r
+w e   a r e
+  i n   c o
+e   d i f f
+h o s e   w
+t r a r y  
+a t i n g  
+c e i v e  
+i c h   h a
+o r m e r  
+h e   d u k
+v a t i o n
+  p a r t y
+  t a k e  
+c o n s e q
+n g   i n  
+  e a r l  
+d u k e   o
+o n s e q u
+e   t o   b
+n s e q u e
+  t o   i n
+a t e   o f
+n g d o m  
+o f   c o n
+e m   t o  
+t h a t   e
+  a n d   u
+  d e f e n
+h e   w o r
+u k e   o f
+e   m u s t
+  a c q u i
+  i   a m  
+a t i v e  
+r   t h i s
+s t i c e  
+u s   t o  
+e s t i o n
+h e i r   s
+f o r e   t
+n d u c t  
+t h e   s p
+  l o n g  
+d e d   t h
+t h e   o n
+f i c i e n
+h i s   i n
+e q u i r e
+t h e   w a
+  t r a n s
+e   w o u l
+n d   b y  
+p a r t y  
+t e   a n d
+e n e m y  
+c i o u s  
+e n g a g e
+e s s   a n
+t o   t h i
+n   w h o  
+n s   i n  
+h e r   a n
+o r t u n e
+p   t h e  
+e   p o w e
+e l a t i o
+i s t e n c
+l i t y   o
+n d   e v e
+o s e   w h
+t h e   u n
+  a   g r e
+  h i s t o
+w e r e   a
+  t o   d i
+  h o u s e
+i r e l y  
+t i r e l y
+  b e l i e
+e   e a r l
+t s   t h e
+e r s   t h
+h i s t o r
+n t   i n  
+n t i r e l
+s e d   t h
+e   i s   a
+i e s   t h
+n d   h i s
+t i o n   h
+a r d   t o
+h i c h   m
+t h e   s c
+  y e a r  
+a   g r e a
+s   t h e r
+t o   h i m
+  s o o n  
+o n g   t h
+u p p o r t
+  b y   h i
+  w e   h a
+e n   t o  
+i t   o f  
+c o m m a n
+e r i n g  
+i c i e n t
+t w e e n  
+  r e n d e
+b y   w h i
+o m m a n d
+r i t y   o
+s u p p o r
+u r e   t h
+  c o m m a
+c e   o r  
+h i c h   s
+s u f f i c
+t h e r   p
+e   a l l  
+e   w i l l
+  p r o t e
+e v i d e n
+e x p e c t
+q u e n c e
+s   t h i s
+t h e r   w
+v i o l e n
+  b o d y  
+r   f r o m
+  v i o l e
+g e t h e r
+t h a t   n
+  p o l i t
+o g e t h e
+s   o n   t
+t h e   t h
+t o g e t h
+  b e t w e
+a v o u r  
+b e t w e e
+e t w e e n
+f   w h i c
+s t e n c e
+  h i s   r
+  c r o w n
+  e x t r e
+a s   n o t
+t   t h e r
+a n d   s e
+d   t o   r
+e e n   t h
+t h e   h a
+w i t h   r
+  e d w a r
+e d w a r d
+h e i r   f
+h o u t   a
+q u e s t i
+t h e   g o
+t h i s   m
+f f e c t i
+  w h o s e
+h e   l a w
+l e   t h a
+r e a d y  
+r s o n s  
+w h o s e  
+e x t r e m
+u e s t i o
+  h o n o u
+  s u f f i
+e r s o n s
+a c t e r  
+s e s s i o
+  e v i d e
+  i n   i t
+n d   i t  
+t   t h e i
+u g h t   t
+  c o n d i
+d   e v e n
+f o r   h i
+i n i o n  
+m o r e   t
+o l e n c e
+y   o n e  
+c i p l e  
+d   i n t o
+e i r   c o
+h   w a s  
+  a p p r o
+  t r e a t
+a r e   n o
+e   n a t u
+m   t h a t
+s p i r i t
+r p o s e  
+  w a s   e
+d a t i o n
+i r t u e  
+  b e   c o
+f f i c i e
+  p e r f e
+  r e m a i
+n d   w h i
+s   h i s  
+a v e   t h
+i n   a l l
+n d   f o r
+r e m a i n
+t i e s   a
+  a b o u t
+  a s   t o
+  q u e s t
+a b o u t  
+r l   o f  
+c o n d i t
+e n t s   a
+t a b l e  
+  f o r t u
+  o r   i n
+e   c o u r
+f r o m   h
+g   t o   t
+h a t   w e
+i v e   t h
+o n   w i t
+y   t h i n
+c o n f i d
+o n d i t i
+t h e   c i
+t h e r   o
+a r l   o f
+e a r l   o
+e x i s t e
+n d i t i o
+r t h e r  
+  b e   r e
+e v e n   t
+o f   w h i
+e d   i n t
+o n f i d e
+  b e   t h
+  i n   a l
+t   i s   t
+  i s   i n
+i d e n c e
+  r e t u r
+e   c o m p
+u a t i o n
+d   t h e y
+d e s i r e
+e   c a n  
+h i m   t o
+o f   i t s
+r e t u r n
+t   t o   b
+  e x p e c
+d   h e r  
+m e n t   i
+o r d i n g
+p r a c t i
+w e   h a v
+  l o r d  
+  n o t   o
+e   c o n c
+  s p i r i
+k e   t h e
+u f f i c i
+  a   p r o
+  a l l o w
+a k i n g  
+n d e d   t
+  o r i g i
+n t i n u e
+o   h a d  
+o r i g i n
+p r o b a b
+  c a s e  
+e r i o r  
+f   h e r  
+p r o p o s
+n c e   w h
+  t a k e n
+e   m a d e
+t h e   v i
+g a r d   t
+i n   e v e
+r i e n d s
+n   t h e y
+  o f   p o
+a c c o r d
+f   n a t u
+m b e r s  
+  a c c o r
+  b e c a u
+e n   a n d
+  o f   f r
+t h e y   c
+b e c a u s
+e c a u s e
+i s s i o n
+m i s s i o
+s i o n   a
+t h e   r i
+a n d i n g
+m e n t   w
+  i n   r e
+b e r t y  
+c o r d i n
+i t y   t o
+k n o w l e
+m e   t o  
+n   o f   s
+g h t   t o
+h e   i n t
+  o f   b e
+e   o n l y
+  o f   e n
+a n d   e x
+c e   w i t
+c o u r a g
+i b e r t y
+i m e n t s
+o p p o s i
+d   t o   e
+i o n a l  
+s t   b e  
+t e d   a n
+  e x p r e
+  p r o b a
+i n t e d  
+i n t e l l
+i s t i n c
+m a t i o n
+e   o f   e
+m u s t   b
+n   o f   h
+o n   t h i
+a n d   m o
+n y   o f  
+l i g i o n
+n o t   t h
+o n   a s  
+t   h a v e
+  o f   l i
+e r e d   t
+e s e r v e
+h e   f r e
+h t   t o  
+c c o r d i
+e   o f   i
+e e m e d  
+e s   o r  
+x i s t e n
+e c o m e  
+v e r y   o
+a n d   h i
+s t   a n d
+u s t   b e
+  c i v i l
+  i d e a s
+  l e a s t
+i d e a s  
+k n o w n  
+l e a s t  
+l l   b e  
+t h e   o r
+t h i n k  
+o p e r a t
+e a b l e  
+e p a r a t
+i t h   r e
+j e c t   o
+  c o n c l
+c o n c l u
+n s   w h i
+s   o f   i
+  a n d   v
+  f r e n c
+e   s h o u
+e   v e r y
+e c t   t h
+e r v e d  
+f r e n c h
+i s   p r o
+  s o   m u
+h o u g h  
+o u s   a n
+s e r v e d
+s p e c t  
+c u t i o n
+p p o s e d
+s c o v e r
+  i n   e v
+e   n a t i
+i s   t o  
+d i s c o v
+e   e f f e
+i s c o v e
+s   m a y  
+s o   m u c
+t h e   t e
+u n d e d  
+d   t o   c
+a n d   u n
+h o   h a d
+i n d   t h
+q u i r e d
+  k i n d  
+a n   t o  
+u i r e d  
+  o p e r a
+e   p u b l
+h e   s u b
+o n   f o r
+t u r e   o
+  w o r l d
+o u n d e d
+  o f   p e
+l e t t e r
+o r   o f  
+  l e t t e
+h m e n t  
+o f   i t  
+s e n s e  
+  c o n f e
+b y   h i s
+  e n j o y
+  o f   c a
+  s e r v i
+h   h a d  
+p r e s e r
+  h a p p i
+s e n s i b
+  i s   t o
+i o n   w i
+  i n f e r
+h a t   i n
+o u r a g e
+a s   i n  
+o r m e d  
+r e n c h  
+t h e   a n
+  c h i e f
+d w a r d  
+f   i t s  
+f l u e n c
+h o u s e  
+o n   b u t
+s e l f   a
+  h a d   n
+  o f   h u
+e c u t i o
+f e c t s  
+e   g e n e
+f o r m e d
+  p r a c t
+d   o f   a
+e s   a r e
+o   t h i s
+o f   a n  
+  i n t e l
+d   a s   t
+h i s   m a
+i t   t o  
+m i n i s t
+t s   t o  
+  s i n c e
+  y e a r s
+h a v e   t
+l e s   o f
+m o n g   t
+n f l u e n
+y e a r s  
+  f a r t h
+  s i t u a
+a n d   s u
+e n s i b l
+s   p a r t
+s i t u a t
+t o   p r e
+  a n i m a
+g   h i s  
+h a t   i t
+l u t i o n
+n g   h i s
+o u t   t h
+d   h a d  
+e r   w i t
+o b l i g e
+s o n i n g
+o n s   i n
+p o l i t i
+r   w a s  
+t h e   g e
+  a b l e  
+  a f f a i
+d u c e d  
+e a c h   o
+l u e n c e
+n d   p r o
+  o f   d e
+a f f a i r
+h e   i s  
+i t   a n d
+t u r e   a
+  r o m e  
+  t h u s  
+c r o w n  
+o n e   o f
+s   m o r e
+t i o n a l
+t u a t i o
+  p e a c e
+l o y e d  
+  s e n t  
+e v e n t  
+f a r t h e
+s   i n   a
+h e m   t h
+t h e   p l
+  h e   i s
+  o f   e x
+e   i s   n
+e   o n e  
+s s e s s i
+  m o n a r
+d   e v e r
+e   i n   a
+g e   a n d
+h   h i s  
+h e   m o r
+o t   b e  
+p l o y e d
+a t   i t  
+i n f l u e
+i s h m e n
+m o n a r c
+o l i t i c
+o l u t i o
+o n a r c h
+t h e   h e
+  i n f l u
+a t e d   t
+e q u e n c
+i n   a n y
+a l i t i e
+a s o n i n
+e a s o n i
+i t h   h i
+r e   c o n
+  a   p a r
+  w a s   i
+e   t o   h
+s   t o   a
+u p e r i o
+w o r l d  
+i t   t h e
+o f   t h o
+o t i o n  
+c h   o f  
+r e s p e c
+  a l o n e
+  h i s   d
+  o n e   o
+c t e d   t
+e s p e c t
+e x p r e s
+h e   r e s
+r t i e s  
+  a n y   s
+  i m p r e
+  r e s p e
+a l o n e  
+s e   w h o
+  m e n   a
+  w a s   c
+a n d   b y
+s a t i s f
+w i t h   w
+  o f   d i
+a r t h e r
+i g i o n  
+n   s o m e
+n o w l e d
+o w l e d g
+c h a n g e
+i n i n g  
+i t u a t i
+u r e   a n
+a n d   w a
+b e   t h e
+m p l o y e
+s u p e r i
+  e v e n t
+  a p p l i
+e   i d e a
+e   o n   t
+n e s s   a
+r a l l y  
+s h m e n t
+d   t o   m
+i b l e   t
+f t e r   t
+  k n o w  
+i c h   a r
+n t a g e  
+o f   p r o
+r y   t h e
+b l e   a n
+i d e n t  
+o v e r   t
+t h e y   m
+t s   i n  
+t e   t o  
+  a t t a c
+  d o u b t
+  r e s o l
+  t o   h e
+a n d   i t
+t u t i o n
+  c o n n e
+e   s e n t
+o n s   t o
+t h e   h i
+  t o   m e
+a n d   w i
+h e   c h a
+t   t h e m
+a v e   n o
+e i r   o w
+i r   o w n
+n t e d   t
+p e r i o r
+  m a i n t
+  p o i n t
+e   e v e r
+i t a r y  
+x p r e s s
+  d i r e c
+a n c e   w
+c e   i s  
+e a t e r  
+h   a r e  
+n a b l e  
+o r d i n a
+r o p e r t
+t h e   a d
+y   t h i s
+a t e   a n
+e   s u b j
+h   o f   t
+i t y   i n
+m o r a l  
+t h e   a c
+  g a v e  
+  o b t a i
+o b t a i n
+s t o r y  
+  w a s   d
+c h   w a s
+h a v e   n
+r e a t e r
+c e s s i o
+i t u t i o
+t h i s   t
+e   e v e n
+e   i t   i
+n t s   a n
+r i n c e s
+  a n y   t
+^ d   t o  
+c o n v e n
+t h e   b a
+  i t   m a
+e   c o n f
+o n t r a r
+l e   i n  
+m p r e s s
+s   h a v e
+a u s e s  
+d i r e c t
+c e   w h i
+t a n d i n
+y   t h e i
+e s   w e r
+  o f   s e
+e r n i n g
+h e   p u b
+i m p r e s
+k i n g   o
+m e   t h e
+a n y   o t
+a t   t h i
+n y   o t h
+c o m m u n
+v e n   t h
+  d e a t h
+o   h i m  
+t h i s   d
+e g r e e  
+t   n o t  
+  a t t e m
+a t t e m p
+c o n s t i
+n d s   o f
+o n s t i t
+s t a n d i
+c o n t e n
+c o u r t  
+t e r n a l
+t h e m   i
+t t e m p t
+v e r y   p
+  i n   s o
+  s a t i s
+a n d   s o
+l y   i n  
+a r y   t o
+c h   i t  
+h e   c r o
+h e m   t o
+i t h   w h
+o m m u n i
+v e r e i g
+e r e i g n
+y   f r o m
+d e a t h  
+n   o f   p
+n c e s   o
+v e r y   s
+h e   g e n
+p e r h a p
+s   t h a n
+  a d m i t
+  p e r h a
+e n d e r  
+e r h a p s
+f a c t i o
+o f   h u m
+o v e r e i
+p e a c e  
+s u r e s  
+c h   a s  
+h i s   p a
+i s t a n c
+r h a p s  
+t a i n   t
+o f   s u c
+r o m a n  
+  h a n d s
+  m e r e  
+a t   w e  
+e y   h a d
+m a i n t a
+t e l l i g
+  t h o   t
+a i n t a i
+d i a t e l
+i a t e l y
+i n t a i n
+i s t i n g
+l i t y   a
+p p e a r  
+  s o m e t
+c t s   o f
+e   a u t h
+e r n a l  
+h e   o b j
+i c h   i t
+n t e l l i
+t h e   l i
+e   t w o  
+u m b e r  
+a n d   w e
+n d   i s  
+n d   t h o
+t h i s   r
+  e n d e a
+  r e p r e
+  s o v e r
+a n y   o f
+i t   m a y
+s e n t   t
+c o n s i s
+e   c r o w
+h a t   p r
+h a t   w h
+p a r t s  
+s   c o n s
+s o v e r e
+  b y   a n
+  o f   e v
+  p o s s i
+a l   o f  
+e d   h e r
+h i m   t h
+o n s i s t
+  i n d e e
+  o f   l a
+i n d e e d
+n d e e d  
+n s i b l e
+  n o t   s
+  p o p u l
+  s e e m s
+c e   t h a
+e q u a l  
+h e r   t o
+l l i n g  
+o u n d   t
+r e p r e s
+s e e m s  
+t h   a n d
+  a n y   c
+  n o b l e
+a n d   n o
+e r m i n e
+n d   w h e
+w l e d g e
+a d   o f  
+c a u s e s
+t h e   s i
+  m i l i t
+a d v a n c
+a n g e r  
+a r a n c e
+e a r a n c
+g i v e n  
+s   o f   w
+t i n g u i
+  a r i s e
+e   e x p e
+g e m e n t
+o n   h i s
+s   c o m m
+t   i s   n
+u a l i t i
+  a   p e r
+  m e r i t
+c e r n i n
+h e   l a t
+o s e   t h
+s e l f   i
+s e p a r a
+t a t e   o
+  h a d   s
+  t o o k  
+a   m a n  
+a t e v e r
+b e t t e r
+h a t e v e
+h e   a p p
+l i g e d  
+t e v e r  
+t h e   o p
+x e c u t i
+  b e t t e
+  w h a t e
+h   w h i c
+o n   w a s
+o r   h i s
+o w i n g  
+y   p a r t
+  g i v e n
+  h i s   t
+  i m p o r
+  o r   c o
+h a n d s  
+n c e r n i
+t i t u t i
+t o   c o m
+w h a t e v
+  u n i v e
+d   t h e r
+e   o f   b
+h e i r   r
+u n i v e r
+e a t e d  
+l   o f   t
+o t   t h e
+t h e y   s
+y   o f   a
+  h a d   t
+c h   a r e
+p l i e d  
+s   o f   r
+  a l l   h
+a l   t o  
+a n c e   i
+b l i g e d
+d e a v o u
+d e r a b l
+e   a d v a
+e a v o u r
+i d e r a b
+i m p o r t
+p e a r a n
+x t r e m e
+c t   t h e
+d e r a t i
+i l l   b e
+  c h a n g
+  c o m m e
+  s e n s i
+  t i t l e
+e v e r   t
+h e r e   w
+i n c e s  
+s a t i o n
+t u r e   t
+t u r e s  
+v e   t h a
+e   p l a c
+e c t s   o
+f e n c e  
+h e   s u p
+i o n   b u
+m e m b e r
+n i v e r s
+r s   i n  
+  h i s   l
+  p a r t s
+e   s o m e
+e r v e   t
+h i s   s u
+r t u n e  
+  a l l   o
+l e c t i o
+s e v e r a
+  a b o v e
+a n i m a l
+e l y   t o
+e r a t e  
+i o u s   a
+n d   w i t
+t e r   a n
+t h e   n o
+  m o n e y
+c i t i z e
+d   t o   d
+i t i z e n
+m a g i n a
+p o s e   t
+t   o n l y
+w e r e   s
+  b u t   h
+  t h o u s
+a n d   c a
+h i s   f a
+h o u s a n
+n   o f   m
+n g u i s h
+p p e a r a
+s e l f   t
+t h o u s a
+e   c h a r
+f f e c t s
+h i c h   c
+o u s a n d
+r a c t i c
+t o   t h a
+e   c a u s
+e n d e a v
+n d e a v o
+o r t i o n
+t y   o r  
+b u t   w h
+c h   h a d
+o u t   a n
+t h o   t h
+c o u n c i
+e l i e v e
+f   h u m a
+o u n c i l
+  c o u n c
+d   a g a i
+m o n e y  
+p e r t y  
+a r e   i n
+d s   a n d
+e n t   w h
+m e   a n d
+r e g u l a
+r i t y   a
+s   t o   h
+  a r e   c
+  o f   f o
+  w h o   a
+e a   o f  
+f a i r s  
+l y   c o n
+m s   o f  
+o p e r t y
+p i r i t  
+t   h i m  
+a t   i n  
+c c e s s i
+i n a r y  
+o n l y   t
+t h e r   c
+  c o m m u
+  d e p e n
+n t r a r y
+w i l l   b
+y   o f   h
+  a r e   i
+  s e c r e
+a g e   o f
+e r   i s  
+r   a n y  
+r   b u t  
+t r i b u t
+e c i e s  
+e d   o r  
+r   t h e i
+s p e c i e
+t i n c t i
+  f o r   i
+h a t   n o
+  a r m s  
+a n d   e n
+o u l d   h
+p p o s e  
+t s   w h i
+  c o n s u
+  f o r   s
+i s p o s i
+i v i n g  
+n   o u r  
+r d e r s  
+  c r e a t
+b l e   o f
+f f a i r s
+h e   m e a
+l s   o f  
+s s   t h e
+t   h a s  
+v e d   t h
+  h i m   i
+  o f   g r
+a s u r e s
+i m e n t  
+n c e s   a
+r e d   i n
+t h r e e  
+t l a n d  
+  t o   i t
+e n t s   t
+g e   t h e
+l i s h e d
+o f   p a r
+o r   i n  
+p e c i e s
+s e c o n d
+s p o s i t
+t   w h e n
+u n d e r s
+  i s   c o
+  s e c o n
+u c h   a s
+u s a n d  
+d e   t h e
+h a p p i n
+o   g i v e
+s   o f   o
+  a p p r e
+a p p i n e
+e   g o v e
+e r v a t i
+i g h t s  
+  a   p r i
+  s m a l l
+d e d   t o
+e   m e a n
+g r e e a b
+r e e a b l
+s   b e e n
+t h e r   s
+t o   d i s
+  p r e v a
+a g r e e a
+m o t i o n
+o m a n s  
+r o m a n s
+t h e   t i
+  o f   s c
+e m e n t s
+g   t h e m
+h   o t h e
+h a d   n o
+n d   w a s
+n e d   b y
+  a c c o m
+  r a t h e
+f   t h o s
+l y   a n d
+r a t h e r
+r e q u e n
+a k e   t h
+i n g ^ s  
+i t h   a n
+r e t e n d
+r o b a b l
+t t e r s  
+  h a s   b
+  m a r r i
+  w a s   o
+f a m i l y
+i l l i n g
+k i n g ^ s
+t   p a r t
+  k i n g ^
+  s u p p l
+b e   c o n
+e r v i c e
+e s   f r o
+n t   f o r
+  t h r e e
+c e s   a n
+f r e q u e
+i t u d e  
+n   a r e  
+o f   c o m
+o r d e r s
+s o m e   o
+s t r o n g
+s y s t e m
+  f r e q u
+  s t r o n
+  s y s t e
+  w e   c a
+h e   r e a
+h e i r   d
+h i s   d e
+i n c t i o
+p i n e s s
+s   w h e n
+s t i o n  
+t   t o   a
+a m i l y  
+e c e s s i
+g a t i o n
+h   t h a t
+p p i n e s
+r v a t i o
+  t o   f o
+a p p o i n
+e   t o   s
+p p o i n t
+c i v i l  
+i o n   f o
+i s   p r e
+l i t a r y
+n t   t h a
+p o r t i o
+s e c r e t
+  s c o t l
+c o t l a n
+f o r   a  
+i e s   w h
+l a n d   a
+o t l a n d
+s c o t l a
+  n o t   i
+  p   t h e
+a p p r e h
+e   f r e n
+e r c e p t
+i c h   w a
+i l e   t h
+o   b e   a
+p o p u l a
+p p r e h e
+t   i s   a
+c e s s i t
+l a t t e r
+p r o g r e
+s   o f   f
+s   o f   g
+s e r v i c
+  h i s   i
+f   e v e r
+n c r e a s
+r   t h a n
+t   o f   m
+  v o l   i
+a n d   a l
+i o n   a s
+n d   d i s
+o f t e n  
+t   e v e r
+t i o n   s
+  p r o g r
+  c i t i z
+  s e p a r
+  w a s   p
+a t e s t  
+e r   w h i
+h e i r   e
+r c e   o f
+  o f   a r
+  o f t e n
+  s e r v e
+h a t   a  
+i s t o r y
+n   i t s  
+n   n a t u
+t o   g i v
+  c a n   b
+  d e r i v
+  o f   m i
+  o f   w a
+  t o   g i
+e v e r a l
+n d   t h i
+  a r e   e
+  t o   a l
+a b o v e  
+c t   a n d
+i n   i t s
+n d e r s t
+o s e   o f
+s   c o n c
+e   p a s s
+o f   e v e
+d   b y   h
+g u m e n t
+r g u m e n
+t h   w h i
+u r   o f  
+u s e   t h
+  a r g u m
+a r g u m e
+e   o f   o
+  t e r m s
+e m i e s  
+i n g u i s
+r r i e d  
+s   i n t e
+t e r m s  
+t h e   a p
+t i o n   m
+v e r e d  
+d v a n c e
+e a l t h  
+e p r e s e
+e s t e e m
+s o u r c e
+t   o f   p
+t   o f   s
+e   n e c e
+n   s u c h
+t o   a l l
+  a n   e n
+a c q u i r
+h e i r   m
+i c e   a n
+r e a t e s
+i n g   i t
+m e r i t  
+s e r v a t
+  c o r r e
+  l e a r n
+d   w h e n
+e r   f o r
+i d e a   o
+i t y   w h
+o g r e s s
+r o g r e s
+d s   t h e
+n   t h e m
+n e   a n d
+  e s t e e
+  i n   p r
+e a d   o f
+h o s e   o
+k i n g   a
+m e   t i m
+m i l i t a
+n e m i e s
+t y   w h i
+  h a d   e
+h e   f a m
+i l i t a r
+m p o r t a
+s s e m b l
+w e r e   n
+  t o g e t
+e   a p p e
+g e d   t o
+p e r a t i
+s   o f   l
+t   a p p e
+  d e c l a
+  k n o w n
+e i n g   a
+h a t   c o
+e s   w i t
+m a d e   t
+t m e n t  
+c t i v e  
+e a t e s t
+e e a b l e
+o n o u r  
+o u r   o f
+t h e   i d
+a r   t h e
+e   s e n s
+e   w h e n
+o f   f r a
+u t   a n y
+v e   t o  
+z a b e t h
+  p r o v e
+a n s   o f
+e   o f   g
+h   r e g a
+i z a b e t
+l i z a b e
+t e m p t  
+a n   o f  
+e   o f   w
+h a p p y  
+h e n c e  
+o   a n y  
+p o r t a n
+v e r a l  
+  e l i z a
+d   s o m e
+e   c o n d
+e l i z a b
+e l l i g e
+l l i g e n
+r d i n g  
+s i n c e  
+t   w e r e
+t i e n t  
+u t   i n  
+  b e n e f
+  t i m e s
+b e l i e v
+d   a r e  
+n g   h i m
+o u r   a n
+  f o r   w
+h e   h e a
+o   a l l  
+a n d   f r
+e   t h o u
+e c t s   a
+i o n   b e
+e r   c o n
+f   f r a n
+h a s   b e
+l a t e d  
+t h e   e f
+w   t h e  
+  a l r e a
+  h e   r e
+a l r e a d
+e d   i t  
+g   b u t  
+l r e a d y
+  e n e m i
+e n e m i e
+g e n c e  
+e   t o   p
+  a s s e m
+d s h i p  
+i f i e d  
+i n t o   a
+  c a r r i
+e m   t h e
+g i n a t i
+c a n   b e
+d e a   o f
+i n t e n t
+i s t r a t
+p l i c a t
+  p r o m i
+a s s e m b
+e   w o r l
+i n g   b u
+n t e n t i
+e   i s   t
+e r e   n o
+n t e r p r
+p   a n d  
+r e a t   a
+v i n g   t
+a t   a l l
+e r i t y  
+l e d   t o
+n g   b u t
+o n i n g  
+r c e p t i
+s   i t   i
+t h e   a u
+a g i n a t
+e i r   p r
+e v e r   b
+h e   i d e
+i s   i n  
+n   t h e s
+t   i t   i
+  b e   i n
+  e u r o p
+^ d   b y  
+a r r i a g
+e d   n o t
+e r s   t o
+p r o m i s
+r   p a r t
+r r i a g e
+t   w h a t
+u r i t y  
+  h i s   h
+  n a m e  
+  p e r f o
+a n s w e r
+b s e r v a
+i n g l y  
+m   w i t h
+m e n t i o
+  i n f o r
+  p u r s u
+  r e f l e
+a r r i e d
+e u r o p e
+l i c a t i
+n s i o n  
+  i t   b e
+  t e n d e
+a n y   t h
+d   w e r e
+o n t e n t
+o u n t   o
+u l a t i o
+w e e n   t
+w i t h   m
+  c o u r s
+  i n   s u
+  s e n a t
+  t i l l  
+f r o m   w
+h o   t h e
+l d   h a v
+n   o f   c
+n   w h a t
+u l d   h a
+u n i t y  
+  j u s t  
+c o u n t e
+e a s e d  
+e n d i n g
+h i l e   t
+i g h t   o
+u a l i t y
+v e r y   c
+  a n s w e
+  j u d g e
+  r e a l  
+b e e n   a
+b e n e f i
+i m p o s s
+i o n   w a
+l t i e s  
+m p o s s i
+s u f f e r
+t h   r e g
+u r   a n d
+  o r   t o
+  w e   s h
+l a b o u r
+l y   o f  
+p e r c e p
+p r o t e c
+  t o   a c
+a b i l i t
+h e   d i f
+o u s   t o
+p l e a s e
+u r a b l e
+  l a b o u
+c o n c e i
+m   w h i c
+t o   a n y
+t y   i s  
+  h e r   a
+e r s   w h
+  o n   w h
+  s u f f e
+  t o   p a
+c u s t o m
+e   r e a s
+e a l o u s
+i n   c o n
+i v a t e  
+n   t o   a
+p e r f o r
+u s i o n  
+a c t i c e
+a n   b e  
+a s s e d  
+d n e s s  
+e   t o   r
+e a r e d  
+e r f o r m
+f   s u c h
+i n f o r m
+l a n c e  
+p r o p o r
+s   e v e r
+t   e v e n
+y   c o n s
+  a   v e r
+  p r i v a
+  s o   f a
+a g e   a n
+c o m m i t
+e   m a n n
+e n c e   b
+h e   e f f
+o   f a r  
+o p o r t i
+o w e r   o
+p l e   o f
+r o p o r t
+s   m a d e
+  t o   o b
+a r t i e s
+e s   b u t
+h e   s e c
+n t i n g  
+p a r t i e
+  e x e r c
+  o f   n o
+c o m m o d
+p r i v a t
+t h e r   b
+  c o m e  
+a c i t y  
+a n d   a r
+e   c o u l
+e   o f   l
+e x e r c i
+h a t   i  
+n t   o r  
+o   t h e m
+t e m p e r
+t e n s i o
+a b l e   o
+i n d i v i
+o f   a   p
+q u i s i t
+r o u g h t
+t h a t   f
+  a t   l e
+  i n d i v
+  o f   c h
+d e c l a r
+d i n a r y
+h e s e   p
+h i s   s e
+i g h t   b
+l e d g e  
+v i d e n t
+w e r e   e
+  h i s   b
+  i t   t h
+  y o u   w
+h a v e   s
+o w e r s  
+r o m   h i
+s t   i n  
+t   b e i n
+t i e s   w
+  f o r   m
+  w a s   r
+e s   a s  
+i t i c a l
+n d   h a d
+o f   m o r
+p t i o n s
+c e s   t h
+c t i n g  
+d   u p o n
+i a n c e  
+i n g   w h
+o f   e n g
+o r e i g n
+t i o n   c
+t i t l e  
+  r e i g n
+  t h e   j
+  v i e w  
+n t i e n t
+t   i n   a
+  l e f t  
+  s u b m i
+a r   a n d
+p e a r s  
+t   o n   t
+t i t i o n
+u t i o n s
+y   o f   m
+  f o r e i
+a   v e r y
+c i e n c e
+f o r e i g
+l   h i s  
+n d   i f  
+p r e v a i
+s t r a i n
+v e   a n d
+  o u g h t
+a t i o n a
+a v e   a  
+e r e   i n
+h i s   a r
+m   h i s  
+r d i n a r
+r e f l e c
+u n t   o f
+e f l e c t
+o n   f r o
+o n   i t  
+o u n d s  
+r e v a i l
+r i g i n a
+r p r i z e
+s i d e r  
+s i d e s  
+s o l u t i
+x e r c i s
+  m o d e r
+c r e a s e
+d   t h o  
+e   h o u s
+f o u n d e
+m b e r   o
+n   a c c o
+n o t   o n
+r o t e c t
+s t a t e s
+  a d m i r
+  o f   y o
+  o n c e  
+a s   b e e
+c a r r i e
+e   p l e a
+e s t   o f
+s c i e n c
+g r e s s  
+i s   n o  
+k i n g   t
+v e   o f  
+w a s   i n
+i r e d   t
+n c e   o r
+n d   h a v
+n e d   i n
+t e r t a i
+t h i s   o
+  a n t i e
+  o f   s t
+  s e e m e
+  w a s   f
+a n t i e n
+e r c i s e
+e x c e p t
+h i n g   t
+n   h e r  
+t i m e   t
+  h e   c o
+  r e g u l
+b e r   o f
+c h   o t h
+c o m p a r
+d e r   o f
+n c e   w i
+n g   w i t
+r s e   o f
+s e e m e d
+t   a s   t
+a t   l e a
+e n t e r t
+e q u a l l
+g   w i t h
+h e r   c o
+i n c l i n
+n t e r t a
+o l e n t  
+t a g e s  
+t o w a r d
+  m e n t i
+d   w h o  
+e   d i s t
+i d e r a t
+n s i o n s
+p p e a r s
+s t i n g u
+w o u ^ d  
+  i n c l i
+a m b i t i
+e   u n d e
+e r e d   a
+o f   f o r
+o r t e d  
+r v e   t h
+s   a g a i
+  h e a d  
+  s h e   w
+  t e m p e
+  y o u n g
+i c t i o n
+m b i t i o
+p r e v e n
+p r o v i n
+r e v e n t
+r o m   a  
+r t i o n  
+t   h e   w
+  h a s   a
+  p r e v e
+a n d   p o
+e   a g a i
+h e   h o u
+r t s   o f
+u r e d   t
+  a m b i t
+  b e t w i
+  t o w a r
+a s t e r  
+b e t w i x
+c c e s s  
+d e d   b y
+e   t o   e
+e n t s   w
+e r   i t  
+e t w i x t
+h i s   i s
+r   f o r  
+t w i x t  
+f   e n g l
+h a t   m a
+i g h t   a
+n e   t h e
+n s   a r e
+q u e n t l
+t h e   v e
+u e n t l y
+u s u a l  
+  o u r   p
+  s e c t  
+a b e t h  
+a s   i t  
+d   t o   f
+e r   b y  
+e s   f o r
+h e   c i t
+i o n   h e
+o w a r d s
+s   c o n t
+s   o f   d
+t h a n   a
+t t e d   t
+y   a n y  
+  h e   m a
+  r e v e n
+d e   o f  
+h i n g s  
+i n g   c o
+l o w e d  
+r i a g e  
+t   c o n s
+t h i n g s
+y s t e m  
+  e x c e p
+e   d i s p
+q u a l l y
+  b u t   s
+  d o e s  
+d   u n d e
+e a r   t h
+e s   n o t
+h e   e x e
+i a t i o n
+i n e d   a
+w e r e   i
+  a r t s  
+  o n   h i
+a d   t h e
+f   a n d  
+r e   a r e
+r i v a t e
+  b e a u t
+d   a s   a
+e r   o r  
+h i s   e n
+i s   c o m
+n d   w h o
+o n   w h o
+o u r s e l
+s   t o   s
+t e d   h i
+  h o p e  
+  o f   j u
+c o m p a n
+d e d   w i
+e   b y   t
+e   i m a g
+h e   p o p
+h e s e   a
+n n e r s  
+t   a r e  
+t h e   d a
+t h i s   e
+u t   t o  
+  b e y o n
+b e y o n d
+b u t   i n
+e n t   o r
+e y o n d  
+h e   p l a
+o n c e i v
+  c o m p o
+  m e m b e
+d e d   i n
+e r   w a s
+l l   o f  
+m a n y   o
+m a r r i a
+t   h a d  
+  u s u a l
+a n d   m e
+b r o u g h
+e   l a w s
+e   o f   n
+e n d   t h
+f u l l y  
+o d   o f  
+p e c t e d
+p r i s o n
+r w a r d s
+s e l f   w
+w e   c a n
+  b r o u g
+  o r   r e
+a l   c o n
+c u l t y  
+e   w h a t
+f   m a n k
+t   t o   h
+t i n g   a
+  a r e   p
+  u s e   o
+a n n e r s
+e f e n c e
+e m   a n d
+i o n   f r
+p o i n t  
+s e c u r i
+t   w i l l
+  b e   s u
+  w i l l i
+a r d e d  
+d e f e n c
+e   e n e m
+i g e d   t
+p r e p a r
+p r o v e  
+v e r   b e
+a t e   i n
+a t t e n t
+c i e s   o
+e r w a r d
+h e   f o u
+h i s   f o
+n c e s   t
+t e r w a r
+t h i s   w
+t t e n t i
+  c i t y  
+  w o u ^ d
+a t t a i n
+c q u i r e
+h e   r e p
+n   o f   i
+t h   h i s
+v e r y   m
+  a n y   a
+  a t t a i
+  i s   p r
+  t r u e  
+e r e l y  
+g e r o u s
+h e r   o f
+i n   o f  
+i s   i s  
+r o m   w h
+t   p r i n
+t h e   u s
+  a r e   m
+  e x p o s
+d   c o n s
+i n g   h e
+n d r e d  
+o u r e d  
+t   m u s t
+u r a l l y
+a f t e r w
+a l l e d  
+a n g e r o
+c o m m i s
+d   t o   i
+d e s i g n
+f t e r w a
+i n g   o n
+l l o w e d
+n c e s   w
+n g e r o u
+o   o n e  
+p p l i c a
+r i t y   t
+s o   f a r
+t i e s   t
+t u r a l l
+  a t   l a
+d   c o n t
+e t   t h e
+i g i n a l
+i o n   w e
+i o u s   t
+n t s   t h
+s i o n   i
+t o   h e r
+  p r e p a
+e   a d m i
+h e   i m p
+h i s   p o
+i n g   f r
+i s   p a r
+n d a t i o
+q u i r e  
+r   o f   a
+r a t e d  
+r e h e n d
+s   n a t u
+  v o l   p
+e d   a l l
+i g h t   t
+s   b y   t
+  a s   i t
+  d e s i g
+  g r a n t
+  l i m i t
+e d   b u t
+f a t h e r
+l i t i c a
+m m a n d  
+r o m i s e
+s e   i n  
+s t r u c t
+t e r   i n
+t i o u s  
+u s   t h e
+  f a m e  
+o r   t h a
+t a t e s  
+t i t u d e
+  a s   h e
+  r e d u c
+c o n s u l
+d   a t   t
+m i n e d  
+s   s o m e
+s i o n   w
+u t   a s  
+y   m a y  
+  l o v e  
+a n d   i f
+a t   e v e
+c u r i t y
+d   h i m s
+d   i n   h
+i e n t   t
+n   a f t e
+o   h e r  
+p a r a t e
+s   a l l  
+s   t o   m
+t h e   f u
+t h e   w i
+  h e r   t
+  p a s s e
+a c h   o t
+c t   t o  
+h a n g e  
+h e   w o u
+h u n d r e
+i s   f o r
+n d   a l l
+p r e f e r
+s   t o   p
+s t a n t  
+u n d r e d
+  a s   i n
+  h u n d r
+a r   t o  
+e s s i t y
+h e m   i n
+m a d e   a
+p e a r e d
+r o u n d  
+s m a l l  
+s o n   w h
+s s i t y  
+w i t h   i
+  m i n i s
+a i n i n g
+a r e   t o
+e   h i g h
+e   t e r m
+h e   h a s
+i o n s   b
+l i n g   t
+o s i t y  
+s   t h e i
+u r o p e  
+v o l   p  
+  i m p r o
+  o f   f a
+a p p l i c
+e   i n s t
+h e   i n f
+n s   t h a
+o u r a b l
+s   t o   e
+t   l e a s
+t   t h e s
+t i v e s  
+g h t   t h
+h e   p o w
+m a s t e r
+o n   h e  
+r e   h e  
+t u r e   i
+  i n   m a
+  i t a l y
+  o f   v i
+a   a n d  
+d   w h a t
+e   y o u  
+h i m   a n
+i t a l y  
+l i e v e  
+o d u c e  
+u r s e   o
+u s   o f  
+  c l a i m
+  i t   h a
+e   o f   f
+e t u r n  
+g h t   b e
+i o n e d  
+i v e   a n
+o n e r s  
+o n s   a r
+s   e v e n
+  e x t e r
+g   t h e i
+o m m i s s
+p p o r t  
+s o n   t o
+e e d e d  
+e h e n s i
+h e   m a n
+h i s   p e
+m o r e   p
+n d i v i d
+n i s t e r
+r   t h e y
+r e h e n s
+s i n e s s
+t e r e d  
+v e r y   i
+a n d   v i
+b l i s h e
+b u t   a s
+e   p o s s
+e r   f r o
+i n d   a n
+i n u e d  
+t a n t s  
+t h e r   h
+t i n u e d
+v e r s e  
+  o f   t r
+  r e m a r
+c o n s t a
+e   r i g h
+e   t o   c
+h e   a u t
+h e   o n l
+i n   s o m
+i s   c o u
+o   b e   t
+p p e a r e
+r e m a r k
+t h e m   w
+  p r e f e
+c e   o n  
+d i v i d u
+e   l a w  
+e r s   i n
+h e   c a u
+h e   e n e
+i n   a n d
+i v i d u a
+m e d   t o
+m m i s s i
+s   u n d e
+s a i d   t
+s o l u t e
+t   p r e s
+t h e r   m
+v i d u a l
+a t   p r e
+h e   c a r
+h e   w a r
+o   n o t  
+  a   n e w
+  e x p e d
+  n o t   p
+  t o   f i
+a   n e w  
+e   o f   r
+i s   i m p
+s   w i l l
+s e n a t e
+s o o n   a
+s t   t o  
+t   s h e  
+w h a t   t
+  a   d i s
+  c u s t o
+d o u b t  
+i n i s t e
+s   c o u n
+t   t h o  
+  p r o f e
+a r e   c o
+e n a t e  
+e v e r   i
+g h t   o f
+m e t i m e
+t o   s u p
+y   n o t  
+a b l e   i
+c t i c e  
+e   k n o w
+e   t o   m
+e n t   f o
+e s t e d  
+e v e r   a
+i g a t i o
+i l l   t h
+i n   o u r
+n t   w h i
+o f   a   s
+r e   f o r
+t e r p r i
+t h e   a t
+a t e d   a
+e r   a s  
+m o n l y  
+o   s u p p
+o n   b y  
+  l a n g u
+a r e d   t
+c o m m e r
+c u l t i e
+e n t e r p
+l e   f o r
+l l   h i s
+o m e t i m
+r o v i n c
+u l t i e s
+  h i s   n
+  m a x i m
+  n o t   f
+a t e d   b
+c o n q u e
+m m o n l y
+o m m o n l
+o v e   t h
+o y m e n t
+p r o a c h
+r i v e d  
+t e   i n  
+t o   f o r
+  h a d   r
+  h a n d  
+  m a s t e
+  r e m o v
+d   n e v e
+e r   b e  
+e r   t h i
+o u l d   s
+r e   i t  
+  t o   t a
+a n y   c o
+a s   o f  
+e   f o r c
+e p e n d e
+o u l d   a
+t   o f   i
+  h i g h e
+b l e   i n
+h e m   a n
+o m m e r c
+  h i s   w
+a n d   s h
+e c u r i t
+e n   w e  
+e s o l u t
+g a g e d  
+h a t   a l
+h e   l e a
+h e y   c o
+i o l e n c
+n i o n s  
+r e s o l u
+s   o f   b
+s o m e t i
+t t e r   t
+v e   n o  
+a s i l y  
+c a l l e d
+e a s i l y
+e c t   t o
+h e i r   i
+i n c i p a
+n c i p a l
+s o n   a n
+t   o f   e
+t   y o u  
+  a   c o m
+  a r e   f
+  b r o t h
+  e a s i l
+  m a y   a
+  o c c u p
+a n i t y  
+a r e   o f
+b r o t h e
+e   d i s c
+f r o m   e
+i s   p e r
+i t   i n  
+n   m a y  
+n c e   i s
+n t a g e s
+o t   o n l
+r o t h e r
+v i s i o n
+  c h o i c
+c h o i c e
+e a r l y  
+e x p e d i
+e y   h a v
+h t   o f  
+o r   t h i
+r i e t y  
+s   o n l y
+v e r y   t
+  b e s t  
+  c o n q u
+  o f   r o
+c h a r g e
+e a n s   o
+e i r   r e
+e r t e d  
+e s i r e  
+g   o f   t
+i s   t h a
+l a n d   t
+m   t h e i
+n t a i n  
+u m e n t  
+  f u l l  
+c e   b u t
+h i m   i n
+h o i c e  
+n   t h o s
+o   w a s  
+p a s s e d
+s e   t h a
+  d o   n o
+  f a t h e
+c h   i n  
+e s s   i n
+n c l u d e
+n d   c o m
+t h a t   b
+w   t h a t
+w a s   r e
+  c o l l e
+  h a b i t
+e   g o o d
+e r   h e  
+e s   b y  
+g r o u n d
+h i c h   e
+s   o f   n
+s   v e r y
+s t r a t e
+t h e   t o
+v e r y   d
+  a   f e w
+a   f e w  
+b i t i o n
+o v i n c e
+s e c u r e
+t h e   b o
+u n c i l  
+v e s   t h
+  i s   s u
+  l a t e  
+c y   o f  
+e   p r o v
+e d   a g a
+e r e   a r
+e t i m e s
+g   f r o m
+n e   t o  
+n g   f r o
+n g a g e d
+o p l e   a
+p r u d e n
+r   i n t e
+  t o   p e
+a   p a r t
+e   r e s t
+h   a l l  
+h e n   w e
+h i n g   b
+i n s t   h
+n   o n e  
+s   n o w  
+t h e   h u
+u c t i o n
+w e a l t h
+  i t   a n
+  s h e   h
+e c o n d  
+h i c h   p
+m i n a t i
+n   h a d  
+n o t   i n
+o   c o n s
+s e s   a n
+t t e n d e
+  s c i e n
+c e e d e d
+d   o t h e
+e   h a n d
+i c i o u s
+i e s   i n
+n   e n g l
+n   o f   e
+o   l o n g
+o f   w a r
+s   i m p o
+t o   r e c
+  p r o o f
+a r i n g  
+h e   o n e
+i g e n c e
+n   w e r e
+p p r e s s
+r d   o f  
+t e r i a l
+t h a t   d
+t h e y   p
+  c r i m e
+  t o l d  
+c o m p l a
+e   o f   d
+e   s u c h
+e i n g   t
+f i e l d  
+g u l a r  
+n y   t h i
+r   c o u n
+r e d   a n
+a i n   a n
+p r o s p e
+s   p r o p
+  c a r r y
+a r t i c l
+a t e r i a
+e   s e n a
+f r o m   i
+h a t   e v
+h i s   e x
+i t a t i o
+m a t e r i
+o   t a k e
+o r y   o f
+r i g h t s
+r t i c l e
+s e n t e d
+  a r t i c
+  g r o u n
+  i n   o u
+d   a f t e
+e   s h a l
+e n d e n c
+h e   e x p
+o f   s c o
+o r   e v e
+r i b u t e
+r m a t i o
+s o n   o f
+u r   t o  
+v e r y   a
+  p r o s p
+e   u s e  
+i d e r e d
+m o m e n t
+s   t o   r
+w i l l i n
+  m o m e n
+a u s e   t
+i o n s   h
+s o p h y  
+u r e   t o
+  b e g i n
+  r e p u b
+a l l   h i
+e   m i g h
+f   s c o t
+f l e c t i
+i b l e   o
+k   a n d  
+o s o p h y
+r v i c e  
+s e n t   a
+s t   c o n
+t   l a s t
+y   t h e y
+  b e s i d
+  m e r e l
+b e s i d e
+c e   w a s
+e   h i m s
+e x p o s e
+h   w e r e
+h e s e   t
+m e r e l y
+o r   c o n
+t i n g   o
+y   c o n c
+y o u n g  
+  n o t   c
+  r e s e m
+a t i s f a
+a t t l e  
+e r s o n a
+e s e m b l
+h i s   d i
+k   t h e  
+l i t y   t
+r e s e m b
+r f e c t  
+t   h e r  
+d   m o r e
+i o n   o n
+i t y   o r
+n g   i t  
+  l o n d o
+  o f f e r
+  s o u r c
+e   r e l a
+e   s e v e
+f o r m s  
+h e   c a s
+h e   p a s
+h e   r i g
+l o n d o n
+o   o t h e
+o p l e   t
+p l e s   o
+r m i n e d
+t   w o u l
+  n o t   e
+  s u b s i
+a n d   p e
+c h u r c h
+c o m p o s
+c o n t e m
+e   f a m e
+e d   t h i
+e p u b l i
+i c h   m a
+i m   a n d
+j e a l o u
+m   t h i s
+r e p u b l
+r o p o s e
+t a i n   a
+  a n   e x
+  i n   e n
+a   p e r s
+d   o f   h
+d i n g   a
+e r c e i v
+e s   i t  
+e s t   a n
+i m   t h e
+i m a t e  
+l d   t h e
+l s   a n d
+n f i d e r
+n s w e r  
+o f   g r e
+p e r c e i
+t h e   c l
+t l e   o f
+v e n t i o
+  c h u r c
+  y o u   a
+c t o r y  
+e r p r i z
+i n g   f o
+o i n t e d
+r   c o n s
+s s e s s e
+  r e s t r
+^ d   i n  
+a y   t h e
+d o   n o t
+e n   h e  
+h e   h i g
+l i g e n c
+l u s i o n
+o n c l u d
+p r o f e s
+s   b e i n
+y   t o   a
+  d i s t a
+  s e e m  
+  t o   c a
+a n d   a f
+b i t a n t
+d   i t   i
+e g u l a r
+i n e   t h
+n t   f r o
+s   m u c h
+s   s h o u
+s   t o   w
+y   o f   s
+  a n   a r
+  a n y   m
+  h e r   s
+d e n t   t
+i s h   t h
+n i n g   a
+o m   h i s
+p u n i s h
+r   w h o  
+s   i n t o
+s c r i b e
+t r a t i o
+u s   i n  
+y m e n t  
+  a b s o l
+  d e s t r
+  j e a l o
+a t   l a s
+b a t t l e
+e   n u m b
+e s t e r  
+h e s e   c
+i o n   i t
+w h e n   w
+  w a s   m
+a n t   o f
+e   t o   d
+h e r   w i
+o n   o n  
+p o w e r s
+s   a s   t
+s i s t a n
+v e   i n  
+  f u t u r
+e   a c c o
+h e i r   t
+i n i o n s
+r t   t h e
+s   w h e r
+t i s f a c
+  a r e   o
+  b a t t l
+  i f   w e
+a i n l y  
+a s o n   t
+d i s t a n
+e r   b u t
+h   h e   h
+o m m i t t
+o u g h   t
+t   o f   c
+u n d   t h
+w e r   o f
+  d i s t r
+  p r i s o
+c h i e f  
+c o m m e n
+c o v e r  
+e v e n   i
+h a t   h a
+h e   g o v
+h e r e   h
+r e c t i o
+t   i s   p
+t e n d   t
+  i f   h e
+  p u n i s
+e l i e f  
+e v e r   s
+h   t h e i
+i o n   c o
+i z e n s  
+n   t o   b
+r e d   h i
+r o f e s s
+s t e r s  
+t h i s   l
+y   o n   t
+  f r e e  
+  h i s   g
+  i n c o n
+  l a t t e
+  m a t e r
+  o f   h a
+  o f f e n
+  o u r s e
+a s   a n  
+d e r s t a
+e r s t a n
+e s s e s  
+h o p e s  
+i c h   i  
+i e n d s  
+i n g   r e
+l i g h t  
+m s   t o  
+n t m e n t
+n v e n t i
+p e n d e n
+r i n g   a
+r i s o n  
+r s t a n d
+s s   i n  
+u m b e r s
+y   t o   b
+  l o r d s
+  o u r   s
+m e d   t h
+n c e   b e
+n c e   o n
+o w   t h e
+s   p r i n
+t i z e n s
+t o   t a k
+t y   t h a
+  b e   f o
+  e n c o u
+  o n e   t
+  w i t h i
+a n d   i s
+i f   w e  
+i s f a c t
+o u r c e  
+s o r d e r
+t h e   f e
+u n d a t i
+u r a g e  
+w a s   c o
+  i s   r e
+  l i k e l
+  s t a n d
+e c t   a n
+h e r   p r
+t s   a r e
+w a s   a  
+x t e r n a
+  a r r i v
+  i n   p a
+  i s   a n
+  i t s   p
+  s a y s  
+a c e   o f
+a u s e   o
+d   a n y  
+d   o n l y
+e d   a n  
+i m   i n  
+i n g   w i
+i s   i n t
+n   b y   t
+n   p a r t
+o m p l a i
+o p u l a r
+p l e   t h
+r   s o m e
+r e s s e d
+t   s o m e
+t h e   e m
+t i o n e d
+  b e   p r
+  o n e   a
+  p r e c e
+  r a i s e
+  s c e n e
+  w i s d o
+  w r i t e
+c i p a l  
+e s t r a i
+e x t e r n
+i s d o m  
+i s t e d  
+n d e r s  
+o   m o r e
+o f   a   c
+o n d o n  
+p a t i o n
+r e s t r a
+r s e l v e
+t h a t   r
+u r s e l v
+  a r e   d
+  i n s t i
+  i s   s o
+  o r   p r
+  r a n k  
+  t h e   y
+  t o   p u
+a g e   t h
+d i s p u t
+e n d   t o
+g e d   t h
+h e   u n i
+i o n s   f
+l   n o t  
+n s   w e r
+o n v e n i
+p r o v i d
+s s   t o  
+t h e y   r
+t o   r e s
+w i s d o m
+  h e a r t
+  n e i g h
+a t   w h i
+h e   s o u
+m a k e   a
+n d e d   w
+s e n c e  
+w a s   d e
+  a c k n o
+  b e   a  
+  h o p e s
+  p e r i o
+  w a s   b
+a c k n o w
+a s   h e  
+f   m o r a
+f o u n d a
+h a d   r e
+h e   d e s
+h i s   c a
+m e   i n  
+m o r e   e
+n g   t h i
+o n t e m p
+p o i n t e
+r d e r   o
+s   s u p p
+t h e r   e
+c e   f o r
+e l f   i n
+h t   b e  
+l i k e l y
+n   t h e r
+s   t o   c
+t e r s   o
+t h e   t w
+v e n i e n
+v i d e n c
+w i t h i n
+  b u t   b
+  c a l l e
+  e x a m i
+a b s o l u
+b s o l u t
+c k n o w l
+e   o r   t
+e   o r d e
+e   s a i d
+e x a m i n
+f r o m   o
+i t h i n  
+n v e n i e
+o u l d   e
+r e d   b y
+s a m e   t
+t   t i m e
+t o   p e r
+  h i m   w
+  m e n   w
+h   t h i s
+h e i r   n
+i k e l y  
+o r   a n y
+y   c o n t
+  a l m o s
+  f o r   e
+  h e r   p
+  m e a n  
+a n d   a c
+d   i n   s
+e   w a r  
+e d i n g  
+e n t   c o
+f f i c e  
+i f   h e  
+m o r e   a
+m o s t   a
+r s e l f  
+s   s t i l
+t   s u c h
+t e d   f o
+  w e   c o
+a l m o s t
+a t   h i s
+e   n o w  
+e   q u a l
+e n t   f r
+e v e r   w
+h e   v e r
+i n   p r o
+l m o s t  
+l y   b e  
+n s i s t e
+o u n d a t
+o w e r   t
+p e r i o d
+q u e n t  
+s   f o r m
+v i d e d  
+c e   i t  
+e   a t t e
+e   i n d i
+e m   i n  
+e r e   r e
+h e   a d v
+i g h b o u
+i n g   s o
+m u n i c a
+n d e r   a
+o b l i g a
+r m   o f  
+t   i s   i
+t   u p o n
+u s e   a n
+u t u r e  
+  a n y   d
+  b e   e x
+  p o l i c
+a c e   a n
+b o u t   t
+c o m p l i
+e i g h b o
+f u t u r e
+g h b o u r
+h e   w i l
+m o r e   s
+n   w h e n
+o c e e d  
+o f   d i s
+o n a b l e
+r   o f   h
+r   t o   a
+t   b y   t
+t   c o n t
+b l i g a t
+d g m e n t
+e   o r i g
+g i n a l  
+h a t   s h
+h e   e m p
+h e i r   l
+n   h i m  
+n   i n   a
+n e i g h b
+o w e r   a
+p r o b a t
+s   t h e m
+t h e   v a
+w h e n   h
+  a g e s  
+  m o t i o
+a n d   i m
+a n t e d  
+b e e n   s
+e   a s   t
+f   w h a t
+n i m a l  
+s   i n   o
+  t h r o u
+  v a l u e
+a l l y   a
+a p a c i t
+c o n t r i
+h r o u g h
+i e d   t o
+i o n   h a
+o n g e r  
+o u r   c o
+p o r t e d
+s h e   h a
+t h r o u g
+  a c t u a
+  d i s o r
+  h i g h  
+  i n d u s
+  m a y   s
+a n d s   o
+e   w h e r
+e r   h i s
+e r m i n a
+f r o m   s
+h e   i m a
+i n d u s t
+i t i n g  
+n d u s t r
+r o m   a n
+s i n g   t
+  m o t i v
+  p h i l i
+b i s h o p
+c i t y   o
+d i s o r d
+e   o b s e
+e c l a r e
+e s   h e  
+f e r e d  
+h a d   t h
+h a t   r e
+i n a t e  
+i s o r d e
+l e s   a n
+m m u n i c
+m o t i v e
+n   g e n e
+p l a i n  
+r   t h e m
+s u r e   t
+t   t o   m
+t e r   t o
+u n i c a t
+u t h o r  
+w h o   w a
+w i t h   p
+  c a r e  
+  d o n e  
+e a t u r e
+h a t   t i
+i e d   t h
+i n e d   b
+l   f o r  
+n s t a n t
+r e l a t e
+r o v i d e
+s   a f t e
+s   p r e s
+s t i n g  
+t h e r   f
+t h e y   t
+t r y   a n
+u s t e d  
+  a   m o r
+  e x c e l
+  h a p p y
+  t o   s o
+e   p a r l
+e   s t i l
+i c u l t y
+n   o f   f
+p h i l i p
+r e   w e  
+r e d u c e
+s   s u b j
+t t e r   o
+  n e a r  
+  s l a v e
+  w h o   c
+c h   t o  
+d s   t o  
+e r e   t o
+f   c o m m
+h e   o r d
+h o u t   t
+n d   a r e
+o u r   t h
+r m i n a t
+s u r e   o
+t   t o   s
+w h a t   w
+  a n y   r
+  o n e   w
+c e s   w h
+g   t h i s
+h e   m a t
+i n   s u c
+i o l e n t
+l i g a t i
+n   c o n s
+n t i n u a
+r s   t h a
+s e s s e d
+t h e y   e
+w o r d s  
+c e   h e  
+c o l l e c
+d   t o   o
+f   s o m e
+o f   i n t
+r e   w a s
+s   a c c o
+s   a s   w
+s e t t l e
+t   h e   h
+w h e n   i
+  o f   r i
+  s e t t l
+  w h o   i
+a t t a c k
+d e r   a n
+e   o p p o
+f i n i t e
+g e   t o  
+h a v e   r
+r y   i n  
+  a   p r e
+  a n   a c
+  d i s p u
+  e x e r t
+  h a d   f
+e   m e n  
+e s e n t e
+e s i g n  
+h e   m e r
+h o   w a s
+i n g   a l
+m m i t t e
+n d   f r o
+s   u p o n
+s a r y   t
+w i l l   n
+x p e c t e
+  b u t   n
+  f o r m s
+  m u l t i
+a g a i n  
+d   i n t e
+e   b e i n
+e   h e r  
+e e d i n g
+e t y   o f
+f f e r e d
+h e   a t t
+h e r   r e
+l   t h e s
+l e d   t h
+m e r c e  
+m p l a i n
+n c e i v e
+n g   f o r
+o r c e s  
+r e   s o  
+r s o n a l
+  e v i l  
+  i n j u r
+  r e f u s
+a c t e d  
+a n d   a t
+a r t s   o
+e   c i r c
+e   u p o n
+e c t s   t
+e n t   w i
+f   l i f e
+i n   e n g
+i n d   o f
+j e c t   t
+o n   w h e
+o u r   t o
+r e s t s  
+t   i s   s
+t h e m   b
+t h e y   d
+t i m e   a
+  h e   w o
+  w e   m u
+a i l e d  
+a s   n o  
+c e d   t o
+e n c e   h
+e s i d e s
+f o r   w h
+l e   o r  
+l i a n c e
+l i b e r a
+l l   n o t
+n t s   w h
+o f   l i f
+s e m b l e
+t   o u r  
+t i c e   o
+w i t h   c
+  a c c u s
+  n e i t h
+a t   p r i
+b y   a n y
+c e n c e  
+d   s h e  
+m e n t   b
+n e i t h e
+o   w e r e
+o m e   o f
+o n s   w e
+p r i z e  
+r e   o r  
+s   c o m p
+s e s   t h
+t h e   a s
+y o u   w i
+  a l l   m
+  b u t   o
+  k n o w l
+a n   n a t
+a n d   p a
+e   r e c e
+i n c e   t
+i o n   m a
+o   g r e a
+o n s t a n
+s   f o u n
+y   d i f f
+y   w h o  
+  f i e l d
+  h a d   p
+  j u d g m
+j u d g m e
+l   a s   t
+l i s h m e
+m u c h   a
+o   s u c h
+o f   p e r
+s   o r   t
+s e d   i n
+t h e   n u
+t i t u t e
+u d g m e n
+u t   t h i
+y   w h e r
+  i t   i n
+  l a i d  
+a n   i n  
+a n d   o b
+f   o n e  
+i s i o n  
+m m e r c e
+n i t y   o
+s h e   w a
+s o m e   p
+t   o n e  
+v e r s a l
+  t o   a s
+c i d e n t
+d e l i v e
+e   b e t w
+e l i v e r
+e n s e   o
+h e   s h o
+n d s h i p
+n e s s   t
+o   m a n y
+o f   w h a
+  a n y   i
+  d e l i v
+  e a s y  
+  o f   l o
+a n y   p a
+b t a i n e
+e   y e a r
+e a r s   t
+e n d s h i
+e n s i v e
+h a b i t a
+i e n d s h
+n   i n t o
+o r m a t i
+p a r t   i
+s   i n   e
+  a p p o i
+  c h a r l
+  d u t y  
+  e n c r e
+  o u r   c
+e n c r e a
+f o r m a t
+h e   m a r
+n   o n   t
+n d   o t h
+o s o p h e
+r   t o   b
+r s o n   w
+s o p h e r
+w i l l   a
+  b r i n g
+  c o n t a
+  r e b e l
+  v i c t o
+a n d   s i
+c o n v e r
+e   h u m a
+e   i n t o
+e t e n s i
+e x t e n d
+h i s   m i
+i t s   o f
+i v e r s a
+j o y m e n
+n d   w e r
+r e a t e d
+r e t e n s
+t h e   e v
+t h e   w e
+t o   e x p
+v i c t o r
+  i n   g e
+  m u t u a
+  n o r t h
+b a t i o n
+d e   t o  
+e r e d   i
+f o r c e s
+i n g   o r
+l v e s   a
+m i n d   i
+t   b e   a
+t   i t   w
+t u a l l y
+w i t h s t
+y   b e   a
+c h a r l e
+e n j o y m
+i e t y   o
+m e n   a n
+m u t u a l
+n j o y m e
+n s   w h o
+r e   p r o
+t o r y   o
+w i t h   f
+  e x c i t
+  o f   m y
+a   m o r e
+e   e x e c
+e   o u r  
+e m b e r s
+e s   w h e
+e t   w i t
+f   i n t e
+h e   a c t
+h e n   h e
+i c h   s h
+i n h a b i
+i o n   b y
+m i n d   a
+m o s t   e
+m o s t   p
+n   o t h e
+n d   i n d
+o f   s o m
+s   a n y  
+s t a t i o
+t y   b u t
+v o u r e d
+  n o   m o
+c o v e r e
+c t e d   a
+e l f   a n
+e r   i n t
+e t e n d e
+i n e d   i
+l v e s   t
+o l v e d  
+o u s l y  
+p a r e d  
+s   w o u l
+t i o n   e
+t s   o r  
+w s   o f  
+  f a c t i
+  i n h a b
+  u n i t e
+a s   c o n
+d   b y   s
+d e   a n d
+e r f u l  
+n d   p r e
+o b a t i o
+o b i l i t
+p a r a t i
+r o b a t i
+s   i s   t
+v a n c e  
+w i t h   e
+  a s   a n
+  o f   o n
+  o p e n  
+  o r   d e
+a   p r i n
+a n d   f a
+a n d   o t
+a n y   r e
+e e   o f  
+e s s   t o
+e x a m p l
+g m e n t  
+h s t a n d
+i s   d i s
+i t e d   t
+i t h s t a
+l i t y   i
+o l l e c t
+o m   w h i
+o p l e   w
+r   w h a t
+r s   w e r
+t h a n   i
+t h s t a n
+x a m p l e
+  a l l   p
+  i n d e p
+  m a g i s
+  m a r c h
+  m a y   h
+  t r u t h
+a b o u r  
+a t   t h a
+e   c a s e
+e r e   c o
+f   o t h e
+f o r   a n
+h a v e   e
+i n d e p e
+l a n d   w
+m o r e   c
+n d e p e n
+n h a b i t
+n s i v e  
+o v e r e d
+t e d   o n
+v e r   t o
+w a s   s o
+w a s   t o
+w e r e   d
+  a l l   i
+  b o u n d
+  c o u r a
+  e x a m p
+  i t   w i
+  n o b i l
+a r a t i o
+a v e   r e
+d   c o m m
+e   d a n g
+e   e m p l
+e m e l y  
+e x c e l l
+h i s   l i
+m e n   o f
+o r   a n d
+r e m e l y
+r e s s   o
+s o n a l  
+s s e d   t
+t i l l   t
+v e n t s  
+  t r u s t
+a n d   s t
+a r i s e  
+d e f e n d
+e n e f i c
+g h t   a n
+h e   r e l
+i   s h a l
+i n n o c e
+n   o f   o
+n o b i l i
+o n   w e  
+r a l i t y
+s   i n   s
+  c h i l d
+  i   s h a
+  i g n o r
+  i n n o c
+  t h r o w
+a   c o n t
+c a p a c i
+c e   f r o
+e   d e s i
+e r   p a r
+h e   a r m
+h e y   r e
+i g n o r a
+i s   p r i
+m a n   n a
+n i s h e d
+n n o c e n
+o m e n t  
+r   c o m m
+s e s   o f
+t   t o   c
+v e n   i n
+w h o   w e
+  o n e   s
+  p a s t  
+  s i d e  
+  w o r d s
+b e a u t y
+b y   t h i
+c o m p r e
+g n o r a n
+i n t e n d
+m i n a t e
+n d   o n  
+o n   a f t
+r a t e s  
+t h e   j u
+w   a n d  
+  b a r o n
+  s c a r c
+  t o   d o
+a g i s t r
+c l u s i o
+e r y   t h
+g i s t r a
+m a g i s t
+n f i d e n
+n g   a n y
+n t e d   w
+o f   m i n
+o n e   t h
+p r e c e d
+r a i s e  
+t h e   a b
+t h i s   f
+v e s   a n
+w e   m u s
+w e r e   c
+  b e g a n
+  c o m p r
+  h i m   b
+  i t   t o
+  t r e a s
+a v o u r e
+b e g a n  
+d   i n   o
+e   s u c c
+e a u t y  
+e e m s   t
+e s   o n  
+f   j u s t
+h e   e n d
+l   t o   t
+o   b e   s
+o d   a n d
+o m   a n d
+p e c t   t
+t e d   f r
+w i t h   g
+  b e   d i
+  c h a p  
+  i s   m o
+c o n n e x
+d   i n   e
+h e   i n d
+h e s e   s
+i s p u t e
+m p r e h e
