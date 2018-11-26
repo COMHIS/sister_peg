@@ -3,63 +3,66 @@
 
 sister_peg_checked 	-->	 Ferguson
 
-100 MFW , culled @ 0%,  7 of 7	(100%)
+100 MFW , culled @ 0%,  6 of 6	(100%)
 
 
 
 sister_peg_checked 	-->	 Ferguson
 
-200 MFW , culled @ 0%,  7 of 7	(100%)
+200 MFW , culled @ 0%,  6 of 6	(100%)
+
+
+
+Hume_Archibald_Stewart 	-->	 Ferguson
+sister_peg_checked 	-->	 Ferguson
+
+300 MFW , culled @ 0%,  5 of 6	(83.3%)
+
+
+
+Hume_Archibald_Stewart 	-->	 Ferguson
+sister_peg_checked 	-->	 Ferguson
+
+400 MFW , culled @ 0%,  5 of 6	(83.3%)
 
 
 
 sister_peg_checked 	-->	 Ferguson
 
-300 MFW , culled @ 0%,  7 of 7	(100%)
+500 MFW , culled @ 0%,  6 of 6	(100%)
 
 
 
 sister_peg_checked 	-->	 Ferguson
 
-400 MFW , culled @ 0%,  7 of 7	(100%)
+600 MFW , culled @ 0%,  6 of 6	(100%)
+
+
+
+Hume_Archibald_Stewart 	-->	 Ferguson
+sister_peg_checked 	-->	 Ferguson
+
+700 MFW , culled @ 0%,  5 of 6	(83.3%)
 
 
 
 sister_peg_checked 	-->	 Ferguson
 
-500 MFW , culled @ 0%,  7 of 7	(100%)
+800 MFW , culled @ 0%,  6 of 6	(100%)
 
 
 
 sister_peg_checked 	-->	 Ferguson
 
-600 MFW , culled @ 0%,  7 of 7	(100%)
+900 MFW , culled @ 0%,  6 of 6	(100%)
 
 
 
 sister_peg_checked 	-->	 Ferguson
 
-700 MFW , culled @ 0%,  7 of 7	(100%)
+1000 MFW , culled @ 0%,  6 of 6	(100%)
 
-
-
-sister_peg_checked 	-->	 Ferguson
-
-800 MFW , culled @ 0%,  7 of 7	(100%)
-
-
-
-sister_peg_checked 	-->	 Ferguson
-
-900 MFW , culled @ 0%,  7 of 7	(100%)
-
-
-
-sister_peg_checked 	-->	 Ferguson
-
-1000 MFW , culled @ 0%,  7 of 7	(100%)
-
-General attributive success:  70 of 70 (100%)
+General attributive success:  57 of 60 (95%)
 
 MFWs from 100 to 1000 @ increment 100
 Culling from 0 to 0 @ increment 10

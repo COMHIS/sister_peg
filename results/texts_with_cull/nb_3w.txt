@@ -1,363 +1,351 @@
 
 
 
-Hume_two_essays_on_suicide_immorality_soul 	-->	 Ferguson
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
 sister_peg_checked 	-->	 Hume
 
-100 MFW , culled @ 0%,  6 of 7	(85.7%)
+100 MFW , culled @ 0%,  5 of 6	(83.3%)
 
 
 
-Hume_two_essays_on_suicide_immorality_soul 	-->	 Ferguson
+Hume_Archibald_Stewart 	-->	 Ferguson
 sister_peg_checked 	-->	 Hume
 
-200 MFW , culled @ 0%,  6 of 7	(85.7%)
-
-
-
-Hume_two_essays_on_suicide_immorality_soul 	-->	 Ferguson
-sister_peg_checked 	-->	 Hume
-
-300 MFW , culled @ 0%,  6 of 7	(85.7%)
-
-
-
-Hume_two_essays_on_suicide_immorality_soul 	-->	 Ferguson
-sister_peg_checked 	-->	 Hume
-
-400 MFW , culled @ 0%,  6 of 7	(85.7%)
-
-
-
-Hume_two_essays_on_suicide_immorality_soul 	-->	 Ferguson
-sister_peg_checked 	-->	 Ferguson
-
-500 MFW , culled @ 0%,  6 of 7	(85.7%)
+200 MFW , culled @ 0%,  5 of 6	(83.3%)
 
 
 
 sister_peg_checked 	-->	 Hume
 
-600 MFW , culled @ 0%,  7 of 7	(100%)
-
-
-
-sister_peg_checked 	-->	 Hume
-
-700 MFW , culled @ 0%,  7 of 7	(100%)
-
-
-
-sister_peg_checked 	-->	 Hume
-
-800 MFW , culled @ 0%,  7 of 7	(100%)
-
-
-
-sister_peg_checked 	-->	 Hume
-
-900 MFW , culled @ 0%,  7 of 7	(100%)
-
-
-
-sister_peg_checked 	-->	 Hume
-
-1000 MFW , culled @ 0%,  7 of 7	(100%)
-
-
-
-Hume_two_essays_on_suicide_immorality_soul 	-->	 Ferguson
-sister_peg_checked 	-->	 Hume
-
-100 MFW , culled @ 10%,  6 of 7	(85.7%)
-
-
-
-Hume_two_essays_on_suicide_immorality_soul 	-->	 Ferguson
-sister_peg_checked 	-->	 Hume
-
-200 MFW , culled @ 10%,  6 of 7	(85.7%)
-
-
-
-Hume_two_essays_on_suicide_immorality_soul 	-->	 Ferguson
-sister_peg_checked 	-->	 Hume
-
-300 MFW , culled @ 10%,  6 of 7	(85.7%)
-
-
-
-Hume_two_essays_on_suicide_immorality_soul 	-->	 Ferguson
-sister_peg_checked 	-->	 Hume
-
-400 MFW , culled @ 10%,  6 of 7	(85.7%)
-
-
-
-Hume_two_essays_on_suicide_immorality_soul 	-->	 Ferguson
-sister_peg_checked 	-->	 Hume
-
-500 MFW , culled @ 10%,  6 of 7	(85.7%)
-
-
-
-sister_peg_checked 	-->	 Hume
-
-600 MFW , culled @ 10%,  7 of 7	(100%)
-
-
-
-sister_peg_checked 	-->	 Hume
-
-700 MFW , culled @ 10%,  7 of 7	(100%)
-
-
-
-sister_peg_checked 	-->	 Hume
-
-800 MFW , culled @ 10%,  7 of 7	(100%)
-
-
-
-sister_peg_checked 	-->	 Hume
-
-900 MFW , culled @ 10%,  7 of 7	(100%)
-
-
-
-sister_peg_checked 	-->	 Hume
-
-1000 MFW , culled @ 10%,  7 of 7	(100%)
-
-
-
-Hume_two_essays_on_suicide_immorality_soul 	-->	 Ferguson
-sister_peg_checked 	-->	 Hume
-
-100 MFW , culled @ 20%,  6 of 7	(85.7%)
-
-
-
-Hume_two_essays_on_suicide_immorality_soul 	-->	 Ferguson
-sister_peg_checked 	-->	 Hume
-
-200 MFW , culled @ 20%,  6 of 7	(85.7%)
-
-
-
-Hume_two_essays_on_suicide_immorality_soul 	-->	 Ferguson
-sister_peg_checked 	-->	 Hume
-
-300 MFW , culled @ 20%,  6 of 7	(85.7%)
-
-
-
-Hume_two_essays_on_suicide_immorality_soul 	-->	 Ferguson
-sister_peg_checked 	-->	 Hume
-
-400 MFW , culled @ 20%,  6 of 7	(85.7%)
-
-
-
-Hume_two_essays_on_suicide_immorality_soul 	-->	 Ferguson
-sister_peg_checked 	-->	 Hume
-
-500 MFW , culled @ 20%,  6 of 7	(85.7%)
-
-
-
-sister_peg_checked 	-->	 Hume
-
-600 MFW , culled @ 20%,  7 of 7	(100%)
-
-
-
-sister_peg_checked 	-->	 Hume
-
-700 MFW , culled @ 20%,  7 of 7	(100%)
-
-
-
-sister_peg_checked 	-->	 Hume
-
-800 MFW , culled @ 20%,  7 of 7	(100%)
-
-
-
-sister_peg_checked 	-->	 Hume
-
-900 MFW , culled @ 20%,  7 of 7	(100%)
-
-
-
-sister_peg_checked 	-->	 Hume
-
-1000 MFW , culled @ 20%,  7 of 7	(100%)
-
-
-
-Hume_two_essays_on_suicide_immorality_soul 	-->	 Ferguson
-sister_peg_checked 	-->	 Hume
-
-100 MFW , culled @ 30%,  6 of 7	(85.7%)
-
-
-
-Hume_two_essays_on_suicide_immorality_soul 	-->	 Ferguson
-sister_peg_checked 	-->	 Hume
-
-200 MFW , culled @ 30%,  6 of 7	(85.7%)
-
-
-
-Hume_two_essays_on_suicide_immorality_soul 	-->	 Ferguson
-sister_peg_checked 	-->	 Ferguson
-
-300 MFW , culled @ 30%,  6 of 7	(85.7%)
-
-
-
-Hume_two_essays_on_suicide_immorality_soul 	-->	 Ferguson
-sister_peg_checked 	-->	 Ferguson
-
-400 MFW , culled @ 30%,  6 of 7	(85.7%)
+300 MFW , culled @ 0%,  6 of 6	(100%)
 
 
 
 sister_peg_checked 	-->	 Ferguson
 
-500 MFW , culled @ 30%,  7 of 7	(100%)
+400 MFW , culled @ 0%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Hume
+
+500 MFW , culled @ 0%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Hume
+
+600 MFW , culled @ 0%,  6 of 6	(100%)
+
+
+
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+
+700 MFW , culled @ 0%,  5 of 6	(83.3%)
+
+
+
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+
+800 MFW , culled @ 0%,  5 of 6	(83.3%)
+
+
+
+sister_peg_checked 	-->	 Hume
+
+900 MFW , culled @ 0%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Hume
+
+1000 MFW , culled @ 0%,  6 of 6	(100%)
+
+
+
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+
+100 MFW , culled @ 10%,  5 of 6	(83.3%)
+
+
+
+sister_peg_checked 	-->	 Hume
+
+200 MFW , culled @ 10%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Hume
+
+300 MFW , culled @ 10%,  6 of 6	(100%)
 
 
 
 sister_peg_checked 	-->	 Ferguson
 
-600 MFW , culled @ 30%,  7 of 7	(100%)
+400 MFW , culled @ 10%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Hume
+
+500 MFW , culled @ 10%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Hume
+
+600 MFW , culled @ 10%,  6 of 6	(100%)
+
+
+
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+
+700 MFW , culled @ 10%,  5 of 6	(83.3%)
+
+
+
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+
+800 MFW , culled @ 10%,  5 of 6	(83.3%)
+
+
+
+sister_peg_checked 	-->	 Hume
+
+900 MFW , culled @ 10%,  6 of 6	(100%)
+
+
+
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+
+1000 MFW , culled @ 10%,  5 of 6	(83.3%)
+
+
+
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+
+100 MFW , culled @ 20%,  5 of 6	(83.3%)
+
+
+
+sister_peg_checked 	-->	 Hume
+
+200 MFW , culled @ 20%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Hume
+
+300 MFW , culled @ 20%,  6 of 6	(100%)
+
+
+
+Hume_Archibald_Stewart 	-->	 Ferguson
+sister_peg_checked 	-->	 Ferguson
+
+400 MFW , culled @ 20%,  5 of 6	(83.3%)
+
+
+
+Hume_Archibald_Stewart 	-->	 Ferguson
+sister_peg_checked 	-->	 Hume
+
+500 MFW , culled @ 20%,  5 of 6	(83.3%)
+
+
+
+Hume_Archibald_Stewart 	-->	 Ferguson
+sister_peg_checked 	-->	 Hume
+
+600 MFW , culled @ 20%,  5 of 6	(83.3%)
+
+
+
+Hume_Archibald_Stewart 	-->	 Ferguson
+sister_peg_checked 	-->	 Hume
+
+700 MFW , culled @ 20%,  5 of 6	(83.3%)
+
+
+
+sister_peg_checked 	-->	 Hume
+
+800 MFW , culled @ 20%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Hume
+
+900 MFW , culled @ 20%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Hume
+
+1000 MFW , culled @ 20%,  6 of 6	(100%)
+
+
+
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+
+100 MFW , culled @ 30%,  5 of 6	(83.3%)
+
+
+
+sister_peg_checked 	-->	 Hume
+
+200 MFW , culled @ 30%,  6 of 6	(100%)
 
 
 
 sister_peg_checked 	-->	 Ferguson
 
-700 MFW , culled @ 30%,  7 of 7	(100%)
+300 MFW , culled @ 30%,  6 of 6	(100%)
+
+
+
+Hume_Archibald_Stewart 	-->	 Ferguson
+sister_peg_checked 	-->	 Ferguson
+
+400 MFW , culled @ 30%,  5 of 6	(83.3%)
 
 
 
 sister_peg_checked 	-->	 Ferguson
 
-800 MFW , culled @ 30%,  7 of 7	(100%)
+500 MFW , culled @ 30%,  6 of 6	(100%)
+
+
+
+Hume_Archibald_Stewart 	-->	 Ferguson
+sister_peg_checked 	-->	 Hume
+
+600 MFW , culled @ 30%,  5 of 6	(83.3%)
 
 
 
 sister_peg_checked 	-->	 Ferguson
 
-900 MFW , culled @ 30%,  7 of 7	(100%)
+700 MFW , culled @ 30%,  6 of 6	(100%)
 
 
 
 sister_peg_checked 	-->	 Hume
 
-1000 MFW , culled @ 30%,  7 of 7	(100%)
-
-
-
-Hume_two_essays_on_suicide_immorality_soul 	-->	 Ferguson
-sister_peg_checked 	-->	 Hume
-
-100 MFW , culled @ 40%,  6 of 7	(85.7%)
-
-
-
-Hume_two_essays_on_suicide_immorality_soul 	-->	 Ferguson
-sister_peg_checked 	-->	 Hume
-
-200 MFW , culled @ 40%,  6 of 7	(85.7%)
-
-
-
-Hume_two_essays_on_suicide_immorality_soul 	-->	 Ferguson
-sister_peg_checked 	-->	 Hume
-
-300 MFW , culled @ 40%,  6 of 7	(85.7%)
-
-
-
-Hume_two_essays_on_suicide_immorality_soul 	-->	 Ferguson
-sister_peg_checked 	-->	 Ferguson
-
-400 MFW , culled @ 40%,  6 of 7	(85.7%)
-
-
-
-sister_peg_checked 	-->	 Hume
-
-500 MFW , culled @ 40%,  7 of 7	(100%)
-
-
-
-sister_peg_checked 	-->	 Hume
-
-600 MFW , culled @ 40%,  7 of 7	(100%)
-
-
-
-sister_peg_checked 	-->	 Hume
-
-700 MFW , culled @ 40%,  7 of 7	(100%)
-
-
-
-sister_peg_checked 	-->	 Hume
-
-800 MFW , culled @ 40%,  7 of 7	(100%)
-
-
-
-sister_peg_checked 	-->	 Hume
-
-900 MFW , culled @ 40%,  7 of 7	(100%)
-
-
-
-Ferguson_biographical_sketch 	-->	 Hume
-sister_peg_checked 	-->	 Hume
-
-1000 MFW , culled @ 40%,  6 of 7	(85.7%)
-
-
-
-Ferguson_biographical_sketch 	-->	 Hume
-sister_peg_checked 	-->	 Hume
-
-100 MFW , culled @ 50%,  6 of 7	(85.7%)
-
-
-
-Hume_two_essays_on_suicide_immorality_soul 	-->	 Ferguson
-sister_peg_checked 	-->	 Hume
-
-200 MFW , culled @ 50%,  6 of 7	(85.7%)
-
-
-
-Hume_two_essays_on_suicide_immorality_soul 	-->	 Ferguson
-sister_peg_checked 	-->	 Ferguson
-
-300 MFW , culled @ 50%,  6 of 7	(85.7%)
+800 MFW , culled @ 30%,  6 of 6	(100%)
 
 
 
 sister_peg_checked 	-->	 Ferguson
 
-400 MFW , culled @ 50%,  7 of 7	(100%)
+900 MFW , culled @ 30%,  6 of 6	(100%)
 
 
 
-Ferguson_biographical_sketch 	-->	 Hume
 sister_peg_checked 	-->	 Hume
 
-500 MFW , culled @ 50%,  6 of 7	(85.7%)
+1000 MFW , culled @ 30%,  6 of 6	(100%)
 
-General attributive success:  357 of 385 (92.7%)
+
+
+sister_peg_checked 	-->	 Hume
+
+100 MFW , culled @ 40%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Hume
+
+200 MFW , culled @ 40%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+300 MFW , culled @ 40%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+400 MFW , culled @ 40%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Hume
+
+500 MFW , culled @ 40%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Hume
+
+600 MFW , culled @ 40%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Hume
+
+700 MFW , culled @ 40%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Hume
+
+800 MFW , culled @ 40%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Hume
+
+900 MFW , culled @ 40%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Hume
+
+1000 MFW , culled @ 40%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Hume
+
+100 MFW , culled @ 50%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+200 MFW , culled @ 50%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+300 MFW , culled @ 50%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+400 MFW , culled @ 50%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Hume
+
+500 MFW , culled @ 50%,  6 of 6	(100%)
+
+General attributive success:  314 of 330 (95.2%)
 
 MFWs from 100 to 1000 @ increment 100
 Culling from 0 to 50 @ increment 10
