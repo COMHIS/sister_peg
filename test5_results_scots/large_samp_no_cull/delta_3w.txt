@@ -1,0 +1,416 @@
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Kames
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Kames
+Ferg_test_1 	-->	 Blair
+Ferg_test_5 	-->	 Hume
+Ferg_test_6 	-->	 Blair
+Ferg_test_8 	-->	 Kames
+Ferg_test_13 	-->	 Kames
+Ferg_test_14 	-->	 Blair
+Hume_test_2 	-->	 Ferg
+Kames_test_5 	-->	 Blair
+sister_peg_checked_1 	-->	 Ferg
+sister_peg_checked_2 	-->	 Ferg
+sister_peg_checked_3 	-->	 Ferg
+Smith_test_3 	-->	 Kames
+Smith_test_21 	-->	 Hume
+
+100 MFW , culled @ 0%,  58 of 69	(84.1%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Kames
+EB_History_2 	-->	 Kames
+EB_History_3 	-->	 Kames
+EB_History_4 	-->	 Ferg
+EB_History_5 	-->	 Kames
+Ferg_test_3 	-->	 Blair
+Ferg_test_4 	-->	 Kames
+Ferg_test_5 	-->	 Kames
+Ferg_test_12 	-->	 Blair
+Hume_test_2 	-->	 Ferg
+Hume_test_5 	-->	 Kames
+Hume_test_12 	-->	 Kames
+sister_peg_checked_1 	-->	 Kames
+sister_peg_checked_2 	-->	 Ferg
+sister_peg_checked_3 	-->	 Ferg
+Smith_test_3 	-->	 Kames
+Smith_test_4 	-->	 Hume
+Smith_test_22 	-->	 Hume
+
+200 MFW , culled @ 0%,  58 of 69	(84.1%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Kames
+EB_History_2 	-->	 Kames
+EB_History_3 	-->	 Kames
+EB_History_4 	-->	 Kames
+EB_History_5 	-->	 Kames
+Ferg_test_3 	-->	 Blair
+Ferg_test_4 	-->	 Kames
+Ferg_test_5 	-->	 Kames
+Ferg_test_6 	-->	 Kames
+Ferg_test_9 	-->	 Kames
+Ferg_test_10 	-->	 Kames
+Ferg_test_11 	-->	 Blair
+Ferg_test_12 	-->	 Blair
+Hume_test_2 	-->	 Ferg
+Hume_test_4 	-->	 Kames
+Hume_test_5 	-->	 Kames
+Hume_test_6 	-->	 Kames
+Hume_test_8 	-->	 Kames
+Hume_test_12 	-->	 Kames
+Hume_test_13 	-->	 Kames
+sister_peg_checked_1 	-->	 Ferg
+sister_peg_checked_2 	-->	 Kames
+sister_peg_checked_3 	-->	 Ferg
+Smith_test_1 	-->	 Kames
+Smith_test_3 	-->	 Kames
+Smith_test_4 	-->	 Hume
+Smith_test_6 	-->	 Kames
+Smith_test_7 	-->	 Hume
+Smith_test_22 	-->	 Hume
+
+300 MFW , culled @ 0%,  47 of 69	(68.1%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Kames
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Kames
+EB_History_4 	-->	 Kames
+EB_History_5 	-->	 Kames
+Ferg_test_3 	-->	 Blair
+Ferg_test_4 	-->	 Kames
+Ferg_test_5 	-->	 Kames
+Ferg_test_6 	-->	 Blair
+Ferg_test_7 	-->	 Kames
+Ferg_test_9 	-->	 Kames
+Ferg_test_10 	-->	 Kames
+Ferg_test_12 	-->	 Blair
+Ferg_test_14 	-->	 Kames
+Ferg_test_15 	-->	 Blair
+Hume_test_2 	-->	 Ferg
+Hume_test_5 	-->	 Kames
+Hume_test_6 	-->	 Kames
+Hume_test_9 	-->	 Kames
+Hume_test_11 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Kames
+sister_peg_checked_1 	-->	 Kames
+sister_peg_checked_2 	-->	 Kames
+sister_peg_checked_3 	-->	 Ferg
+Smith_test_1 	-->	 Kames
+Smith_test_2 	-->	 Kames
+Smith_test_3 	-->	 Kames
+Smith_test_4 	-->	 Hume
+Smith_test_7 	-->	 Hume
+Smith_test_16 	-->	 Kames
+Smith_test_22 	-->	 Hume
+
+400 MFW , culled @ 0%,  44 of 69	(63.8%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Kames
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Kames
+EB_History_4 	-->	 Kames
+EB_History_5 	-->	 Kames
+Ferg_test_1 	-->	 Blair
+Ferg_test_3 	-->	 Blair
+Ferg_test_4 	-->	 Kames
+Ferg_test_5 	-->	 Kames
+Ferg_test_6 	-->	 Blair
+Ferg_test_7 	-->	 Kames
+Ferg_test_9 	-->	 Kames
+Ferg_test_10 	-->	 Kames
+Ferg_test_11 	-->	 Kames
+Ferg_test_12 	-->	 Blair
+Ferg_test_14 	-->	 Kames
+Hume_test_2 	-->	 Kames
+Hume_test_3 	-->	 Kames
+Hume_test_4 	-->	 Kames
+Hume_test_5 	-->	 Kames
+Hume_test_6 	-->	 Kames
+Hume_test_9 	-->	 Kames
+Hume_test_10 	-->	 Kames
+Hume_test_11 	-->	 Kames
+Hume_test_12 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Kames
+sister_peg_checked_1 	-->	 Kames
+sister_peg_checked_2 	-->	 Kames
+sister_peg_checked_3 	-->	 Ferg
+Smith_test_1 	-->	 Hume
+Smith_test_3 	-->	 Kames
+Smith_test_4 	-->	 Hume
+Smith_test_16 	-->	 Kames
+Smith_test_22 	-->	 Hume
+
+500 MFW , culled @ 0%,  41 of 69	(59.4%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Kames
+EB_History_2 	-->	 Kames
+EB_History_3 	-->	 Kames
+EB_History_4 	-->	 Kames
+EB_History_5 	-->	 Kames
+Ferg_test_1 	-->	 Blair
+Ferg_test_3 	-->	 Blair
+Ferg_test_4 	-->	 Kames
+Ferg_test_5 	-->	 Kames
+Ferg_test_6 	-->	 Kames
+Ferg_test_7 	-->	 Kames
+Ferg_test_10 	-->	 Kames
+Ferg_test_11 	-->	 Kames
+Ferg_test_14 	-->	 Kames
+Hume_test_2 	-->	 Kames
+Hume_test_3 	-->	 Kames
+Hume_test_4 	-->	 Kames
+Hume_test_5 	-->	 Kames
+Hume_test_6 	-->	 Kames
+Hume_test_9 	-->	 Kames
+Hume_test_10 	-->	 Kames
+Hume_test_12 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Kames
+sister_peg_checked_1 	-->	 Kames
+sister_peg_checked_2 	-->	 Kames
+sister_peg_checked_3 	-->	 Ferg
+Smith_test_1 	-->	 Hume
+Smith_test_2 	-->	 Kames
+Smith_test_3 	-->	 Kames
+Smith_test_4 	-->	 Hume
+Smith_test_6 	-->	 Hume
+Smith_test_7 	-->	 Hume
+Smith_test_16 	-->	 Kames
+Smith_test_22 	-->	 Hume
+
+600 MFW , culled @ 0%,  41 of 69	(59.4%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Kames
+EB_History_2 	-->	 Kames
+EB_History_3 	-->	 Kames
+EB_History_4 	-->	 Kames
+EB_History_5 	-->	 Kames
+Ferg_test_1 	-->	 Blair
+Ferg_test_4 	-->	 Kames
+Ferg_test_5 	-->	 Kames
+Ferg_test_6 	-->	 Kames
+Ferg_test_7 	-->	 Kames
+Ferg_test_9 	-->	 Kames
+Ferg_test_10 	-->	 Kames
+Ferg_test_11 	-->	 Kames
+Ferg_test_12 	-->	 Kames
+Ferg_test_14 	-->	 Kames
+Ferg_test_15 	-->	 Kames
+Hume_test_2 	-->	 Ferg
+Hume_test_3 	-->	 Kames
+Hume_test_4 	-->	 Kames
+Hume_test_5 	-->	 Kames
+Hume_test_6 	-->	 Kames
+Hume_test_7 	-->	 Kames
+Hume_test_9 	-->	 Kames
+Hume_test_10 	-->	 Kames
+Hume_test_11 	-->	 Kames
+Hume_test_12 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Kames
+sister_peg_checked_1 	-->	 Kames
+sister_peg_checked_2 	-->	 Kames
+sister_peg_checked_3 	-->	 Ferg
+Smith_test_1 	-->	 Kames
+Smith_test_2 	-->	 Kames
+Smith_test_3 	-->	 Kames
+Smith_test_4 	-->	 Hume
+Smith_test_7 	-->	 Kames
+Smith_test_13 	-->	 Kames
+Smith_test_15 	-->	 Blair
+Smith_test_16 	-->	 Kames
+Smith_test_17 	-->	 Kames
+Smith_test_22 	-->	 Hume
+
+700 MFW , culled @ 0%,  35 of 69	(50.7%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Kames
+EB_History_2 	-->	 Kames
+EB_History_3 	-->	 Kames
+EB_History_4 	-->	 Kames
+EB_History_5 	-->	 Kames
+Ferg_test_1 	-->	 Blair
+Ferg_test_3 	-->	 Blair
+Ferg_test_4 	-->	 Kames
+Ferg_test_5 	-->	 Kames
+Ferg_test_6 	-->	 Kames
+Ferg_test_7 	-->	 Kames
+Ferg_test_9 	-->	 Kames
+Ferg_test_10 	-->	 Kames
+Ferg_test_11 	-->	 Kames
+Ferg_test_14 	-->	 Kames
+Ferg_test_15 	-->	 Kames
+Hume_test_2 	-->	 Kames
+Hume_test_3 	-->	 Kames
+Hume_test_4 	-->	 Kames
+Hume_test_5 	-->	 Kames
+Hume_test_6 	-->	 Kames
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Kames
+Hume_test_9 	-->	 Kames
+Hume_test_10 	-->	 Kames
+Hume_test_11 	-->	 Kames
+Hume_test_12 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Kames
+sister_peg_checked_1 	-->	 Kames
+sister_peg_checked_2 	-->	 Kames
+sister_peg_checked_3 	-->	 Ferg
+Smith_test_1 	-->	 Hume
+Smith_test_2 	-->	 Kames
+Smith_test_3 	-->	 Kames
+Smith_test_4 	-->	 Kames
+Smith_test_7 	-->	 Kames
+Smith_test_10 	-->	 Ferg
+Smith_test_13 	-->	 Kames
+Smith_test_14 	-->	 Kames
+Smith_test_16 	-->	 Kames
+Smith_test_17 	-->	 Kames
+Smith_test_22 	-->	 Hume
+
+800 MFW , culled @ 0%,  33 of 69	(47.8%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Kames
+EB_History_2 	-->	 Kames
+EB_History_3 	-->	 Kames
+EB_History_4 	-->	 Kames
+EB_History_5 	-->	 Kames
+Ferg_test_3 	-->	 Blair
+Ferg_test_4 	-->	 Kames
+Ferg_test_5 	-->	 Kames
+Ferg_test_6 	-->	 Kames
+Ferg_test_7 	-->	 Kames
+Ferg_test_9 	-->	 Kames
+Ferg_test_10 	-->	 Kames
+Ferg_test_11 	-->	 Kames
+Ferg_test_13 	-->	 Kames
+Ferg_test_14 	-->	 Kames
+Ferg_test_15 	-->	 Kames
+Hume_test_2 	-->	 Kames
+Hume_test_3 	-->	 Kames
+Hume_test_4 	-->	 Kames
+Hume_test_5 	-->	 Kames
+Hume_test_6 	-->	 Kames
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Kames
+Hume_test_9 	-->	 Kames
+Hume_test_10 	-->	 Kames
+Hume_test_11 	-->	 Kames
+Hume_test_12 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Kames
+sister_peg_checked_1 	-->	 Kames
+sister_peg_checked_2 	-->	 Kames
+sister_peg_checked_3 	-->	 Ferg
+Smith_test_1 	-->	 Kames
+Smith_test_2 	-->	 Kames
+Smith_test_3 	-->	 Kames
+Smith_test_4 	-->	 Kames
+Smith_test_5 	-->	 Hume
+Smith_test_6 	-->	 Kames
+Smith_test_7 	-->	 Kames
+Smith_test_8 	-->	 Kames
+Smith_test_9 	-->	 Kames
+Smith_test_10 	-->	 Kames
+Smith_test_11 	-->	 Kames
+Smith_test_13 	-->	 Kames
+Smith_test_16 	-->	 Kames
+Smith_test_17 	-->	 Kames
+Smith_test_20 	-->	 Hume
+Smith_test_22 	-->	 Hume
+
+900 MFW , culled @ 0%,  28 of 69	(40.6%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Kames
+EB_History_2 	-->	 Kames
+EB_History_3 	-->	 Kames
+EB_History_4 	-->	 Kames
+EB_History_5 	-->	 Kames
+Ferg_test_1 	-->	 Blair
+Ferg_test_3 	-->	 Blair
+Ferg_test_4 	-->	 Kames
+Ferg_test_5 	-->	 Kames
+Ferg_test_6 	-->	 Kames
+Ferg_test_7 	-->	 Kames
+Ferg_test_9 	-->	 Kames
+Ferg_test_10 	-->	 Kames
+Ferg_test_11 	-->	 Kames
+Ferg_test_12 	-->	 Kames
+Ferg_test_14 	-->	 Kames
+Ferg_test_15 	-->	 Kames
+Hume_test_2 	-->	 Kames
+Hume_test_3 	-->	 Kames
+Hume_test_4 	-->	 Kames
+Hume_test_5 	-->	 Kames
+Hume_test_6 	-->	 Kames
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Kames
+Hume_test_9 	-->	 Kames
+Hume_test_10 	-->	 Kames
+Hume_test_11 	-->	 Kames
+Hume_test_12 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Kames
+sister_peg_checked_1 	-->	 Kames
+sister_peg_checked_2 	-->	 Kames
+sister_peg_checked_3 	-->	 Ferg
+Smith_test_1 	-->	 Kames
+Smith_test_2 	-->	 Kames
+Smith_test_3 	-->	 Kames
+Smith_test_4 	-->	 Kames
+Smith_test_5 	-->	 Kames
+Smith_test_6 	-->	 Kames
+Smith_test_7 	-->	 Kames
+Smith_test_8 	-->	 Kames
+Smith_test_9 	-->	 Kames
+Smith_test_10 	-->	 Kames
+Smith_test_11 	-->	 Kames
+Smith_test_12 	-->	 Kames
+Smith_test_13 	-->	 Kames
+Smith_test_16 	-->	 Kames
+Smith_test_17 	-->	 Kames
+Smith_test_20 	-->	 Hume
+Smith_test_22 	-->	 Hume
+
+1000 MFW , culled @ 0%,  26 of 69	(37.7%)
+
+General attributive success:  411 of 690 (59.6%)
+
+MFWs from 100 to 1000 @ increment 100
+Culling from 0 to 0 @ increment 10
+Pronouns deleted: FALSE
+

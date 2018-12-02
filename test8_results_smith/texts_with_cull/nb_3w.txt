@@ -1,0 +1,512 @@
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Hume
+
+100 MFW , culled @ 0%,  5 of 8	(62.5%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+
+200 MFW , culled @ 0%,  7 of 8	(87.5%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+300 MFW , culled @ 0%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+400 MFW , culled @ 0%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+500 MFW , culled @ 0%,  5 of 8	(62.5%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+
+600 MFW , culled @ 0%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+
+700 MFW , culled @ 0%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+800 MFW , culled @ 0%,  5 of 8	(62.5%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+900 MFW , culled @ 0%,  5 of 8	(62.5%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+1000 MFW , culled @ 0%,  5 of 8	(62.5%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Hume
+
+100 MFW , culled @ 10%,  5 of 8	(62.5%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+
+200 MFW , culled @ 10%,  7 of 8	(87.5%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+300 MFW , culled @ 10%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+400 MFW , culled @ 10%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+
+500 MFW , culled @ 10%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+
+600 MFW , culled @ 10%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+
+700 MFW , culled @ 10%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+800 MFW , culled @ 10%,  5 of 8	(62.5%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+900 MFW , culled @ 10%,  5 of 8	(62.5%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+1000 MFW , culled @ 10%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Hume
+
+100 MFW , culled @ 20%,  5 of 8	(62.5%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+
+200 MFW , culled @ 20%,  7 of 8	(87.5%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+300 MFW , culled @ 20%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+
+400 MFW , culled @ 20%,  7 of 8	(87.5%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+500 MFW , culled @ 20%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+600 MFW , culled @ 20%,  5 of 8	(62.5%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+700 MFW , culled @ 20%,  5 of 8	(62.5%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+800 MFW , culled @ 20%,  5 of 8	(62.5%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+900 MFW , culled @ 20%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+
+1000 MFW , culled @ 20%,  7 of 8	(87.5%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Hume
+
+100 MFW , culled @ 30%,  5 of 8	(62.5%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+
+200 MFW , culled @ 30%,  7 of 8	(87.5%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+300 MFW , culled @ 30%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+400 MFW , culled @ 30%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Ferguson
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+500 MFW , culled @ 30%,  5 of 8	(62.5%)
+
+
+
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Ferguson
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+600 MFW , culled @ 30%,  5 of 8	(62.5%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+700 MFW , culled @ 30%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+800 MFW , culled @ 30%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+900 MFW , culled @ 30%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+1000 MFW , culled @ 30%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+100 MFW , culled @ 40%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+200 MFW , culled @ 40%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+Smith_292801100_tcp 	-->	 Ferguson
+Smith_803500701_tcp 	-->	 Ferguson
+
+300 MFW , culled @ 40%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+400 MFW , culled @ 40%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+500 MFW , culled @ 40%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+600 MFW , culled @ 40%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+700 MFW , culled @ 40%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+800 MFW , culled @ 40%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+900 MFW , culled @ 40%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Hume
+
+1000 MFW , culled @ 40%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+100 MFW , culled @ 50%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+200 MFW , culled @ 50%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Hume
+
+300 MFW , culled @ 50%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Hume
+
+400 MFW , culled @ 50%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_dialogues_from_manuscript_edited 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Hume
+
+500 MFW , culled @ 50%,  5 of 8	(62.5%)
+
+General attributive success:  320 of 440 (72.7%)
+
+MFWs from 100 to 1000 @ increment 100
+Culling from 0 to 50 @ increment 10
+Pronouns deleted: FALSE
+

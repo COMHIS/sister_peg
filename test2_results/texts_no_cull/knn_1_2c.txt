@@ -1,0 +1,70 @@
+
+
+
+Ferguson_1767_Civil_Society_4610 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+100 MFW , culled @ 0%,  5 of 6	(83.3%)
+
+
+
+Ferguson_1767_Civil_Society_4610 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+200 MFW , culled @ 0%,  5 of 6	(83.3%)
+
+
+
+Ferguson_1767_Civil_Society_4610 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+300 MFW , culled @ 0%,  5 of 6	(83.3%)
+
+
+
+Ferguson_1767_Civil_Society_4610 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+400 MFW , culled @ 0%,  5 of 6	(83.3%)
+
+
+
+Ferguson_1767_Civil_Society_4610 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+500 MFW , culled @ 0%,  5 of 6	(83.3%)
+
+
+
+Ferguson_1767_Civil_Society_4610 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+600 MFW , culled @ 0%,  5 of 6	(83.3%)
+
+
+
+Ferguson_1767_Civil_Society_4610 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+700 MFW , culled @ 0%,  5 of 6	(83.3%)
+
+
+
+Ferguson_1767_Civil_Society_4610 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+800 MFW , culled @ 0%,  5 of 6	(83.3%)
+
+
+
+Ferguson_1767_Civil_Society_4610 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+900 MFW , culled @ 0%,  5 of 6	(83.3%)
+
+General attributive success:  45 of 54 (83.3%)
+
+MFWs from 100 to 1000 @ increment 100
+Culling from 0 to 0 @ increment 10
+Pronouns deleted: FALSE
+

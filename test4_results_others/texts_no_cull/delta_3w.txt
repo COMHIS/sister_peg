@@ -1,0 +1,138 @@
+
+
+
+Addison_72502400_tcp 	-->	 Lennox
+Blair_Wrath_of_Man_praising_GOD 	-->	 Addison
+Carlyle_Liberal_education_OCR 	-->	 Lennox
+Carlyle_Sermon_Death_Dalrymple_OCR 	-->	 Addison
+EB_History 	-->	 Blair
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Addison
+Macpherson_143004000_tcp 	-->	 Lennox
+sister_peg_checked 	-->	 Lennox
+
+100 MFW , culled @ 0%,  18 of 24	(75%)
+
+
+
+Addison_374801900_tcp 	-->	 Lennox
+Addison_72502400_tcp 	-->	 Lennox
+Blair_Wrath_of_Man_praising_GOD 	-->	 Addison
+Carlyle_Liberal_education_OCR 	-->	 Lennox
+Carlyle_Sermon_Death_Dalrymple_OCR 	-->	 Addison
+EB_History 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Lennox
+Hume_Archibald_Stewart 	-->	 Lennox
+Macpherson_143004000_tcp 	-->	 Lennox
+sister_peg_checked 	-->	 Lennox
+
+200 MFW , culled @ 0%,  16 of 24	(66.7%)
+
+
+
+Addison_72502400_tcp 	-->	 Macpherson
+Blair_Duties_Young_OCR 	-->	 Addison
+Blair_Wrath_of_Man_praising_GOD 	-->	 Addison
+Carlyle_Liberal_education_OCR 	-->	 Lennox
+Carlyle_Sermon_Death_Dalrymple_OCR 	-->	 Addison
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Addison
+Hume_An_Abstract_of_a_book 	-->	 Lennox
+Hume_Archibald_Stewart 	-->	 Addison
+Macpherson_143004000_tcp 	-->	 Addison
+sister_peg_checked 	-->	 Lennox
+
+300 MFW , culled @ 0%,  15 of 24	(62.5%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Addison
+Blair_Wrath_of_Man_praising_GOD 	-->	 Addison
+Carlyle_Liberal_education_OCR 	-->	 Lennox
+Carlyle_Sermon_Death_Dalrymple_OCR 	-->	 Addison
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Addison
+Hume_Archibald_Stewart 	-->	 Lennox
+Macpherson_143004000_tcp 	-->	 Addison
+sister_peg_checked 	-->	 Lennox
+
+400 MFW , culled @ 0%,  17 of 24	(70.8%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Addison
+Blair_Wrath_of_Man_praising_GOD 	-->	 Addison
+Burke_414301200_tcp 	-->	 Macpherson
+Carlyle_Liberal_education_OCR 	-->	 Addison
+Carlyle_Sermon_Death_Dalrymple_OCR 	-->	 Addison
+EB_History 	-->	 Hume
+Ferguson_dialogues_from_manuscript_edited 	-->	 Addison
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Addison
+Hume_An_Abstract_of_a_book 	-->	 Addison
+Hume_Archibald_Stewart 	-->	 Lennox
+Macpherson_143004000_tcp 	-->	 Addison
+sister_peg_checked 	-->	 Lennox
+
+500 MFW , culled @ 0%,  14 of 24	(58.3%)
+
+
+
+Addison_72502400_tcp 	-->	 Macpherson
+Blair_Duties_Young_OCR 	-->	 Addison
+Blair_Wrath_of_Man_praising_GOD 	-->	 Lennox
+Burke_414301200_tcp 	-->	 Lennox
+Burke_691602000_tcp 	-->	 Addison
+Carlyle_Liberal_education_OCR 	-->	 Addison
+Carlyle_Sermon_Death_Dalrymple_OCR 	-->	 Addison
+EB_History 	-->	 Hume
+Ferguson_dialogues_from_manuscript_edited 	-->	 Lennox
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Addison
+Hume_An_Abstract_of_a_book 	-->	 Addison
+Hume_Archibald_Stewart 	-->	 Lennox
+Macpherson_143004000_tcp 	-->	 Addison
+sister_peg_checked 	-->	 Lennox
+
+600 MFW , culled @ 0%,  12 of 24	(50%)
+
+
+
+Addison_72502400_tcp 	-->	 Lennox
+Blair_Duties_Young_OCR 	-->	 Addison
+Blair_Wrath_of_Man_praising_GOD 	-->	 Addison
+Burke_414301200_tcp 	-->	 Lennox
+Burke_691602000_tcp 	-->	 Addison
+Carlyle_Liberal_education_OCR 	-->	 Lennox
+Carlyle_Sermon_Death_Dalrymple_OCR 	-->	 Addison
+EB_History 	-->	 Hume
+Ferguson_dialogues_from_manuscript_edited 	-->	 Lennox
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Addison
+Hume_An_Abstract_of_a_book 	-->	 Lennox
+Hume_Archibald_Stewart 	-->	 Lennox
+Macpherson_143004000_tcp 	-->	 Lennox
+sister_peg_checked 	-->	 Lennox
+
+700 MFW , culled @ 0%,  12 of 24	(50%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Addison
+Blair_Wrath_of_Man_praising_GOD 	-->	 Addison
+Burke_414301200_tcp 	-->	 Lennox
+Burke_691602000_tcp 	-->	 Addison
+Carlyle_Liberal_education_OCR 	-->	 Lennox
+Carlyle_Sermon_Death_Dalrymple_OCR 	-->	 Addison
+EB_History 	-->	 Hume
+Ferguson_dialogues_from_manuscript_edited 	-->	 Addison
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Addison
+Hume_An_Abstract_of_a_book 	-->	 Addison
+Hume_Archibald_Stewart 	-->	 Addison
+Macpherson_143004000_tcp 	-->	 Addison
+sister_peg_checked 	-->	 Lennox
+
+800 MFW , culled @ 0%,  13 of 24	(54.2%)
+
+General attributive success:  117 of 192 (60.9%)
+
+MFWs from 100 to 800 @ increment 100
+Culling from 0 to 0 @ increment 10
+Pronouns deleted: FALSE
+

@@ -1,0 +1,1619 @@
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Blair
+Ferg_test_2 	-->	 Blair
+Ferg_test_14 	-->	 Kames
+Ferg_test_15 	-->	 Kames
+Hume_test_1 	-->	 Blair
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Blair
+
+100 MFW , culled @ 0%,  58 of 69	(84.1%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_2 	-->	 Blair
+Ferg_test_14 	-->	 Kames
+Ferg_test_15 	-->	 Kames
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_7 	-->	 Blair
+Hume_test_8 	-->	 Blair
+Hume_test_9 	-->	 Blair
+Hume_test_10 	-->	 Blair
+Hume_test_13 	-->	 Blair
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Blair
+
+200 MFW , culled @ 0%,  53 of 69	(76.8%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_10 	-->	 Carlyle
+Ferg_test_14 	-->	 Kames
+Ferg_test_15 	-->	 Kames
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Blair
+Hume_test_9 	-->	 Blair
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+300 MFW , culled @ 0%,  53 of 69	(76.8%)
+
+
+
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_2 	-->	 Blair
+Ferg_test_10 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Ferg_test_15 	-->	 Kames
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Blair
+Hume_test_9 	-->	 Blair
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+400 MFW , culled @ 0%,  53 of 69	(76.8%)
+
+
+
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Blair
+Hume_test_9 	-->	 Blair
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+500 MFW , culled @ 0%,  56 of 69	(81.2%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Blair
+Hume_test_9 	-->	 Blair
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+600 MFW , culled @ 0%,  55 of 69	(79.7%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Kames
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Carlyle
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+700 MFW , culled @ 0%,  56 of 69	(81.2%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Kames
+Hume_test_6 	-->	 Kames
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Carlyle
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+800 MFW , culled @ 0%,  56 of 69	(81.2%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Kames
+Hume_test_6 	-->	 Kames
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Carlyle
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+900 MFW , culled @ 0%,  56 of 69	(81.2%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Carlyle
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Kames
+Hume_test_6 	-->	 Kames
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Carlyle
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+1000 MFW , culled @ 0%,  56 of 69	(81.2%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Blair
+Ferg_test_2 	-->	 Blair
+Ferg_test_14 	-->	 Kames
+Ferg_test_15 	-->	 Kames
+Hume_test_1 	-->	 Blair
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Blair
+
+100 MFW , culled @ 10%,  58 of 69	(84.1%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_2 	-->	 Blair
+Ferg_test_14 	-->	 Kames
+Ferg_test_15 	-->	 Kames
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_7 	-->	 Blair
+Hume_test_8 	-->	 Blair
+Hume_test_9 	-->	 Blair
+Hume_test_10 	-->	 Blair
+Hume_test_13 	-->	 Blair
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Blair
+
+200 MFW , culled @ 10%,  53 of 69	(76.8%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_10 	-->	 Carlyle
+Ferg_test_14 	-->	 Kames
+Ferg_test_15 	-->	 Kames
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Blair
+Hume_test_9 	-->	 Blair
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+300 MFW , culled @ 10%,  53 of 69	(76.8%)
+
+
+
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_2 	-->	 Blair
+Ferg_test_10 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Ferg_test_15 	-->	 Kames
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Blair
+Hume_test_9 	-->	 Blair
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+400 MFW , culled @ 10%,  53 of 69	(76.8%)
+
+
+
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Blair
+Hume_test_9 	-->	 Blair
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+500 MFW , culled @ 10%,  56 of 69	(81.2%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Blair
+Hume_test_9 	-->	 Blair
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+600 MFW , culled @ 10%,  55 of 69	(79.7%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Kames
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Carlyle
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+700 MFW , culled @ 10%,  56 of 69	(81.2%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Kames
+Hume_test_6 	-->	 Kames
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Carlyle
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+800 MFW , culled @ 10%,  56 of 69	(81.2%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Kames
+Hume_test_6 	-->	 Kames
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Carlyle
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+900 MFW , culled @ 10%,  56 of 69	(81.2%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Carlyle
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Kames
+Hume_test_6 	-->	 Kames
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Carlyle
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+1000 MFW , culled @ 10%,  56 of 69	(81.2%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Blair
+Ferg_test_2 	-->	 Blair
+Ferg_test_14 	-->	 Kames
+Ferg_test_15 	-->	 Kames
+Hume_test_1 	-->	 Blair
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Blair
+
+100 MFW , culled @ 20%,  58 of 69	(84.1%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_2 	-->	 Blair
+Ferg_test_14 	-->	 Kames
+Ferg_test_15 	-->	 Kames
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_7 	-->	 Blair
+Hume_test_8 	-->	 Blair
+Hume_test_9 	-->	 Blair
+Hume_test_10 	-->	 Blair
+Hume_test_13 	-->	 Blair
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Blair
+
+200 MFW , culled @ 20%,  53 of 69	(76.8%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_10 	-->	 Carlyle
+Ferg_test_14 	-->	 Kames
+Ferg_test_15 	-->	 Kames
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Blair
+Hume_test_9 	-->	 Blair
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+300 MFW , culled @ 20%,  53 of 69	(76.8%)
+
+
+
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_2 	-->	 Blair
+Ferg_test_10 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Ferg_test_15 	-->	 Kames
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Blair
+Hume_test_9 	-->	 Blair
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+400 MFW , culled @ 20%,  53 of 69	(76.8%)
+
+
+
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Blair
+Hume_test_9 	-->	 Blair
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+500 MFW , culled @ 20%,  56 of 69	(81.2%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Blair
+Hume_test_9 	-->	 Blair
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+600 MFW , culled @ 20%,  55 of 69	(79.7%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Kames
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Carlyle
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+700 MFW , culled @ 20%,  56 of 69	(81.2%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Kames
+Hume_test_6 	-->	 Kames
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Carlyle
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+800 MFW , culled @ 20%,  56 of 69	(81.2%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Kames
+Hume_test_6 	-->	 Kames
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Carlyle
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+900 MFW , culled @ 20%,  56 of 69	(81.2%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Carlyle
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Kames
+Hume_test_6 	-->	 Kames
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Carlyle
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+1000 MFW , culled @ 20%,  56 of 69	(81.2%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Blair
+Ferg_test_2 	-->	 Blair
+Ferg_test_14 	-->	 Kames
+Ferg_test_15 	-->	 Kames
+Hume_test_1 	-->	 Blair
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Blair
+
+100 MFW , culled @ 30%,  58 of 69	(84.1%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_2 	-->	 Blair
+Ferg_test_14 	-->	 Kames
+Ferg_test_15 	-->	 Kames
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_7 	-->	 Blair
+Hume_test_8 	-->	 Blair
+Hume_test_9 	-->	 Blair
+Hume_test_10 	-->	 Blair
+Hume_test_13 	-->	 Blair
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Blair
+
+200 MFW , culled @ 30%,  53 of 69	(76.8%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_10 	-->	 Carlyle
+Ferg_test_14 	-->	 Kames
+Ferg_test_15 	-->	 Kames
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Blair
+Hume_test_9 	-->	 Blair
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+300 MFW , culled @ 30%,  53 of 69	(76.8%)
+
+
+
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_2 	-->	 Blair
+Ferg_test_10 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Ferg_test_15 	-->	 Kames
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Blair
+Hume_test_9 	-->	 Blair
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+400 MFW , culled @ 30%,  53 of 69	(76.8%)
+
+
+
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Blair
+Hume_test_9 	-->	 Blair
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+500 MFW , culled @ 30%,  56 of 69	(81.2%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Blair
+Hume_test_9 	-->	 Blair
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+600 MFW , culled @ 30%,  55 of 69	(79.7%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Kames
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Carlyle
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+700 MFW , culled @ 30%,  56 of 69	(81.2%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Kames
+Hume_test_6 	-->	 Kames
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Carlyle
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+800 MFW , culled @ 30%,  56 of 69	(81.2%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Kames
+Hume_test_6 	-->	 Kames
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Carlyle
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+900 MFW , culled @ 30%,  56 of 69	(81.2%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Carlyle
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Kames
+Hume_test_6 	-->	 Kames
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Carlyle
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+1000 MFW , culled @ 30%,  56 of 69	(81.2%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Blair
+Ferg_test_2 	-->	 Blair
+Ferg_test_14 	-->	 Kames
+Ferg_test_15 	-->	 Kames
+Hume_test_1 	-->	 Blair
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Blair
+
+100 MFW , culled @ 40%,  58 of 69	(84.1%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_2 	-->	 Blair
+Ferg_test_14 	-->	 Kames
+Ferg_test_15 	-->	 Kames
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_7 	-->	 Blair
+Hume_test_8 	-->	 Blair
+Hume_test_9 	-->	 Blair
+Hume_test_10 	-->	 Blair
+Hume_test_13 	-->	 Blair
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Blair
+
+200 MFW , culled @ 40%,  53 of 69	(76.8%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_10 	-->	 Carlyle
+Ferg_test_14 	-->	 Kames
+Ferg_test_15 	-->	 Kames
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Blair
+Hume_test_9 	-->	 Blair
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+300 MFW , culled @ 40%,  53 of 69	(76.8%)
+
+
+
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_2 	-->	 Blair
+Ferg_test_10 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Ferg_test_15 	-->	 Kames
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Blair
+Hume_test_9 	-->	 Blair
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+400 MFW , culled @ 40%,  53 of 69	(76.8%)
+
+
+
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Blair
+Hume_test_9 	-->	 Blair
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+500 MFW , culled @ 40%,  56 of 69	(81.2%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Blair
+Hume_test_9 	-->	 Blair
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+600 MFW , culled @ 40%,  55 of 69	(79.7%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Kames
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Blair
+Hume_test_9 	-->	 Blair
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+700 MFW , culled @ 40%,  55 of 69	(79.7%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Kames
+Hume_test_6 	-->	 Kames
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Carlyle
+Hume_test_9 	-->	 Smith
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+800 MFW , culled @ 40%,  55 of 69	(79.7%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Kames
+Hume_test_6 	-->	 Kames
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Carlyle
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+900 MFW , culled @ 40%,  56 of 69	(81.2%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Carlyle
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Kames
+Hume_test_6 	-->	 Kames
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Carlyle
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+1000 MFW , culled @ 40%,  56 of 69	(81.2%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Blair
+Ferg_test_2 	-->	 Blair
+Ferg_test_14 	-->	 Kames
+Ferg_test_15 	-->	 Kames
+Hume_test_1 	-->	 Blair
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Blair
+
+100 MFW , culled @ 50%,  58 of 69	(84.1%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_2 	-->	 Blair
+Ferg_test_14 	-->	 Kames
+Ferg_test_15 	-->	 Kames
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_7 	-->	 Blair
+Hume_test_8 	-->	 Blair
+Hume_test_9 	-->	 Blair
+Hume_test_10 	-->	 Blair
+Hume_test_13 	-->	 Blair
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Blair
+
+200 MFW , culled @ 50%,  53 of 69	(76.8%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_10 	-->	 Carlyle
+Ferg_test_14 	-->	 Kames
+Ferg_test_15 	-->	 Kames
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Blair
+Hume_test_9 	-->	 Blair
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+300 MFW , culled @ 50%,  53 of 69	(76.8%)
+
+
+
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_2 	-->	 Blair
+Ferg_test_10 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Ferg_test_15 	-->	 Kames
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Blair
+Hume_test_9 	-->	 Blair
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+400 MFW , culled @ 50%,  53 of 69	(76.8%)
+
+
+
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Blair
+Hume_test_9 	-->	 Blair
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+500 MFW , culled @ 50%,  56 of 69	(81.2%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Blair
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Blair
+Hume_test_9 	-->	 Blair
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+600 MFW , culled @ 50%,  55 of 69	(79.7%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Blair
+Hume_test_6 	-->	 Kames
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Blair
+Hume_test_9 	-->	 Blair
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+700 MFW , culled @ 50%,  55 of 69	(79.7%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Kames
+Hume_test_6 	-->	 Kames
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Carlyle
+Hume_test_9 	-->	 Smith
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+800 MFW , culled @ 50%,  55 of 69	(79.7%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Blair
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Kames
+Hume_test_6 	-->	 Kames
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Carlyle
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+900 MFW , culled @ 50%,  56 of 69	(81.2%)
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Carlyle
+Ferg_test_14 	-->	 Blair
+Hume_test_1 	-->	 Carlyle
+Hume_test_2 	-->	 Carlyle
+Hume_test_3 	-->	 Blair
+Hume_test_4 	-->	 Blair
+Hume_test_5 	-->	 Kames
+Hume_test_6 	-->	 Kames
+Hume_test_7 	-->	 Kames
+Hume_test_8 	-->	 Carlyle
+Hume_test_10 	-->	 Kames
+Hume_test_13 	-->	 Kames
+Hume_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Blair
+
+1000 MFW , culled @ 50%,  56 of 69	(81.2%)
+
+General attributive success:  3308 of 4140 (79.9%)
+
+MFWs from 100 to 1000 @ increment 100
+Culling from 0 to 50 @ increment 10
+Pronouns deleted: FALSE
+

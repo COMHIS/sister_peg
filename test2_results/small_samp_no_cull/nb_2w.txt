@@ -1,0 +1,268 @@
+
+
+
+Hume_test_1 	-->	 Ferg
+Hume_test_2 	-->	 Ferg
+Hume_test_3 	-->	 Ferg
+Hume_test_7 	-->	 Ferg
+Hume_test_8 	-->	 Ferg
+Hume_test_11 	-->	 Ferg
+Hume_test_13 	-->	 Ferg
+Hume_test_15 	-->	 Ferg
+Hume_test_18 	-->	 Ferg
+Hume_test_21 	-->	 Ferg
+Hume_test_29 	-->	 Ferg
+Hume_test_41 	-->	 Ferg
+Hume_test_50 	-->	 Ferg
+Hume_test_53 	-->	 Ferg
+Hume_test_56 	-->	 Ferg
+sister_peg_checked_1 	-->	 Ferg
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Ferg
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Ferg
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Ferg
+sister_peg_checked_10 	-->	 Ferg
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+100 MFW , culled @ 0%,  101 of 116	(87.1%)
+
+
+
+Hume_test_1 	-->	 Ferg
+Hume_test_11 	-->	 Ferg
+Hume_test_12 	-->	 Ferg
+Hume_test_13 	-->	 Ferg
+Hume_test_15 	-->	 Ferg
+Hume_test_16 	-->	 Ferg
+Hume_test_18 	-->	 Ferg
+Hume_test_21 	-->	 Ferg
+Hume_test_22 	-->	 Ferg
+Hume_test_24 	-->	 Ferg
+Hume_test_27 	-->	 Ferg
+Hume_test_28 	-->	 Ferg
+Hume_test_29 	-->	 Ferg
+Hume_test_34 	-->	 Ferg
+Hume_test_36 	-->	 Ferg
+Hume_test_37 	-->	 Ferg
+Hume_test_41 	-->	 Ferg
+Hume_test_43 	-->	 Ferg
+Hume_test_50 	-->	 Ferg
+Hume_test_53 	-->	 Ferg
+Hume_test_56 	-->	 Ferg
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Ferg
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Ferg
+sister_peg_checked_8 	-->	 Ferg
+sister_peg_checked_9 	-->	 Ferg
+sister_peg_checked_10 	-->	 Ferg
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+200 MFW , culled @ 0%,  95 of 116	(81.9%)
+
+
+
+Hume_test_12 	-->	 Ferg
+Hume_test_18 	-->	 Ferg
+Hume_test_27 	-->	 Ferg
+Hume_test_28 	-->	 Ferg
+Hume_test_29 	-->	 Ferg
+Hume_test_43 	-->	 Ferg
+Hume_test_53 	-->	 Ferg
+Hume_test_56 	-->	 Ferg
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Ferg
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Ferg
+sister_peg_checked_10 	-->	 Ferg
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+300 MFW , culled @ 0%,  108 of 116	(93.1%)
+
+
+
+Ferg_test_20 	-->	 Hume
+Hume_test_9 	-->	 Ferg
+Hume_test_16 	-->	 Ferg
+Hume_test_18 	-->	 Ferg
+Hume_test_21 	-->	 Ferg
+Hume_test_22 	-->	 Ferg
+Hume_test_24 	-->	 Ferg
+Hume_test_25 	-->	 Ferg
+Hume_test_27 	-->	 Ferg
+Hume_test_28 	-->	 Ferg
+Hume_test_43 	-->	 Ferg
+Hume_test_50 	-->	 Ferg
+Hume_test_53 	-->	 Ferg
+Hume_test_56 	-->	 Ferg
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Ferg
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Ferg
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+400 MFW , culled @ 0%,  102 of 116	(87.9%)
+
+
+
+Ferg_test_20 	-->	 Hume
+Ferg_test_29 	-->	 Hume
+Hume_test_9 	-->	 Ferg
+Hume_test_15 	-->	 Ferg
+Hume_test_16 	-->	 Ferg
+Hume_test_18 	-->	 Ferg
+Hume_test_21 	-->	 Ferg
+Hume_test_37 	-->	 Ferg
+Hume_test_43 	-->	 Ferg
+Hume_test_56 	-->	 Ferg
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Ferg
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Ferg
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+500 MFW , culled @ 0%,  106 of 116	(91.4%)
+
+
+
+Ferg_test_20 	-->	 Hume
+Hume_test_9 	-->	 Ferg
+Hume_test_16 	-->	 Ferg
+Hume_test_18 	-->	 Ferg
+Hume_test_21 	-->	 Ferg
+Hume_test_56 	-->	 Ferg
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Ferg
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Ferg
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+600 MFW , culled @ 0%,  110 of 116	(94.8%)
+
+
+
+Ferg_test_20 	-->	 Hume
+Hume_test_9 	-->	 Ferg
+Hume_test_16 	-->	 Ferg
+Hume_test_18 	-->	 Ferg
+Hume_test_21 	-->	 Ferg
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Ferg
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Ferg
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+700 MFW , culled @ 0%,  111 of 116	(95.7%)
+
+
+
+Ferg_test_20 	-->	 Hume
+Ferg_test_29 	-->	 Hume
+Hume_test_9 	-->	 Ferg
+Hume_test_16 	-->	 Ferg
+Hume_test_18 	-->	 Ferg
+Hume_test_21 	-->	 Ferg
+Hume_test_37 	-->	 Ferg
+sister_peg_checked_1 	-->	 Ferg
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Ferg
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Ferg
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+800 MFW , culled @ 0%,  109 of 116	(94%)
+
+
+
+Ferg_test_25 	-->	 Hume
+Ferg_test_29 	-->	 Hume
+Hume_test_9 	-->	 Ferg
+sister_peg_checked_1 	-->	 Ferg
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Ferg
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Ferg
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+900 MFW , culled @ 0%,  113 of 116	(97.4%)
+
+
+
+Ferg_test_25 	-->	 Hume
+Hume_test_9 	-->	 Ferg
+sister_peg_checked_1 	-->	 Ferg
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Ferg
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Ferg
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Ferg
+
+1000 MFW , culled @ 0%,  114 of 116	(98.3%)
+
+General attributive success:  1069 of 1160 (92.2%)
+
+MFWs from 100 to 1000 @ increment 100
+Culling from 0 to 0 @ increment 10
+Pronouns deleted: FALSE
+

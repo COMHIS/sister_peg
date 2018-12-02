@@ -1,0 +1,87 @@
+
+
+
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Carlyle
+
+100 MFW , culled @ 0%,  30 of 30	(100%)
+
+
+
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Carlyle
+
+200 MFW , culled @ 0%,  30 of 30	(100%)
+
+
+
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Carlyle
+
+300 MFW , culled @ 0%,  30 of 30	(100%)
+
+
+
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Ferg
+
+400 MFW , culled @ 0%,  30 of 30	(100%)
+
+
+
+sister_peg_checked_1 	-->	 Ferg
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Ferg
+
+500 MFW , culled @ 0%,  30 of 30	(100%)
+
+
+
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Ferg
+
+600 MFW , culled @ 0%,  30 of 30	(100%)
+
+
+
+sister_peg_checked_1 	-->	 Carlyle
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Ferg
+
+700 MFW , culled @ 0%,  30 of 30	(100%)
+
+
+
+sister_peg_checked_1 	-->	 Ferg
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Ferg
+
+800 MFW , culled @ 0%,  30 of 30	(100%)
+
+
+
+sister_peg_checked_1 	-->	 Ferg
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Ferg
+
+900 MFW , culled @ 0%,  30 of 30	(100%)
+
+
+
+sister_peg_checked_1 	-->	 Ferg
+sister_peg_checked_2 	-->	 Carlyle
+sister_peg_checked_3 	-->	 Ferg
+
+1000 MFW , culled @ 0%,  30 of 30	(100%)
+
+General attributive success:  300 of 300 (100%)
+
+MFWs from 100 to 1000 @ increment 100
+Culling from 0 to 0 @ increment 10
+Pronouns deleted: FALSE
+

@@ -1,0 +1,2761 @@
+
+
+
+EB_History_1 	-->	 Ferg
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Hume
+EB_History_12 	-->	 Smith
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Smith
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Hume
+EB_History_20 	-->	 Hume
+EB_History_21 	-->	 Hume
+EB_History_22 	-->	 Ferg
+Ferg_test_5 	-->	 Hume
+Ferg_test_8 	-->	 Hume
+Ferg_test_9 	-->	 Hume
+Ferg_test_11 	-->	 Hume
+Ferg_test_14 	-->	 Hume
+Ferg_test_19 	-->	 Hume
+Ferg_test_20 	-->	 Hume
+Ferg_test_23 	-->	 Hume
+Ferg_test_24 	-->	 Hume
+Ferg_test_26 	-->	 Hume
+Ferg_test_34 	-->	 Hume
+Ferg_test_41 	-->	 Hume
+Ferg_test_44 	-->	 Hume
+Ferg_test_48 	-->	 Hume
+Ferg_test_60 	-->	 Hume
+Hume_test_2 	-->	 Ferg
+Hume_test_7 	-->	 Ferg
+Hume_test_8 	-->	 Smith
+Hume_test_11 	-->	 Ferg
+Hume_test_33 	-->	 Smith
+Hume_test_38 	-->	 Ferg
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Hume
+Smith_test_2 	-->	 Hume
+Smith_test_6 	-->	 Ferg
+Smith_test_10 	-->	 Hume
+Smith_test_18 	-->	 Ferg
+Smith_test_20 	-->	 Ferg
+Smith_test_25 	-->	 Ferg
+Smith_test_28 	-->	 Ferg
+Smith_test_29 	-->	 Hume
+Smith_test_47 	-->	 Ferg
+Smith_test_85 	-->	 Hume
+Smith_test_89 	-->	 Ferg
+
+100 MFW , culled @ 0%,  178 of 210	(84.8%)
+
+
+
+EB_History_1 	-->	 Ferg
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Ferg
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Hume
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Ferg
+EB_History_20 	-->	 Hume
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_2 	-->	 Ferg
+Hume_test_3 	-->	 Ferg
+Hume_test_23 	-->	 Ferg
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Hume
+Smith_test_25 	-->	 Ferg
+Smith_test_28 	-->	 Ferg
+Smith_test_29 	-->	 Ferg
+Smith_test_89 	-->	 Ferg
+
+200 MFW , culled @ 0%,  203 of 210	(96.7%)
+
+
+
+EB_History_1 	-->	 Ferg
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Hume
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Ferg
+EB_History_20 	-->	 Hume
+EB_History_21 	-->	 Hume
+EB_History_22 	-->	 Ferg
+Hume_test_2 	-->	 Ferg
+Hume_test_3 	-->	 Ferg
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Ferg
+Smith_test_29 	-->	 Ferg
+
+300 MFW , culled @ 0%,  205 of 210	(97.6%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Ferg
+EB_History_20 	-->	 Smith
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_2 	-->	 Ferg
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Ferg
+Smith_test_29 	-->	 Ferg
+
+400 MFW , culled @ 0%,  206 of 210	(98.1%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Ferg
+EB_History_20 	-->	 Hume
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_2 	-->	 Ferg
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Ferg
+
+500 MFW , culled @ 0%,  207 of 210	(98.6%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Ferg
+EB_History_20 	-->	 Hume
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_12 	-->	 Smith
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Ferg
+
+600 MFW , culled @ 0%,  207 of 210	(98.6%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Smith
+EB_History_20 	-->	 Smith
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_12 	-->	 Smith
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+700 MFW , culled @ 0%,  207 of 210	(98.6%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Smith
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Ferg
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Smith
+EB_History_20 	-->	 Smith
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_2 	-->	 Ferg
+Hume_test_12 	-->	 Smith
+Hume_test_13 	-->	 Smith
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+800 MFW , culled @ 0%,  205 of 210	(97.6%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Smith
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Ferg
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Ferg
+EB_History_19 	-->	 Smith
+EB_History_20 	-->	 Smith
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_2 	-->	 Ferg
+Hume_test_12 	-->	 Smith
+Hume_test_13 	-->	 Smith
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+900 MFW , culled @ 0%,  205 of 210	(97.6%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Ferg
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Ferg
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Ferg
+EB_History_19 	-->	 Smith
+EB_History_20 	-->	 Smith
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Smith
+Hume_test_2 	-->	 Ferg
+Hume_test_12 	-->	 Smith
+Hume_test_13 	-->	 Smith
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Ferg
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+1000 MFW , culled @ 0%,  205 of 210	(97.6%)
+
+
+
+EB_History_1 	-->	 Ferg
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Hume
+EB_History_12 	-->	 Smith
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Smith
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Hume
+EB_History_20 	-->	 Hume
+EB_History_21 	-->	 Hume
+EB_History_22 	-->	 Ferg
+Ferg_test_5 	-->	 Hume
+Ferg_test_8 	-->	 Hume
+Ferg_test_9 	-->	 Hume
+Ferg_test_11 	-->	 Hume
+Ferg_test_14 	-->	 Hume
+Ferg_test_19 	-->	 Hume
+Ferg_test_20 	-->	 Hume
+Ferg_test_23 	-->	 Hume
+Ferg_test_24 	-->	 Hume
+Ferg_test_26 	-->	 Hume
+Ferg_test_34 	-->	 Hume
+Ferg_test_41 	-->	 Hume
+Ferg_test_44 	-->	 Hume
+Ferg_test_48 	-->	 Hume
+Ferg_test_60 	-->	 Hume
+Hume_test_2 	-->	 Ferg
+Hume_test_7 	-->	 Ferg
+Hume_test_8 	-->	 Smith
+Hume_test_11 	-->	 Ferg
+Hume_test_33 	-->	 Smith
+Hume_test_38 	-->	 Ferg
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Hume
+Smith_test_2 	-->	 Hume
+Smith_test_6 	-->	 Ferg
+Smith_test_10 	-->	 Hume
+Smith_test_18 	-->	 Ferg
+Smith_test_20 	-->	 Ferg
+Smith_test_25 	-->	 Ferg
+Smith_test_28 	-->	 Ferg
+Smith_test_29 	-->	 Hume
+Smith_test_47 	-->	 Ferg
+Smith_test_85 	-->	 Hume
+Smith_test_89 	-->	 Ferg
+
+100 MFW , culled @ 10%,  178 of 210	(84.8%)
+
+
+
+EB_History_1 	-->	 Ferg
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Ferg
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Hume
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Ferg
+EB_History_20 	-->	 Hume
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_2 	-->	 Ferg
+Hume_test_3 	-->	 Ferg
+Hume_test_23 	-->	 Ferg
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Hume
+Smith_test_25 	-->	 Ferg
+Smith_test_28 	-->	 Ferg
+Smith_test_29 	-->	 Ferg
+Smith_test_89 	-->	 Ferg
+
+200 MFW , culled @ 10%,  203 of 210	(96.7%)
+
+
+
+EB_History_1 	-->	 Ferg
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Hume
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Ferg
+EB_History_20 	-->	 Hume
+EB_History_21 	-->	 Hume
+EB_History_22 	-->	 Ferg
+Hume_test_2 	-->	 Ferg
+Hume_test_3 	-->	 Ferg
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Ferg
+Smith_test_29 	-->	 Ferg
+
+300 MFW , culled @ 10%,  205 of 210	(97.6%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Ferg
+EB_History_20 	-->	 Smith
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_2 	-->	 Ferg
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Ferg
+Smith_test_29 	-->	 Ferg
+
+400 MFW , culled @ 10%,  206 of 210	(98.1%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Ferg
+EB_History_20 	-->	 Hume
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_2 	-->	 Ferg
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Ferg
+
+500 MFW , culled @ 10%,  207 of 210	(98.6%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Ferg
+EB_History_20 	-->	 Hume
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_12 	-->	 Smith
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Ferg
+
+600 MFW , culled @ 10%,  207 of 210	(98.6%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Smith
+EB_History_20 	-->	 Smith
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_12 	-->	 Smith
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+700 MFW , culled @ 10%,  207 of 210	(98.6%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Smith
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Ferg
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Smith
+EB_History_20 	-->	 Smith
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_2 	-->	 Ferg
+Hume_test_12 	-->	 Smith
+Hume_test_13 	-->	 Smith
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+800 MFW , culled @ 10%,  205 of 210	(97.6%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Smith
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Ferg
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Ferg
+EB_History_19 	-->	 Smith
+EB_History_20 	-->	 Smith
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_2 	-->	 Ferg
+Hume_test_12 	-->	 Smith
+Hume_test_13 	-->	 Smith
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+900 MFW , culled @ 10%,  205 of 210	(97.6%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Ferg
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Ferg
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Ferg
+EB_History_19 	-->	 Smith
+EB_History_20 	-->	 Smith
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Smith
+Hume_test_2 	-->	 Ferg
+Hume_test_12 	-->	 Smith
+Hume_test_13 	-->	 Smith
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Ferg
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+1000 MFW , culled @ 10%,  205 of 210	(97.6%)
+
+
+
+EB_History_1 	-->	 Ferg
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Hume
+EB_History_12 	-->	 Smith
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Smith
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Hume
+EB_History_20 	-->	 Hume
+EB_History_21 	-->	 Hume
+EB_History_22 	-->	 Ferg
+Ferg_test_5 	-->	 Hume
+Ferg_test_8 	-->	 Hume
+Ferg_test_9 	-->	 Hume
+Ferg_test_11 	-->	 Hume
+Ferg_test_14 	-->	 Hume
+Ferg_test_19 	-->	 Hume
+Ferg_test_20 	-->	 Hume
+Ferg_test_23 	-->	 Hume
+Ferg_test_24 	-->	 Hume
+Ferg_test_26 	-->	 Hume
+Ferg_test_34 	-->	 Hume
+Ferg_test_41 	-->	 Hume
+Ferg_test_44 	-->	 Hume
+Ferg_test_48 	-->	 Hume
+Ferg_test_60 	-->	 Hume
+Hume_test_2 	-->	 Ferg
+Hume_test_7 	-->	 Ferg
+Hume_test_8 	-->	 Smith
+Hume_test_11 	-->	 Ferg
+Hume_test_33 	-->	 Smith
+Hume_test_38 	-->	 Ferg
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Hume
+Smith_test_2 	-->	 Hume
+Smith_test_6 	-->	 Ferg
+Smith_test_10 	-->	 Hume
+Smith_test_18 	-->	 Ferg
+Smith_test_20 	-->	 Ferg
+Smith_test_25 	-->	 Ferg
+Smith_test_28 	-->	 Ferg
+Smith_test_29 	-->	 Hume
+Smith_test_47 	-->	 Ferg
+Smith_test_85 	-->	 Hume
+Smith_test_89 	-->	 Ferg
+
+100 MFW , culled @ 20%,  178 of 210	(84.8%)
+
+
+
+EB_History_1 	-->	 Ferg
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Ferg
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Hume
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Ferg
+EB_History_20 	-->	 Hume
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_2 	-->	 Ferg
+Hume_test_3 	-->	 Ferg
+Hume_test_23 	-->	 Ferg
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Hume
+Smith_test_25 	-->	 Ferg
+Smith_test_28 	-->	 Ferg
+Smith_test_29 	-->	 Ferg
+Smith_test_89 	-->	 Ferg
+
+200 MFW , culled @ 20%,  203 of 210	(96.7%)
+
+
+
+EB_History_1 	-->	 Ferg
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Hume
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Ferg
+EB_History_20 	-->	 Hume
+EB_History_21 	-->	 Hume
+EB_History_22 	-->	 Ferg
+Hume_test_2 	-->	 Ferg
+Hume_test_3 	-->	 Ferg
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Ferg
+Smith_test_29 	-->	 Ferg
+
+300 MFW , culled @ 20%,  205 of 210	(97.6%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Ferg
+EB_History_20 	-->	 Smith
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_2 	-->	 Ferg
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Ferg
+Smith_test_29 	-->	 Ferg
+
+400 MFW , culled @ 20%,  206 of 210	(98.1%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Ferg
+EB_History_20 	-->	 Hume
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_2 	-->	 Ferg
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Ferg
+
+500 MFW , culled @ 20%,  207 of 210	(98.6%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Ferg
+EB_History_20 	-->	 Hume
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_12 	-->	 Smith
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Ferg
+
+600 MFW , culled @ 20%,  207 of 210	(98.6%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Smith
+EB_History_20 	-->	 Smith
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_12 	-->	 Smith
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+700 MFW , culled @ 20%,  207 of 210	(98.6%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Smith
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Ferg
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Smith
+EB_History_20 	-->	 Smith
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_2 	-->	 Ferg
+Hume_test_12 	-->	 Smith
+Hume_test_13 	-->	 Smith
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+800 MFW , culled @ 20%,  205 of 210	(97.6%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Smith
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Ferg
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Ferg
+EB_History_19 	-->	 Smith
+EB_History_20 	-->	 Smith
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_2 	-->	 Ferg
+Hume_test_12 	-->	 Smith
+Hume_test_13 	-->	 Smith
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+900 MFW , culled @ 20%,  205 of 210	(97.6%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Ferg
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Ferg
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Ferg
+EB_History_19 	-->	 Smith
+EB_History_20 	-->	 Smith
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Smith
+Hume_test_2 	-->	 Ferg
+Hume_test_12 	-->	 Smith
+Hume_test_13 	-->	 Smith
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Ferg
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+1000 MFW , culled @ 20%,  205 of 210	(97.6%)
+
+
+
+EB_History_1 	-->	 Ferg
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Hume
+EB_History_12 	-->	 Smith
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Smith
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Hume
+EB_History_20 	-->	 Hume
+EB_History_21 	-->	 Hume
+EB_History_22 	-->	 Ferg
+Ferg_test_5 	-->	 Hume
+Ferg_test_8 	-->	 Hume
+Ferg_test_9 	-->	 Hume
+Ferg_test_11 	-->	 Hume
+Ferg_test_14 	-->	 Hume
+Ferg_test_19 	-->	 Hume
+Ferg_test_20 	-->	 Hume
+Ferg_test_23 	-->	 Hume
+Ferg_test_24 	-->	 Hume
+Ferg_test_26 	-->	 Hume
+Ferg_test_34 	-->	 Hume
+Ferg_test_41 	-->	 Hume
+Ferg_test_44 	-->	 Hume
+Ferg_test_48 	-->	 Hume
+Ferg_test_60 	-->	 Hume
+Hume_test_2 	-->	 Ferg
+Hume_test_7 	-->	 Ferg
+Hume_test_8 	-->	 Smith
+Hume_test_11 	-->	 Ferg
+Hume_test_33 	-->	 Smith
+Hume_test_38 	-->	 Ferg
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Hume
+Smith_test_2 	-->	 Hume
+Smith_test_6 	-->	 Ferg
+Smith_test_10 	-->	 Hume
+Smith_test_18 	-->	 Ferg
+Smith_test_20 	-->	 Ferg
+Smith_test_25 	-->	 Ferg
+Smith_test_28 	-->	 Ferg
+Smith_test_29 	-->	 Hume
+Smith_test_47 	-->	 Ferg
+Smith_test_85 	-->	 Hume
+Smith_test_89 	-->	 Ferg
+
+100 MFW , culled @ 30%,  178 of 210	(84.8%)
+
+
+
+EB_History_1 	-->	 Ferg
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Ferg
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Hume
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Ferg
+EB_History_20 	-->	 Hume
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_2 	-->	 Ferg
+Hume_test_3 	-->	 Ferg
+Hume_test_23 	-->	 Ferg
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Hume
+Smith_test_25 	-->	 Ferg
+Smith_test_28 	-->	 Ferg
+Smith_test_29 	-->	 Ferg
+Smith_test_89 	-->	 Ferg
+
+200 MFW , culled @ 30%,  203 of 210	(96.7%)
+
+
+
+EB_History_1 	-->	 Ferg
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Hume
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Ferg
+EB_History_20 	-->	 Hume
+EB_History_21 	-->	 Hume
+EB_History_22 	-->	 Ferg
+Hume_test_2 	-->	 Ferg
+Hume_test_3 	-->	 Ferg
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Ferg
+Smith_test_29 	-->	 Ferg
+
+300 MFW , culled @ 30%,  205 of 210	(97.6%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Ferg
+EB_History_20 	-->	 Smith
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_2 	-->	 Ferg
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Ferg
+Smith_test_29 	-->	 Ferg
+
+400 MFW , culled @ 30%,  206 of 210	(98.1%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Ferg
+EB_History_20 	-->	 Hume
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_2 	-->	 Ferg
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Ferg
+
+500 MFW , culled @ 30%,  207 of 210	(98.6%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Ferg
+EB_History_20 	-->	 Hume
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_12 	-->	 Smith
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Ferg
+
+600 MFW , culled @ 30%,  207 of 210	(98.6%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Smith
+EB_History_20 	-->	 Smith
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_12 	-->	 Smith
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+700 MFW , culled @ 30%,  207 of 210	(98.6%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Smith
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Ferg
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Smith
+EB_History_20 	-->	 Smith
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_2 	-->	 Ferg
+Hume_test_12 	-->	 Smith
+Hume_test_13 	-->	 Smith
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+800 MFW , culled @ 30%,  205 of 210	(97.6%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Smith
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Ferg
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Ferg
+EB_History_19 	-->	 Smith
+EB_History_20 	-->	 Smith
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_2 	-->	 Ferg
+Hume_test_12 	-->	 Smith
+Hume_test_13 	-->	 Smith
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+900 MFW , culled @ 30%,  205 of 210	(97.6%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Ferg
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Ferg
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Ferg
+EB_History_19 	-->	 Smith
+EB_History_20 	-->	 Smith
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Smith
+Hume_test_2 	-->	 Ferg
+Hume_test_12 	-->	 Smith
+Hume_test_13 	-->	 Smith
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+1000 MFW , culled @ 30%,  205 of 210	(97.6%)
+
+
+
+EB_History_1 	-->	 Ferg
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Hume
+EB_History_12 	-->	 Smith
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Smith
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Hume
+EB_History_20 	-->	 Hume
+EB_History_21 	-->	 Hume
+EB_History_22 	-->	 Ferg
+Ferg_test_5 	-->	 Hume
+Ferg_test_8 	-->	 Hume
+Ferg_test_9 	-->	 Hume
+Ferg_test_11 	-->	 Hume
+Ferg_test_14 	-->	 Hume
+Ferg_test_19 	-->	 Hume
+Ferg_test_20 	-->	 Hume
+Ferg_test_23 	-->	 Hume
+Ferg_test_24 	-->	 Hume
+Ferg_test_26 	-->	 Hume
+Ferg_test_34 	-->	 Hume
+Ferg_test_41 	-->	 Hume
+Ferg_test_44 	-->	 Hume
+Ferg_test_48 	-->	 Hume
+Ferg_test_60 	-->	 Hume
+Hume_test_2 	-->	 Ferg
+Hume_test_7 	-->	 Ferg
+Hume_test_8 	-->	 Smith
+Hume_test_11 	-->	 Ferg
+Hume_test_33 	-->	 Smith
+Hume_test_38 	-->	 Ferg
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Hume
+Smith_test_2 	-->	 Hume
+Smith_test_6 	-->	 Ferg
+Smith_test_10 	-->	 Hume
+Smith_test_18 	-->	 Ferg
+Smith_test_20 	-->	 Ferg
+Smith_test_25 	-->	 Ferg
+Smith_test_28 	-->	 Ferg
+Smith_test_29 	-->	 Hume
+Smith_test_47 	-->	 Ferg
+Smith_test_85 	-->	 Hume
+Smith_test_89 	-->	 Ferg
+
+100 MFW , culled @ 40%,  178 of 210	(84.8%)
+
+
+
+EB_History_1 	-->	 Ferg
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Ferg
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Hume
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Ferg
+EB_History_20 	-->	 Hume
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_2 	-->	 Ferg
+Hume_test_3 	-->	 Ferg
+Hume_test_23 	-->	 Ferg
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Hume
+Smith_test_25 	-->	 Ferg
+Smith_test_28 	-->	 Ferg
+Smith_test_29 	-->	 Ferg
+Smith_test_89 	-->	 Ferg
+
+200 MFW , culled @ 40%,  203 of 210	(96.7%)
+
+
+
+EB_History_1 	-->	 Ferg
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Hume
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Ferg
+EB_History_20 	-->	 Hume
+EB_History_21 	-->	 Hume
+EB_History_22 	-->	 Ferg
+Hume_test_2 	-->	 Ferg
+Hume_test_3 	-->	 Ferg
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Ferg
+Smith_test_29 	-->	 Ferg
+
+300 MFW , culled @ 40%,  205 of 210	(97.6%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Ferg
+EB_History_20 	-->	 Smith
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_2 	-->	 Ferg
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Ferg
+Smith_test_29 	-->	 Ferg
+
+400 MFW , culled @ 40%,  206 of 210	(98.1%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Ferg
+EB_History_20 	-->	 Hume
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_2 	-->	 Ferg
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Ferg
+
+500 MFW , culled @ 40%,  207 of 210	(98.6%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Ferg
+EB_History_20 	-->	 Hume
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_12 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Ferg
+
+600 MFW , culled @ 40%,  208 of 210	(99%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Smith
+EB_History_20 	-->	 Smith
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_12 	-->	 Smith
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+700 MFW , culled @ 40%,  207 of 210	(98.6%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Smith
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Ferg
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Smith
+EB_History_20 	-->	 Smith
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_2 	-->	 Ferg
+Hume_test_12 	-->	 Smith
+Hume_test_13 	-->	 Smith
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+800 MFW , culled @ 40%,  205 of 210	(97.6%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Smith
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Ferg
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Smith
+EB_History_20 	-->	 Smith
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Smith
+Hume_test_2 	-->	 Ferg
+Hume_test_12 	-->	 Smith
+Hume_test_13 	-->	 Smith
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+900 MFW , culled @ 40%,  205 of 210	(97.6%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Ferg
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Ferg
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Ferg
+EB_History_19 	-->	 Smith
+EB_History_20 	-->	 Smith
+EB_History_21 	-->	 Smith
+EB_History_22 	-->	 Smith
+Hume_test_2 	-->	 Ferg
+Hume_test_12 	-->	 Smith
+Hume_test_13 	-->	 Smith
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+1000 MFW , culled @ 40%,  205 of 210	(97.6%)
+
+
+
+EB_History_1 	-->	 Ferg
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Hume
+EB_History_12 	-->	 Smith
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Smith
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Hume
+EB_History_20 	-->	 Hume
+EB_History_21 	-->	 Hume
+EB_History_22 	-->	 Ferg
+Ferg_test_5 	-->	 Hume
+Ferg_test_8 	-->	 Hume
+Ferg_test_9 	-->	 Hume
+Ferg_test_11 	-->	 Hume
+Ferg_test_14 	-->	 Hume
+Ferg_test_19 	-->	 Hume
+Ferg_test_20 	-->	 Hume
+Ferg_test_23 	-->	 Hume
+Ferg_test_24 	-->	 Hume
+Ferg_test_26 	-->	 Hume
+Ferg_test_34 	-->	 Hume
+Ferg_test_41 	-->	 Hume
+Ferg_test_44 	-->	 Hume
+Ferg_test_48 	-->	 Hume
+Ferg_test_60 	-->	 Hume
+Hume_test_2 	-->	 Ferg
+Hume_test_7 	-->	 Ferg
+Hume_test_8 	-->	 Smith
+Hume_test_11 	-->	 Ferg
+Hume_test_33 	-->	 Smith
+Hume_test_38 	-->	 Ferg
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Hume
+Smith_test_2 	-->	 Hume
+Smith_test_6 	-->	 Ferg
+Smith_test_10 	-->	 Hume
+Smith_test_18 	-->	 Ferg
+Smith_test_20 	-->	 Ferg
+Smith_test_25 	-->	 Ferg
+Smith_test_28 	-->	 Ferg
+Smith_test_29 	-->	 Hume
+Smith_test_47 	-->	 Ferg
+Smith_test_85 	-->	 Hume
+Smith_test_89 	-->	 Ferg
+
+100 MFW , culled @ 50%,  178 of 210	(84.8%)
+
+
+
+EB_History_1 	-->	 Ferg
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Ferg
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Hume
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Ferg
+EB_History_20 	-->	 Hume
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_2 	-->	 Ferg
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Hume
+Smith_test_28 	-->	 Ferg
+Smith_test_29 	-->	 Ferg
+Smith_test_89 	-->	 Ferg
+
+200 MFW , culled @ 50%,  206 of 210	(98.1%)
+
+
+
+EB_History_1 	-->	 Ferg
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Hume
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Hume
+EB_History_20 	-->	 Hume
+EB_History_21 	-->	 Hume
+EB_History_22 	-->	 Ferg
+Ferg_test_23 	-->	 Hume
+Hume_test_2 	-->	 Ferg
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Hume
+Smith_test_29 	-->	 Ferg
+
+300 MFW , culled @ 50%,  205 of 210	(97.6%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Hume
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Ferg
+EB_History_20 	-->	 Smith
+EB_History_21 	-->	 Hume
+EB_History_22 	-->	 Ferg
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Ferg
+Smith_test_29 	-->	 Ferg
+
+400 MFW , culled @ 50%,  208 of 210	(99%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Hume
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Ferg
+EB_History_20 	-->	 Hume
+EB_History_21 	-->	 Hume
+EB_History_22 	-->	 Ferg
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Ferg
+
+500 MFW , culled @ 50%,  210 of 210	(100%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Hume
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Smith
+EB_History_20 	-->	 Hume
+EB_History_21 	-->	 Hume
+EB_History_22 	-->	 Ferg
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Ferg
+
+600 MFW , culled @ 50%,  210 of 210	(100%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Hume
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Smith
+EB_History_20 	-->	 Smith
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_12 	-->	 Smith
+Hume_test_33 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Ferg
+
+700 MFW , culled @ 50%,  208 of 210	(99%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Smith
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Hume
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Smith
+EB_History_20 	-->	 Smith
+EB_History_21 	-->	 Ferg
+EB_History_22 	-->	 Ferg
+Hume_test_12 	-->	 Smith
+Hume_test_13 	-->	 Smith
+Hume_test_33 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+800 MFW , culled @ 50%,  207 of 210	(98.6%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Hume
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Smith
+EB_History_20 	-->	 Smith
+EB_History_21 	-->	 Smith
+EB_History_22 	-->	 Smith
+Hume_test_12 	-->	 Smith
+Hume_test_13 	-->	 Smith
+Hume_test_33 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+900 MFW , culled @ 50%,  207 of 210	(98.6%)
+
+
+
+EB_History_1 	-->	 Smith
+EB_History_2 	-->	 Ferg
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+EB_History_6 	-->	 Hume
+EB_History_7 	-->	 Hume
+EB_History_8 	-->	 Hume
+EB_History_9 	-->	 Hume
+EB_History_10 	-->	 Hume
+EB_History_11 	-->	 Hume
+EB_History_12 	-->	 Hume
+EB_History_13 	-->	 Hume
+EB_History_14 	-->	 Hume
+EB_History_15 	-->	 Hume
+EB_History_16 	-->	 Hume
+EB_History_17 	-->	 Hume
+EB_History_18 	-->	 Hume
+EB_History_19 	-->	 Smith
+EB_History_20 	-->	 Smith
+EB_History_21 	-->	 Smith
+EB_History_22 	-->	 Smith
+Hume_test_12 	-->	 Smith
+Hume_test_13 	-->	 Smith
+Hume_test_33 	-->	 Smith
+Hume_test_40 	-->	 Smith
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+1000 MFW , culled @ 50%,  206 of 210	(98.1%)
+
+General attributive success:  12186 of 12600 (96.7%)
+
+MFWs from 100 to 1000 @ increment 100
+Culling from 0 to 50 @ increment 10
+Pronouns deleted: FALSE
+

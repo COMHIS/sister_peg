@@ -1,0 +1,100 @@
+
+
+
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Burke
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Burke
+Macpherson_143004000_tcp 	-->	 Addison
+sister_peg_checked 	-->	 Lennox
+Smith_292801100_tcp 	-->	 Burke
+Smith_803500701_tcp 	-->	 Burke
+
+100 MFW , culled @ 0%,  17 of 24	(70.8%)
+
+
+
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Burke
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Burke
+Macpherson_143004000_tcp 	-->	 Addison
+sister_peg_checked 	-->	 Lennox
+Smith_292801100_tcp 	-->	 Burke
+Smith_803500701_tcp 	-->	 Burke
+
+200 MFW , culled @ 0%,  18 of 24	(75%)
+
+
+
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Burke
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Burke
+Macpherson_143004000_tcp 	-->	 Addison
+sister_peg_checked 	-->	 Lennox
+Smith_292801100_tcp 	-->	 Burke
+
+300 MFW , culled @ 0%,  19 of 24	(79.2%)
+
+
+
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Burke
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Burke
+Macpherson_143004000_tcp 	-->	 Addison
+sister_peg_checked 	-->	 Lennox
+Smith_292801100_tcp 	-->	 Burke
+
+400 MFW , culled @ 0%,  19 of 24	(79.2%)
+
+
+
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Burke
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Burke
+Macpherson_143004000_tcp 	-->	 Addison
+sister_peg_checked 	-->	 Lennox
+Smith_292801100_tcp 	-->	 Burke
+
+500 MFW , culled @ 0%,  19 of 24	(79.2%)
+
+
+
+EB_History 	-->	 Burke
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Burke
+sister_peg_checked 	-->	 Lennox
+Smith_292801100_tcp 	-->	 Burke
+
+600 MFW , culled @ 0%,  21 of 24	(87.5%)
+
+
+
+EB_History 	-->	 Burke
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Burke
+sister_peg_checked 	-->	 Lennox
+Smith_292801100_tcp 	-->	 Burke
+
+700 MFW , culled @ 0%,  21 of 24	(87.5%)
+
+
+
+EB_History 	-->	 Burke
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Burke
+sister_peg_checked 	-->	 Lennox
+Smith_292801100_tcp 	-->	 Burke
+
+800 MFW , culled @ 0%,  21 of 24	(87.5%)
+
+General attributive success:  155 of 192 (80.7%)
+
+MFWs from 100 to 800 @ increment 100
+Culling from 0 to 0 @ increment 10
+Pronouns deleted: FALSE
+

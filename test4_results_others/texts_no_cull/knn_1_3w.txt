@@ -1,0 +1,105 @@
+
+
+
+Blair_Duties_Young_OCR 	-->	 Addison
+Burke_691602000_tcp 	-->	 Macpherson
+Carlyle_Liberal_education_OCR 	-->	 Blair
+Carlyle_Sermon_Death_Dalrymple_OCR 	-->	 Blair
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+Macpherson_143004000_tcp 	-->	 Addison
+sister_peg_checked 	-->	 Lennox
+
+100 MFW , culled @ 0%,  18 of 24	(75%)
+
+
+
+Addison_374801900_tcp 	-->	 Lennox
+Blair_Duties_Young_OCR 	-->	 Addison
+Burke_691602000_tcp 	-->	 Macpherson
+Carlyle_Liberal_education_OCR 	-->	 Blair
+Carlyle_Sermon_Death_Dalrymple_OCR 	-->	 Blair
+EB_History 	-->	 Addison
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+Macpherson_143004000_tcp 	-->	 Addison
+sister_peg_checked 	-->	 Addison
+
+200 MFW , culled @ 0%,  17 of 24	(70.8%)
+
+
+
+Burke_691602000_tcp 	-->	 Lennox
+Carlyle_Liberal_education_OCR 	-->	 Blair
+Carlyle_Sermon_Death_Dalrymple_OCR 	-->	 Blair
+EB_History 	-->	 Addison
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Burke
+Macpherson_143004000_tcp 	-->	 Addison
+sister_peg_checked 	-->	 Lennox
+
+300 MFW , culled @ 0%,  19 of 24	(79.2%)
+
+
+
+Burke_691602000_tcp 	-->	 Lennox
+Carlyle_Liberal_education_OCR 	-->	 Blair
+Carlyle_Sermon_Death_Dalrymple_OCR 	-->	 Blair
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Burke
+Macpherson_143004000_tcp 	-->	 Addison
+sister_peg_checked 	-->	 Lennox
+
+400 MFW , culled @ 0%,  19 of 24	(79.2%)
+
+
+
+Carlyle_Liberal_education_OCR 	-->	 Blair
+Carlyle_Sermon_Death_Dalrymple_OCR 	-->	 Blair
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Addison
+Macpherson_143004000_tcp 	-->	 Addison
+sister_peg_checked 	-->	 Lennox
+
+500 MFW , culled @ 0%,  20 of 24	(83.3%)
+
+
+
+Carlyle_Liberal_education_OCR 	-->	 Blair
+Carlyle_Sermon_Death_Dalrymple_OCR 	-->	 Blair
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Addison
+Macpherson_143004000_tcp 	-->	 Addison
+sister_peg_checked 	-->	 Lennox
+
+600 MFW , culled @ 0%,  20 of 24	(83.3%)
+
+
+
+Carlyle_Liberal_education_OCR 	-->	 Blair
+Carlyle_Sermon_Death_Dalrymple_OCR 	-->	 Blair
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Addison
+Hume_Archibald_Stewart 	-->	 Lennox
+Macpherson_143004000_tcp 	-->	 Addison
+sister_peg_checked 	-->	 Lennox
+
+700 MFW , culled @ 0%,  19 of 24	(79.2%)
+
+
+
+Burke_691602000_tcp 	-->	 Lennox
+Carlyle_Liberal_education_OCR 	-->	 Blair
+Carlyle_Sermon_Death_Dalrymple_OCR 	-->	 Blair
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Addison
+Hume_Archibald_Stewart 	-->	 Lennox
+Macpherson_143004000_tcp 	-->	 Addison
+sister_peg_checked 	-->	 Lennox
+
+800 MFW , culled @ 0%,  18 of 24	(75%)
+
+General attributive success:  150 of 192 (78.1%)
+
+MFWs from 100 to 800 @ increment 100
+Culling from 0 to 0 @ increment 10
+Pronouns deleted: FALSE
+

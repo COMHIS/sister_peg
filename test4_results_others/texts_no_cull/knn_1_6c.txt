@@ -1,0 +1,97 @@
+
+
+
+Carlyle_Liberal_education_OCR 	-->	 Burke
+Carlyle_Sermon_Death_Dalrymple_OCR 	-->	 Addison
+EB_History 	-->	 Burke
+Ferguson_1767_Civil_Society_4610 	-->	 Burke
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Addison
+Hume_Archibald_Stewart 	-->	 Burke
+sister_peg_checked 	-->	 Addison
+
+100 MFW , culled @ 0%,  18 of 24	(75%)
+
+
+
+Carlyle_Liberal_education_OCR 	-->	 Burke
+Carlyle_Sermon_Death_Dalrymple_OCR 	-->	 Addison
+EB_History 	-->	 Burke
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Addison
+Hume_Archibald_Stewart 	-->	 Burke
+sister_peg_checked 	-->	 Addison
+
+200 MFW , culled @ 0%,  20 of 24	(83.3%)
+
+
+
+Carlyle_Liberal_education_OCR 	-->	 Burke
+Carlyle_Sermon_Death_Dalrymple_OCR 	-->	 Hume
+EB_History 	-->	 Burke
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Addison
+Hume_Archibald_Stewart 	-->	 Burke
+sister_peg_checked 	-->	 Addison
+
+300 MFW , culled @ 0%,  20 of 24	(83.3%)
+
+
+
+Carlyle_Liberal_education_OCR 	-->	 Burke
+Carlyle_Sermon_Death_Dalrymple_OCR 	-->	 Hume
+EB_History 	-->	 Burke
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Addison
+Hume_Archibald_Stewart 	-->	 Burke
+sister_peg_checked 	-->	 Addison
+
+400 MFW , culled @ 0%,  20 of 24	(83.3%)
+
+
+
+Carlyle_Liberal_education_OCR 	-->	 Burke
+Carlyle_Sermon_Death_Dalrymple_OCR 	-->	 Addison
+EB_History 	-->	 Burke
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Burke
+sister_peg_checked 	-->	 Addison
+
+500 MFW , culled @ 0%,  20 of 24	(83.3%)
+
+
+
+Carlyle_Liberal_education_OCR 	-->	 Burke
+Carlyle_Sermon_Death_Dalrymple_OCR 	-->	 Addison
+EB_History 	-->	 Burke
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Burke
+sister_peg_checked 	-->	 Addison
+
+600 MFW , culled @ 0%,  20 of 24	(83.3%)
+
+
+
+Carlyle_Liberal_education_OCR 	-->	 Burke
+Carlyle_Sermon_Death_Dalrymple_OCR 	-->	 Addison
+EB_History 	-->	 Burke
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Burke
+sister_peg_checked 	-->	 Addison
+
+700 MFW , culled @ 0%,  20 of 24	(83.3%)
+
+
+
+Carlyle_Liberal_education_OCR 	-->	 Burke
+Carlyle_Sermon_Death_Dalrymple_OCR 	-->	 Addison
+EB_History 	-->	 Burke
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Burke
+sister_peg_checked 	-->	 Addison
+
+800 MFW , culled @ 0%,  20 of 24	(83.3%)
+
+General attributive success:  158 of 192 (82.3%)
+
+MFWs from 100 to 800 @ increment 100
+Culling from 0 to 0 @ increment 10
+Pronouns deleted: FALSE
+

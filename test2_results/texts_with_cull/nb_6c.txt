@@ -1,0 +1,382 @@
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+100 MFW , culled @ 0%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+200 MFW , culled @ 0%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+300 MFW , culled @ 0%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+400 MFW , culled @ 0%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+500 MFW , culled @ 0%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+600 MFW , culled @ 0%,  6 of 6	(100%)
+
+
+
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+700 MFW , culled @ 0%,  5 of 6	(83.3%)
+
+
+
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+800 MFW , culled @ 0%,  5 of 6	(83.3%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+900 MFW , culled @ 0%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+1000 MFW , culled @ 0%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+100 MFW , culled @ 10%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+200 MFW , culled @ 10%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+300 MFW , culled @ 10%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+400 MFW , culled @ 10%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+500 MFW , culled @ 10%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+600 MFW , culled @ 10%,  6 of 6	(100%)
+
+
+
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+700 MFW , culled @ 10%,  5 of 6	(83.3%)
+
+
+
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+800 MFW , culled @ 10%,  5 of 6	(83.3%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+900 MFW , culled @ 10%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+1000 MFW , culled @ 10%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+100 MFW , culled @ 20%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+200 MFW , culled @ 20%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+300 MFW , culled @ 20%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+400 MFW , culled @ 20%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+500 MFW , culled @ 20%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+600 MFW , culled @ 20%,  6 of 6	(100%)
+
+
+
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+700 MFW , culled @ 20%,  5 of 6	(83.3%)
+
+
+
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+800 MFW , culled @ 20%,  5 of 6	(83.3%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+900 MFW , culled @ 20%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+1000 MFW , culled @ 20%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+100 MFW , culled @ 30%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+200 MFW , culled @ 30%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+300 MFW , culled @ 30%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+400 MFW , culled @ 30%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+500 MFW , culled @ 30%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+600 MFW , culled @ 30%,  6 of 6	(100%)
+
+
+
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+700 MFW , culled @ 30%,  5 of 6	(83.3%)
+
+
+
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+800 MFW , culled @ 30%,  5 of 6	(83.3%)
+
+
+
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+900 MFW , culled @ 30%,  5 of 6	(83.3%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+1000 MFW , culled @ 30%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+100 MFW , culled @ 40%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+200 MFW , culled @ 40%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+300 MFW , culled @ 40%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+400 MFW , culled @ 40%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+500 MFW , culled @ 40%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+600 MFW , culled @ 40%,  6 of 6	(100%)
+
+
+
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+700 MFW , culled @ 40%,  5 of 6	(83.3%)
+
+
+
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+800 MFW , culled @ 40%,  5 of 6	(83.3%)
+
+
+
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+900 MFW , culled @ 40%,  5 of 6	(83.3%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+1000 MFW , culled @ 40%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+100 MFW , culled @ 50%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+200 MFW , culled @ 50%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+300 MFW , culled @ 50%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+400 MFW , culled @ 50%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+500 MFW , culled @ 50%,  6 of 6	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+600 MFW , culled @ 50%,  6 of 6	(100%)
+
+
+
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+700 MFW , culled @ 50%,  5 of 6	(83.3%)
+
+
+
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+800 MFW , culled @ 50%,  5 of 6	(83.3%)
+
+
+
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+900 MFW , culled @ 50%,  5 of 6	(83.3%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+1000 MFW , culled @ 50%,  6 of 6	(100%)
+
+General attributive success:  345 of 360 (95.8%)
+
+MFWs from 100 to 1000 @ increment 100
+Culling from 0 to 50 @ increment 10
+Pronouns deleted: FALSE
+

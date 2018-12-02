@@ -1,0 +1,99 @@
+
+
+
+Addison_72502400_tcp 	-->	 Hume
+Carlyle_Sermon_Death_Dalrymple_OCR 	-->	 Blair
+EB_History 	-->	 Burke
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Burke
+Macpherson_143004000_tcp 	-->	 Addison
+sister_peg_checked 	-->	 Addison
+
+100 MFW , culled @ 0%,  18 of 24	(75%)
+
+
+
+Addison_72502400_tcp 	-->	 Hume
+Blair_Duties_Young_OCR 	-->	 Hume
+EB_History 	-->	 Burke
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Burke
+Macpherson_143004000_tcp 	-->	 Addison
+sister_peg_checked 	-->	 Addison
+
+200 MFW , culled @ 0%,  18 of 24	(75%)
+
+
+
+Addison_72502400_tcp 	-->	 Hume
+EB_History 	-->	 Burke
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Burke
+Macpherson_143004000_tcp 	-->	 Addison
+sister_peg_checked 	-->	 Addison
+
+300 MFW , culled @ 0%,  19 of 24	(79.2%)
+
+
+
+Addison_72502400_tcp 	-->	 Hume
+EB_History 	-->	 Burke
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Burke
+sister_peg_checked 	-->	 Addison
+
+400 MFW , culled @ 0%,  20 of 24	(83.3%)
+
+
+
+Addison_72502400_tcp 	-->	 Hume
+EB_History 	-->	 Burke
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Burke
+sister_peg_checked 	-->	 Addison
+
+500 MFW , culled @ 0%,  21 of 24	(87.5%)
+
+
+
+Carlyle_Liberal_education_OCR 	-->	 Blair
+EB_History 	-->	 Burke
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Burke
+sister_peg_checked 	-->	 Addison
+
+600 MFW , culled @ 0%,  21 of 24	(87.5%)
+
+
+
+Addison_72502400_tcp 	-->	 Hume
+Carlyle_Liberal_education_OCR 	-->	 Blair
+EB_History 	-->	 Burke
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Burke
+Macpherson_143004000_tcp 	-->	 Addison
+sister_peg_checked 	-->	 Addison
+
+700 MFW , culled @ 0%,  19 of 24	(79.2%)
+
+
+
+Carlyle_Liberal_education_OCR 	-->	 Blair
+EB_History 	-->	 Burke
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Burke
+Macpherson_143004000_tcp 	-->	 Addison
+sister_peg_checked 	-->	 Addison
+
+800 MFW , culled @ 0%,  20 of 24	(83.3%)
+
+General attributive success:  156 of 192 (81.2%)
+
+MFWs from 100 to 800 @ increment 100
+Culling from 0 to 0 @ increment 10
+Pronouns deleted: FALSE
+

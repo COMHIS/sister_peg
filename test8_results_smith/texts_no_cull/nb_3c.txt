@@ -1,0 +1,97 @@
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+Smith_292801100_tcp 	-->	 Ferguson
+Smith_803500701_tcp 	-->	 Ferguson
+
+100 MFW , culled @ 0%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+Smith_292801100_tcp 	-->	 Ferguson
+Smith_803500701_tcp 	-->	 Hume
+
+200 MFW , culled @ 0%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Hume
+
+300 MFW , culled @ 0%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+Smith_292801100_tcp 	-->	 Ferguson
+Smith_803500701_tcp 	-->	 Hume
+
+400 MFW , culled @ 0%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+Smith_292801100_tcp 	-->	 Ferguson
+Smith_803500701_tcp 	-->	 Hume
+
+500 MFW , culled @ 0%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+Smith_292801100_tcp 	-->	 Ferguson
+Smith_803500701_tcp 	-->	 Hume
+
+600 MFW , culled @ 0%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+Smith_292801100_tcp 	-->	 Ferguson
+Smith_803500701_tcp 	-->	 Hume
+
+700 MFW , culled @ 0%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+Smith_292801100_tcp 	-->	 Ferguson
+Smith_803500701_tcp 	-->	 Hume
+
+800 MFW , culled @ 0%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+Smith_292801100_tcp 	-->	 Ferguson
+Smith_803500701_tcp 	-->	 Hume
+
+900 MFW , culled @ 0%,  6 of 8	(75%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+Smith_292801100_tcp 	-->	 Ferguson
+Smith_803500701_tcp 	-->	 Hume
+
+1000 MFW , culled @ 0%,  6 of 8	(75%)
+
+General attributive success:  60 of 80 (75%)
+
+MFWs from 100 to 1000 @ increment 100
+Culling from 0 to 0 @ increment 10
+Pronouns deleted: FALSE
+

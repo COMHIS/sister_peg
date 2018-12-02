@@ -1,0 +1,112 @@
+
+
+
+Blair_Wrath_of_Man_praising_GOD 	-->	 Addison
+EB_History 	-->	 Burke
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Burke
+Hume_An_Abstract_of_a_book 	-->	 Burke
+Hume_Archibald_Stewart 	-->	 Burke
+Macpherson_143004000_tcp 	-->	 Addison
+sister_peg_checked 	-->	 Addison
+Smith_292801100_tcp 	-->	 Burke
+Smith_803500701_tcp 	-->	 Burke
+
+100 MFW , culled @ 0%,  17 of 24	(70.8%)
+
+
+
+Blair_Wrath_of_Man_praising_GOD 	-->	 Addison
+Carlyle_Sermon_Death_Dalrymple_OCR 	-->	 Blair
+EB_History 	-->	 Burke
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Burke
+Hume_Archibald_Stewart 	-->	 Burke
+Macpherson_143004000_tcp 	-->	 Addison
+sister_peg_checked 	-->	 Addison
+Smith_292801100_tcp 	-->	 Burke
+
+200 MFW , culled @ 0%,  18 of 24	(75%)
+
+
+
+Carlyle_Sermon_Death_Dalrymple_OCR 	-->	 Blair
+EB_History 	-->	 Burke
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Burke
+Hume_An_Abstract_of_a_book 	-->	 Burke
+Hume_Archibald_Stewart 	-->	 Burke
+Macpherson_143004000_tcp 	-->	 Addison
+sister_peg_checked 	-->	 Addison
+Smith_292801100_tcp 	-->	 Burke
+Smith_803500701_tcp 	-->	 Burke
+
+300 MFW , culled @ 0%,  17 of 24	(70.8%)
+
+
+
+Carlyle_Sermon_Death_Dalrymple_OCR 	-->	 Blair
+EB_History 	-->	 Burke
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Burke
+Hume_An_Abstract_of_a_book 	-->	 Burke
+Hume_Archibald_Stewart 	-->	 Burke
+Macpherson_143004000_tcp 	-->	 Addison
+sister_peg_checked 	-->	 Addison
+Smith_292801100_tcp 	-->	 Burke
+
+400 MFW , culled @ 0%,  18 of 24	(75%)
+
+
+
+Carlyle_Sermon_Death_Dalrymple_OCR 	-->	 Blair
+EB_History 	-->	 Burke
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Burke
+Hume_An_Abstract_of_a_book 	-->	 Burke
+Hume_Archibald_Stewart 	-->	 Burke
+Macpherson_143004000_tcp 	-->	 Addison
+sister_peg_checked 	-->	 Addison
+Smith_292801100_tcp 	-->	 Burke
+
+500 MFW , culled @ 0%,  18 of 24	(75%)
+
+
+
+Carlyle_Sermon_Death_Dalrymple_OCR 	-->	 Blair
+EB_History 	-->	 Burke
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Burke
+Hume_An_Abstract_of_a_book 	-->	 Burke
+Hume_Archibald_Stewart 	-->	 Burke
+Macpherson_143004000_tcp 	-->	 Addison
+sister_peg_checked 	-->	 Addison
+Smith_292801100_tcp 	-->	 Burke
+
+600 MFW , culled @ 0%,  18 of 24	(75%)
+
+
+
+Carlyle_Sermon_Death_Dalrymple_OCR 	-->	 Blair
+EB_History 	-->	 Burke
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Burke
+Hume_Archibald_Stewart 	-->	 Burke
+Macpherson_143004000_tcp 	-->	 Addison
+sister_peg_checked 	-->	 Addison
+Smith_292801100_tcp 	-->	 Burke
+
+700 MFW , culled @ 0%,  19 of 24	(79.2%)
+
+
+
+Blair_Wrath_of_Man_praising_GOD 	-->	 Addison
+Carlyle_Sermon_Death_Dalrymple_OCR 	-->	 Blair
+EB_History 	-->	 Burke
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Burke
+Hume_Archibald_Stewart 	-->	 Burke
+Macpherson_143004000_tcp 	-->	 Addison
+sister_peg_checked 	-->	 Addison
+Smith_292801100_tcp 	-->	 Burke
+
+800 MFW , culled @ 0%,  18 of 24	(75%)
+
+General attributive success:  143 of 192 (74.5%)
+
+MFWs from 100 to 800 @ increment 100
+Culling from 0 to 0 @ increment 10
+Pronouns deleted: FALSE
+

@@ -26,8 +26,10 @@ batch_tests <- c("small_samp_no_cull", "small_samp_with_cull", "large_samp_no_cu
 char_word <- c("w", "w", "w", "c", "c", "c", "c", "c")
 tok_num <- c("1", "2", "3", "2", "3", "4", "5", "6")
 
+#for (x in 1:length(batch_tests)) {
 for (x in 1:length(batch_tests)) {
-#for (x in 5:6) {
+  
+  
   if (grepl("no", batch_tests[x])) { culling.max.var <- 0 }
   if (grepl("with", batch_tests[x])) { culling.max.var <- 50 }
   if (grepl("small", batch_tests[x])) { samp.size.var <- 1988 }
@@ -41,6 +43,9 @@ for (x in 1:length(batch_tests)) {
   
   
   for (i in 1:length(tok_num)) {
+  #for (i in 7:length(tok_num)) {
+  
+  
     cat("\nRunning test", i, " out of ", length(tok_num))
     #Delta test
     classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i],
@@ -123,27 +128,27 @@ for (x in 1:length(batch_tests)) {
     results_fn <- paste0("results/", batch_tests[x], "/svm_linear_", paste0(tok_num[i], char_word[i]), ".txt")
     file.rename("final_results.txt", results_fn)
     
-    #svm test with poly kernel
-    classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i],
-             ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="svm",
-             svm.kernel="polynomial", svm.cost=1,
-             use.existing.freq.tables = TRUE
-             , sampling=text.or.samp.var, sample.size=samp.size.var
-             , culling.min = 0, culling.max = culling.max.var, culling.incr = 10
-    )
-    results_fn <- paste0("results/", batch_tests[x], "/svm_polynomial_", paste0(tok_num[i], char_word[i]), ".txt")
-    file.rename("final_results.txt", results_fn)
-    
-    #SVM with radial kernel
-    classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i],
-             ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="svm",
-             svm.kernel="radial", svm.cost=1,
-             use.existing.freq.tables = TRUE
-             , sampling=text.or.samp.var, sample.size=samp.size.var
-             , culling.min = 0, culling.max = culling.max.var, culling.incr = 10
-    )
-    results_fn <- paste0("results/", batch_tests[x], "/svm_radial_", paste0(tok_num[i], char_word[i]), ".txt")
-    file.rename("final_results.txt", results_fn)
+    # #svm test with poly kernel
+    # classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i],
+    #          ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="svm",
+    #          svm.kernel="polynomial", svm.cost=1,
+    #          use.existing.freq.tables = TRUE
+    #          , sampling=text.or.samp.var, sample.size=samp.size.var
+    #          , culling.min = 0, culling.max = culling.max.var, culling.incr = 10
+    # )
+    # results_fn <- paste0("results/", batch_tests[x], "/svm_polynomial_", paste0(tok_num[i], char_word[i]), ".txt")
+    # file.rename("final_results.txt", results_fn)
+    # 
+    # #SVM with radial kernel
+    # classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i],
+    #          ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="svm",
+    #          svm.kernel="radial", svm.cost=1,
+    #          use.existing.freq.tables = TRUE
+    #          , sampling=text.or.samp.var, sample.size=samp.size.var
+    #          , culling.min = 0, culling.max = culling.max.var, culling.incr = 10
+    # )
+    # results_fn <- paste0("results/", batch_tests[x], "/svm_radial_", paste0(tok_num[i], char_word[i]), ".txt")
+    # file.rename("final_results.txt", results_fn)
 
 
     #naivebayes test
@@ -160,7 +165,7 @@ for (x in 1:length(batch_tests)) {
 
 
 
-  ######################################################################################
+######################################################################################
 # Extracting data from previous tests for analysis
 #####################################################################################
 
@@ -1001,7 +1006,7 @@ for (i in 1:length(char_word)) {
 
 
 
-
+TAKE EVERY 100% RESULTS AND COMPARE
 
 
 

@@ -1,0 +1,117 @@
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Ferguson
+Ferguson_1767_Civil_Society_4610 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+100 MFW , culled @ 0%,  10 of 14	(71.4%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Ferguson
+Ferguson_1767_Civil_Society_4610 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+200 MFW , culled @ 0%,  10 of 14	(71.4%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Ferguson_1767_Civil_Society_4610 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+300 MFW , culled @ 0%,  10 of 14	(71.4%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Ferguson_1767_Civil_Society_4610 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+400 MFW , culled @ 0%,  10 of 14	(71.4%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Ferguson_1767_Civil_Society_4610 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+500 MFW , culled @ 0%,  10 of 14	(71.4%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Ferguson_1767_Civil_Society_4610 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+600 MFW , culled @ 0%,  10 of 14	(71.4%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Ferguson_1767_Civil_Society_4610 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+700 MFW , culled @ 0%,  10 of 14	(71.4%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Ferguson_1767_Civil_Society_4610 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+800 MFW , culled @ 0%,  10 of 14	(71.4%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Ferguson_1767_Civil_Society_4610 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+900 MFW , culled @ 0%,  10 of 14	(71.4%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Ferguson_1767_Civil_Society_4610 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+1000 MFW , culled @ 0%,  10 of 14	(71.4%)
+
+General attributive success:  100 of 140 (71.4%)
+
+MFWs from 100 to 1000 @ increment 100
+Culling from 0 to 0 @ increment 10
+Pronouns deleted: FALSE
+
