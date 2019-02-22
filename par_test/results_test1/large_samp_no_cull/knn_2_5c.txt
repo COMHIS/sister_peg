@@ -1,0 +1,37 @@
+
+
+
+Ferg_test_16 	-->	 Hume
+Hume_test_27 	-->	 Ferg
+Hume_test_61 	-->	 Ferg
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Ferg
+
+100 MFW , culled @ 0%,  94 of 97	(96.9%)
+
+
+
+Ferg_test_16 	-->	 Hume
+Hume_test_70 	-->	 Ferg
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Ferg
+sister_peg_checked_3 	-->	 Ferg
+
+200 MFW , culled @ 0%,  95 of 97	(97.9%)
+
+
+
+Hume_test_70 	-->	 Ferg
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Ferg
+
+300 MFW , culled @ 0%,  96 of 97	(99%)
+
+General attributive success:  285 of 291 (97.9%)
+
+MFWs from 100 to 300 @ increment 100
+Culling from 0 to 0 @ increment 10
+Pronouns deleted: FALSE
+

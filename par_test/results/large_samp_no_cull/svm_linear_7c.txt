@@ -1,0 +1,66 @@
+
+
+
+Carlyle_test_1 	-->	 Blair
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Blair
+Ferg_test_1 	-->	 Blair
+Ferg_test_2 	-->	 Blair
+Ferg_test_3 	-->	 Blair
+Ferg_test_5 	-->	 Blair
+Ferg_test_6 	-->	 Blair
+Ferg_test_8 	-->	 Blair
+Ferg_test_9 	-->	 Blair
+Ferg_test_10 	-->	 Blair
+Ferg_test_11 	-->	 Blair
+Ferg_test_12 	-->	 Blair
+Ferg_test_14 	-->	 Blair
+sister_peg_checked_1 	-->	 Kames
+sister_peg_checked_2 	-->	 Kames
+sister_peg_checked_3 	-->	 Kames
+
+100 MFW , culled @ 0%,  34 of 46	(73.9%)
+
+
+
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+Ferg_test_2 	-->	 Blair
+Ferg_test_3 	-->	 Blair
+Ferg_test_6 	-->	 Blair
+Ferg_test_10 	-->	 Blair
+Ferg_test_11 	-->	 Blair
+sister_peg_checked_1 	-->	 Kames
+sister_peg_checked_2 	-->	 Kames
+sister_peg_checked_3 	-->	 Ferg
+
+200 MFW , culled @ 0%,  41 of 46	(89.1%)
+
+
+
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+Ferg_test_2 	-->	 Blair
+Ferg_test_3 	-->	 Blair
+Ferg_test_6 	-->	 Blair
+sister_peg_checked_1 	-->	 Kames
+sister_peg_checked_2 	-->	 Kames
+sister_peg_checked_3 	-->	 Ferg
+
+300 MFW , culled @ 0%,  43 of 46	(93.5%)
+
+General attributive success:  118 of 138 (85.5%)
+
+MFWs from 100 to 300 @ increment 100
+Culling from 0 to 0 @ increment 10
+Pronouns deleted: FALSE
+

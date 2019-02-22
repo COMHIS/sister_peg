@@ -1,0 +1,68 @@
+
+
+
+Hume_test_202 	-->	 Ferg
+Hume_test_276 	-->	 Ferg
+sister_peg_checked_1 	-->	 Ferg
+sister_peg_checked_2 	-->	 Ferg
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Ferg
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Ferg
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+100 MFW , culled @ 0%,  388 of 390	(99.5%)
+
+
+
+Hume_test_202 	-->	 Ferg
+Hume_test_228 	-->	 Ferg
+Hume_test_240 	-->	 Ferg
+Hume_test_264 	-->	 Ferg
+Hume_test_276 	-->	 Ferg
+sister_peg_checked_1 	-->	 Ferg
+sister_peg_checked_2 	-->	 Ferg
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Ferg
+sister_peg_checked_9 	-->	 Hume
+sister_peg_checked_10 	-->	 Ferg
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+200 MFW , culled @ 0%,  385 of 390	(98.7%)
+
+
+
+Ferg_test_40 	-->	 Hume
+Hume_test_228 	-->	 Ferg
+Hume_test_264 	-->	 Ferg
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Ferg
+sister_peg_checked_8 	-->	 Ferg
+sister_peg_checked_9 	-->	 Ferg
+sister_peg_checked_10 	-->	 Ferg
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Ferg
+
+300 MFW , culled @ 0%,  387 of 390	(99.2%)
+
+General attributive success:  1160 of 1170 (99.1%)
+
+MFWs from 100 to 300 @ increment 100
+Culling from 0 to 0 @ increment 10
+Pronouns deleted: FALSE
+

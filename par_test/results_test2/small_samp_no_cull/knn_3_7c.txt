@@ -1,0 +1,80 @@
+
+
+
+Ferg_test_16 	-->	 Hume
+Ferg_test_38 	-->	 Hume
+Ferg_test_39 	-->	 Hume
+Ferg_test_42 	-->	 Hume
+Ferg_test_46 	-->	 Hume
+Ferg_test_47 	-->	 Hume
+Ferg_test_50 	-->	 Hume
+Ferg_test_58 	-->	 Hume
+Ferg_test_65 	-->	 Hume
+Ferg_test_68 	-->	 Hume
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Ferg
+sister_peg_checked_3 	-->	 Ferg
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Ferg
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Ferg
+sister_peg_checked_9 	-->	 Ferg
+sister_peg_checked_10 	-->	 Ferg
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Hume
+
+100 MFW , culled @ 0%,  207 of 217	(95.4%)
+
+
+
+Ferg_test_8 	-->	 Hume
+Ferg_test_39 	-->	 Hume
+Ferg_test_42 	-->	 Hume
+Ferg_test_45 	-->	 Hume
+Ferg_test_46 	-->	 Hume
+Ferg_test_66 	-->	 Hume
+Ferg_test_68 	-->	 Hume
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Ferg
+sister_peg_checked_3 	-->	 Ferg
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Ferg
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Ferg
+sister_peg_checked_8 	-->	 Ferg
+sister_peg_checked_9 	-->	 Ferg
+sister_peg_checked_10 	-->	 Ferg
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Hume
+
+200 MFW , culled @ 0%,  210 of 217	(96.8%)
+
+
+
+Ferg_test_39 	-->	 Hume
+Ferg_test_42 	-->	 Hume
+Ferg_test_45 	-->	 Hume
+Ferg_test_66 	-->	 Hume
+Ferg_test_68 	-->	 Hume
+sister_peg_checked_1 	-->	 Ferg
+sister_peg_checked_2 	-->	 Ferg
+sister_peg_checked_3 	-->	 Ferg
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Ferg
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Ferg
+sister_peg_checked_8 	-->	 Ferg
+sister_peg_checked_9 	-->	 Ferg
+sister_peg_checked_10 	-->	 Ferg
+sister_peg_checked_11 	-->	 Ferg
+sister_peg_checked_12 	-->	 Hume
+
+300 MFW , culled @ 0%,  212 of 217	(97.7%)
+
+General attributive success:  629 of 651 (96.6%)
+
+MFWs from 100 to 300 @ increment 100
+Culling from 0 to 0 @ increment 10
+Pronouns deleted: FALSE
+

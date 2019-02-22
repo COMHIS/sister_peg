@@ -1,13 +1,13 @@
 corpus.format = "plain"
 corpus.lang = "English.all"
 analyzed.features = "c"
-ngram.size = 6
+ngram.size = 7
 mfw.min = 100
-mfw.max = 1000
+mfw.max = 300
 mfw.incr = 100
 start.at = 1
 culling.min = 0
-culling.max = 50
+culling.max = 0
 culling.incr = 10
 mfw.list.cutoff = 5000
 delete.pronouns = FALSE

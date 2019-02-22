@@ -1,0 +1,34 @@
+
+
+
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+sister_peg_checked 	-->	 Hume
+
+100 MFW , culled @ 0%,  10 of 12	(83.3%)
+
+
+
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+sister_peg_checked 	-->	 Hume
+
+200 MFW , culled @ 0%,  10 of 12	(83.3%)
+
+
+
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+sister_peg_checked 	-->	 Hume
+
+300 MFW , culled @ 0%,  10 of 12	(83.3%)
+
+General attributive success:  30 of 36 (83.3%)
+
+MFWs from 100 to 300 @ increment 100
+Culling from 0 to 0 @ increment 10
+Pronouns deleted: FALSE
+

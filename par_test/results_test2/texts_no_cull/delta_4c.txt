@@ -1,0 +1,29 @@
+
+
+
+Ferguson_dialogues_from_manuscript_edited 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+100 MFW , culled @ 0%,  5 of 7	(71.4%)
+
+
+
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+200 MFW , culled @ 0%,  6 of 7	(85.7%)
+
+
+
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+300 MFW , culled @ 0%,  6 of 7	(85.7%)
+
+General attributive success:  17 of 21 (81%)
+
+MFWs from 100 to 300 @ increment 100
+Culling from 0 to 0 @ increment 10
+Pronouns deleted: FALSE
+

@@ -1,0 +1,87 @@
+
+
+
+Ferg_test_2 	-->	 Hume
+Ferg_test_32 	-->	 Hume
+Ferg_test_34 	-->	 Hume
+Ferg_test_46 	-->	 Hume
+Ferg_test_53 	-->	 Hume
+Ferg_test_62 	-->	 Hume
+Hume_test_3 	-->	 Ferg
+Hume_test_107 	-->	 Ferg
+Hume_test_240 	-->	 Ferg
+Hume_test_241 	-->	 Ferg
+Hume_test_276 	-->	 Ferg
+Hume_test_277 	-->	 Ferg
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Ferg
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Hume
+
+100 MFW , culled @ 0%,  378 of 390	(96.9%)
+
+
+
+Ferg_test_53 	-->	 Hume
+Ferg_test_62 	-->	 Hume
+Hume_test_3 	-->	 Ferg
+Hume_test_107 	-->	 Ferg
+Hume_test_240 	-->	 Ferg
+Hume_test_241 	-->	 Ferg
+Hume_test_276 	-->	 Ferg
+Hume_test_277 	-->	 Ferg
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Ferg
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Hume
+
+200 MFW , culled @ 0%,  382 of 390	(97.9%)
+
+
+
+Ferg_test_53 	-->	 Hume
+Ferg_test_62 	-->	 Hume
+Hume_test_3 	-->	 Ferg
+Hume_test_5 	-->	 Ferg
+Hume_test_107 	-->	 Ferg
+Hume_test_240 	-->	 Ferg
+Hume_test_241 	-->	 Ferg
+Hume_test_276 	-->	 Ferg
+Hume_test_277 	-->	 Ferg
+sister_peg_checked_1 	-->	 Hume
+sister_peg_checked_2 	-->	 Hume
+sister_peg_checked_3 	-->	 Hume
+sister_peg_checked_4 	-->	 Hume
+sister_peg_checked_5 	-->	 Hume
+sister_peg_checked_6 	-->	 Hume
+sister_peg_checked_7 	-->	 Hume
+sister_peg_checked_8 	-->	 Hume
+sister_peg_checked_9 	-->	 Ferg
+sister_peg_checked_10 	-->	 Hume
+sister_peg_checked_11 	-->	 Hume
+sister_peg_checked_12 	-->	 Hume
+
+300 MFW , culled @ 0%,  381 of 390	(97.7%)
+
+General attributive success:  1141 of 1170 (97.5%)
+
+MFWs from 100 to 300 @ increment 100
+Culling from 0 to 0 @ increment 10
+Pronouns deleted: FALSE
+
