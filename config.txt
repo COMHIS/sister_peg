@@ -1,9 +1,9 @@
 corpus.format="plain"
 corpus.lang="English.all"
-analyzed.features="w"
-ngram.size=1
+analyzed.features="c"
+ngram.size=7
 start.at=1
-mfw.max=1000
+mfw.max=100
 culling=100
 mfw.list.cutoff=5000
 delete.pronouns=TRUE

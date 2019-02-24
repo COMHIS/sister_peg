@@ -1,0 +1,33 @@
+
+
+
+EB_History 	-->	 Ferguson
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Kames
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+100 MFW , culled @ 0%,  9 of 12	(75%)
+
+
+
+EB_History 	-->	 Ferguson
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Kames
+sister_peg_checked 	-->	 Ferguson
+
+200 MFW , culled @ 0%,  11 of 12	(91.7%)
+
+
+
+EB_History 	-->	 Ferguson
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Kames
+sister_peg_checked 	-->	 Kames
+
+300 MFW , culled @ 0%,  11 of 12	(91.7%)
+
+General attributive success:  31 of 36 (86.1%)
+
+MFWs from 100 to 300 @ increment 100
+Culling from 0 to 0 @ increment 10
+Pronouns deleted: FALSE
+

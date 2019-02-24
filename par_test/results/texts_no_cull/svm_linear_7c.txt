@@ -1,32 +1,87 @@
 
 
 
-EB_History 	-->	 Blair
-Ferguson_1767_Civil_Society_4610 	-->	 Blair
-Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
-sister_peg_checked 	-->	 Kames
-
-100 MFW , culled @ 0%,  10 of 12	(83.3%)
-
-
-
-EB_History 	-->	 Hume
-Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+not_bumbo 	-->	 Hume
+peg_bumbo 	-->	 Hume
 sister_peg_checked 	-->	 Hume
 
-200 MFW , culled @ 0%,  11 of 12	(91.7%)
+100 MFW , culled @ 0%,  7 of 7	(100%)
 
 
 
-EB_History 	-->	 Hume
-Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
-sister_peg_checked 	-->	 Kames
+not_bumbo 	-->	 Ferguson
+peg_bumbo 	-->	 Ferguson
+sister_peg_checked 	-->	 Ferguson
 
-300 MFW , culled @ 0%,  11 of 12	(91.7%)
+200 MFW , culled @ 0%,  7 of 7	(100%)
 
-General attributive success:  32 of 36 (88.9%)
 
-MFWs from 100 to 300 @ increment 100
+
+not_bumbo 	-->	 Hume
+peg_bumbo 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+
+300 MFW , culled @ 0%,  7 of 7	(100%)
+
+
+
+not_bumbo 	-->	 Ferguson
+peg_bumbo 	-->	 Ferguson
+sister_peg_checked 	-->	 Ferguson
+
+400 MFW , culled @ 0%,  7 of 7	(100%)
+
+
+
+not_bumbo 	-->	 Ferguson
+peg_bumbo 	-->	 Ferguson
+sister_peg_checked 	-->	 Ferguson
+
+500 MFW , culled @ 0%,  7 of 7	(100%)
+
+
+
+not_bumbo 	-->	 Ferguson
+peg_bumbo 	-->	 Ferguson
+sister_peg_checked 	-->	 Ferguson
+
+600 MFW , culled @ 0%,  7 of 7	(100%)
+
+
+
+not_bumbo 	-->	 Ferguson
+peg_bumbo 	-->	 Ferguson
+sister_peg_checked 	-->	 Ferguson
+
+700 MFW , culled @ 0%,  7 of 7	(100%)
+
+
+
+not_bumbo 	-->	 Ferguson
+peg_bumbo 	-->	 Ferguson
+sister_peg_checked 	-->	 Ferguson
+
+800 MFW , culled @ 0%,  7 of 7	(100%)
+
+
+
+not_bumbo 	-->	 Ferguson
+peg_bumbo 	-->	 Ferguson
+sister_peg_checked 	-->	 Ferguson
+
+900 MFW , culled @ 0%,  7 of 7	(100%)
+
+
+
+not_bumbo 	-->	 Ferguson
+peg_bumbo 	-->	 Ferguson
+sister_peg_checked 	-->	 Ferguson
+
+1000 MFW , culled @ 0%,  7 of 7	(100%)
+
+General attributive success:  70 of 70 (100%)
+
+MFWs from 100 to 1000 @ increment 100
 Culling from 0 to 0 @ increment 10
 Pronouns deleted: FALSE
 

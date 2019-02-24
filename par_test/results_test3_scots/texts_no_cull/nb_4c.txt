@@ -1,0 +1,34 @@
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+100 MFW , culled @ 0%,  11 of 12	(91.7%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+200 MFW , culled @ 0%,  11 of 12	(91.7%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Ferguson
+Kames_67200302_tcp 	-->	 Ferguson
+sister_peg_checked 	-->	 Ferguson
+
+300 MFW , culled @ 0%,  8 of 12	(66.7%)
+
+General attributive success:  30 of 36 (83.3%)
+
+MFWs from 100 to 300 @ increment 100
+Culling from 0 to 0 @ increment 10
+Pronouns deleted: FALSE
+
