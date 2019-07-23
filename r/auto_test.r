@@ -13,6 +13,7 @@ library(stylo)
 
 setwd("~/Dropbox/R/HF_PC/")
 setwd("~/Dropbox/github/sister_peg/")  
+setwd("github/sister_peg/")
 
 options(scipen=999)  # turn off scientific notation like 1e+06
 #options(stringsAsFactors = FALSE)
@@ -23,8 +24,8 @@ options(scipen=999)  # turn off scientific notation like 1e+06
 
 batch_tests <- c("small_samp_no_cull", "small_samp_with_cull", "large_samp_no_cull", "large_samp_with_cull",
                  "texts_no_cull", "texts_with_cull")
-char_word <- c("w", "w", "w", "c", "c", "c", "c", "c")
-tok_num <- c("1", "2", "3", "2", "3", "4", "5", "6")
+char_word <- c("w", "w", "w", "c", "c", "c", "c", "c", "c")
+tok_num <- c("1", "2", "3", "2", "3", "4", "5", "6", "7")
 
 #for (x in 1:length(batch_tests)) {
 for (x in 1:length(batch_tests)) {

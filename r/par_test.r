@@ -1,4 +1,4 @@
-# authorial attribtuion
+# authorial attribtuion - PARTICULAR(?) TESTS? This was, I think, to test the Bumbo stuff.
 
 require(readtext) 
 require(stringi) 
@@ -31,9 +31,10 @@ batch_tests <- c("texts_no_cull")
 
 batch_tests <- c("large_samp_no_cull")
 
-char_word <- c("w", "w", "w", "c", "c", "c", "c", "c", "c")
-tok_num <- c("1", "2", "3", "2", "3", "4", "5", "6", "7")
-
+#char_word <- c("w", "w", "w", "c", "c", "c", "c", "c", "c")
+#tok_num <- c("1", "2", "3", "2", "3", "4", "5", "6", "7")
+char_word <- c("w")
+tok_num <- c("1")
 
 
 #########################################################
