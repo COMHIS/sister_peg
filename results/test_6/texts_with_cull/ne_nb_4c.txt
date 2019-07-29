@@ -1,0 +1,583 @@
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+100 MFW , culled @ 0%,  11 of 12	(91.7%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+200 MFW , culled @ 0%,  11 of 12	(91.7%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Ferguson
+Kames_67200302_tcp 	-->	 Ferguson
+sister_peg_checked 	-->	 Ferguson
+
+300 MFW , culled @ 0%,  8 of 12	(66.7%)
+
+
+
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+sister_peg_checked 	-->	 Ferguson
+
+400 MFW , culled @ 0%,  10 of 12	(83.3%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Ferguson
+
+500 MFW , culled @ 0%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Ferguson
+
+600 MFW , culled @ 0%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Ferguson
+
+700 MFW , culled @ 0%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Ferguson
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Ferguson
+
+800 MFW , culled @ 0%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Ferguson
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Hume
+
+900 MFW , culled @ 0%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Ferguson
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Hume
+
+1000 MFW , culled @ 0%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+100 MFW , culled @ 10%,  11 of 12	(91.7%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+200 MFW , culled @ 10%,  11 of 12	(91.7%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Ferguson
+Kames_67200302_tcp 	-->	 Ferguson
+sister_peg_checked 	-->	 Ferguson
+
+300 MFW , culled @ 10%,  8 of 12	(66.7%)
+
+
+
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+sister_peg_checked 	-->	 Ferguson
+
+400 MFW , culled @ 10%,  10 of 12	(83.3%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Ferguson
+
+500 MFW , culled @ 10%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Ferguson
+
+600 MFW , culled @ 10%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Ferguson
+
+700 MFW , culled @ 10%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Ferguson
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Ferguson
+
+800 MFW , culled @ 10%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Ferguson
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Hume
+
+900 MFW , culled @ 10%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Ferguson
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Hume
+
+1000 MFW , culled @ 10%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+100 MFW , culled @ 20%,  11 of 12	(91.7%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+200 MFW , culled @ 20%,  11 of 12	(91.7%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Ferguson
+Kames_67200302_tcp 	-->	 Ferguson
+sister_peg_checked 	-->	 Ferguson
+
+300 MFW , culled @ 20%,  8 of 12	(66.7%)
+
+
+
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+sister_peg_checked 	-->	 Ferguson
+
+400 MFW , culled @ 20%,  10 of 12	(83.3%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Ferguson
+
+500 MFW , culled @ 20%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Ferguson
+
+600 MFW , culled @ 20%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Ferguson
+
+700 MFW , culled @ 20%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Ferguson
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Ferguson
+
+800 MFW , culled @ 20%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Ferguson
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Hume
+
+900 MFW , culled @ 20%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Ferguson
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Hume
+
+1000 MFW , culled @ 20%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+100 MFW , culled @ 30%,  11 of 12	(91.7%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+200 MFW , culled @ 30%,  11 of 12	(91.7%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Ferguson
+Kames_67200302_tcp 	-->	 Ferguson
+sister_peg_checked 	-->	 Ferguson
+
+300 MFW , culled @ 30%,  8 of 12	(66.7%)
+
+
+
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+sister_peg_checked 	-->	 Ferguson
+
+400 MFW , culled @ 30%,  10 of 12	(83.3%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Ferguson
+
+500 MFW , culled @ 30%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Ferguson
+
+600 MFW , culled @ 30%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Ferguson
+
+700 MFW , culled @ 30%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Ferguson
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Ferguson
+
+800 MFW , culled @ 30%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Ferguson
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Hume
+
+900 MFW , culled @ 30%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Ferguson
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Hume
+
+1000 MFW , culled @ 30%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+100 MFW , culled @ 40%,  11 of 12	(91.7%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+200 MFW , culled @ 40%,  11 of 12	(91.7%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Ferguson
+Kames_67200302_tcp 	-->	 Ferguson
+sister_peg_checked 	-->	 Ferguson
+
+300 MFW , culled @ 40%,  8 of 12	(66.7%)
+
+
+
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+sister_peg_checked 	-->	 Ferguson
+
+400 MFW , culled @ 40%,  10 of 12	(83.3%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Ferguson
+
+500 MFW , culled @ 40%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Ferguson
+
+600 MFW , culled @ 40%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Ferguson
+
+700 MFW , culled @ 40%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Ferguson
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Ferguson
+
+800 MFW , culled @ 40%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Ferguson
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Hume
+
+900 MFW , culled @ 40%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Ferguson
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Hume
+
+1000 MFW , culled @ 40%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+100 MFW , culled @ 50%,  11 of 12	(91.7%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+200 MFW , culled @ 50%,  11 of 12	(91.7%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Ferguson
+Kames_67200302_tcp 	-->	 Ferguson
+sister_peg_checked 	-->	 Ferguson
+
+300 MFW , culled @ 50%,  8 of 12	(66.7%)
+
+
+
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+sister_peg_checked 	-->	 Ferguson
+
+400 MFW , culled @ 50%,  10 of 12	(83.3%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Ferguson
+
+500 MFW , culled @ 50%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Ferguson
+
+600 MFW , culled @ 50%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Ferguson
+
+700 MFW , culled @ 50%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Ferguson
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Ferguson
+
+800 MFW , culled @ 50%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Ferguson
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Hume
+
+900 MFW , culled @ 50%,  9 of 12	(75%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Ferguson
+Blair_Wrath_of_Man_praising_GOD 	-->	 Carlyle
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Hume
+
+1000 MFW , culled @ 50%,  9 of 12	(75%)
+
+General attributive success:  564 of 720 (78.3%)
+
+MFWs from 100 to 1000 @ increment 100
+Culling from 0 to 50 @ increment 10
+Pronouns deleted: FALSE
+

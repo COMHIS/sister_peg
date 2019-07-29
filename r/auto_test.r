@@ -24,146 +24,245 @@ options(scipen=999)  # turn off scientific notation like 1e+06
 
 batch_tests <- c("small_samp_no_cull", "small_samp_with_cull", "large_samp_no_cull", "large_samp_with_cull",
                  "texts_no_cull", "texts_with_cull")
-char_word <- c("w", "w", "w", "c", "c", "c", "c", "c", "c")
-tok_num <- c("1", "2", "3", "2", "3", "4", "5", "6", "7")
 
-#for (x in 1:length(batch_tests)) {
-for (x in 1:length(batch_tests)) {
-  
-  
-  if (grepl("no", batch_tests[x])) { culling.max.var <- 0 }
-  if (grepl("with", batch_tests[x])) { culling.max.var <- 50 }
-  if (grepl("small", batch_tests[x])) { samp.size.var <- 1988 }
-  if (grepl("large", batch_tests[x])) { samp.size.var <- 7955 }
-  if (grepl("texts", batch_tests[x])) { text.or.samp.var <- "FALSE"}
-  if (grepl("samp", batch_tests[x])) { text.or.samp.var <- "normal.sampling"}
-  if (grepl("texts", batch_tests[x])) { training.corpus.dir.var <- "primary_set/unmerged/"}
-  if (grepl("samp", batch_tests[x])) { training.corpus.dir.var <- "primary_set/"}
-  if (grepl("texts", batch_tests[x])) { test.corpus.dir.var <- "secondary_set/unmerged/"}
-  if (grepl("samp", batch_tests[x])) { test.corpus.dir.var <- "secondary_set/"}
-  
-  
-  for (i in 1:length(tok_num)) {
-  #for (i in 7:length(tok_num)) {
-  
-  
-    cat("\nRunning test", i, " out of ", length(tok_num))
-    #Delta test
-    classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i],
-             ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="delta"
-             , sampling=text.or.samp.var, sample.size=samp.size.var
-             , culling.min = 0, culling.max = culling.max.var, culling.incr = 10
-             , training.corpus.dir = training.corpus.dir.var, test.corpus.dir = test.corpus.dir.var
-    )
-    results_fn <- paste0("results/", batch_tests[x], "/delta_", paste0(tok_num[i], char_word[i]), ".txt")
-    file.rename("final_results.txt", results_fn)
+batch_tests <- c("small_samp_no_cull", "large_samp_no_cull", "texts_no_cull", "texts_with_cull")
 
-    #Knn test
-    knn_test <- TRUE
-    current_knn_test <- 1
-    best_k <- 0
-    highest_score <- 0
-    extra_runs <- 0
+char_word <- c("w", "w", "w", "c", "c", "c", "c", "c")
+tok_num <- c("1", "2", "3", "3", "4", "5", "6", "7")
 
-    while(knn_test == TRUE) {
+primary_sets_merged <- c("back_up_test_data/primary_set_backup/test1_merged/", "back_up_test_data/primary_set_backup/test2_merged/", "back_up_test_data/primary_set_backup/test3_merged/",
+                         "back_up_test_data/primary_set_backup/test4_merged/", "back_up_test_data/primary_set_backup/test5_merged/", "back_up_test_data/primary_set_backup/test6_merged/")
+primary_sets_unmerged <- c("back_up_test_data/primary_set_backup/test1_unmerged/", "back_up_test_data/primary_set_backup/test2_unmerged/", "back_up_test_data/primary_set_backup/test3_unmerged/",
+                           "back_up_test_data/primary_set_backup/test4_unmerged/", "back_up_test_data/primary_set_backup/test5_unmerged/", "back_up_test_data/primary_set_backup/test6_unmerged/")
 
-      knn_results <- classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i],
-                              ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="knn",
-                              k.value=current_knn_test,
-                              use.existing.freq.tables = TRUE
-                              , sampling=text.or.samp.var, sample.size=samp.size.var
-                              , culling.min = 0, culling.max = culling.max.var, culling.incr = 10)
-      if (current_knn_test == 1) {
-        success_rate <- knn_results$overall.success.rate
-        highest_score <- success_rate
-        best_k <- current_knn_test
-        results_fn <- paste0("results/", batch_tests[x], "/knn_", best_k, "_", paste0(tok_num[i], char_word[i]), ".txt")
-        file.rename("final_results.txt", results_fn)
-        current_knn_test <- current_knn_test + 1
-        next
-      } else {
-        success_rate <- knn_results$overall.success.rate
-        if (success_rate > highest_score) {
-          highest_score <- success_rate
-          best_k <- current_knn_test
-          extra_runs <- 0
-          file.remove(results_fn)
-          results_fn <- paste0("results/", batch_tests[x], "/knn_", best_k, "_", paste0(tok_num[i], char_word[i]), ".txt")
-          file.rename("final_results.txt", results_fn)
-          current_knn_test <- current_knn_test + 1
-        } else if (success_rate <= highest_score) {
-          extra_runs <- extra_runs + 1
-          current_knn_test <- current_knn_test + 1
-        }
-      }
-      if (extra_runs == 10) { knn_test <- FALSE }
+secondary_sets_merged <- c("back_up_test_data/secondary_set_backup/test1_merged/", "back_up_test_data/secondary_set_backup/test2_merged/", "back_up_test_data/secondary_set_backup/test3_merged/",
+                           "back_up_test_data/secondary_set_backup/test4_merged/", "back_up_test_data/secondary_set_backup/test5_merged/", "back_up_test_data/secondary_set_backup/test6_merged/")
+secondary_sets_unmerged <- c("back_up_test_data/secondary_set_backup/test1_unmerged/", "back_up_test_data/secondary_set_backup/test2_unmerged/", "back_up_test_data/secondary_set_backup/test3_unmerged/", 
+                             "back_up_test_data/secondary_set_backup/test4_unmerged/", "back_up_test_data/secondary_set_backup/test5_unmerged/", "back_up_test_data/secondary_set_backup/test6_unmerged/")
+
+primary_sets_merged_edited <- c("back_up_test_data/primary_set_backup_edited/test1_merged/", "back_up_test_data/primary_set_backup_edited/test2_merged/", "back_up_test_data/primary_set_backup_edited/test3_merged/", 
+                                "back_up_test_data/primary_set_backup_edited/test4_merged/", "back_up_test_data/primary_set_backup_edited/test5_merged/", "back_up_test_data/primary_set_backup_edited/test6_merged/")
+primary_sets_unmerged_edited <- c("back_up_test_data/primary_set_backup_edited/test1_unmerged/", "back_up_test_data/primary_set_backup_edited/test2_unmerged/", "back_up_test_data/primary_set_backup_edited/test3_unmerged/", 
+                                  "back_up_test_data/primary_set_backup_edited/test4_unmerged/", "back_up_test_data/primary_set_backup_edited/test5_unmerged/", "back_up_test_data/primary_set_backup_edited/test6_unmerged/")
+secondary_sets_merged_edited <- c("back_up_test_data/secondary_set_backup_edited/test1_merged/", "back_up_test_data/secondary_set_backup_edited/test2_merged/", "back_up_test_data/secondary_set_backup_edited/test3_merged/",
+                                  "back_up_test_data/secondary_set_backup_edited/test4_merged/", "back_up_test_data/secondary_set_backup_edited/test5_merged/", "back_up_test_data/secondary_set_backup_edited/test6_merged/")
+secondary_sets_unmerged_edited <- c("back_up_test_data/secondary_set_backup_edited/test1_unmerged/", "back_up_test_data/secondary_set_backup_edited/test2_unmerged/", "back_up_test_data/secondary_set_backup_edited/test3_unmerged/", 
+                                    "back_up_test_data/secondary_set_backup_edited/test4_unmerged/", "back_up_test_data/secondary_set_backup_edited/test5_unmerged/", "back_up_test_data/secondary_set_backup_edited/test6_unmerged/")
+
+
+for (num_of_test in 1:length(primary_sets_unmerged)) {
+  for (mod_text in 1:2) {
+  #prepare test data
+    if (mod_text == 1) {
+      #delete old files
+      to_delete <- list.files("primary_set/", full.names = TRUE, recursive = TRUE)
+      file.remove(c(to_delete))
+      to_delete <- list.files("secondary_set/", full.names = TRUE, recursive = TRUE)
+      file.remove(c(to_delete))
+      
+      #create dir
+      dir.create("primary_set/unmerged")
+      dir.create("secondary_set/unmerged")
+      
+      #move test data
+      files_move <- list.files(primary_sets_merged[num_of_test], full.names = TRUE)
+      file.copy(c(files_move), "primary_set/")
+      
+      files_move <- list.files(primary_sets_unmerged[num_of_test], full.names = TRUE)
+      file.copy(c(files_move), "primary_set/unmerged/")
+      
+      files_move <- list.files(secondary_sets_merged[num_of_test], full.names = TRUE)
+      file.copy(c(files_move), "secondary_set/")
+      
+      files_move <- list.files(secondary_sets_unmerged[num_of_test], full.names = TRUE)
+      file.copy(c(files_move), "secondary_set/unmerged/")
+      
+    } else if (mod_text == 2) {
+      #delete old files
+      to_delete <- list.files("primary_set/", full.names = TRUE)
+      file.remove(c(to_delete))
+      to_delete <- list.files("secondary_set/", full.names = TRUE)
+      file.remove(c(to_delete))
+      
+      #create dir
+      dir.create("primary_set/unmerged")
+      dir.create("secondary_set/unmerged")
+      
+      #move test data
+      files_move <- list.files(primary_sets_merged_edited[num_of_test], full.names = TRUE)
+      file.copy(c(files_move), "primary_set/")
+      
+      files_move <- list.files(primary_sets_unmerged_edited[num_of_test], full.names = TRUE)
+      file.copy(c(files_move), "primary_set/unmerged/")
+      
+      files_move <- list.files(secondary_sets_merged_edited[num_of_test], full.names = TRUE)
+      file.copy(c(files_move), "secondary_set/")
+      
+      files_move <- list.files(secondary_sets_unmerged_edited[num_of_test], full.names = TRUE)
+      file.copy(c(files_move), "secondary_set/unmerged/")
     }
-    # #actual KNN test
-    # classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i],
-    #          ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="knn",
-    #          k.value=best_k,
-    #          use.existing.freq.tables = TRUE
-    #          , sampling=text.or.samp.var, sample.size=samp.size.var
-    #          , culling.min = 0, culling.max = culling.max.var, culling.incr = 10)
-    # results_fn <- paste0("results/", batch_tests[x], "/knn_", best_k, "_", paste0(tok_num[i], char_word[i]), ".txt")
-    # file.rename("final_results.txt", results_fn)
-
-    #NSC test
-    classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i],
-             ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="nsc",
-             use.existing.freq.tables = TRUE
-             , sampling=text.or.samp.var, sample.size=samp.size.var
-             , culling.min = 0, culling.max = culling.max.var, culling.incr = 10
-    )
-    results_fn <- paste0("results/", batch_tests[x], "/nsc_", paste0(tok_num[i], char_word[i]), ".txt")
-    file.rename("final_results.txt", results_fn)
+    for (x in 1:length(batch_tests)) {
+      
+      
+      if (grepl("no", batch_tests[x])) { culling.max.var <- 0 }
+      if (grepl("with", batch_tests[x])) { culling.max.var <- 50 }
+      if (grepl("small", batch_tests[x])) { samp.size.var <- 1988 }
+      if (grepl("large", batch_tests[x])) { samp.size.var <- 7955 }
+      if (grepl("texts", batch_tests[x])) { text.or.samp.var <- "FALSE"}
+      if (grepl("samp", batch_tests[x])) { text.or.samp.var <- "normal.sampling"}
+      if (grepl("texts", batch_tests[x])) { training.corpus.dir.var <- "primary_set/unmerged/"}
+      if (grepl("samp", batch_tests[x])) { training.corpus.dir.var <- "primary_set/"}
+      if (grepl("texts", batch_tests[x])) { test.corpus.dir.var <- "secondary_set/unmerged/"}
+      if (grepl("samp", batch_tests[x])) { test.corpus.dir.var <- "secondary_set/"}
+      
+      
+      for (i in 1:length(tok_num)) {
+      #for (i in 7:length(tok_num)) {
+      
+      
+        cat("\nRunning test", i, " out of ", length(tok_num))
+        #Delta test
+        classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i],
+                 ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="delta"
+                 , sampling=text.or.samp.var, sample.size=samp.size.var
+                 , culling.min = 0, culling.max = culling.max.var, culling.incr = 10
+                 , training.corpus.dir = training.corpus.dir.var, test.corpus.dir = test.corpus.dir.var
+        )
+        if(mod_text == 1) {
+          results_fn <- paste0("results/", "test_", num_of_test, "/", batch_tests[x], "/ne_delta_", paste0(tok_num[i], char_word[i]), ".txt")
+        } else {
+          results_fn <- paste0("results/", "test_", num_of_test, "/", batch_tests[x], "/e_delta_", paste0(tok_num[i], char_word[i]), ".txt")
+        }
+        file.rename("final_results.txt", results_fn)
     
-    #svm test
-    classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i],
-             ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="svm",
-             svm.kernel="linear", svm.cost=1,
-             use.existing.freq.tables = TRUE
-             , sampling=text.or.samp.var, sample.size=samp.size.var
-             , culling.min = 0, culling.max = culling.max.var, culling.incr = 10
-    )
-    results_fn <- paste0("results/", batch_tests[x], "/svm_linear_", paste0(tok_num[i], char_word[i]), ".txt")
-    file.rename("final_results.txt", results_fn)
+        #Knn test
+        knn_test <- TRUE
+        current_knn_test <- 1
+        best_k <- 0
+        highest_score <- 0
+        extra_runs <- 0
     
-    # #svm test with poly kernel
-    # classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i],
-    #          ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="svm",
-    #          svm.kernel="polynomial", svm.cost=1,
-    #          use.existing.freq.tables = TRUE
-    #          , sampling=text.or.samp.var, sample.size=samp.size.var
-    #          , culling.min = 0, culling.max = culling.max.var, culling.incr = 10
-    # )
-    # results_fn <- paste0("results/", batch_tests[x], "/svm_polynomial_", paste0(tok_num[i], char_word[i]), ".txt")
-    # file.rename("final_results.txt", results_fn)
-    # 
-    # #SVM with radial kernel
-    # classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i],
-    #          ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="svm",
-    #          svm.kernel="radial", svm.cost=1,
-    #          use.existing.freq.tables = TRUE
-    #          , sampling=text.or.samp.var, sample.size=samp.size.var
-    #          , culling.min = 0, culling.max = culling.max.var, culling.incr = 10
-    # )
-    # results_fn <- paste0("results/", batch_tests[x], "/svm_radial_", paste0(tok_num[i], char_word[i]), ".txt")
-    # file.rename("final_results.txt", results_fn)
-
-
-    #naivebayes test
-    classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i],
-             ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="naivebayes",
-             use.existing.freq.tables = TRUE
-             , sampling=text.or.samp.var, sample.size=1988
-             , culling.min = 0, culling.max = culling.max.var, culling.incr = 10
-    )
-    results_fn <- paste0("results/", batch_tests[x], "/nb_", paste0(tok_num[i], char_word[i]), ".txt")
-    file.rename("final_results.txt", results_fn)
+        while(knn_test == TRUE) {
+    
+          knn_results <- classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i],
+                                  ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="knn",
+                                  k.value=current_knn_test,
+                                  use.existing.freq.tables = TRUE
+                                  , sampling=text.or.samp.var, sample.size=samp.size.var
+                                  , culling.min = 0, culling.max = culling.max.var, culling.incr = 10)
+          if (current_knn_test == 1) {
+            success_rate <- knn_results$overall.success.rate
+            highest_score <- success_rate
+            best_k <- current_knn_test
+            if(mod_text == 1) {
+              results_fn <- paste0("results/", "test_", num_of_test, "/", batch_tests[x], "/ne_knn_", paste0(tok_num[i], char_word[i]), "_", best_k, "ks.txt")
+            } else {
+              results_fn <- paste0("results/", "test_", num_of_test, "/", batch_tests[x], "/e_knn_", paste0(tok_num[i], char_word[i]), "_", best_k, "ks.txt")
+            }
+            file.rename("final_results.txt", results_fn)
+            current_knn_test <- current_knn_test + 1
+            next
+          } else {
+            success_rate <- knn_results$overall.success.rate
+            if (success_rate > highest_score) {
+              highest_score <- success_rate
+              best_k <- current_knn_test
+              extra_runs <- 0
+              file.remove(results_fn)
+              if(mod_text == 1) {
+                results_fn <- paste0("results/", "test_", num_of_test, "/", batch_tests[x], "/ne_knn_", paste0(tok_num[i], char_word[i]), "_", best_k, "ks.txt")
+              } else {
+                results_fn <- paste0("results/", "test_", num_of_test, "/", batch_tests[x], "/e_knn_", paste0(tok_num[i], char_word[i]), "_", best_k, "ks.txt")
+              }
+              file.rename("final_results.txt", results_fn)
+              current_knn_test <- current_knn_test + 1
+            } else if (success_rate <= highest_score) {
+              extra_runs <- extra_runs + 1
+              current_knn_test <- current_knn_test + 1
+            }
+          }
+          if (extra_runs == 10) { knn_test <- FALSE }
+        }
+        # #actual KNN test
+        # classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i],
+        #          ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="knn",
+        #          k.value=best_k,
+        #          use.existing.freq.tables = TRUE
+        #          , sampling=text.or.samp.var, sample.size=samp.size.var
+        #          , culling.min = 0, culling.max = culling.max.var, culling.incr = 10)
+        # results_fn <- paste0("results/", batch_tests[x], "/knn_", best_k, "_", paste0(tok_num[i], char_word[i]), ".txt")
+        # file.rename("final_results.txt", results_fn)
+    
+        #NSC test
+        classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i],
+                 ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="nsc",
+                 use.existing.freq.tables = TRUE
+                 , sampling=text.or.samp.var, sample.size=samp.size.var
+                 , culling.min = 0, culling.max = culling.max.var, culling.incr = 10
+        )
+        if(mod_text == 1) {
+          results_fn <- paste0("results/", "test_", num_of_test, "/", batch_tests[x], "/ne_nsc_", paste0(tok_num[i], char_word[i]), ".txt")
+        } else {
+          results_fn <- paste0("results/", "test_", num_of_test, "/", batch_tests[x], "/e_nsc_", paste0(tok_num[i], char_word[i]), ".txt")
+        }
+        file.rename("final_results.txt", results_fn)
+        
+        #svm test
+        classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i],
+                 ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="svm",
+                 svm.kernel="linear", svm.cost=1,
+                 use.existing.freq.tables = TRUE
+                 , sampling=text.or.samp.var, sample.size=samp.size.var
+                 , culling.min = 0, culling.max = culling.max.var, culling.incr = 10
+        )
+        if(mod_text == 1) {
+          results_fn <- paste0("results/", "test_", num_of_test, "/", batch_tests[x], "/ne_svm_", paste0(tok_num[i], char_word[i]), ".txt")
+        } else {
+          results_fn <- paste0("results/", "test_", num_of_test, "/", batch_tests[x], "/e_svm_", paste0(tok_num[i], char_word[i]), ".txt")
+        }
+        file.rename("final_results.txt", results_fn)
+        
+        # #svm test with poly kernel
+        # classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i],
+        #          ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="svm",
+        #          svm.kernel="polynomial", svm.cost=1,
+        #          use.existing.freq.tables = TRUE
+        #          , sampling=text.or.samp.var, sample.size=samp.size.var
+        #          , culling.min = 0, culling.max = culling.max.var, culling.incr = 10
+        # )
+        # results_fn <- paste0("results/", batch_tests[x], "/svm_polynomial_", paste0(tok_num[i], char_word[i]), ".txt")
+        # file.rename("final_results.txt", results_fn)
+        # 
+        # #SVM with radial kernel
+        # classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i],
+        #          ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="svm",
+        #          svm.kernel="radial", svm.cost=1,
+        #          use.existing.freq.tables = TRUE
+        #          , sampling=text.or.samp.var, sample.size=samp.size.var
+        #          , culling.min = 0, culling.max = culling.max.var, culling.incr = 10
+        # )
+        # results_fn <- paste0("results/", batch_tests[x], "/svm_radial_", paste0(tok_num[i], char_word[i]), ".txt")
+        # file.rename("final_results.txt", results_fn)
+    
+    
+        #naivebayes test
+        classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i],
+                 ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="naivebayes",
+                 use.existing.freq.tables = TRUE
+                 , sampling=text.or.samp.var, sample.size=1988
+                 , culling.min = 0, culling.max = culling.max.var, culling.incr = 10
+        )
+        if(mod_text == 1) {
+          results_fn <- paste0("results/", "test_", num_of_test, "/", batch_tests[x], "/ne_nb_", paste0(tok_num[i], char_word[i]), ".txt")
+        } else {
+          results_fn <- paste0("results/", "test_", num_of_test, "/", batch_tests[x], "/e_nb_", paste0(tok_num[i], char_word[i]), ".txt")
+        }
+        
+        file.rename("final_results.txt", results_fn)
+      }
+    }
   }
 }
-
 
 
 ######################################################################################

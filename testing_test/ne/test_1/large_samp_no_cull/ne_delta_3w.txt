@@ -1,0 +1,166 @@
+
+
+
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+Hume_test_4 	-->	 Ferguson
+Hume_test_6 	-->	 Ferguson
+Hume_test_9 	-->	 Ferguson
+Hume_test_11 	-->	 Ferguson
+Hume_test_12 	-->	 Ferguson
+Hume_test_25 	-->	 Ferguson
+Hume_test_26 	-->	 Ferguson
+Hume_test_35 	-->	 Ferguson
+sister_peg_checked_1 	-->	 Ferguson
+sister_peg_checked_2 	-->	 Ferguson
+sister_peg_checked_3 	-->	 Ferguson
+
+100 MFW , culled @ 0%,  54 of 62	(87.1%)
+
+
+
+EB_History_1 	-->	 Ferguson
+EB_History_2 	-->	 Ferguson
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+Hume_test_1 	-->	 Ferguson
+Hume_test_2 	-->	 Ferguson
+Hume_test_3 	-->	 Ferguson
+Hume_test_4 	-->	 Ferguson
+Hume_test_10 	-->	 Ferguson
+Hume_test_12 	-->	 Ferguson
+Hume_test_13 	-->	 Ferguson
+Hume_test_35 	-->	 Ferguson
+sister_peg_checked_1 	-->	 Ferguson
+sister_peg_checked_2 	-->	 Ferguson
+sister_peg_checked_3 	-->	 Ferguson
+
+200 MFW , culled @ 0%,  54 of 62	(87.1%)
+
+
+
+EB_History_1 	-->	 Ferguson
+EB_History_2 	-->	 Ferguson
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Ferguson
+Hume_test_1 	-->	 Ferguson
+Hume_test_2 	-->	 Ferguson
+Hume_test_3 	-->	 Ferguson
+Hume_test_4 	-->	 Ferguson
+Hume_test_12 	-->	 Ferguson
+Hume_test_13 	-->	 Ferguson
+Hume_test_35 	-->	 Ferguson
+sister_peg_checked_1 	-->	 Ferguson
+sister_peg_checked_2 	-->	 Ferguson
+sister_peg_checked_3 	-->	 Ferguson
+
+300 MFW , culled @ 0%,  55 of 62	(88.7%)
+
+
+
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Ferguson
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Ferguson
+Hume_test_4 	-->	 Ferguson
+Hume_test_13 	-->	 Ferguson
+Hume_test_35 	-->	 Ferguson
+sister_peg_checked_1 	-->	 Ferguson
+sister_peg_checked_2 	-->	 Ferguson
+sister_peg_checked_3 	-->	 Ferguson
+
+400 MFW , culled @ 0%,  59 of 62	(95.2%)
+
+
+
+EB_History_1 	-->	 Ferguson
+EB_History_2 	-->	 Ferguson
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+Hume_test_35 	-->	 Ferguson
+sister_peg_checked_1 	-->	 Ferguson
+sister_peg_checked_2 	-->	 Ferguson
+sister_peg_checked_3 	-->	 Ferguson
+
+500 MFW , culled @ 0%,  61 of 62	(98.4%)
+
+
+
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+sister_peg_checked_1 	-->	 Ferguson
+sister_peg_checked_2 	-->	 Ferguson
+sister_peg_checked_3 	-->	 Ferguson
+
+600 MFW , culled @ 0%,  62 of 62	(100%)
+
+
+
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Hume
+EB_History_5 	-->	 Hume
+sister_peg_checked_1 	-->	 Ferguson
+sister_peg_checked_2 	-->	 Ferguson
+sister_peg_checked_3 	-->	 Ferguson
+
+700 MFW , culled @ 0%,  62 of 62	(100%)
+
+
+
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Hume
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Ferguson
+EB_History_5 	-->	 Hume
+sister_peg_checked_1 	-->	 Ferguson
+sister_peg_checked_2 	-->	 Ferguson
+sister_peg_checked_3 	-->	 Ferguson
+
+800 MFW , culled @ 0%,  62 of 62	(100%)
+
+
+
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Ferguson
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Ferguson
+EB_History_5 	-->	 Hume
+Hume_test_10 	-->	 Ferguson
+sister_peg_checked_1 	-->	 Ferguson
+sister_peg_checked_2 	-->	 Ferguson
+sister_peg_checked_3 	-->	 Ferguson
+
+900 MFW , culled @ 0%,  61 of 62	(98.4%)
+
+
+
+EB_History_1 	-->	 Hume
+EB_History_2 	-->	 Ferguson
+EB_History_3 	-->	 Hume
+EB_History_4 	-->	 Ferguson
+EB_History_5 	-->	 Hume
+Hume_test_10 	-->	 Ferguson
+sister_peg_checked_1 	-->	 Ferguson
+sister_peg_checked_2 	-->	 Ferguson
+sister_peg_checked_3 	-->	 Ferguson
+
+1000 MFW , culled @ 0%,  61 of 62	(98.4%)
+
+General attributive success:  591 of 620 (95.3%)
+
+MFWs from 100 to 1000 @ increment 100
+Culling from 0 to 0 @ increment 10
+Pronouns deleted: FALSE
+

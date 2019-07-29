@@ -1,0 +1,613 @@
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+100 MFW , culled @ 0%,  10 of 14	(71.4%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+200 MFW , culled @ 0%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+300 MFW , culled @ 0%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+400 MFW , culled @ 0%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+500 MFW , culled @ 0%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+600 MFW , culled @ 0%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+700 MFW , culled @ 0%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+800 MFW , culled @ 0%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+900 MFW , culled @ 0%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+1000 MFW , culled @ 0%,  11 of 14	(78.6%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+100 MFW , culled @ 10%,  10 of 14	(71.4%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+200 MFW , culled @ 10%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+300 MFW , culled @ 10%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+400 MFW , culled @ 10%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+500 MFW , culled @ 10%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+600 MFW , culled @ 10%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+700 MFW , culled @ 10%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+800 MFW , culled @ 10%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+900 MFW , culled @ 10%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+1000 MFW , culled @ 10%,  11 of 14	(78.6%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+100 MFW , culled @ 20%,  10 of 14	(71.4%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+200 MFW , culled @ 20%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+300 MFW , culled @ 20%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+400 MFW , culled @ 20%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+500 MFW , culled @ 20%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+600 MFW , culled @ 20%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+700 MFW , culled @ 20%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+800 MFW , culled @ 20%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+900 MFW , culled @ 20%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+1000 MFW , culled @ 20%,  11 of 14	(78.6%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+100 MFW , culled @ 30%,  10 of 14	(71.4%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+200 MFW , culled @ 30%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+300 MFW , culled @ 30%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+400 MFW , culled @ 30%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+500 MFW , culled @ 30%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+600 MFW , culled @ 30%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+700 MFW , culled @ 30%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+800 MFW , culled @ 30%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+900 MFW , culled @ 30%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+1000 MFW , culled @ 30%,  11 of 14	(78.6%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+100 MFW , culled @ 40%,  10 of 14	(71.4%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+200 MFW , culled @ 40%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+300 MFW , culled @ 40%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+400 MFW , culled @ 40%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+500 MFW , culled @ 40%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+600 MFW , culled @ 40%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+700 MFW , culled @ 40%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+800 MFW , culled @ 40%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+900 MFW , culled @ 40%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+1000 MFW , culled @ 40%,  11 of 14	(78.6%)
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+100 MFW , culled @ 50%,  10 of 14	(71.4%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+200 MFW , culled @ 50%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+300 MFW , culled @ 50%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+400 MFW , culled @ 50%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+500 MFW , culled @ 50%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+600 MFW , culled @ 50%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+700 MFW , culled @ 50%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+800 MFW , culled @ 50%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+900 MFW , culled @ 50%,  11 of 14	(78.6%)
+
+
+
+EB_History 	-->	 Blair
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+1000 MFW , culled @ 50%,  11 of 14	(78.6%)
+
+General attributive success:  654 of 840 (77.9%)
+
+MFWs from 100 to 1000 @ increment 100
+Culling from 0 to 50 @ increment 10
+Pronouns deleted: FALSE
+

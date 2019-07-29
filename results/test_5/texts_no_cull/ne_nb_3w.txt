@@ -1,0 +1,116 @@
+
+
+
+Blair_Duties_Young_OCR 	-->	 Hume
+Blair_Wrath_of_Man_praising_GOD 	-->	 Hume
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Hume
+
+100 MFW , culled @ 0%,  9 of 14	(64.3%)
+
+
+
+Blair_Wrath_of_Man_praising_GOD 	-->	 Ferguson
+EB_History 	-->	 Hume
+Ferguson_dialogues_from_manuscript_edited 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+
+200 MFW , culled @ 0%,  10 of 14	(71.4%)
+
+
+
+Blair_Wrath_of_Man_praising_GOD 	-->	 Ferguson
+EB_History 	-->	 Hume
+Ferguson_dialogues_from_manuscript_edited 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+300 MFW , culled @ 0%,  10 of 14	(71.4%)
+
+
+
+Blair_Wrath_of_Man_praising_GOD 	-->	 Ferguson
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Hume
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+400 MFW , culled @ 0%,  11 of 14	(78.6%)
+
+
+
+Blair_Wrath_of_Man_praising_GOD 	-->	 Ferguson
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Carlyle
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+500 MFW , culled @ 0%,  11 of 14	(78.6%)
+
+
+
+Blair_Wrath_of_Man_praising_GOD 	-->	 Hume
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+600 MFW , culled @ 0%,  10 of 14	(71.4%)
+
+
+
+Blair_Wrath_of_Man_praising_GOD 	-->	 Hume
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Hume
+
+700 MFW , culled @ 0%,  10 of 14	(71.4%)
+
+
+
+Blair_Wrath_of_Man_praising_GOD 	-->	 Hume
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Carlyle
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+800 MFW , culled @ 0%,  10 of 14	(71.4%)
+
+
+
+Blair_Wrath_of_Man_praising_GOD 	-->	 Hume
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Carlyle
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+900 MFW , culled @ 0%,  10 of 14	(71.4%)
+
+
+
+Blair_Wrath_of_Man_praising_GOD 	-->	 Hume
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Hume
+sister_peg_checked 	-->	 Carlyle
+Smith_292801100_tcp 	-->	 Hume
+Smith_803500701_tcp 	-->	 Ferguson
+
+1000 MFW , culled @ 0%,  10 of 14	(71.4%)
+
+General attributive success:  101 of 140 (72.1%)
+
+MFWs from 100 to 1000 @ increment 100
+Culling from 0 to 0 @ increment 10
+Pronouns deleted: FALSE
+

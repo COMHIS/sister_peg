@@ -4,5003 +4,5003 @@
 # You can either delete unwanted words, or mark them with "#"
 # -----------------------------------------------------------------------
 
-the
-of
-to
-and
-in
-a
-that
-his
-is
-which
-by
-or
-he
-be
-with
-as
-it
-was
-this
-their
-from
-for
-but
-they
-not
-had
-are
-on
-i
-any
-we
-all
-were
-have
-an
-at
-p
-who
-him
-them
-may
-so
-no
-more
-these
-other
-one
-every
-if
-her
-such
-our
-than
-some
-been
-into
-its
-when
-what
-great
-there
-being
-men
-those
-has
-even
-most
-would
-will
-upon
-without
-only
-you
-made
-himself
-must
-king
-nature
-can
-people
-against
-same
-own
-very
-should
-time
-power
-much
-where
-she
-part
-tho
-first
-under
-man
-mind
-my
-could
-after
-order
-us
-many
-present
-well
-now
-general
-c
-still
-might
-person
-make
-state
-two
-never
-themselves
-good
-government
-human
-life
-place
-england
-yet
-before
-both
-tis
-having
-new
-object
-authority
-reason
-different
-another
-therefore
-found
-either
-law
-force
-whole
-war
-ever
-me
-public
-cause
-also
-give
-nor
-among
-country
-prince
-particular
-your
-whom
-while
-english
-over
-however
-do
-army
-itself
-lib
-henry
-during
-manner
-each
-vol
-then
-means
-nothing
-france
-like
-others
-idea
-laws
-little
-kingdom
-here
-objects
-form
-shall
-less
-natural
-last
-thought
-year
-find
-right
-effect
-whether
-interest
-said
-always
-account
-queen
-regard
-common
-soon
-certain
-enemy
-mankind
-duke
-party
-nations
-far
-out
-pleasure
-cannot
-former
-rome
-take
-age
-long
-body
-too
-subject
-society
-am
-thing
-proper
-principles
-received
-whose
-matter
-between
-earl
-parliament
-entirely
-taken
-about
-way
-conduct
-up
-character
-necessary
-ideas
-gave
-thus
-de
-purpose
-use
-put
-become
-crown
-persons
-nation
-years
-death
-principle
-experience
-kind
-liberty
-case
-h
-because
-passions
-roman
-virtue
-farther
-took
-able
-few
-sent
-justice
-employed
-occasion
-least
-obliged
-alone
-passion
-greater
-influence
-lord
-how
-degree
-mere
-world
-causes
-think
-court
-immediately
-see
-sense
-french
-hands
-peace
-parts
-advantage
-edward
-arms
-indeed
-religion
-ii
-military
-situation
-appear
-civil
-species
-moral
-king^s
-son
-together
-whatever
-know
-perhaps
-romans
-though
-contrary
-relation
-end
-number
-family
-fame
-given
-did
-three
-better
-house
-already
-seems
-subjects
-known
-affairs
-supposed
-thousand
-existence
-rather
-action
-favour
-qualities
-money
-s
-condition
-senate
-sir
-property
-love
-concerning
-considerable
-m
-often
-opinion
-spirit
-circumstances
-effects
-enemies
-sentiments
-history
-times
-terms
-observe
-sufficient
-imagination
-left
-above
-name
-greatest
-several
-measure
-o
-city
-progress
-sensible
-t
-head
-till
-honour
-possession
-command
-danger
-course
-real
-fortune
-once
-things
-since
-happiness
-view
-scotland
-question
-act
-brought
-parties
-seemed
-just
-towards
-sect
-appears
-italy
-title
-antient
-d
-hundred
-appeared
-l
-ought
-come
-late
-appearance
-choice
-arts
-system
-dangerous
-merit
-sovereign
-according
-afterwards
-return
-consider
-mr
-small
-necessity
-betwixt
-equal
-continued
-set
-beyond
-actions
-support
-required
-equally
-does
-execution
-carried
-produce
-naturally
-v
-day
-private
-superior
-reign
-commonly
-manners
-attended
-young
-desire
-disposition
-success
-suppose
-formed
-hope
-true
-violence
-defence
-europe
-political
-wou^d
-easily
-second
-barons
-knowledge
-service
-called
-doubt
-practice
-animal
-impossible
-engaged
-full
-hand
-princes
-usual
-citizens
-likely
-agreeable
-opposition
-latter
-paris
-powers
-ourselves
-reasoning
-chron
-evident
-w
-attention
-determined
-god
-marriage
-change
-letter
-obtained
-say
-sometimes
-future
-let
-receive
-founded
-merely
-original
-point
-council
-numbers
-orders
-office
-evil
-near
-security
-told
-ages
-cap
-hopes
-instances
-best
-seem
-violent
-foreign
-within
-ambition
-affection
-brother
-free
-chap
-instance
-philosophy
-rank
-laid
-off
-passed
-friends
-mean
-measures
-elizabeth
-proceed
-respect
-again
-advantages
-event
-chief
-london
-almost
-difficulty
-consequence
-principal
-sentiment
-answer
-besides
-rights
-open
-began
-st
-beauty
-design
-nobility
-church
-easy
-father
-high
-possessed
-impression
-troops
-possible
-exposed
-established
-external
-inhabitants
-difference
-render
-attempt
-john
-battle
-wisdom
-neither
-probably
-arise
-author
-care
-forms
-gives
-succession
-iii
-philip
-why
-intelligence
-done
-forces
-art
-became
-personal
-believe
-making
-members
-th
-popular
-pretensions
-r
-period
-pride
-came
-relations
-duty
-moment
-pay
-separate
-past
-says
-opposite
-distinction
-national
-ground
-lay
-observed
-policy
-happy
-likewise
-employ
-words
-exercise
-motion
-circumstance
-fear
-powerful
-language
-proposed
-safety
-interests
-commerce
-consent
-side
-committed
-strong
-science
-impressions
-operations
-source
-evidence
-genius
-important
-ordinary
-prevent
-met
-courage
-ill
-truth
-argument
-states
-e
-consideration
-four
-land
-extremely
-friendship
-royal
-immediate
-quality
-want
-accordingly
-field
-resolution
-affections
-secure
-foundation
-intention
-master
-notwithstanding
-regarded
-labour
-frequently
-longer
-serve
-acquired
-esteem
-endeavoured
-difficult
-value
-animals
-pope
-scene
-except
-richard
-turn
-declared
-monarch
-pretended
-william
-next
-supply
-admitted
-industry
-reduced
-wars
-advanced
-confidence
-republic
-rule
-rest
-chiefly
-through
-finding
-pretence
-temper
-carry
-maintain
-pain
-scots
-expected
-matters
-protection
-provinces
-joined
-friend
-reality
-throne
-led
-b
-events
-fact
-inferior
-remain
-spain
-treaty
-proof
-pass
-armies
-makes
-intended
-judgment
-leave
-constitution
-formerly
-hoveden
-occasions
-satisfaction
-call
-favourable
-individual
-perfect
-observation
-hatred
-allowed
-enterprize
-prove
-consequences
-trial
-heart
-short
-charles
-supported
-clergy
-days
-following
-highest
-go
-preserve
-numerous
-senses
-sylla
-bodies
-capacity
-mutual
-ordered
-perceptions
-instead
-proportion
-mary
-virtues
-work
-application
-single
-claim
-minds
-connexion
-rules
-province
-ready
-riches
-understanding
-ibid
-commons
-none
-third
-x
-belief
-certainly
-home
-n
-requisite
-ed
-admit
-union
-myself
-opportunity
-rendered
-distance
-fall
-iv
-princess
-views
-arises
-placed
-variety
-bring
-vice
-conception
-jealousy
-appointed
-enjoyment
-herself
-old
-origin
-proceeded
-zeal
-peculiar
-consul
-dignity
-example
-secret
-business
-loss
-otherwise
-follow
-children
-freedom
-gained
-kept
-knew
-remarkable
-entered
-blood
-sentence
-arbitrary
-credit
-importance
-prevailed
-re-
-approbation
-paid
-refused
-remained
-united
-cafe
-conceive
-expect
-lost
-obtain
-useful
-deriv^d
-empire
-prepared
-vain
-crimes
-feel
-rymer
-letters
-monarchy
-obligation
-administration
-degrees
-enter
-fully
-held
-opinions
-charge
-agreed
-entire
-officers
-probable
-company
-confidered
-desired
-faculties
-five
-granted
-price
-tendency
-emperor
-victory
-memory
-method
-regular
-utmost
-expedient
-frequent
-result
-sea
-altogether
-bear
-discover
-philosophers
-read
-thence
-meet
-mentioned
-produces
-supreme
-reflection
-along
-citizen
-contempt
-difficulties
-disposed
-shou^d
-active
-concern
-continue
-heard
-absolute
-innocent
-judge
-light
-york
-broke
-extent
-sympathy
-particulars
-perception
-countries
-require
-imagine
-liv
-seized
-sword
-thro
-arguments
-notion
-pleased
-submit
-although
-fell
-rich
-town
-articles
-extreme
-goodness
-willing
-benevolence
-material
-wealth
-hence
-abroad
-assistance
-conclude
-criminal
-defend
-raised
-rise
-superstition
-dominions
-line
-maintained
-somewhat
-really
-saw
-ten
-wrong
-ancient
-animosity
-attack
-ministers
-similar
-term
-apt
-giving
-faith
-sax
-affected
-assembly
-keep
-presented
-vulgar
-alliance
-fixed
-habit
-superiority
-allow
-applied
-entertained
-intelligent
-large
-lead
-limited
-approach
-felt
-taking
-birth
-daughter
-low
-perceive
-provided
-simple
-offered
-beginning
-bishop
-comparison
-conclusion
-endeavour
-tion
-universal
-connected
-religious
-dr
-f
-hitherto
-magistrate
-motives
-served
-normandy
-pounds
-presence
-resemblance
-assembled
-barbarous
-commission
-considered
-consists
-revenue
-custom
-draw
-hold
-humanity
-joy
-marius
-operation
-station
-vigour
-conquest
-produced
-faction
-k
-places
-robert
-slaves
-derived
-fancy
-reasonings
-followed
-modern
-nobleman
-perfection
-something
-standard
-twenty
-west
-cicero
-extraordinary
-trust
-distinct
-james
-misery
-related
-remove
-attend
-march
-obvious
-invasion
-justly
-need
-recourse
-bad
-dominion
-false
-morality
-nobles
-pompey
-remains
-returned
-talents
-vanity
-maxims
-ecclesiastical
-indifferent
-queen^s
-expence
-fix
-promise
-taste
-crime
-marks
-resolved
-wish
-down
-enough
-francis
-trade
-cases
-conditions
-distinguished
-punishment
-share
-vi
-learned
-becomes
-characters
-escape
-ignorance
-mention
-offices
-perform
-unknown
-works
-died
-executed
-plan
-universe
-commissioners
-divided
-fire
-inclined
-join
-privileges
-resistance
-siege
-submission
-wise
-discovered
-reasons
-strength
-sure
-valour
-habits
-higher
-meaning
-prospect
-thinking
-fleet
-thoughts
-especially
-excellence
-supposition
-acquainted
-air
-commonwealth
-community
-disorders
-explain
-amongst
-drawn
-express
-prisoner
-reasonable
-con-
-enabled
-lands
-profit
-suffered
-sufficiently
-ing
-nearly
-pleasures
-poor
-possessions
-ruin
-ad
-determine
-glory
-greece
-henry^s
-motive
-qualified
-wife
-doctrine
-engage
-prudence
-suppos^d
-delivered
-enjoy
-governed
-individuals
-properly
-councils
-exist
-feeling
-informed
-quarter
-virtuous
-domestic
-efforts
-malice
-proved
-represented
-scarce
-blame
-direction
-early
-horse
-ignorant
-murder
-opposed
-pernicious
-acquire
-brompton
-remote
-transition
-went
-back
-directed
-excite
-figure
-foot
-gain
-particularly
-surely
-youth
-continual
-earth
-fatal
-learn
-partizans
-pursuit
-readily
-asia
-distant
-raise
-soldiers
-commanded
-revenge
-bore
-education
-encrease
-humility
-possess
-thrown
-word
-wrote
-actually
-fitted
-secretly
-seen
-sum
-absurd
-kings
-leaders
-mistake
-promised
-self
-six
-treated
-allies
-apprehension
-attachment
-cardinal
-historians
-materials
-perpetual
-threw
-accession
-conducted
-consequently
-conversation
-eyes
-infinite
-look
-prerogative
-resentment
-seldom
-unhappy
-britain
-conscious
-distinguish
-fate
-fit
-understood
-weakness
-accommodation
-article
-bound
-deity
-extensive
-information
-weak
-confusion
-dispute
-generally
-greatly
-heming
-passage
-arrival
-arrived
-constant
-establishment
-examine
-hear
-independent
-island
-noble
-offence
-praise
-procure
-questions
-sole
-tranquillity
-attempts
-encouraged
-guilt
-opened
-reach
-avoid
-learning
-pretend
-slate
-thomas
-wherever
-appearances
-contest
-inclination
-creatures
-edinburgh
-half
-procured
-scotch
-behaviour
-created
-disorder
-issue
-malm
-multitude
-obedience
-oppose
-tribune
-condemned
-health
-honours
-ireland
-proceeds
-requires
-succeeded
-tell
-viz
-direct
-eye
-preservation
-preserved
-probability
-quarrel
-rude
-substance
-territory
-description
-relating
-severe
-totally
-admiration
-celebrated
-due
-increase
-rebels
-retreat
-ability
-depend
-folly
-theory
-away
-capital
-cou^d
-esteemed
-kingdoms
-maxim
-restored
-susceptible
-enjoyed
-inference
-please
-confider
-got
-leader
-living
-moved
-perfectly
-soul
-trouble
-camp
-conjunction
-fellow
-intentions
-replied
-sudden
-aversion
-injury
-judges
-live
-operate
-prevail
-rival
-tyranny
-unequal
-write
-address
-holy
-lords
-retained
-services
-uncertain
-acts
-arose
-consider^d
-points
-ships
-apart
-count
-courts
-entitled
-injustice
-lately
-reputation
-scarcely
-advance
-amidst
-bestow
-composed
-duties
-infer
-night
-pursuits
-ranks
-speech
-summoned
-triumph
-commodities
-concluded
-fair
-lived
-plain
-acknowledged
-book
-equality
-extend
-minister
-openly
-successful
-tribunes
-worthy
-abuse
-castle
-destined
-excited
-families
-forced
-generosity
-offer
-performance
-proceeding
-sensation
-study
-turned
-defect
-depends
-error
-grant
-guard
-lively
-rebellion
-universally
-unless
-absence
-apply
-burgundy
-chosen
-essential
-expressed
-extended
-glocester
-invention
-lives
-philosophical
-proofs
-remedy
-sight
-discipline
-entertain
-hoped
-hypothesis
-in-
-institutions
-attempted
-ease
-formidable
-hist
-physical
-pro-
-send
-settlement
-archbishop
-enquiry
-happened
-propensity
-removed
-utility
-allegiance
-analogy
-armed
-controversy
-establish
-forward
-officer
-total
-desirous
-favourite
-incident
-indignation
-legal
-prisoners
-retired
-thereby
-agree
-begin
-conceived
-cut
-possibly
-show
-speak
-statute
-terror
-weight
-benefit
-born
-communication
-contented
-follows
-lewis
-lie
-lordship
-passing
-relief
-run
-warwic
-demand
-fine
-limits
-preference
-prevented
-towns
-various
-county
-double
-generous
-moderation
-populace
-retain
-throw
-attacked
-de-
-divine
-envy
-extension
-fortunes
-heir
-houses
-meant
-sacred
-concerned
-considerations
-convention
-countenance
-dispositions
-embraced
-suffering
-transactions
-afford
-break
-clear
-exercised
-goods
-married
-mighty
-northumberland
-sons
-u
-alarm
-concurrence
-names
-neighbourhood
-neighbouring
-sides
-singular
-assumed
-cities
-familiar
-neglect
-spanish
-testimony
-threatened
-corruption
-ends
-enterprizes
-insurrection
-rejected
-water
-ancestors
-close
-estate
-guilty
-killed
-length
-levied
-liberties
-quarters
-writing
-abuses
-cruel
-fled
-morals
-observ^d
-race
-satisfied
-severity
-signs
-sooner
-termed
-voluntary
-whence
-accustomed
-burnet
-catholic
-confined
-division
-elevation
-insisted
-lady
-lancaster
-profession
-subsequent
-absolutely
-conspiracy
-designs
-essex
-feudal
-gradually
-taught
-titles
-correspondence
-extremity
-fallen
-forming
-garrison
-native
-paper
-preceding
-examples
-gates
-posterity
-reformation
-safe
-takes
-uneasiness
-willingly
-added
-bishops
-class
-continually
-eight
-else
-faculty
-felicity
-forth
-incapable
-man^s
-midst
-treason
-breach
-dangers
-governments
-hearing
-lose
-observing
-y
-assert
-calais
-carthage
-kinds
-neglected
-norfolk
-occupied
-pardon
-seek
-throughout
-vengeance
-aid
-believed
-caesar
-coast
-customs
-eloquence
-identity
-metellus
-provisions
-acknowledge
-anxious
-apprehend
-assent
-decline
-disagreeable
-election
-expression
-expressions
-member
-mother
-plutarch
-prosperity
-repeated
-suitable
-used
-vassals
-ascendant
-factions
-frame
-gold
-greatness
-politics
-purposes
-reflections
-restore
-settled
-solid
-taxes
-until
-abilities
-add
-humour
-imposed
-majesty
-moderate
-necessarily
-north
-oath
-safely
-seven
-bounds
-collected
-contradiction
-magistrates
-river
-counties
-flight
-mark
-proceedings
-sister
-skill
-try
-vices
-attending
-camden
-cold
-combination
-entrusted
-husband
-innocence
-project
-vii
-vivacity
-claims
-consist
-destroy
-discourse
-earls
-miles
-northern
-restrained
-capable
-chance
-complaints
-eternal
-final
-height
-honourable
-notice
-promises
-reward
-ventured
-ambitious
-facility
-restrain
-applications
-fidelity
-fill
-justify
-mixture
-neighbours
-prison
-subsist
-treat
-accounts
-accused
-allow^d
-apprehensions
-ask
-calculated
-embrace
-gracchus
-id
-indifference
-introduced
-narrow
-notions
-priests
-pursued
-sovereignty
-successor
-supplies
-viii
-women
-affect
-america
-defeated
-establish^d
-facts
-merchants
-parent
-post
-privilege
-quantity
-regent
-revolution
-serious
-social
-unite
-africa
-composition
-cruelty
-decision
-desperate
-enacted
-fortitude
-furnish
-gentleman
-league
-months
-prelates
-prudent
-secured
-silence
-soldier
-wales
-catholics
-exertion
-feeble
-fort
-governor
-hazard
-injuries
-perceived
-prejudices
-providence
-scipio
-space
-whoever
-affair
-ascribe
-cato
-censure
-consuls
-discovery
-emotion
-errors
-fide
-gentlemen
-greek
-hostilities
-implies
-lot
-beneficent
-charter
-exact
-foregoing
-inform
-prejudice
-preparations
-resist
-sciences
-sound
-tried
-uncertainty
-arising
-canterbury
-colonies
-differences
-interested
-internal
-leicester
-masters
-oppression
-performed
-permitted
-persuaded
-scheme
-struck
-woman
-apparent
-beneficence
-colours
-engagements
-escaped
-fail
-froissart
-homage
-hunt
-jealous
-lies
-seize
-tribes
-attainment
-beautiful
-dead
-delay
-eminent
-govern
-imperfect
-meeting
-sex
-speaking
-spread
-strange
-subsistence
-tended
-actual
-agreement
-ardour
-content
-deemed
-distinctions
-jugurtha
-marched
-nevertheless
-proposal
-shillings
-vigorous
-woud
-bestowed
-child
-colour
-considering
-curiosity
-despair
-filled
-greeks
-hannibal
-knights
-norman
-presents
-slavery
-twelve
-wit
-affirm
-attained
-copy
-danes
-defects
-disputes
-followers
-glad
-luxury
-poetry
-protestants
-unable
-understand
-beings
-changes
-confess
-conquests
-effort
-examination
-forty
-g
-hall
-heat
-integrity
-pains
-propose
-respects
-revenues
-season
-servants
-somerset
-suspicion
-tax
-thirty
-train
-walls
-worth
-alarmed
-artifice
-asked
-check
-constitute
-corn
-cultivated
-distribution
-gaul
-gone
-historian
-image
-j
-pity
-receiving
-silver
-stand
-submitted
-wants
-acted
-aside
-confederacy
-continu^d
-daily
-establishments
-evidently
-furnished
-la
-lawful
-monks
-odious
-pleasant
-step
-subdued
-writers
-comprehended
-confirmed
-creature
-demanded
-desires
-engagement
-face
-philosopher
-plainly
-sacrifice
-tend
-venture
-xv
-apprehended
-comprehend
-courtiers
-decisive
-depart
-discretion
-effectual
-enable
-epist
-exertions
-fourth
-intercourse
-leads
-mary^s
-nay
-primate
-rage
-renewed
-seeing
-spiritual
-subjection
-tender
-tower
-abstract
-accident
-amount
-deny
-deprived
-doing
-eldest
-estates
-evils
-interval
-page
-published
-reference
-shew
-sicily
-suffolk
-supposing
-winter
-actuated
-avarice
-coming
-compleat
-correct
-execute
-exorbitant
-expedition
-foreigners
-gods
-hereditary
-highly
-ihould
-move
-precarious
-reduce
-renders
-search
-sincere
-spirits
-supplied
-valuable
-walsingham
-z
-advantageous
-athens
-complained
-deliver
-finds
-leaving
-legions
-leisure
-lest
-objections
-profound
-scenes
-stated
-wanting
-additional
-advancement
-appellation
-caution
-continuance
-demands
-ecclesiastics
-melancholy
-observations
-practised
-projects
-pursue
-story
-strict
-voice
-acquaintance
-assurance
-balance
-commit
-famous
-fifty
-fortunate
-mixed
-reader
-satisfy
-slain
-spaniards
-suddenly
-surrender
-visible
-worship
-appetite
-attain
-contract
-devotion
-die
-food
-kent
-model
-natives
-obligations
-occur
-originally
-peers
-proposition
-provide
-rational
-request
-steps
-usually
-attainments
-authors
-caius
-compared
-concert
-consciousness
-contribute
-distress
-estimation
-experienced
-images
-inconvenience
-judgement
-organs
-protector
-uniform
-yield
-accept
-adopted
-brave
-endowed
-esteem^d
-exception
-flanders
-landed
-necessities
-reception
-represent
-situations
-talk
-cover
-forget
-intellectual
-invited
-knows
-misfortunes
-mutually
-poverty
-promote
-reached
-saxon
-strongly
-succeed
-usurpation
-wonder
-abb
-assume
-bill
-christian
-dif-
-directly
-disgust
-footing
-germany
-improve
-improvement
-incurred
-knowing
-observance
-pre-
-precedent
-prelate
-produc^d
-resembling
-activity
-arrive
-concur
-consisted
-deserted
-differ
-divisions
-harm
-ly
-mithridates
-obstinate
-painful
-referred
-reserve
-resources
-secretary
-unusual
-writer
-advice
-ally
-antiquity
-be-
-bussiness
-comes
-compassion
-conceptions
-consistent
-curious
-decide
-detail
-energy
-excellent
-fought
-fruitless
-fruits
-happily
-institution
-liberal
-malmes
-morning
-motions
-professions
-publick
-report
-repose
-session
-sources
-ties
-treasure
-warlike
-acquisition
-association
-books
-candour
-chancellor
-conferred
-defended
-destruction
-discernment
-experiments
-hastened
-imagined
-indulgence
-loose
-majority
-monarchs
-poet
-position
-prosecution
-recover
-sensations
-specific
-statutes
-stood
-stronger
-subjed
-temporary
-vital
-ways
-wished
-written
-admiral
-branch
-com-
-contiguity
-declare
-duration
-fury
-journey
-kindness
-owed
-propriety
-q
-satisfactory
-subordination
-suffer
-turbulent
-visit
-abandoned
-absurdity
-ascribed
-breast
-carefully
-cavalry
-certainty
-changed
-custody
-departure
-derive
-exactly
-hunting
-irregular
-issued
-multiplied
-prey
-rate
-remember
-sovereigns
-systems
-unfortunate
-zealous
-addition
-british
-centuries
-cleanthes
-contiguous
-edward^s
-enjoyments
-essay
-expectation
-inclinations
-ingenuity
-involved
-mistaken
-previously
-recovered
-reverse
-road
-speculative
-table
-younger
-alteration
-anxiety
-climate
-equity
-exerted
-fabric
-merits
-occupation
-remark
-signal
-topics
-vessels
-compliance
-decided
-destructive
-detained
-emulation
-essence
-excluded
-gratify
-heaven
-heylin
-induced
-lower
-perished
-precise
-prior
-reject
-saxons
-scruple
-sort
-surrounded
-ann
-asserted
-attached
-attributes
-becket
-belong
-benevolent
-commands
-concessions
-connexions
-counsellors
-disputed
-doubtful
-drew
-horror
-margaret
-movements
-named
-play
-primary
-returns
-shelter
-simplicity
-slave
-spring
-stop
-strongest
-touch
-anger
-assigned
-confirm
-continues
-countrymen
-get
-horses
-instantly
-intrigues
-macedonia
-noblemen
-presumption
-revolutions
-save
-shoud
-sun
-wolsey
-as-
-averse
-deformity
-en-
-exert
-foundations
-further
-heads
-partial
-popularity
-prohibited
-pronounce
-savage
-senators
-showed
-sorrow
-trivet
-urged
-anew
-appeal
-attends
-constancy
-contain
-convey
-doubted
-employing
-ferguson
-gentry
-improper
-impulse
-infancy
-martial
-mass
-mercy
-nearer
-pontiff
-precaution
-supporting
-trusted
-whenever
-arrangement
-commercial
-concerns
-conclusions
-contained
-cotton
-disappointment
-fight
-fol
-grace
-indulge
-intitled
-maintaining
-oblige
-partly
-producing
-pronounced
-remarked
-tions
-accounted
-assist
-brothers
-caprice
-cease
-ceremony
-conqueror
-delicate
-emotions
-ex-
-faithful
-falling
-frivolous
-grief
-higden
-increased
-jurisdiction
-knyghton
-misfortune
-murdered
-positive
-possest
-properties
-rely
-scale
-truce
-contrivance
-declined
-definition
-failed
-fond
-guienne
-gul
-news
-ones
-representation
-restraint
-subjea
-britains
-cast
-constable
-diceto
-dread
-instrument
-irish
-literature
-reconcile
-refped
-revolt
-ridiculous
-secondly
-societies
-subjected
-suspected
-treatment
-admire
-ambassador
-behind
-beside
-bold
-captivity
-communicate
-continent
-covered
-diminish
-dispersed
-expelled
-experiment
-impatient
-ment
-objection
-obscure
-offences
-penetration
-piece
-retainers
-salutary
-seat
-seeming
-separation
-serves
-suited
-utterly
-worse
-avail
-board
-carrying
-communicated
-conference
-conviction
-feels
-idle
-labours
-magnanimity
-obtaining
-occupations
-petition
-reformers
-rose
-smallest
-alexander
-amounted
-around
-compare
-conscience
-determination
-discharge
-dispatched
-expectations
-extremities
-female
-firit
-flor
-happen
-il
-millions
-occupy
-phaenomenon
-plac^d
-recommended
-ridicule
-school
-stowe
-waste
-winchester
-ago
-assemblies
-behalf
-beneficial
-blow
-britanny
-complete
-debt
-doctrines
-engaging
-insult
-legislature
-militia
-operates
-payment
-per
-pointed
-prosperous
-redress
-republics
-sim
-treachery
-welfare
-alfred
-anne
-below
-cafes
-conjecture
-dutchy
-entertainment
-erected
-favours
-fears
-generation
-gratitude
-guarded
-minute
-separately
-slaughter
-south
-sublime
-tempted
-terminate
-territories
-twill
-uncle
-vicious
-advances
-artificial
-chain
-chesterfield
-denied
-encouragement
-encreased
-frugality
-judgments
-liable
-ll
-normans
-obey
-papal
-periods
-posture
-profits
-quite
-refer
-refusal
-room
-selfish
-sign
-sixty
-stipulated
-streets
-sufferings
-ultimate
-varieties
-xi
-ambassadors
-animosities
-appian
-assemble
-choose
-concession
-conformable
-determin^d
-enraged
-et
-excuse
-grievances
-grounds
-guise
-herbert
-impose
-incur
-invaded
-methods
-mountains
-practices
-refuse
-repetition
-sake
-spare
-strangers
-yourself
-adherents
-affirmed
-afforded
-audience
-bloody
-calm
-clearly
-complain
-corrupted
-date
-destroyed
-exclude
-german
-harold
-imputed
-inconveniencies
-infant
-insist
-keith
-main
-negative
-passes
-prerogatives
-proportioned
-punished
-repeat
-stock
-temperance
-tyrant
-unlimited
-wishes
-accompanied
-attendance
-brittany
-carries
-deep
-dependance
-exchange
-feelings
-generals
-grievous
-hard
-haughty
-immense
-ix
-natures
-philo
-prefer
-preferable
-pro
-recent
-rolls
-separated
-speculation
-survey
-thenceforth
-thither
-tiberius
-usurpations
-vigilance
-amusement
-baron
-black
-blind
-chose
-clause
-denomination
-devoted
-discontent
-elected
-finally
-fly
-grandeur
-happens
-independance
-insensible
-interrupted
-interruption
-nephew
-objec
-overcome
-reply
-reproach
-reserved
-sail
-sickness
-sorry
-strype
-surprised
-victories
-wholly
-wrongs
-acquisitions
-arm
-bears
-bell
-bened
-consult
-debts
-decay
-exemption
-expose
-favoured
-furious
-le
-medium
-murray
-plunder
-punishments
-quarrels
-rear
-returning
-rites
-scepticism
-tends
-thinks
-treating
-vast
-wanted
-bacon
-beg
-captain
-castles
-cattle
-chuse
-connection
-countrey
-diminution
-disappointed
-dreaded
-east
-equitable
-explain^d
-formal
-fortified
-hour
-infinitely
-lesser
-lustre
-mode
-monasteries
-papers
-permission
-pound
-reap
-resource
-retire
-solidity
-successive
-undertaking
-alike
-aspect
-attribute
-built
-calamities
-churches
-comprehension
-confessed
-conjoin^d
-contains
-cowardice
-creation
-declaration
-defeat
-determinate
-disgusted
-earnest
-employ^d
-frontiers
-indefinite
-legate
-mine
-per-
-poets
-prevailing
-productions
-receiv^d
-refined
-relates
-uniformity
-wait
-ac-
-affords
-approaching
-aristocracy
-augmented
-avoided
-broken
-controul
-dependence
-elections
-endeavours
-entering
-executive
-goes
-instruments
-invested
-phaenomena
-pleaded
-possibility
-production
-protect
-recommend
-resemble
-revived
-strike
-transaction
-trials
-unavoidable
-walsing
-wild
-agent
-assign
-catherine
-college
-combat
-compose
-conquered
-constituent
-contend
-convenience
-deliberate
-durable
-elder
-fellow-creatures
-forbear
-independence
-insomuch
-italian
-male
-mistress
-pope^s
-provoked
-requiring
-servant
-susser
-symptoms
-task
-tells
-tenets
-useless
-accepted
-acquires
-afraid
-alive
-allowing
-anjou
-bothwel
-cautious
-comparative
-confine
-delight
-descended
-display
-ensued
-finished
-infallible
-injurious
-miserable
-muff
-negotiation
-orleans
-owe
-parents
-pure
-reflect
-resided
-rivals
-seconded
-ship
-successors
-sums
-trivial
-uncommon
-access
-aim
-almighty
-amiable
-banks
-begun
-belonged
-bravery
-causation
-century
-considers
-consisting
-decency
-democracy
-der
-descent
-displeasure
-dress
-encourage
-expedients
-fiction
-fortress
-leading
-level
-mans
-message
-oxford
-partake
-perish
-predecessors
-promoted
-purchase
-putting
-resign
-salisbury
-saved
-saying
-settlements
-tongue
-unwilling
-valued
-variation
-abandon
-admired
-antagonist
-approve
-assured
-banished
-barbarians
-casual
-christ
-commodity
-disturb
-dun
-endure
-european
-father^s
-fee
-fields
-genuine
-gratification
-imply
-injured
-inseparable
-intervals
-lodged
-magnificent
-modesty
-partiality
-probity
-protestant
-records
-remaining
-rendering
-repulsed
-solemn
-stage
-suit
-accomplishments
-ample
-contemplation
-coud
-dunst
-extremes
-front
-fruit
-going
-ingenious
-insolence
-instinct
-lordships
-mistakes
-narration
-naval
-occasioned
-plead
-pontus
-reckoned
-reluctance
-remainder
-respecting
-ro-
-schemes
-scruples
-soil
-spoils
-steady
-supposes
-suspended
-unworthy
-accomplished
-becoming
-bed
-belongs
-calls
-charged
-complaint
-consulate
-contrariety
-convulsions
-deeply
-dependent
-dissolution
-equivalent
-ex
-excites
-extorted
-frontier
-incidents
-inspired
-ion
-latin
-legislative
-majesty^s
-pence
-phenomena
-plausible
-pray
-projected
-reparation
-representations
-scottish
-settle
-slow
-surface
-tears
-thom
-victorious
-wherein
-acting
-adopt
-approaches
-bull
-convenient
-correspondent
-cross
-crowns
-denominated
-doubts
-dutchess
-edw
-efficacy
-equipage
-espoused
-exacted
-falshood
-famine
-fifteen
-functions
-grafton
-heresy
-ornament
-questioned
-regulate
-repair
-resolutions
-retinue
-round
-shut
-speaker
-statesman
-advancing
-annexed
-athenians
-battles
-bede
-bedford
-bent
-bottom
-civilized
-concurred
-convincing
-destination
-discontents
-effec
-foresaw
-fubjeds
-imputation
-intimate
-inveterate
-nearest
-nine
-novelty
-patience
-plants
-preserving
-process
-proclamation
-professed
-provision
-regret
-reigns
-removal
-schools
-sexes
-shame
-southern
-stephen
-strictly
-successes
-superstitious
-tribe
-vote
-accidents
-altho
-attainder
-belonging
-claimed
-compensation
-contracted
-convinced
-discouraged
-exceed
-exercises
-expired
-extends
-fault
-forfeiture
-globe
-growing
-impatience
-interesting
-keeping
-lines
-manufactures
-marry
-mental
-oaths
-piety
-precautions
-precisely
-presume
-protected
-raising
-recalled
-receives
-reconciled
-refinement
-renew
-representatives
-roger
-specimen
-suppressed
-tenderness
-tumult
-variations
-acquiring
-admits
-appointment
-assault
-attendants
-begins
-bodily
-calling
-comply
-conquerors
-constantly
-containing
-contributed
-demerit
-deprive
-deserve
-heirs
-illegal
-imaginary
-indolence
-inferences
-instant
-instruction
-limit
-list
-movement
-offers
-prevails
-refpea
-remorse
-rewards
-section
-sold
-temerity
-voted
-wigorn
-withdrew
-approached
-ardent
-campaign
-cited
-confession
-confinement
-confounded
-constituents
-department
-edgar
-educated
-elizabeth^s
-embarked
-encounter
-ferdinand
-flattered
-granting
-heavy
-intelligible
-loaded
-merchant
-minority
-obliging
-oeconomy
-owing
-palace
-peter
-prices
-punish
-re
-regiment
-relieve
-results
-ruinous
-sedition
-subjet
-subordinate
-suggested
-topic
-trace
-tribunal
-absent
-alacrity
-applause
-associates
-carthaginians
-conceal
-convince
-employment
-excommunication
-feet
-fifth
-figures
-firm
-gratified
-inclosed
-infantry
-innovation
-invade
-lowest
-meanness
-navarre
-oblig^d
-obnoxious
-offended
-preferment
-preparing
-reft
-seemingly
-spoke
-stile
-warrior
-whilst
-ypod
-acceptable
-adequate
-agriculture
-applicable
-branches
-career
-civility
-colleague
-concealed
-converted
-corrupt
-deed
-delicacy
-distributed
-forgot
-godwin
-hath
-indulged
-menaces
-mortal
-mounted
-paying
-permit
-poffeflion
-prescribed
-printed
-proposals
-relative
-seas
-springs
-superfluous
-surprise
-surprize
-transmitted
-vanquished
-veneration
-wretched
-ads
-agitated
-assisted
-associated
-barbarity
-beverl
-breaking
-careful
-competition
-conceiv^d
-cultivate
-dauphin
-deputies
-dignities
-disadvantages
-disgrace
-effectually
-enormous
-estimate
-expences
-flames
-framed
-fresh
-gauls
-gross
-hen
-implied
-impracticable
-improved
-infirmities
-licence
-lucullus
-memorable
-non
-opulent
-penalty
-persuasion
-plenty
-pretty
-progression
-progressive
-reasonably
-restoring
-rivers
-signed
-stability
-summer
-uneasy
-votes
-wound
-adventitious
-animated
-apology
-ascertain
-besieged
-bread
-buckingham
-building
-carbo
-ch
-constituted
-cure
-desert
-displayed
-disturbance
-divide
-enthusiasm
-fed
-hurry
-incompatible
-independant
-innovations
-larger
-literary
-marked
-nate
-numidia
-obscurity
-occurs
-persecution
-pieces
-politeness
-prepare
-prince^s
-proves
-ravages
-recovering
-securing
-sought
-spotswood
-storm
-subsisted
-sunk
-talent
-undoubtedly
-wine
-accurate
-accusation
-alps
-ap
-apprehensive
-bigotry
-brings
-ceased
-chances
-circle
-collect
-compositions
-conveyed
-deliberation
-depended
-disorderly
-dispose
-encreases
-ended
-ewes
-examined
-exhausted
-expressly
-extending
-forfeited
-fox
-heroic
-hume
-imitation
-impossibility
-improvements
-imprudent
-indivisible
-ingulf
-leaves
-magnificence
-management
-mechanical
-oppressive
-polite
-preferred
-procuring
-regularly
-sacrificed
-sanction
-sequel
-suppress
-asser
-betrayed
-boroughs
-combined
-commander
-constitutes
-countess
-cranmer
-david
-discover^d
-dismissed
-displeased
-earliest
-exhibit
-exhibited
-fundamental
-gallantry
-gervas
-harbour
-help
-hostages
-hours
-january
-market
-miracles
-monarchies
-obstinacy
-overlook
-pembroke
-pious
-populous
-precious
-pressed
-pretext
-previous
-ran
-rapid
-refuge
-regards
-republican
-rigour
-suspect
-terrible
-terrors
-transferred
-unjust
-weaken
-weapons
-woods
-againit
-answered
-arisen
-attacks
-banishment
-beget
-borne
-ceremonies
-clarence
-confirmation
-dared
-deference
-divorce
-du
-eadmer
-enforce
-exile
-failure
-fairly
-fashion
-flow
-holingshed
-ingenuous
-inspire
-intent
-interposed
-interposition
-laboured
-laudable
-multitudes
-negotiations
-neust
-ob-
-occasional
-parliamentary
-plant
-priest
-proud
-requir^d
-resolute
-splendid
-submissions
-suggest
-suppression
-tenants
-unexpected
-vary
-withdraw
-xii
-ac
-adventures
-antagonists
-beasts
-captive
-cares
-commotions
-controversies
-copies
-diminishes
-distinguishable
-divinity
-elegant
-enmity
-exists
-explained
-fay
-flatter
-gardiner
-guided
-hereford
-hesitation
-inheritance
-interpose
-joint
-lenox
-men^s
-mrs
-ocean
-oppressions
-patent
-polished
-ratified
-recovery
-relate
-relish
-resolve
-scope
-speculations
-stone
-surprized
-surrey
-unfit
-usurper
-waverl
-wonderful
-wykes
-xiv
-xvi
-yoke
-adjusted
-amusements
-ap-
-aware
-awe
-cantons
-charters
-christianity
-classes
-defending
-departments
-disguise
-elements
-eminence
-enquire
-existent
-faint
-falls
-form^d
-formation
-geoffrey
-hurtful
-introduce
-julius
-jury
-justified
-knox
-levy
-lucrative
-lying
-mercenary
-mortimer
-neighbour
-orator
-paul
-plea
-posed
-reading
-recal
-refpe
-smaller
-spent
-stations
-successively
-tenor
-ter
-treaties
-un-
-volition
-wood
-agitation
-arc
-bulk
-cinna
-committing
-condemn
-conveys
-crowded
-cry
-demonstration
-distinctly
-diversity
-drop
-elevated
-endow^d
-enemy^s
-ennemy
-enters
-exceeded
-explication
-favourites
-flould
-grave
-ha
-hastings
-hostile
-hugh
-imperious
-imposition
-inflexible
-invented
-lawyers
-liberality
-ma-
-mercia
-nomination
-observable
-picture
-prevalence
-privy
-proprietors
-regulations
-rent
-sagacity
-se-
-sending
-slight
-solution
-special
-strabo
-succours
-tacit
-ther
-tri-
-uniting
-violences
-warning
-weather
-weeks
-whereas
-witnesses
-worst
-yours
-adventurers
-advised
-alliances
-appetites
-artist
-arundel
-aspiring
-bind
-boy
-bruce
-carry^d
-cloaths
-constitutions
-create
-criminals
-defective
-douglas
-empowered
-examining
-executing
-exhorted
-fortresses
-freed
-guide
-impositions
-inquiry
-instructions
-insults
-insurrections
-invaders
-jane
-levies
-licentious
-middle
-monarchical
-overlooked
-perkin
-permanent
-perpetually
-pleases
-pole
-police
-politicians
-promoting
-prov^d
-pushed
-repaired
-reported
-resigned
-sat
-sit
-stake
-succeeding
-temple
-tenure
-treasury
-uninterrupted
-unity
-violation
-warrant
-accommodate
-acquiesce
-appearing
-calamity
-climates
-communities
-competent
-concerted
-conspirators
-consulted
-corrected
-declining
-deserves
-earnestly
-edit
-er
-extravagant
-fatigue
-faults
-fictions
-fierce
-hinder
-humble
-ills
-imprisonment
-incursions
-intend
-itate
-levying
-manifest
-maximilian
-models
-molt
-pacific
-persecutions
-petri
-pitch
-portion
-prayers
-preceded
-press
-proprietor
-readers
-studies
-suppositions
-suspend
-theological
-traced
-transfer
-twice
-unreasonable
-vassal
-violated
-waited
-wounded
-^
-abolished
-addicted
-attempting
-augment
-base
-burden
-chamber
-commencement
-competitors
-confidering
-critical
-despotism
-ear
-eighth
-enquiries
-exclusive
-factious
-fast
-fays
-game
-george
-germ
-gravitation
-grecian
-hated
-inconsiderable
-indefinitely
-industrious
-inroads
-laying
-monstrelet
-offspring
-pace
-persuade
-predominant
-pretension
-rash
-reducing
-regency
-reinforcement
-renewal
-rigorous
-rising
-ruins
-runs
-secondary
-series
-shrewsbury
-silent
-sink
-subjec
-suspicions
-syria
-teach
-tenth
-theatre
-thy
-tragedy
-treatise
-vita
-warm
-welsh
-adhered
-affectionate
-aspired
-ball
-bar
-bought
-burthen
-chieftain
-compass
-conferences
-ct
-darkness
-debate
-declaring
-departed
-discoveries
-excess
-fiom
-flock
-forbid
-fulfil
-gentle
-humane
-india
-introduction
-laity
-limbs
-melvil
-occurred
-opening
-participation
-possesses
-regulated
-renounce
-rife
-sale
-seduced
-sees
-si
-specious
-style
-sustained
-test
-thou
-trusting
-undertook
-uses
-walter
-wide
-adam
-agreeably
-ar-
-at-
-blessing
-call^d
-charms
-christians
-computed
-conformity
-contemptible
-contradictions
-conventions
-crowned
-decisions
-decree
-demea
-door
-enlarged
-exceptions
-expulsion
-facilitate
-fathers
-fitz-steph
-for-
-forest
-furniture
-gradation
-gradual
-gray
-guards
-holds
-illustrious
-infamy
-inventions
-lenity
-maker
-mislead
-note
-observes
-occasionally
-offensive
-plebeian
-propensities
-reaped
-recur
-remonstrances
-respectable
-revive
-richmond
-sceptical
-self-love
-servitude
-sincerity
-sixteen
-structure
-subdue
-transported
-treasures
-vehement
-wind
-abstruse
-ad-
-adversity
-affecting
-alter
-antients
-approved
-avowed
-baliol
-brother^s
-castile
-clemency
-coin
-con
-consolation
-coronation
-discontented
-distrust
-endeavouring
-enumeration
-exempted
-flemings
-foresight
-friendly
-gratifications
-hasty
-incline
-inconsistent
-insensibly
-marches
-multiplicity
-multiply
-polyb
-possess^d
-priori
-promising
-proportional
-proportions
-rare
-reflecting
-resembles
-reverence
-ruling
-seizing
-sensibility
-sensibly
-serving
-shown
-sparta
-spectators
-spoil
-standing
-stranger
-striking
-substitute
-swear
-termination
-tired
-turns
-ty
-tyrannical
-unacquainted
-untill
-accompany
-adhere
-admirable
-annual
-april
-aspire
-august
-burgo
-careless
-clodius
-closely
-collective
-complied
-conceiving
-continuing
-cries
-customary
-deceive
-definitions
-degradation
-delivery
-disadvantage
-disapprobation
-discovers
-encreasing
-entrance
-erroneous
-fable
-fealty
-foresee
-foreseen
-gallant
-generations
-grants
-hero
-inanimate
-iron
-limitations
-looked
-mailr
-memoirs
-mouth
-negligent
-october
-parliaments
-patron
-peo-
-performing
-perseverance
-persevere
-ple
-port
-pretending
-prize
-propagation
-push
-record
-represents
-repress
-richard^s
-rigid
-romish
-route
-sects
-seventh
-sloth
-spared
-wilkins
-writings
-al
-anderson
-assembling
-bringing
-buy
-commanding
-confer
-confound
-conspicuous
-cost
-creator
-deities
-disposal
-drawing
-ensure
-essays
-exclaimed
-fails
-fellow-citizens
-fixing
-forests
-germans
-hugonots
-impunity
-induce
-july
-june
-kill
-lift
-maid
-meanwhile
-milan
-ministry
-music
-navy
-organ
-ornaments
-passionate
-penetrate
-perceiving
-percy
-practise
-prevalent
-quick
-ransom
-renown
-shewed
-sr
-sustain
-temporal
-tending
-thanks
-turning
-undoubted
-voluntarily
-withstand
-wrought
-aa
-abject
-accommodations
-accustom^d
-adversaries
-againfi
-al-
-annihilated
-antiochus
-ashamed
-assassination
-bath
-betray
-cafar
-cataline
-charity
-clerk
-compos^d
-compound
-constrained
-convents
-convocation
-correction
-dear
-depredations
-directions
-driven
-dying
-ears
-effet
-exclusion
-flattery
-growth
-hardships
-haste
-hereafter
-idolatry
-inflamed
-interpretation
-invisible
-jews
-mentions
-mix
-moving
-operating
-professor
-rapacity
-rapine
-refpet
-repel
-representing
-seriously
-stanhope
-statesmen
-subduing
-subsistance
-supremacy
-tacitus
-tradition
-uncultivated
-varied
-vested
-village
-virgil
-votaries
-abused
-amity
-appeals
-appease
-ballance
-benefits
-bridge
-cecil
-companion
-contents
-corresponding
-courted
-credulity
-desiring
-devised
-discourses
-dissolved
-distinguishing
-ere
-evening
-exchequer
-exciting
-flying
-fubjeas
-gaining
-good-will
-herds
-him-
-honoured
-humours
-idleness
-impartial
-infamous
-infested
-jealousies
-judicature
-legion
-lincoln
-mention^d
-miracle
-negligence
-passages
-perfidy
-plato
-po
-praetor
-precedents
-proclamations
-profligate
-prompted
-pursuing
-refinements
-reports
-resignation
-robbers
-servile
-setting
-shows
-socrates
-torture
-university
-usurped
-yielded
-zealously
-affects
-anselm
-archers
-artifices
-aurelius
-behold
-censors
-changing
-channel
-checked
-colony
-conc
-contending
-corporeal
-daring
-destroying
-diverted
-doctor
-effecs
-elated
-employs
-establishing
-estimated
-existed
-expiration
-ferocity
-firfi
-guardian
-holland
-hurt
-imitate
-imitated
-implicit
-inflicted
-intimately
-intimation
-invidious
-invincible
-italians
-kindred
-loft
-marcus
-opportunities
-oppressed
-penalties
-plate
-poison
-prejudicial
-pretences
-proconsul
-quad
-recollect
-recommendation
-regularity
-religions
-remov^d
-researches
-residence
-risen
-running
-scripture
-similarity
-solely
-stopped
-surrendered
-theology
-throwing
-tolerable
-tome
-transport
-tree
-tumults
-variable
-acquir^d
-admitting
-aliens
-americans
-apprised
-ation
-beat
-beauties
-boast
-borders
-boundaries
-candidates
-canute
-catulus
-ceases
-chufe
-co
-companies
-confederates
-congregation
-connections
-considerably
-contradictory
-cromwel
-danish
-deputation
-determinations
-diftindion
-diligence
-disstinction
-drove
-durham
-edition
-excessive
-exeter
-exterior
-fad
-features
-fitness
-flame
-fraud
-frill
-hazardous
-hollingshed
-inherited
-intrusted
-keeps
-knight
-limitation
-matilda
-meanest
-mens
-messenger
-mutiny
-naples
-navigation
-objet
-polybius
-praises
-realm
-recently
-relinquish
-restitution
-restraints
-sanguine
-se
-selfishness
-sets
-shews
-slender
-spite
-strengthen
-subsidy
-supports
-tedious
-tie
-translation
-unequally
-unintelligible
-vacant
-volume
-waiting
-widow
-winds
-wives
-accidental
-accommodated
-acknowledg^d
-affixed
-alterations
-anticipate
-apud
-ascertained
-astonished
-build
-canons
-captives
-chaced
-challenge
-cn
-commanders
-compulsory
-cordial
-deliberations
-devolved
-discussion
-dishonour
-dispatch
-endless
-eternity
-exempt
-fiill
-fines
-fourteen
-governors
-gravity
-hate
-hill
-im-
-impelled
-imperial
-implacable
-imprudence
-indies
-inequality
-inevitable
-infidelity
-interview
-intricate
-judging
-judicious
-liv^d
-mareschal
-menaced
-metaphysical
-mild
-mostly
-noted
-obstacle
-offering
-ons
-or-
-petty
-population
-propositions
-publicly
-recorded
-review
-rout
-situated
-sounds
-stories
-struggle
-stuart
-swords
-ted
-tom
-tyrants
-validity
-with-
-absurdities
-abundance
-adapted
-american
-annals
-bands
-basis
-beheaded
-blameable
-boulogne
-candidate
-clement
-coll
-collection
-companions
-contrast
-convert
-cornwal
-daughters
-defiance
-define
-defined
-despise
-detachment
-differently
-discretionary
-disdain
-dislike
-en
-ensigns
-est
-exalted
-fool
-fubjets
-funds
-garrisons
-geometry
-gift
-gifts
-glorious
-governing
-graces
-gracious
-honest
-impiety
-instincts
-lex
-li
-loses
-losing
-marquis
-ments
-monuments
-necessaries
-netherlands
-noise
-numberless
-of-
-parallel
-philip^s
-plebeians
-pliny
-preachers
-quickly
-rais^d
-recall
-refers
-refractory
-regions
-restless
-resulting
-routed
-sacrifices
-saving
-sceptic
-scrupled
-selves
-sensuality
-sertorius
-sheriffs
-speeches
-speedy
-suspence
-terminated
-terrified
-threaten
-troubles
-truths
-undertake
-unnecessary
-vegetation
-veracity
-accountable
-adverse
-affectation
-affliction
-affraid
-alarming
-allured
-ambiguous
-annuity
-armament
-arthur
-avidity
-benefices
-bestows
-bills
-breadth
-chains
-comines
-commenced
-comparing
-contagion
-contributes
-conveyance
-correspond
-dare
-deal
-defenceless
-depravity
-destroys
-determines
-dissimulation
-dissipated
-divines
-dowager
-edmond
-elude
-em-
-fa-
-fleets
-harmony
-hearts
-heavens
-holding
-hurried
-indigent
-jerusalem
-keeper
-looking
-looks
-loved
-merited
-miseries
-month
-moralists
-notes
-ours
-passive
-peasants
-penal
-perceiv^d
-planted
-plentiful
-poorer
-possessor
-predecessor
-pretends
-provost
-reform
-scrupulous
-seamen
-shewn
-sphere
-sub-
-superiors
-superstitions
-swore
-tangible
-temperate
-them-
-toleration
-touched
-traitor
-tribute
-umbrage
-ut
-vehemence
-weakened
-westminster
-wool
-wounds
-affront
-agents
-allowance
-answers
-antipathy
-applying
-appoint
-assuming
-aut
-barren
-bestowing
-bond
-bred
-buried
-candid
-capitol
-combine
-communion
-compensate
-condemnation
-conducting
-cont
-counsels
-damage
-deepest
-delivering
-democratical
-despotic
-disturbed
-dunelm
-dutch
-elegance
-expensive
-finite
-flocked
-grow
-homer
-horrid
-imaginable
-imminent
-inherent
-iniquity
-insolent
-io
-isle
-kindled
-legislation
-lent
-magistracy
-maintain^d
-malecontents
-manhood
-mathematical
-meets
-mortification
-mount
-mountfort
-naked
-partition
-peculiarly
-perceives
-planets
-preserves
-principality
-propos^d
-rapacious
-red
-removing
-scrutiny
-separable
-severities
-shape
-shock
-souls
-stay
-stratagem
-stroke
-studied
-sworn
-tained
-tranquility
-triumphs
-ture
-unsuccessful
-vegetable
-vessel
-voyage
-warriors
-watch
-white
-worcester
-accomplices
-addressed
-alarms
-associate
-atonement
-attendant
-augustus
-burning
-complicated
-comprehensive
-concern^d
-consulting
-contain^d
-converse
-corps
-croisade
-dated
-demosthenes
-derby
-des
-detected
-diminished
-dreadful
-dukes
-emergence
-emperors
-enjoys
-enlargement
-erect
-espouse
-exceeds
-explaining
-extinguished
-feed
-fewer
-flood
-gloss
-gratifying
-gregory
-haynes
-heretics
-heroes
-hunger
-imagin^d
-incited
-instructed
-intercepted
-intrigue
-isabella
-islands
-leizure
-lieutenant
-livy
-magnitude
-maintenance
-mediation
-miraculous
-miser
-modes
-mountain
-needs
-objecs
-observer
-par-
-patricians
-pleas^d
-prompt
-propagated
-ralph
-refute
-rejoice
-revolted
-sanguinary
-savoy
-shake
-simon
-subservient
-summon
-surprizing
-tables
-truly
-utter
-victor
-western
+  o f   t h e
+o f   t h e  
+  w h i c h  
+  i n   t h e
+  t o   t h e
+i n   t h e  
+  t h e i r  
+t o   t h e  
+i o n   o f  
+  a n d   t h
+t i o n   o f
+  t h e   c o
+  t h a t   t
+a n d   t h e
+s   o f   t h
+e   o f   t h
+o n   t h e  
+t h a t   t h
+i n g   t h e
+  t h e   p r
+n d   t h e  
+  t o   b e  
+h a t   t h e
+a t   t h e  
+n g   t h e  
+  b y   t h e
+e d   t h e  
+  f r o m   t
+f r o m   t h
+d   t h a t  
+  o t h e r  
+  f o r   t h
+b y   t h e  
+  e v e r y  
+  t h e s e  
+  i t   i s  
+d   w i t h  
+r o m   t h e
+  w i t h   t
+e   t h a t  
+s   t h a t  
+e s   a n d  
+o n   a n d  
+  o f   h i s
+a t i o n s  
+w i t h   t h
+  t h e r e  
+o f   h i s  
+o r   t h e  
+e d   w i t h
+t   o f   t h
+  t h e   r e
+o m   t h e  
+  t h e   m o
+f o r   t h e
+n   o f   t h
+a t i o n   o
+  o n   t h e
+  w o u l d  
+n c e   o f  
+s   w h i c h
+  b e i n g  
+  t h e   s a
+  g r e a t  
+e r   t h e  
+i t h   t h e
+i o n   a n d
+  a l l   t h
+t h   t h e  
+w h i c h   t
+o n   o f   t
+d   i n   t h
+d   t o   t h
+i t h o u t  
+w i t h o u t
+  w i t h o u
+n   t h a t  
+c e   a n d  
+h i c h   t h
+  t h a t   i
+  p e r s o n
+d   b y   t h
+  t h o s e  
+  n a t u r e
+a l l   t h e
+n a t u r e  
+e d   a n d  
+r e   t h e  
+t h e   s a m
+e   s a m e  
+h e   s a m e
+  t h e   i n
+t h e   c o n
+g a i n s t  
+n   t h i s  
+  t h e   l a
+  t h e   p e
+n   w h i c h
+  t h e   k i
+a g a i n s t
+  a g a i n s
+t h e   k i n
+i c h   t h e
+o n s   o f  
+l l   t h e  
+p r e s e n t
+t y   a n d  
+h e   k i n g
+  t h e   s e
+w h i c h   h
+i t y   o f  
+  a n d   i n
+t i o n   a n
+i o n   t o  
+  t h e   f o
+  w h e r e  
+s   a n d   t
+w h i c h   i
+  t h a t   a
+y   o f   t h
+  b u t   t h
+i n g   t o  
+a s   t h e  
+e r   a n d  
+t i o n   t h
+  o b j e c t
+e d   b y   t
+  r e a s o n
+s   i n   t h
+  a p p e a r
+  t h e   d e
+t   t h a t  
+i o n s   o f
+e   i n   t h
+f   t h e i r
+  a s   t h e
+f   t h e   p
+  f i r s t  
+  h i m s e l
+h i m s e l f
+i m s e l f  
+o f   t h e i
+e d   t o   t
+e s   t h e  
+  t h e   f i
+  p o w e r  
+  w i t h   a
+  s h o u l d
+  p r e s e n
+s h o u l d  
+  p e o p l e
+e s s i o n  
+n   t h e   c
+  t h o u g h
+d   f r o m  
+n   t h e   s
+e n t   o f  
+  o f   t h i
+p e o p l e  
+s   w e r e  
+e   t o   t h
+  t h a t   h
+n a t i o n  
+e c t i o n  
+  t h e   s u
+e   w i t h  
+  t h e   g r
+r a t i o n  
+t e d   t o  
+f   t h e   s
+e d   i n   t
+f   t h e   c
+d i f f e r e
+  c o m m o n
+e   a n d   t
+  p r o p e r
+  t h e   c a
+  a f t e r  
+e   w h i c h
+i f f e r e n
+e d   t h a t
+  m a y   b e
+  i s   t h e
+  p r i n c i
+t h e   p r o
+  d i f f e r
+o u l d   b e
+  g e n e r a
+p r i n c i p
+  t h e   p a
+n s   a n d  
+  t h e   e n
+  a u t h o r
+m a y   b e  
+f   t h i s  
+i s   t h e  
+  a n d   c o
+t i o n s   o
+e   m o s t  
+  c o u l d  
+c o n s i d e
+  a n d   t o
+n   t h e   p
+e n c e   o f
+o n s i d e r
+  t h e   p o
+a n d   t o  
+  u n d e r  
+t i o n   t o
+u l d   b e  
+n d   t h a t
+  o r d e r  
+  g o v e r n
+  t h e   m a
+  t h e   d i
+  t h e   f a
+a t i o n   a
+  c o n s i d
+g e n e r a l
+  s u b j e c
+p o s i t i o
+  t h e   m i
+o s i t i o n
+  e f f e c t
+c t i o n s  
+s u b j e c t
+u t   t h e  
+e n   t h e  
+o f   t h i s
+t h e   m o s
+  u p o n   t
+h e   m o s t
+w h i c h   w
+s e l v e s  
+r e s e n t  
+n c e   a n d
+  s u c h   a
+  i s   n o t
+n t   a n d  
+u p o n   t h
+i o n   t h e
+n   t h e i r
+n   t h e   f
+e   o t h e r
+s i t i o n  
+a t i o n   t
+i s   n o t  
+s   f r o m  
+t h e   p r e
+  t h e y   a
+i n   t h i s
+y   w h i c h
+t e d   b y  
+c e   o f   t
+i n g   o f  
+p a s s i o n
+  i n   t h i
+  c o u n t r
+t   i n   t h
+  t h e   s t
+  n e c e s s
+e s   o f   t
+b u t   t h e
+s   w i t h  
+e   k i n g  
+  a t   t h e
+  t h a t   w
+  c o n t r a
+o   h a v e  
+r   o f   t h
+t s   a n d  
+e   f r o m  
+s   t o   t h
+p e r s o n  
+c e r t a i n
+h e   w a s  
+t i o n s   a
+  o b s e r v
+t h e   c o u
+i n   h i s  
+e n e r a l  
+i t y   a n d
+  n a t i o n
+e   g r e a t
+t   t h e y  
+  p a s s i o
+  b e f o r e
+t h e   c o m
+  a c t i o n
+  t h e   c h
+e d   f r o m
+  t h a t   o
+f e r e n t  
+h i c h   h e
+r i n c i p l
+i n c i p l e
+e d   f o r  
+r s   a n d  
+  n e v e r  
+f f e r e n t
+e i t h e r  
+a c t i o n  
+r e a s o n  
+  t h a n   t
+b e f o r e  
+  i n   h i s
+n a t u r a l
+i e s   o f  
+m e n t   o f
+b l e   t o  
+  p a r t i c
+t h e   p r i
+  p r i n c e
+s t a n c e  
+  p l a c e  
+e r e   t h e
+  t h e   e x
+  a n d   w h
+e r a t i o n
+  m a n n e r
+t   t h i s  
+i t   w a s  
+t h e   g r e
+  a m o n g  
+r   t h a t  
+t   w i t h  
+  t h e   r o
+o n s   a n d
+i c h   h e  
+e a s u r e  
+c h   t h e  
+  n a t u r a
+  i t   w a s
+e n t   t o  
+a n d   t h a
+s   t h e y  
+s t   t h e  
+  t h i s   p
+t i c u l a r
+e r n m e n t
+p a r t i c u
+a r t i c u l
+t o   h i s  
+h a t   i s  
+r t i c u l a
+  t h e   w o
+t h e   f o r
+y   t h a t  
+i o n   i n  
+s i o n   o f
+  s t i l l  
+b j e c t s  
+  m i g h t  
+o n   w h i c
+t   w h i c h
+f   t h a t  
+n   t h e   m
+  s t a t e  
+  h u m a n  
+h e   h a d  
+  t h a t   p
+i n t e r e s
+t a t i o n  
+a n o t h e r
+n t e r e s t
+  a n o t h e
+t h e   f i r
+s s i o n s  
+t   t h e   s
+h a v i n g  
+p o n   t h e
+  i n t e r e
+a n d   i n  
+  h a v i n g
+e   t h e y  
+e r s   o f  
+e n t   a n d
+e r e   i s  
+h a t   h e  
+d   o f   t h
+h e r e   i s
+t o   h a v e
+v e r n m e n
+  t o   h a v
+w h i c h   a
+c o u n t r y
+n o t h e r  
+n   t o   t h
+t h a t   h e
+  t h e m   t
+r n m e n t  
+  p o s s e s
+e   m o r e  
+e s s   o f  
+g o v e r n m
+  a n d   r e
+  w h o l e  
+o v e r n m e
+  s h a l l  
+e   p e o p l
+p o s s e s s
+  h e   w a s
+  h a v e   b
+t h e r e   i
+  s u p p o s
+h e r e f o r
+c e   t h e  
+t e d   t h e
+  t o   h i s
+c o m m o n  
+n   i n   t h
+  t h e   o t
+o   t h e   p
+h e   o t h e
+t h e   o t h
+  t h e y   w
+n g   a n d  
+  t h e m s e
+t h e m s e l
+e m s e l v e
+h e m s e l v
+m s e l v e s
+t   t o   t h
+p u b l i c  
+  p u b l i c
+e   f i r s t
+h   t h e y  
+a t i o n   i
+t i o n   i n
+e r e f o r e
+l a t i o n  
+r e f o r e  
+  t h e r e f
+a b l e   t o
+a u t h o r i
+r e d   t o  
+t h e r e f o
+i o n s   a n
+  f o u n d  
+e n t i o n  
+o f   t h a t
+t h e   w o r
+  c o u r t  
+  t h e   n a
+  f o l l o w
+i o n   i s  
+t a i n e d  
+o   t h e   c
+o n   t h a t
+v e   t h e  
+  t h i s   i
+a n c e   o f
+  t h e   m e
+  c a u s e  
+  p r o d u c
+o u n t r y  
+  o f   t h a
+e   b e e n  
+r i n g   t h
+e   t h e   p
+h a v e   b e
+  w i t h   r
+  t h e   t r
+  t h e   c r
+t e n d e d  
+d   t h e   p
+e   t h a n  
+c a t i o n  
+  t h a t   s
+h e   g r e a
+t h e   p e o
+  c a n n o t
+c a n n o t  
+d e r   t h e
+h e   f i r s
+  c e r t a i
+e n g l a n d
+s   a n d   a
+  e n g l a n
+a n d   o f  
+n g l a n d  
+  i n t o   t
+t h e r   t h
+f   t h e   m
+o b j e c t  
+l e   a n d  
+t   f r o m  
+u t h o r i t
+r e   a n d  
+  g r e a t e
+t h o r i t y
+h o r i t y  
+  h a d   b e
+  f r o m   a
+t   t h e   p
+t h e y   a r
+h e   p e o p
+i n a t i o n
+t h o u g h  
+n c e   t h e
+e   p r i n c
+  r i g h t  
+e r t a i n  
+e   t h e   s
+s   t h e   s
+i n   t h e i
+  h e   h a d
+a i n s t   t
+  a n d   p r
+c h   t h e y
+  c o n t i n
+s   w e l l  
+o t h e r s  
+  h a v e   a
+a v e   b e e
+t h e   m i n
+n   w i t h  
+v e   b e e n
+e y   a r e  
+i n s t   t h
+  r e c e i v
+h e r e   t h
+y   w e r e  
+h e y   a r e
+w i t h   a  
+w i t h   r e
+i n g   a n d
+o u g h t   t
+  t h i s   c
+a n d   c o n
+r y   a n d  
+o   t h e   s
+i c a t i o n
+  a n d   h e
+  r e g a r d
+  c i r c u m
+n d   a n d  
+n t   o f   t
+s u c c e s s
+  i f   t h e
+t a n c e s  
+t h a n   t h
+  t h e   w h
+t h o u g h t
+g h t   t o  
+s   t o   b e
+t h e i r   p
+t h e i r   c
+d   t o   b e
+t i n g   t h
+h e   c o m m
+  f o r m e r
+  w h o   h a
+s e d   t o  
+  o f   a l l
+i n t o   t h
+p l e a s u r
+n   o r d e r
+l e a s u r e
+  s u c c e s
+  w o r l d  
+d   t h e   s
+  e m p l o y
+u s   a n d  
+  t h e   q u
+d   b e e n  
+n   a n d   t
+n e c e s s a
+o w e v e r  
+  o t h e r s
+h o w e v e r
+  h o w e v e
+t i o n   w h
+  t h e   s o
+n e d   t o  
+  e i t h e r
+e c e s s a r
+  f a v o u r
+  o f   m a n
+e   w h o l e
+e s   w h i c
+  w h e n   t
+f   t h e   f
+s   t h e   p
+t   t o   b e
+d   a n d   t
+t h e   w h o
+d   t h e i r
+h e   w h o l
+s t a n c e s
+a d   b e e n
+h a d   b e e
+  a f f e c t
+u b j e c t  
+  t o   c o n
+  w e l l   a
+  t h a t   c
+a t i o n   w
+n d e r   t h
+  p l e a s u
+t i o n s   t
+a s   w e l l
+o r d e r   t
+  a n d   h a
+c o n t i n u
+o f   a l l  
+n t s   o f  
+p r o p e r  
+  o c c a s i
+  m e a n s  
+o c c a s i o
+a c c o u n t
+c c a s i o n
+  m a t t e r
+  w h a t   i
+  l i t t l e
+v a n t a g e
+  e n g l i s
+e n g l i s h
+c t i o n   o
+n s t   t h e
+  o u g h t  
+e d   h i s  
+t y   o f   t
+o   m a k e  
+a t u r a l  
+e   t h e   c
+h i c h   i s
+i c h   i s  
+  v i r t u e
+l i t t l e  
+a r t   o f  
+t   t h e   c
+r e c e i v e
+  t h i s   s
+  t h e y   h
+  d i s t i n
+t o   m a k e
+  t o   m a k
+a d v a n t a
+e r   o f   t
+i c u l a r  
+s   a n d   i
+u r e   o f  
+  w h i l e  
+d v a n t a g
+r e s p e c t
+  r e l i g i
+  a s   w e l
+  t h e   b e
+n t o   t h e
+d e r   t o  
+w h e n   t h
+  h i s   o w
+  r e s p e c
+h i s   o w n
+f e c t i o n
+n g l i s h  
+r e l i g i o
+i s   o w n  
+e   t i m e  
+n s   o f   t
+  s e n s e  
+e   h a v e  
+d   t h e   c
+i o n s   t h
+  a c c o u n
+  t h e   a r
+f   t h e   e
+n   f r o m  
+  a s   t o  
+e n c e   a n
+i n g   t h a
+  i n   o r d
+e   p r e s e
+r e   n o t  
+  b e c a u s
+b e c a u s e
+e c a u s e  
+i n   o r d e
+i o n   t h a
+g   t h a t  
+y   i n   t h
+c o u r s e  
+r e s s i o n
+  t h e   l e
+h e   m i n d
+y   a n d   t
+  f o r c e  
+h e n   t h e
+s s i o n   o
+t h e   p e r
+  o f   o u r
+  t h e   p u
+f e r e n c e
+t e d   w i t
+u s e   o f  
+s e   a n d  
+i n   w h i c
+n g   t h a t
+w e l l   a s
+  t h e   n e
+e l l   a s  
+  f r i e n d
+t h e   r o m
+t h a t   o f
+c i r c u m s
+h a t   o f  
+t h e y   h a
+i n g   i n  
+t h e   p a r
+  w a s   t h
+f   t h e   r
+a t   t h e y
+c u m s t a n
+  t h a t   m
+e   r o m a n
+t i o n   i s
+e f f e c t  
+t e d   i n  
+o f   o u r  
+m s t a n c e
+u m s t a n c
+w h e t h e r
+  i n s t a n
+  w h e t h e
+h e t h e r  
+e   a n d   a
+e   t h i s  
+e d   h i m  
+s   t h e   c
+  w i t h   h
+c e i v e d  
+o u l d   n o
+w h e r e   t
+d   w h i c h
+o t h i n g  
+n o t   b e  
+n c e   t o  
+p r o d u c e
+t h e i r   o
+t e r e s t  
+t h e   s e n
+e n t   t h e
+h e   r o m a
+  r e l a t i
+t e n t i o n
+  c h a r a c
+a l   a n d  
+e n c e   t h
+o n   o f   a
+  a d v a n t
+  n o t h i n
+e   m i n d  
+n o t h i n g
+  c o n c e r
+i r c u m s t
+r c u m s t a
+r d e r   t o
+n s i d e r a
+  w a s   n o
+  a n d   o f
+s e   t h e  
+n   t h e   a
+e d   t o   a
+d   t h i s  
+i o n   w h i
+p r o c e e d
+  n o t   t o
+  i n   w h i
+e   a n d   i
+  a n d   m a
+  p r o c e e
+  t h e m   a
+  s o c i e t
+  t h e   f r
+  d a n g e r
+m i t t e d  
+  t h e   l o
+h e   p r e s
+c e s s a r y
+  t h e   h e
+a l w a y s  
+f   t h e   a
+  a   g r e a
+a   g r e a t
+  a l w a y s
+e s s a r y  
+  i t s e l f
+  t h e   t e
+  m u s t   b
+  t h e   g o
+  t o   p r o
+i t s e l f  
+t   a n d   t
+e c t   o f  
+y   t o   t h
+m a n n e r  
+  r e q u i r
+i o n   o r  
+e   t h e r e
+  a n d   d e
+d u r i n g  
+u g h t   t o
+  p r e t e n
+j u s t i c e
+t i o n s   w
+  n u m b e r
+  p a r t   o
+  d u r i n g
+n   t h e   o
+n o t   t o  
+p r e s s i o
+s   t h e   m
+c e p t i o n
+e r e n c e  
+l d   n o t  
+  k i n g d o
+k i n g d o m
+m u s t   b e
+e r s   a n d
+  t h e   t h
+h i c h   w e
+h o u g h t  
+o f   t h e m
+s e s s i o n
+u l d   n o t
+p r i n c e  
+e   o b j e c
+e d   b y   a
+  t h e   d u
+d   h a v e  
+t h e   n a t
+e r a b l e  
+  b e c o m e
+n   e v e r y
+e f o r e   t
+o b s e r v e
+o c i e t y  
+i n   t h a t
+  e x e c u t
+  a n d   b e
+  t h e   e a
+c o r d i n g
+o   t h e i r
+p a r t   o f
+n   t h e   e
+  a   m a n  
+r   w h i c h
+t h e   l a w
+  c r e d i t
+  h i s   c o
+u s t i c e  
+e   f o u n d
+o b j e c t s
+s o c i e t y
+t h e   s t a
+e s   t h a t
+e   t h e i r
+c h a r a c t
+h a r a c t e
+a r a c t e r
+e   p e r s o
+u s t   b e  
+  a c c o r d
+i e s   a n d
+  t h i n g  
+l y   t h e  
+y   o t h e r
+o n   t o   t
+n a t i o n s
+  t h e   h o
+e   o f   h i
+  w i t h   s
+  a n d   d i
+  d e g r e e
+f   t h e   l
+  a b o v e  
+n g   t o   t
+t h e   d i s
+h e   c o u r
+  t h i s   a
+s   a n d   p
+y   w i t h  
+o n g   t h e
+d   t h e m  
+  t o   h i m
+e   n a t u r
+w o u l d   b
+  a b o u t  
+c o n c e r n
+s   t h e r e
+t o   t h e i
+i d e n c e  
+e   p o w e r
+t h e y   w e
+u n d e r   t
+o n e   o f  
+h e   p r i n
+p o s e d   t
+  e x p r e s
+  p u r p o s
+s   a n d   c
+e y   w e r e
+f   t h e   d
+f   t h e m  
+t h o s e   w
+  c o n d u c
+  h e n r y  
+a s s i o n  
+e   w o u l d
+p u r p o s e
+s u p p o s e
+d   t h e r e
+s e   o f   t
+a s   n o t  
+  o f   n a t
+  t o   t h i
+e   w o r l d
+c c o r d i n
+a c c o r d i
+  w e   a r e
+c e s   o f  
+i c e   o f  
+i t i o n   o
+s s   a n d  
+w e   a r e  
+e   w i l l  
+t e r   t h e
+  f r a n c e
+f r a n c e  
+p r o p e r t
+h e y   w e r
+e   w e r e  
+o   m u c h  
+o r e   t h e
+  a r e   n o
+  h i s t o r
+  t h e   i m
+e c t   t o  
+r e q u i r e
+  m o r e   t
+f i c i e n t
+k n o w l e d
+p e r f e c t
+t h e   e n g
+l e   t h e  
+n o w l e d g
+g   t o   t h
+  d i s p o s
+r   i n   t h
+t e   t h e  
+  t h e   o b
+e   c o m m o
+  d e a t h  
+f   t h e   w
+g e t h e r  
+d   f o r   t
+r   t h i s  
+o   t h a t  
+y   h a v e  
+e   t h e m  
+f o r m e r  
+r   w i t h  
+  r e m a i n
+r   t h e   s
+  e n t i r e
+e   t h e   m
+e d   t h e m
+e d   t o   b
+t   t h e r e
+t s   o f   t
+e   e n g l i
+t   h a v e  
+h e   c o n s
+s   t h i s  
+d   u p o n  
+f   t h e s e
+o g e t h e r
+t o g e t h e
+  m e a s u r
+c i p l e s  
+s u c h   a  
+o n   f o r  
+e x p r e s s
+n s t a n c e
+  f o r   a  
+r   f r o m  
+t e   a n d  
+i n s t a n c
+  t h e   w a
+s   t h e   f
+n   t h e   r
+  y e a r s  
+d   i n t o  
+o   w h i c h
+s e r v e d  
+  o f f i c e
+m e a s u r e
+t h e   q u e
+  a n d   a s
+a m o n g   t
+h o u l d   b
+m o n g   t h
+  j u s t i c
+e   t h e   f
+s u p p o r t
+  o f   a n y
+o f   a n y  
+  a n d   a  
+h e   e n g l
+t h e   s u b
+e d   t o   h
+r   t h e   p
+t h e   m o r
+h e   w o r l
+n t   t h e  
+c o n d u c t
+e l a t i o n
+f   w h i c h
+f o r e   t h
+e   i s   n o
+  n o t   b e
+a c t i o n s
+n c e   i n  
+r e d   t h e
+v i r t u e  
+w h a t   i s
+  t h a t   e
+  t h e   o n
+h o s e   w h
+  t h e   a n
+b e t w e e n
+e t w e e n  
+s   a n d   s
+  w e r e   t
+  a t t e n d
+  b e t w e e
+  n o t   t h
+  h e   i s  
+i n g d o m  
+a t e   o f  
+  s u p p o r
+o w l e d g e
+d i t i o n  
+h e   f o r m
+s   o f   a  
+e s   a r e  
+t h e i r   a
+  e v i d e n
+  l i b e r t
+t e r   o f  
+t h e i r   s
+f f i c i e n
+  i m a g i n
+e   t o   b e
+r e g a r d  
+  d i f f i c
+  o f   c o n
+i f f i c u l
+  t h e   p l
+d i f f i c u
+  a n d   f o
+  f o r   h i
+a n   t h e  
+  w i l l   b
+i t i o n s  
+a n d   h e  
+c c o u n t  
+t o   w h i c
+e s p e c t  
+  p r o p o s
+f f i c u l t
+  s p i r i t
+e   m a d e  
+h a t   i t  
+  t h e   s p
+n c i p l e s
+t a b l i s h
+s t a b l i s
+g r e e a b l
+u f f i c i e
+n d   h i s  
+n g   h i s  
+o n   w i t h
+s   m o r e  
+e r s o n s  
+f   t h e   t
+o f   t h e s
+b i l i t y  
+d   t h e y  
+  t h e   a c
+  t h e   h a
+c o n s e q u
+e s t a b l i
+  c o n s e q
+e   m u s t  
+e l i g i o n
+n s   t h e  
+t   t h e   f
+  f r o m   h
+  o f   w h i
+y   t h e   s
+r e l a t i o
+p e r s o n s
+e s s   a n d
+o n s e q u e
+d   t h e   m
+i   h a v e  
+n s e q u e n
+w a s   t h e
+e   f o r   t
+n   t h e   d
+  o f   p r o
+  q u a l i t
+  h o n o u r
+o l e n c e  
+r   t o   t h
+  t h e   c i
+h i c h   h a
+  h i m   t o
+  i n d e e d
+i n d e e d  
+  m o r a l  
+  o r i g i n
+e   o f   a  
+n   t h e   t
+r o p e r t y
+  i   h a v e
+n   t h e   l
+o f   w h i c
+t h e   e a r
+m e d i a t e
+o p e r t y  
+  s u f f i c
+  o f   m e n
+  a n d   e v
+  v i o l e n
+  w e r e   a
+a t e   t h e
+d   o n   t h
+h i m   t o  
+l i t i e s  
+c t i o n   a
+o   t h i s  
+e   o n l y  
+a g r e e a b
+s u f f i c i
+  e x t r e m
+  t h a t   n
+  t h i s   m
+f   n a t u r
+t h a t   i t
+w i l l   b e
+t h i n g s  
+v e r   t h e
+  i m p o r t
+e   i t   i s
+  t h i n g s
+s   o f   h i
+o n   b u t  
+m   t h a t  
+m e n t i o n
+w h i c h   m
+  e s t a b l
+r e e a b l e
+e   s u b j e
+l i g i o n  
+a n d   f o r
+n   t h e y  
+  r e g u l a
+  t h e   r i
+o f   n a t u
+e n t i m e n
+t h e i r   f
+  t h e   b a
+n   t h e   w
+n t i m e n t
+o n   t h i s
+a f f e c t i
+i l l   b e  
+n e s s   o f
+t   t h e i r
+  o f   a n  
+  t a k e n  
+o u n d e d  
+e n   a n d  
+  t h e   l i
+  r e n d e r
+  s e n t i m
+s e n t i m e
+c t i o n   t
+i n g   h i s
+  t h e   o r
+a n d   a s  
+n c i p l e  
+t h a t   i n
+i s h m e n t
+o f   m e n  
+  w h o s e  
+c o m m a n d
+d   t h e   f
+q u i r e d  
+h a n   t h e
+  t h e   h i
+a r e   t h e
+  c a n   b e
+i n   a l l  
+m a t t e r  
+  i m m e d i
+d i s c o v e
+t   t h e   m
+  c o m m a n
+  d i s c o v
+e   e f f e c
+t h o u t   a
+i s c o v e r
+  t h e   u n
+e c u t i o n
+e d   i n t o
+e e a b l e  
+m m e d i a t
+s   a n d   w
+e n t s   o f
+l i a m e n t
+o p i n i o n
+  b e   t h e
+  o p i n i o
+  p a r l i a
+i m m e d i a
+r s   o f   t
+  g i v e n  
+o n s   t h e
+y   t h e   p
+  b y   h i s
+o t h e r   t
+  t o   w h i
+d i n g   t h
+  i n   a l l
+a r l i a m e
+p a r l i a m
+r l i a m e n
+s   o n   t h
+  e x p e r i
+  t h i s   d
+y   t h i s  
+  h i s   p r
+  m e n t i o
+  w e   h a v
+m e n t   a n
+r   t h e   c
+t i o n   o r
+w e   h a v e
+d   t h e   a
+h   o f   t h
+e r   t h a t
+o t h e r   a
+t o   b e   a
+h e r   t h e
+i o n s   w h
+  h a v e   n
+  s e c o n d
+a s s i o n s
+e n t   i n  
+  c o n f i d
+i t y   t o  
+t   o n l y  
+c o n f i d e
+u r e   a n d
+g r e a t e r
+r e a t e r  
+  i s   t o  
+u r p o s e  
+i c i e n t  
+  e v e n   t
+i t i o n   t
+s   t h a n  
+  h a v e   t
+e   f o r m e
+f o r m e d  
+r   a n d   t
+n i n g   t h
+s t   a n d  
+  a n d   i t
+  o p p o s i
+a f t e r   t
+d   e v e n  
+s   f o r   t
+l e s   o f  
+n e   o f   t
+  a n d   m o
+b y   h i s  
+r a t i o n s
+o s e   w h o
+h e   p r o p
+t h   a n d  
+t o   h i m  
+t u r e   o f
+d s   a n d  
+  d e s i r e
+e   c o u r t
+p o r t i o n
+h e i r   c o
+p o s s i b l
+t   t h e   e
+e   i n t e r
+o s e d   t o
+u r i n g   t
+  p a r t y  
+  t h e   v i
+  o b t a i n
+f o r t u n e
+n e d   b y  
+b e   t h e  
+f f e c t i o
+i o n   f o r
+o s s e s s i
+t e r n a l  
+s o   m u c h
+y   t h e   c
+  p r a c t i
+h e   s t a t
+m i s s i o n
+r a c t e r  
+  d i r e c t
+a n d   e v e
+  r e t u r n
+h o   h a d  
+o n t i n u e
+  q u e e n  
+  s o   m u c
+s   h a v e  
+w h o   h a d
+n s t i t u t
+d e g r e e  
+l i b e r t y
+u t i o n   o
+i b e r t y  
+t   t h e   a
+  c o n d i t
+  w o r d s  
+  a n d   h i
+a p p e a r  
+c r e d i t o
+e c e i v e d
+e c t i o n s
+r e d i t o r
+f l u e n c e
+t   i s   t h
+t o   t h i s
+  a n d   s e
+c o n d i t i
+h e   c o u n
+t h e   i n t
+  e n e m y  
+  o f   i t  
+  t h e   n o
+o n d i t i o
+  a r e   t h
+d i n g   t o
+  o f   t h o
+d e t e r m i
+i n   e v e r
+o r e   t h a
+  t h e y   c
+c a n   b e  
+e t e r m i n
+a v e   t h e
+t h e   l a t
+a r d   t o  
+n d i t i o n
+  t h e   g e
+f   t h e   g
+s e   w h o  
+e   s t a t e
+h a v e   n o
+l o w i n g  
+n   t h e   h
+r   t h a n  
+h e   c o n t
+a n d   b y  
+a n k i n d  
+n d   w i t h
+t   i t   i s
+w i t h   h i
+  o p e r a t
+a r e   n o t
+n e d   t h e
+o p p o s i t
+  i n   e v e
+m a n k i n d
+n f l u e n c
+  t o   p r e
+e   c o u n t
+n d s   o f  
+  m a n k i n
+s s e s s i o
+e   a u t h o
+m e n t   t h
+  r o m a n  
+  a n i m a l
+  e n g a g e
+l i s h e d  
+n d   i n   t
+t h e m   t h
+  d e t e r m
+i n f l u e n
+  m o n e y  
+  i n   t h a
+c o u r a g e
+i n e d   t o
+l y   a n d  
+a n c e   a n
+  i n f l u e
+b e c o m e  
+w h i c h   s
+  a n d   s u
+t i o n s   i
+  b u t   w h
+a n d   h i s
+i f   t h e  
+m o r e   t h
+t i e s   o f
+  o r   t h e
+a n d i n g  
+  o f   i t s
+c e   w i t h
+o n d u c t  
+  w e   m a y
+e   q u e e n
+f t e r   t h
+u e s t i o n
+w e   m a y  
+  o b l i g e
+t   o f   h i
+f r i e n d s
+q u e s t i o
+t h e   f a m
+  p e r f e c
+  t h e m   i
+  o f t e n  
+s   a n d   h
+  a n d   n o
+  t h e   a d
+i a m e n t  
+h e   p a r t
+i t u t i o n
+o u t   t h e
+  t h e   s c
+t h e r   i n
+t i r e l y  
+h e   p e r s
+  t h i s   t
+t u a t i o n
+o u s   a n d
+  l e a s t  
+d   t h e   e
+r i t y   o f
+  b y   w h i
+  s t r o n g
+c o u r t   o
+e   g e n e r
+s p e c t   t
+t   i s   n o
+  c o n n e c
+i t   i s   t
+a n d   p r o
+g e   a n d  
+o n   w a s  
+r s   t h e  
+n y   o t h e
+o   t h e   e
+m e n t s   o
+n t i r e l y
+b y   w h i c
+i c h   w e  
+  w i t h   w
+c o u l d   n
+e e n   t h e
+a n y   o t h
+o   t h e   f
+c u t i o n  
+i t   a n d  
+o r   h i s  
+  a n d   w i
+h e   q u e e
+i o n   b u t
+t y   t h e  
+v a t i o n  
+p e r i e n c
+  p r o g r e
+m e   t i m e
+t i o n a l  
+r t   o f   t
+s   a n d   o
+  a n d   s o
+  o n e   o f
+  q u e s t i
+  s i t u a t
+c h   w a s  
+e r   w i t h
+l e   t h a t
+t e d   a n d
+w l e d g e  
+  t h e y   m
+w a s   n o t
+n g   t h e m
+y   f r o m  
+  c o n c l u
+  o f   h e r
+c o n n e c t
+l u e n c e  
+  t h i n k  
+e x p e r i e
+t h e m   t o
+  p u n i s h
+  s u p e r i
+n s   w h i c
+t i o n e d  
+x p e r i e n
+  t h e   d a
+h e   i n t e
+t h a t   i s
+  p r o b a b
+d   t h e   r
+e   a n d   s
+e   a n d   h
+i o n   w i t
+  a n d   e x
+u r t   o f  
+i n   a n y  
+o u r t   o f
+  t h e   w i
+  u n i v e r
+u a t i o n  
+c e s s i o n
+  p r o v i d
+d   t o   r e
+e n t i r e l
+e r i e n c e
+o   t h e   m
+e p t i o n  
+r e   t h a n
+  t h i s   r
+e s   w e r e
+i t y   i n  
+  a t t e m p
+e r   t h a n
+e s   w i t h
+e x e c u t i
+o n   i n   t
+t s   t h e  
+o n   h i s  
+a t t e m p t
+e d   i n   a
+l   o f   t h
+e   c a u s e
+  a n d   b y
+  c o u r s e
+i t u a t i o
+k e   t h e  
+u p e r i o r
+e   v e r y  
+p r a c t i c
+r   t h e i r
+s   a n d   e
+u c h   a s  
+s u p e r i o
+  a n d   u n
+  t o   c o m
+s   b e e n  
+  b e t t e r
+c a s i o n  
+p h i l o s o
+p l o y e d  
+  f o r t u n
+  p e a c e  
+i m p o r t a
+n o t   t h e
+o u l d   h a
+d   w h e n  
+t   w i l l  
+e x t r e m e
+n   s o m e  
+c t i o n   i
+k i n g   o f
+n d i n g   t
+a t   t h i s
+e   t h e   a
+e s s i o n s
+h i s   c o n
+r o u g h t  
+u n i v e r s
+  a c q u i r
+  p e r f o r
+  p h i l o s
+p r o g r e s
+r o g r e s s
+e   a n d   w
+e   t h e   e
+  o f   s u c
+s   a n d   f
+h e i r   o w
+e i r   o w n
+f   t h e   o
+l d   h a v e
+p e r f o r m
+a p p e a r s
+c e   o f   a
+p p e a r s  
+s   n o t   t
+a n g u a g e
+i r   o w n  
+p r o v i d e
+t h a t   a  
+b e t t e r  
+l a n g u a g
+r e   o f   t
+  t h e   t i
+i l o s o p h
+  t h e   s i
+e   c o n s i
+h i l o s o p
+p p o s e d  
+y   t h e i r
+c o t l a n d
+s c o t l a n
+  h i m   t h
+  s c o t l a
+l l o w i n g
+p e c t   t o
+t h e   f r e
+  l a n g u a
+  t h r e e  
+o t l a n d  
+a n d   i t  
+s i t u a t i
+r o p o r t i
+l i t y   o f
+p r o p o r t
+o p o r t i o
+p o w e r   o
+t h e   g e n
+t h e   r e a
+a n t a g e  
+t h i s   i s
+e g a r d   t
+e m p l o y e
+h e m   t o  
+n   n a t u r
+s e n s i b l
+t h e r   a n
+u l d   h a v
+d a t i o n  
+d e d   t o  
+e   c o n t r
+e   t h e   r
+o f   i t s  
+a r r i e d  
+t h e r e   a
+o   g i v e  
+p r e s e r v
+e q u e n c e
+s   i t   i s
+  n o t   o n
+d i s t i n c
+n d   w h i c
+  c r o w n  
+a g e   o f  
+e   p r o p e
+d   a g a i n
+m p l o y e d
+y   t h i n g
+m o t i o n  
+t i t u t i o
+  p a r t s  
+e   p u b l i
+s   u p o n  
+  o f   c o m
+e n c e   t o
+t o   g i v e
+  r e p r e s
+e a r a n c e
+  t o   g i v
+a r y   t o  
+  w i t h i n
+i s t i n c t
+s t i t u t i
+e x a m p l e
+w i t h i n  
+  h a d   n o
+t h e   c h a
+  f r e n c h
+c e   t h a t
+s e q u e n c
+t   t h e   d
+  b e   c o n
+  e x a m p l
+  t h e   o p
+e   s h o u l
+e   w h e n  
+i t y   t h e
+s   w h e n  
+  p r o p o r
+e d   t o   s
+i t   m a y  
+t   u p o n  
+e v e r y   o
+f   t h e   h
+h i c h   i t
+m p o r t a n
+n   t h e   n
+t   w h e n  
+t h e   h e a
+b l e   o f  
+h a t   w e  
+t h a t   w h
+r e s e r v e
+s   n o t   a
+  h a n d s  
+  i n   a n y
+e d   t o   p
+n   a n d   a
+n   s u c h  
+e d   b u t  
+e   o n   t h
+o r i g i n a
+  p r e s e r
+s   m a d e  
+s s i b l e  
+t h e   c r o
+  f a r t h e
+e y   h a d  
+  a d v a n c
+  t h e   a u
+i n g u i s h
+t i n g u i s
+  b r o u g h
+p e a r a n c
+b r o u g h t
+e   f o l l o
+n t s   a n d
+  t h e y   s
+  b e n e f i
+  t h e   b o
+e n d e d   t
+d   t o   h i
+h   t h a t  
+h i c h   a r
+n u m b e r  
+  s o m e   o
+  t h a n   a
+a t e   a n d
+d e r a t i o
+o u r   o f  
+  s a t i s f
+e a d   o f  
+e a s u r e s
+a i n   t h e
+a s u r e s  
+  a g r e e a
+  i t   m a y
+  w e r e   s
+c e   w h i c
+w h i c h   c
+  s e n s i b
+v i d e n c e
+  s e v e r a
+l e d   t o  
+s e v e r a l
+c o n s i s t
+s   a n d   m
+t   w o u l d
+o n s   w h i
+t h i s   p r
+  e x p e c t
+e   u p o n  
+t h e   f o l
+  f i g u r e
+a n c e   t h
+f f e c t s  
+n d   t h e r
+t h a t   p r
+t i o n   w i
+i t   i s   n
+  a n d   w e
+  w e r e   n
+a r t h e r  
+i s t a n c e
+  e a c h   o
+a n d   a n d
+a n y   o f  
+e   g o v e r
+f a r t h e r
+h   w h i c h
+h e   s u b j
+i c h   i t  
+  c a u s e s
+  e q u i t y
+e q u i t y  
+f r e q u e n
+h e   d u k e
+t h e   d u k
+t o   t h a t
+g a r d   t o
+n s i b l e  
+  h o u s e  
+a n n e r s  
+  i s   n o  
+c a u s e s  
+h e   o b j e
+s p i r i t  
+f r e n c h  
+h e r   a n d
+t h e   o b j
+  t h i s   w
+o l u t i o n
+  t h e   a p
+a k e   t h e
+c t s   o f  
+h a t   i n  
+u l a t i o n
+  a l o n e  
+  c o n s t i
+  o f   h u m
+a l i t i e s
+e s   i n   t
+f   t h o s e
+t h e i r   d
+  f r e q u e
+  i n t o   a
+m e   a n d  
+d   t h e   d
+o s s i b l e
+t a n d i n g
+h e y   h a d
+i c t i o n  
+o n   o f   h
+  d u k e   o
+e r s   t h e
+p p o s i t i
+  t i m e   t
+a r   a n d  
+a t u r e   a
+c o n t r a r
+o n s   t o  
+p p e a r a n
+  h a s   b e
+  w a s   i n
+o t   t h e  
+w i t h   w h
+a p p e a r a
+b j e c t   o
+e n s i b l e
+o v e r   t h
+g   t h e   p
+o l l o w i n
+s c i e n c e
+t h r o u g h
+  t h r o u g
+  u p o n   a
+f o l l o w i
+r e q u e n t
+  k n o w n  
+e v e r a l  
+p r o b a b l
+t h a t   w e
+c o n s t i t
+e   a n d   e
+m a t i o n  
+o n s t i t u
+  i n t e l l
+i d e r a b l
+u k e   o f  
+  c a r r i e
+d u k e   o f
+t   b e i n g
+  p r e f e r
+e   s u p p o
+r i e n c e  
+r i g i n a l
+  k i n g   o
+s h m e n t  
+  e a r l   o
+h i s t o r y
+m a n n e r s
+n e   a n d  
+o f   t h o s
+r t s   o f  
+t h e   r e s
+h i s   i s  
+i s t o r y  
+n e c e s s i
+r e g u l a r
+e r h a p s  
+f   t h e   k
+p e r h a p s
+  p e r h a p
+a r l   o f  
+e   p l a c e
+e s   o f   a
+h   t h e   p
+  e x c e p t
+  f a t h e r
+e a r l   o f
+n g   w i t h
+q u a l l y  
+t i o n   b e
+b l e   a n d
+e c e s s i t
+e d   o n   t
+b e i n g   a
+  w h a t e v
+a n d   d i s
+a t e v e r  
+h a t e v e r
+o r d i n g  
+h i c h   w a
+n e s s   a n
+t   m u s t  
+w h a t e v e
+  s e e m s  
+e   a n d   c
+e m e n t s  
+s t a n d i n
+t   t h e   r
+  a n d   a l
+e   d u k e  
+o t h e r   p
+  r e m a r k
+  t h e   f e
+u r e   t h e
+x e c u t i o
+  d e p e n d
+  s p e c i e
+  t o   d i s
+e d   t h e i
+h e   f o l l
+v e   a n d  
+e p r e s e n
+r e p r e s e
+r o d u c e  
+s i o n s   a
+  p r e v e n
+a n d   w h e
+t o   b e   t
+  l a b o u r
+b l i g e d  
+e q u a l l y
+f   t h e   i
+p r e v e n t
+  a f f a i r
+  b u t   i n
+o b l i g e d
+v e r e i g n
+c h   a r e  
+i s   t h a t
+m e   t h e  
+p e c i e s  
+t h e   p o w
+p r i n c e s
+  h i s   f a
+i n g   h i m
+o g r e s s  
+s i d e r a b
+t   a p p e a
+  c o m p a r
+d e a v o u r
+e   p a r t i
+t h e i r   r
+  e d w a r d
+a n d   w h i
+a p p o i n t
+a t u r e   o
+b l e   t h a
+e s s   t h e
+h o n o u r  
+i c e   a n d
+m o n a r c h
+r e   i s   n
+  m o n a r c
+  o n l y   t
+f r o m   h i
+i c h   w a s
+i o n   a s  
+n d   f o r  
+s   a g a i n
+e f f e c t s
+n d   w a s  
+n g u a g e  
+  e q u a l l
+f a v o u r  
+n t   f o r  
+o v e r e i g
+p i n i o n  
+t h e i r   m
+e   r e a s o
+e n d i n g  
+r e   a r e  
+  t h e   e f
+d i s p o s i
+e s   f r o m
+f o r   h i s
+  t h a t   f
+h e   p o w e
+o f   h e r  
+  t o g e t h
+a b l e   t h
+e   a n d   p
+n s   a r e  
+t h e   s u p
+  f a m i l y
+c o m m u n i
+e   a d v a n
+r   t h e   m
+i m e n t s  
+s p e c i e s
+v e   t h a t
+  i n   i t s
+e n c e   i n
+e v e n   t h
+h e   e a r l
+o   t h e   d
+  k n o w l e
+t h a t   n o
+t h e   d i f
+e   f a m e  
+e s   b u t  
+i n g   i t  
+n d   o f   t
+e   u n d e r
+u s e   t h e
+  t o   t h a
+  s o v e r e
+a t i o n   b
+f o r e i g n
+s i o n   t o
+  f o r e i g
+i t   i s   a
+s o v e r e i
+t i o n   f o
+  g r o u n d
+  t i m e s  
+e   t h e   o
+i d e r e d  
+  m a d e   t
+a c q u i r e
+f   h u m a n
+t h e i r   e
+  d e c l a r
+n c t i o n  
+o f   h u m a
+r a c t i c e
+  a n d   c a
+t h i s   c o
+  k i n g ^ s
+d   w i t h o
+h e   p u b l
+i o n   w a s
+t h e   m a n
+h   o t h e r
+h e   f a m e
+o n t r a r y
+s   o f   m e
+u b j e c t s
+  a r e   i n
+  o v e r   t
+c e   i n   t
+e   a g a i n
+f a m i l y  
+g h t   o f  
+j e c t   o f
+n t r a r y  
+o   t h e   r
+o s e   o f  
+t   w e r e  
+e r e d   t h
+k i n g ^ s  
+n d e a v o u
+s p o s i t i
+w e r   o f  
+  e n d e a v
+  h i s   r e
+  t h e   v e
+d e r a b l e
+f   s u c h  
+o w e r   o f
+t e r m i n e
+  t h a t   b
+e n d e a v o
+i t a t i o n
+i v e   t h e
+o r t u n e  
+s   t h e   o
+  i n t e n t
+a n d   w i t
+g   t h e m  
+s e d   t h e
+s s   o f   t
+  t h o u s a
+l i t a r y  
+o t   o n l y
+s   t h e   r
+t h o u s a n
+  f r o m   w
+  i s   i n  
+a s   b e e n
+h a s   b e e
+h o u s a n d
+  p r e v a i
+c a l l e d  
+h a v e   t h
+n o t   o n l
+w i t h   a n
+  b e a u t y
+h e   c r o w
+p r e v a i l
+t   f o r   t
+  t e r m s  
+a i n i n g  
+b e a u t y  
+e d   t o   r
+h e   n a t u
+t h e   p u b
+  l e t t e r
+d   b y   a  
+d e d   t h e
+e   t h e   d
+i s t e n c e
+r   t h e   f
+t h e   m e a
+e   b u t   t
+h e i r   p r
+r v a t i o n
+t o   t h e m
+  t h e   c l
+e   c r o w n
+e   k i n g d
+e c t e d   t
+i s p o s i t
+p l e   o f  
+s t a t e   o
+  t o   a l l
+t r i b u t e
+c u r i t y  
+  e x e r c i
+e r v a t i o
+h   r e s p e
+i e s   t h e
+n   o f   a  
+s   t h e   a
+t h e r e   w
+  r o m a n s
+c t i o n   w
+i t h   r e s
+o n s   i n  
+r o m a n s  
+a d v a n c e
+c i t i z e n
+e   l a w s  
+e l y   t o  
+g e d   t o  
+l a t i o n s
+r d i n g   t
+  a n d   e n
+i o n s   i n
+s   b u t   t
+s e r v e   t
+e   p a s s i
+s e r v i c e
+  p r o m i s
+  r a t h e r
+  y o u n g  
+e   d i f f e
+n e d   i n  
+o n   o f   p
+r a t h e r  
+  p r i v a t
+  w i t h   m
+n   t h e s e
+t h e   s e c
+y   t h e   f
+  c i v i l  
+f   t h e   b
+g   t h e   c
+o   o t h e r
+s e c o n d  
+u a l i t i e
+u r   a n d  
+c a u s e   t
+l e c t i o n
+t h e   e f f
+t u t i o n  
+u n d e r s t
+c h   h a d  
+h e r   t o  
+q u a l i t i
+t   m a y   b
+  c o m p o s
+  w e r e   i
+a s o n i n g
+d   i n   a  
+e a s o n i n
+f f e r e n c
+n d   e v e n
+o p e r a t i
+y   a n d   a
+a n d   t h o
+n   t h e   b
+n t e n t i o
+  c h a n g e
+  u n d e r s
+e   s u c h  
+n c e s   o f
+s   a n d   d
+  i m p r e s
+e   c o u l d
+e   m a n n e
+e   t h o u g
+n c e   t h a
+r e a s o n i
+  s e r v i c
+g   f r o m  
+s i o n s   o
+t e r   a n d
+t h   r e s p
+  a n d   w a
+  t h i s   e
+e   o f   a n
+  t h a t   r
+a n s   o f  
+f o u n d e d
+i o n s   t o
+t   t h e m  
+  t h e   f u
+n g   f r o m
+e d   u p o n
+o r   t h a t
+s   w i l l  
+s t e n c e  
+t a i n   t h
+g r e a t   a
+l e   t o   t
+o b s e r v a
+w e r e   t h
+d   a s   t h
+  t i t l e  
+t w e e n   t
+  c h u r c h
+e   b y   t h
+e n t   t h a
+f a c t i o n
+i t t e d   t
+t h e   a u t
+  s u f f e r
+c t   a n d  
+h e   m o r e
+s   t h e i r
+d   w e r e  
+e   n e c e s
+s e r v a t i
+t h e   c a u
+e r   i n   t
+  s e c u r i
+d i a t e l y
+e r n i n g  
+i a t e l y  
+o   t h e   a
+s   t h e   e
+  a n y   o t
+h e   a u t h
+i n e d   t h
+s   a n d   b
+  o f   a   p
+  s a m e   t
+i t i o n   a
+t s   w h i c
+y   t h e   m
+  m i l i t a
+  o f   m o r
+e x e r c i s
+l a t t e r  
+t h   h i s  
+y   a n d   i
+  o f   l i f
+t   t h e   t
+t h e   a p p
+a n d   t h i
+d e d   b y  
+e   a n d   f
+g e m e n t  
+o f   l i f e
+o t h e r   i
+s   n a t u r
+a u t h o r  
+i n t e l l i
+o u s a n d  
+f   l i f e  
+q u e n t l y
+t h e s e   p
+u e n t l y  
+  n o t   i n
+i t   t h e  
+r c e   o f  
+s s i o n   t
+t a t e   o f
+  d e s i g n
+  o f   e v e
+  p o s s i b
+m i l i t a r
+o t h e r   c
+r   t h e   d
+a   v e r y  
+e   t h e   l
+e d i a t e l
+e r   w h i c
+h i s   p r o
+p r i v a t e
+r s e   o f  
+  a   v e r y
+i m p r e s s
+h e r   i n  
+r o d u c e d
+u r a b l e  
+e   k i n g ^
+n t e l l i g
+o d u c e d  
+t h a t   c o
+t   e v e r y
+c e s   a n d
+d i n a r y  
+h e   h a s  
+i l i t a r y
+  a n s w e r
+t   o f   a  
+  i d e a s  
+  s m a l l  
+c a r r i e d
+t h i s   r e
+a n n o t   b
+e v e r y   p
+  i n   c o n
+a n d   w a s
+d   i t   i s
+  i s   t h a
+  t h e   h u
+a t t e n t i
+e a t e s t  
+h a p p i n e
+  c o m m u n
+  s o   f a r
+a i n t a i n
+e s   f o r  
+g r e a t e s
+i n g   f r o
+i n t e n t i
+r e a t e s t
+s o   f a r  
+  h a v e   s
+e   r i g h t
+f r o m   a  
+m a i n t a i
+  m a i n t a
+  p r o v i n
+a r   t h e  
+s i o n   a n
+t h e s e   a
+t o   a l l  
+  m a d e   a
+t e d   t h a
+  c o n t r i
+  o f   e n g
+  p e r i o d
+b l i s h e d
+b u t   i n  
+q u e n c e  
+t y   w h i c
+  e m o t i o
+  f o u n d e
+  h a p p i n
+c i e n c e  
+e m o t i o n
+n   t h e   g
+n d a t i o n
+p i n e s s  
+s   t h e   d
+  m a k e s  
+e   w a s   a
+e d w a r d  
+t h e   p l a
+  t h a t   d
+t i o n   b u
+v i n g   t h
+  s y s t e m
+a c t i c e  
+e s t i o n  
+h e   l a w  
+l u t i o n  
+s   w h e r e
+s t i n g u i
+t   w h a t  
+t i t u d e  
+  m a n y   o
+e s   n o t  
+o r d i n a r
+p o w e r s  
+  a s   i t  
+  b e e n   a
+  o f   p a r
+e   o f   c o
+i c h   a r e
+o r t i o n  
+p e r a t i o
+h e r   t h a
+h o u t   a n
+o n   o f   m
+r d i n a r y
+t h e   a c t
+  b e y o n d
+b e y o n d  
+d i s t i n g
+g   w i t h  
+i s t i n g u
+r y   t h e  
+d   t h e   l
+e   n a t i o
+f   t h e   n
+  e x i s t e
+o   t h e   l
+r g u m e n t
+  s e p a r a
+a r g u m e n
+i n   a n d  
+m   t h e   p
+p o l i t i c
+  a r g u m e
+i m a g i n a
+n d   t h i s
+o u g h   t h
+  c o n s i s
+  o f   a   c
+o f   s u c h
+o r d e r s  
+r e d   b y  
+t h e m   i n
+  a n d   f r
+  c i t i z e
+n   a n d   i
+  h e   h a s
+  h e a r t  
+  i n d i v i
+  w e r e   e
+a r r i a g e
+t   t h e   l
+u p p o s e d
+  p o w e r s
+a c e   o f  
+e   p l e a s
+e q u e n t l
+n i s h m e n
+w e e n   t h
+d s   t h e  
+e d   t o   e
+f f a i r s  
+  c a l l e d
+a f f a i r s
+c c e s s i o
+r e   i s   a
+u a l i t y  
+  p r o t e c
+n   t h e   i
+p p i n e s s
+t   s u c h  
+t h e   p a s
+g e   o f   t
+t e d   f o r
+a p p i n e s
+m   t h e   s
+o r i t y   o
+  o r   t o  
+d   a n d   a
+e   i s   a  
+e r s   t o  
+e s t   o f  
+g   t h e   s
+h   t h e   s
+s   b y   t h
+d   a t   t h
+n g   t h e i
+s s   t h e  
+x e r c i s e
+d   a l l   t
+  p o l i t i
+  t h e   j u
+d e d   w i t
+e d   b y   h
+e r   w a s  
+h i s   c o u
+o n   f r o m
+e v i d e n t
+  a t t e n t
+  c o n s c i
+a t i o n   f
+g   t h e i r
+l l o w e d  
+o u s   t o  
+r e s s e d  
+t h   w h i c
+  o f   a   s
+  t h i s   o
+c e r n i n g
+o u r   a n d
+s e p a r a t
+e   a p p e a
+s s i o n   a
+  s e c r e t
+a m e   t i m
+i n   i t s  
+m   t h e   c
+n e m i e s  
+o f   e n g l
+  a l r e a d
+a l r e a d y
+e n t   f o r
+i c h   h a d
+l r e a d y  
+n y   o f   t
+t   a n d   a
+u t   a n y  
+  a f f o r d
+c e s s i t y
+e s s i t y  
+  t h e   v a
+  t o w a r d
+u n t   o f  
+  t h e m   w
+c o u n c i l
+e x i s t e n
+o u n t   o f
+o u r s e   o
+t   o n   t h
+w e r e   n o
+  t a s t e  
+b r o t h e r
+e   w i t h o
+s   b e i n g
+s u c h   a s
+  b r o t h e
+  i f   h e  
+  p r e p a r
+a r a n c e  
+n g   o f   t
+n s   t h a t
+  i n   o u r
+  p o i n t  
+  t e m p e r
+p r o v i n c
+t h e   c a s
+f   a l l   t
+  t h a n   i
+d e r   o f  
+a n d   i f  
+d a n g e r  
+n t   t h a t
+  i n t e n d
+e   a n d   m
+i g h t   o f
+o m e t i m e
+o t i o n s  
+s c r i p t i
+t o   a n y  
+e   f r e n c
+e d   t o   m
+b i t i o n  
+d   e v e r y
+h e   e f f e
+h t   a n d  
+m p r e s s i
+n   a f t e r
+o u t   a n y
+  c o n s u l
+n c e   i s  
+p r o t e c t
+t   t h e   i
+  h i s   d e
+  w h e n   h
+  w i t h   i
+d   a n d   i
+e   a n d   o
+e d   o f   t
+i t h   h i s
+s e c u r i t
+  c o m m i t
+e c t s   o f
+e n t i o n e
+g h t   a n d
+i n d i v i d
+n d i v i d u
+p r o m i s e
+s   u n d e r
+s e d   b y  
+u p p o r t  
+y   t h e   a
+  c o u n c i
+  e n e m i e
+a i n s t   h
+e   s a i d  
+i n   s o m e
+i v i d u a l
+n n o t   b e
+  h i m   i n
+  t h o   t h
+d   m o r e  
+d i v i d u a
+e n e m i e s
+i s s i o n  
+r i v a t e  
+t i m e n t s
+u e n c e   o
+a t   a l l  
+h e r e   a r
+m   w i t h  
+n t i o n e d
+s i o n   t h
+t h e   c i t
+  s o m e t i
+f r o m   w h
+h e   c a u s
+i n   o u r  
+s o m e t i m
+t   a n d   i
+  l a t t e r
+e t i m e s  
+h a v e   a  
+o r t   o f  
+o u n d   t h
+p p r e h e n
+s o n   o f  
+a p p r e h e
+c o u n t   o
+f   e v e r y
+h e   o n l y
+t u r e   a n
+u s   t h e  
+b s e r v e  
+e d   t o   c
+i n c t i o n
+  p o p u l a
+h a t   t h i
+  b u t   a s
+f i c a t i o
+h e   g e n e
+l l   n o t  
+o n s   a r e
+  c o n q u e
+  e s t e e m
+  t h e   e m
+a u s e   t h
+h e   m e a n
+i o n   i t  
+l   t h a t  
+s   o n l y  
+  b e l i e v
+  h i m   a n
+e   b e i n g
+m e t i m e s
+o   t h e   h
+  f o u n d a
+e d   a l l  
+g a t i o n  
+i l e   t h e
+o r y   o f  
+t e r w a r d
+  e u r o p e
+e   s e n a t
+h e   f r e n
+i d e r a t i
+o d   a n d  
+o n c e r n i
+s i t i o n s
+t   e v e n  
+w h i l e   t
+  a g a i n  
+  s e n a t e
+m   w h i c h
+n c e r n i n
+u r a l l y  
+  h i s   i n
+  w r o n g  
+c r i p t i o
+d   t o   c o
+e m e n t   o
+n d   t o   t
+o f   e v e r
+r o v i n c e
+t i o n   a s
+t u r a l l y
+a g e   a n d
+h e   h i g h
+h r o u g h  
+i o n s   a r
+t h e   h i g
+u r s e   o f
+  t o   s u p
+d e f e n c e
+n   f o r   t
+s   w i t h o
+b y   t h e i
+i f i c a t i
+o n   o f   s
+r   t h e y  
+r i p t i o n
+  a n t i e n
+a n t   o f  
+a n t i e n t
+t e r t a i n
+u n d a t i o
+  i n h a b i
+e c u r i t y
+n d   t h e i
+t i n c t i o
+  i n   e n g
+a s s e m b l
+a t u r a l l
+b u t   a s  
+d   o t h e r
+h e m   t h e
+l l   h i s  
+  a f t e r w
+  a n d   p a
+  p r o s p e
+a f t e r w a
+d   h i m   t
+f t e r w a r
+i n g   f o r
+n g   b u t  
+  a r e   c o
+m e n t s   a
+n   w h a t  
+  h u n d r e
+  w i l l   n
+h u n d r e d
+o r   a n d  
+t h e   p o p
+  m a k e   a
+c h i l d r e
+e   e a r l  
+h i l d r e n
+m a k i n g  
+p t i o n   o
+  a n d   i f
+  a s s e m b
+  s a i d   t
+d   t o   h a
+e   w h e r e
+g   o f   t h
+n   o f   h i
+n   t h e m  
+m a r r i a g
+p o r t e d  
+o   t h e m  
+s t   o f   t
+t u r e   t h
+  m a k i n g
+  a n d   a n
+d e s i r e  
+h e r   o f  
+m e n t   t o
+r e d   i n  
+t t e n t i o
+  s t a t u t
+a t u r e   t
+h e   s e n a
+i l d r e n  
+a b o u t   t
+o r e i g n  
+s e n s e   o
+s t i n c t i
+  c h i l d r
+  o f   f r a
+  w i t h   p
+i n h a b i t
+b e l i e v e
+b e r   o f  
+d   b y   h i
+o   t a k e  
+  m a r r i a
+a v e   n o  
+c h   o t h e
+e   s h a l l
+e   t h e   i
+f   e n g l a
+f o u n d a t
+h e   p a s s
+o u n d a t i
+t   b y   t h
+  a p p r e h
+  p   t h e  
+a r t i c l e
+f a t h e r  
+g r o u n d  
+h e   w i l l
+h i l e   t h
+n t e r t a i
+o n f i d e r
+t e l l i g e
+v e n   t h e
+e n t e r t a
+e r   t o   t
+h   r e g a r
+i n   e n g l
+i n g   w i t
+o w a r d s  
+q u a l i t y
+r e   t h a t
+x a m p l e  
+  a s   i n  
+e l l i g e n
+e m   a n d  
+s   i n t o  
+s e n a t e  
+s i d e r a t
+s t a t u t e
+  d e f e n c
+s   o f   c o
+t   p r i n c
+t h e r   o f
+  h e n c e  
+o r   t h i s
+p e r i o r  
+t   t h e s e
+y   t h e   e
+  a n d   a r
+  e n t e r t
+c o n t e n t
+c t   t h e  
+e   e v e r y
+s   o f   a n
+u c t i o n  
+u g h   t h e
+e   s o m e  
+i n c i p a l
+r i n c i p a
+  t h e   u s
+d e   t h e  
+e   o f   m a
+t a n c e   o
+t h o s e   o
+  r e f l e c
+e i g h b o u
+f i g u r e  
+i g h b o u r
+n   t h e r e
+t h e   c h i
+t h e r   t o
+  n e i g h b
+  o f   f o r
+  s o o n   a
+a i n e d   t
+c e   b u t  
+n e i g h b o
+  t r u t h  
+e d   n o t  
+i o n   f r o
+t o   b e   s
+  m o r e   a
+e d i t o r  
+e r e   a r e
+l i g e d   t
+  a b l e   t
+  t h e   a t
+  t h e   b r
+e s   t o   t
+p r e t e n d
+t o   t a k e
+u n d r e d  
+  b e s i d e
+d   a f t e r
+d e   a n d  
+e r   h i s  
+e y   h a v e
+h e y   h a v
+t o w a r d s
+  c o m p l e
+  p a r t   i
+  t o   t a k
+e   w h a t  
+t h e   i m p
+t h e   l a n
+t i o n   w a
+x i s t e n c
+  c h i e f  
+a m b i t i o
+a n d   i s  
+d   t h e   i
+f e e l i n g
+o m m a n d  
+t h e   o n l
+  e q u a l  
+  m o r e   p
+n   t h o s e
+s o n   t o  
+  c o n c e i
+d   t h e   t
+d   u n d e r
+e r   f o r  
+m m o n l y  
+  c o m m e r
+c o m m o n l
+h e   d i f f
+i g a t i o n
+n   g e n e r
+o m m o n l y
+r r i a g e  
+w   t h a t  
+  a m b i t i
+  c l a i m  
+  i n   s o m
+c h u r c h  
+d   t h e   o
+m b e r   o f
+p e a r e d  
+r a n c e   o
+r o c e e d  
+  c o n t e m
+e   m a y   b
+m e   o f   t
+o m m o n   l
+p r e h e n d
+s y s t e m  
+u c c e s s i
+u r e   t o  
+  d o u b t  
+  i n   p r o
+c o m m e r c
+e d   a g a i
+n i v e r s a
+s o n i n g  
+d   h i m s e
+d   t o   m a
+i n g   b u t
+n d   t h e y
+  h a s   n o
+e   t o   r e
+i g h t   b e
+n   w e r e  
+s i n g   t h
+t   p r e s e
+  w h e n   i
+a t u r e   i
+e   h i m s e
+f o u n d   t
+l a n d   a n
+s i b l e   t
+t i n u e d  
+  m o r e   s
+  m o t i v e
+l i t y   a n
+n c r e a s e
+o u r a b l e
+r e f l e c t
+  t h e   a s
+e r v e   t h
+i v e r s a l
+n   i t   i s
+w o u l d   h
+  a n d   v i
+  p r i v i l
+  t o   a n y
+a s   t h e y
+f   f r a n c
+f   h i s   p
+h t   t o   b
+i t h   r e g
+n   e n g l a
+n c e   o r  
+o f   f r a n
+p e r c e i v
+p r i v i l e
+t h e i r   i
+y   t h e y  
+e p a r a t e
+g e   t h e  
+h i s   p r e
+  p a r t i e
+  s e c u r e
+  t h e   t o
+  t h i s   f
+  w a s   r e
+e   t h e   t
+t h e   c r e
+  b e t w i x
+  i m p r o v
+  t o   f o r
+a r t i e s  
+b e t w i x t
+e c t   t h e
+e t w i x t  
+p a r t i e s
+  a n d   a c
+  a s s i g n
+  f e e l i n
+  g i v e s  
+  p e r c e i
+g i n a t i o
+m   t h e i r
+l e   o f   t
+n e i t h e r
+o   t h e   t
+t h e   i n f
+t h e   l e a
+c a u s e   o
+p e r s o n a
+s   f o u n d
+s   i n   a  
+t h e   r i g
+  c h o i c e
+  f o r   w h
+  n e i t h e
+  w a s   a  
+o u t   o f  
+p a y m e n t
+r   t h e   e
+r e n d e r  
+u t i o n s  
+t   t h e   o
+t h e   s t r
+c h o i c e  
+m e d   t o  
+n d   h a d  
+s e n t e d  
+s i o n s   t
+y   w h e r e
+  i n c l i n
+  o f   p e r
+w h e n   h e
+  p a y m e n
+  w i t h   c
+a c h   o t h
+d   w h a t  
+e a c h   o t
+t s   a r e  
+  f o r m e d
+a l l   h i s
+d i n g l y  
+e f e n c e  
+e q u i r e d
+i e d   t o  
+m e n t   i n
+n c e   w i t
+n s   w e r e
+n t i e n t  
+r i e n d s  
+w h i c h   p
+  t o   o u r
+a t e d   b y
+a t e d   t h
+f o r   t h i
+g e r o u s  
+  a n d   p e
+a n g e r o u
+a p p e a r e
+c e   t o   t
+d   n o t   b
+d a n g e r o
+e   t o   h i
+e r f e c t  
+f u t u r e  
+h e   n a t i
+i p t i o n  
+m e a n s   o
+n g e r o u s
+p p e a r e d
+s   a n d   r
+t h e   h o u
+t h e   p u r
+t h e i r   l
+  c o n s e n
+  d e m a n d
+  f u t u r e
+  i t   t o  
+e   m i g h t
+r e   w a s  
+s   a f t e r
+  t o   p e r
+a g i n a t i
+e n t s   a n
+i m   a n d  
+k i n g   t h
+n t i n u e d
+  a l l   h i
+  u p o n   h
+  w a s   c o
+a n d   w h o
+a t i o n a l
+c o n t r a  
+d   s o m e  
+e l i e v e  
+m   t h i s  
+m a g i n a t
+p o s e   t h
+r e t u r n  
+t h   r e g a
+t y   o f   a
+  m a k e   t
+a n d   h a v
+e x t e r n a
+h e   l a w s
+r i v i l e g
+x t e r n a l
+  e x t e r n
+  i n f o r m
+c o n s e n t
+e   a n d   d
+e   l a t t e
+e a s o n   t
+e v e r   b e
+s a t i o n  
+  r e d u c e
+a b l i s h e
+a p p l i c a
+e c t i n g  
+p e r i o d  
+s e s   o f  
+w h i c h   e
+  a t   l e a
+  w i l l   a
+a t   h i s  
+e   a n d   b
+i v i l e g e
+n s e   o f  
+o r   t h e i
+s   t h e   g
+  m e r i t  
+  o u t   o f
+c o n c e i v
+d   t h e   g
+e n s e   o f
+e r   b u t  
+o m   h i s  
+p u n i s h m
+t   t h e   h
+u n i s h m e
+  a t t a i n
+  f r o m   i
+h e n   h e  
+i l l   t h e
+n   b y   t h
+s o l u t i o
+t a t i o n s
+t h a t   m a
+  a   p a r t
+  i n   p a r
+  m i n i s t
+c o n t e m p
+d   t o   p r
+n i s h e d  
+r e e   o f  
+t h e s e   t
+  a r t i c l
+  b a t t l e
+h   w e r e  
+l i c a t i o
+s   t h e   l
+y   t h e   d
+  m o r e   e
+  t h e y   p
+r e m e l y  
+c e   f o r  
+e   i s   t h
+n   t o   b e
+o   t h e   o
+o v e r e d  
+r i t y   a n
+t h e   e x e
+  a p p l i c
+a n d   h a d
+e n d   t o  
+h a t   e v e
+i g i n a l  
+n   w h e n  
+  c h r i s t
+  t o   r e s
+c o v e r e d
+e   t h e   w
+h e   o n e  
+r e   t h e y
+t h e   o n e
+e d   t o   d
+r   t h e   r
+t o   b e   c
+t o   s u p p
+  i g n o r a
+a r e   o f  
+d e d   i n  
+t y   b u t  
+a b l e   a n
+h   t h e   c
+i t h   w h i
+l s   a n d  
+n c e   w h i
+o f   m a n  
+s   w o u l d
+  e v e n   i
+  w e   c a n
+  w h a t   t
+o   t h e   g
+  b e n e v o
+f   h i s   c
+s   m u c h  
+  s e n t e n
+a t t e n d e
+b e i n g   t
+e c e i v e  
+e r e i g n  
+h e   l a t t
+n t   t o   t
+r a n c e   a
+s s a r y   t
+t   l e a s t
+t t e n d e d
+v i o l e n c
+  i n d u s t
+  i t   w o u
+i n d u s t r
+i o l e n c e
+s   s u c h  
+  w i t h   g
+a t i n g   t
+a y m e n t  
+d   t h e   w
+e r c e p t i
+p o w e r   t
+r a l i t y  
+t i e s   a n
+w h i c h   b
+  i s   c o n
+  i t a l y  
+  t h e   r u
+  t h e   t w
+c h a n g e  
+e r   f r o m
+h a b i t a n
+i g n o r a n
+i t i e s   o
+o u r s e l v
+r s e l v e s
+t h a t   e v
+t h e y   c o
+u r s e l v e
+y   a n d   s
+y   o f   h i
+  s i n c e  
+  t h i s   l
+a b i t a n t
+e   c o n c e
+e d   a s   a
+i n g   t h i
+n e v o l e n
+t   w h e r e
+t h o   t h e
+  d e s c r i
+d   a n d   w
+e   p o s s e
+e   t h e   g
+t t e d   t o
+  t o   r e c
+a n d   a l l
+l d   a n d  
+m i g h t   b
+n t   w i t h
+t i o n   i t
+e s c r i p t
+h e i r   r e
+i e n t   t o
+i g e n c e  
+r e   i n   t
+r o m   h i s
+t r e m e l y
+  a n d   p o
+  f o r   a n
+e   i n   a  
+e r v i c e  
+t r a t i o n
+  c o n v e r
+  d i s t a n
+  f r o m   s
+  m e m b e r
+d e l i v e r
+n d e d   t o
+  a   n e w  
+  b e l o n g
+  d e l i v e
+  u s e   o f
+e n s i v e  
+i t a n t s  
+r   t h e   a
+s   t h e   i
+t h i s   i n
+  a   f e w  
+a t   l e a s
+f f e r e d  
+i g h t   a n
+p e r c e p t
+s i n e s s  
+t a n c e   t
+t i t i o n  
+  m a s t e r
+e s t r a i n
+o t h e r   s
+r e s t r a i
+t   a n d   w
+v i o l e n t
+  e v e n t  
+  i n t r o d
+  m e r e l y
+c e   w a s  
+e n t e n c e
+e o p l e   a
+i n i s t e r
+i o n   h e  
+i t i e s   a
+m e r e l y  
+n   a l l   t
+o m e   o f  
+t   a s   t h
+t h e m   a n
+  c o m m i s
+b s e r v e d
+e   o b s e r
+e n   i n   t
+i o n   b y  
+o r   a n y  
+r   a n d   a
+r d i n g l y
+s   s u b j e
+t h e s e   c
+  f r o m   e
+  w h e n   a
+o r d i n g l
+p r o p o s e
+t h e   e n e
+y   f o r   t
+c h   o f   t
+e   c a s e  
+l i g e n c e
+m i n i s t e
+o i n t e d  
+r e d   a n d
+s e n t e n c
+  l i g h t  
+  o f   m i n
+  p e r c e p
+e   h o u s e
+e a n s   o f
+h   t h e i r
+m s e l f   a
+n   o t h e r
+p r o p r i e
+t h i s   m a
+a n t a g e s
+b i t a n t s
+r w a r d s  
+e   c r e d i
+e   i n t o  
+n h a b i t a
+t h e i r   n
+y   a n d   c
+  m o m e n t
+  r e i g n  
+i t y   i s  
+s u p p o s i
+w i s d o m  
+  c o n f i n
+  w i s d o m
+d e r e d   a
+d i c t i o n
+e   o r d e r
+e r w a r d s
+i n t r o d u
+m a k e   t h
+n d   a l l  
+n t a g e s  
+p e c t e d  
+  a n d   a f
+a b l e   i n
+a n d   c o m
+e   g o o d  
+n   u p o n  
+n d   o t h e
+o f   c o m m
+  a   p e r s
+  s c a r c e
+  v a r i e t
+h i m   a n d
+t   w i t h o
+t h e i r   t
+  i n n o c e
+  w a s   d e
+d e p e n d e
+s   e v e n  
+a r a t i o n
+h e   g o v e
+i n n o c e n
+o   g r e a t
+o n   l a w  
+t   t h e   w
+  c o m p l a
+  h a d   t h
+c e d   t o  
+n t e n d e d
+o n   o f   i
+s e d   i n  
+t h a t   r e
+h i c h   m a
+h i m   i n  
+u c c e s s  
+a l i t y   o
+t h e   t i m
+v i d e n t  
+  h a p p e n
+c o m m i s s
+e   r e l a t
+e n e v o l e
+i c i o u s  
+p l e s   o f
+w o u l d   n
+  s e e m e d
+b e n e v o l
+r o p r i e t
+s e e m e d  
+  d e f e n d
+  m o r e   c
+  w h a t   w
+e   h u m a n
+h e   w o u l
+s   p r i n c
+y   t h e   l
+  i s   a n  
+d   a n d   s
+e d   t h i s
+i n g   i s  
+u m b e r   o
+  w h e n   w
+e   f o r c e
+l e   f o r  
+m u n i c a t
+o   m o r e  
+p l i c a t i
+y   w o u l d
+  a s   h e  
+  r e s t r a
+d s   o f   t
+i n i o n s  
+n d   w h e n
+o b t a i n e
+h e   c h a r
+h i m   t h e
+m m u n i c a
+n t r o d u c
+  p l e a s e
+a   p e r s o
+a d   t h e  
+b t a i n e d
+c e e d e d  
+l   t o   t h
+n d   f r o m
+o   b e   t h
+o m m u n i c
+s   s t i l l
+s   t o   r e
+s o n   a n d
+x p r e s s i
+  b y   t h i
+  m o t i o n
+  o f   g r e
+  o f   s c o
+  p e c u l i
+e   c h i e f
+h e   r i g h
+n t   w h i c
+t h e   g o v
+  o b l i g a
+d   n e v e r
+e g u l a r  
+s   a l s o  
+u t   t h i s
+  e x t e n d
+a u s e   o f
+e v i d e n c
+l a b o u r  
+t   t h e   g
+v e n t i o n
+c h   h e   h
+d e c l a r e
+e c u l i a r
+e t y   o f  
+g h t   b e  
+o n   w h o  
+p e c u l i a
+t h e   w a r
+x t r e m e l
+  b u t   i t
+e n t   o r  
+e s e r v e  
+f   o t h e r
+g   t h i s  
+h i s   p a r
+i s h i n g  
+o f   w h a t
+t y   i n   t
+  a n d   i m
+  o f   w h a
+  s e t t l e
+a n d   o t h
+b s e r v a t
+s   g r e a t
+t   a l l   t
+b y   t h i s
+e r s o n a l
+l a w   o f  
+m   a n d   t
+n g   i n   t
+c u l t i e s
+o f   s c o t
+o n   o f   c
+  c o n t e n
+  m i n d   a
+h e   c a s e
+l e d   t h e
+l y   w i t h
+r m i n e d  
+c e   o f   h
+e r m i n e d
+e r s o n   w
+h   t h i s  
+i n t o   a  
+u l t i e s  
+w h i c h   o
+  e x p e d i
+  l a w   o f
+  o n   t h i
+  r u l e s  
+a t   t h e r
+a t i o n   h
+d   t o   a  
+h e n   w e  
+t   l a s t  
+t i o n   h e
+t o   b e   e
+  a c k n o w
+  b e e n   s
+  i t   b e  
+  r e s e m b
+e n c e   w h
+i t   w i l l
+o   t h e   i
+r e s e m b l
+  h i s   p a
+  p r o p r i
+a   m o r e  
+e   p a r t  
+e v e r y   m
+h   t h e   m
+i m p r o v e
+m m e r c e  
+n g   t h i s
+n s i o n s  
+o m m e r c e
+  s c i e n c
+a n c e   t o
+c a u s e   i
+e   o f   i t
+e r c e i v e
+n t   i n   t
+r   c o u n t
+s   p o w e r
+t h e   v e r
+  a n d   o t
+  e x p o s e
+  t h e m   b
+o   w e r e  
+o n s e n t  
+s a m e   t i
+  f r o m   o
+d   s u c h  
+i o l e n t  
+n c i p a l  
+o t h e r   w
+p o i n t e d
+  o u r s e l
+  t i m e   a
+f   m a n k i
+h e m   i n  
+i g e d   t o
+i s t r e s s
+m o n   l a w
+o b l i g a t
+y   t o   b e
+  h a p p y  
+c i e s   o f
+e   s e c o n
+e a s i l y  
+i n s t   h i
+i t   w o u l
+o f   m a n k
+r e s e n t e
+r n i n g   t
+s e s   a n d
+v e d   t h e
+  e a s i l y
+  t h e   w e
+  w r i t e r
+e d   h e r  
+e s e n t e d
+f   w h a t  
+i n d   a n d
+r t   a n d  
+s   v e r y  
+t   t h e   b
+t e r s   o f
+  a n d   f i
+  a n d   s t
+  s i n g l e
+  t h e   e v
+c o m p l a i
+f   m o r a l
+h e   e n e m
+r m a t i o n
+t h a t   h a
+t h e   e x p
+t i z e n s  
+  b u t   t o
+  c o n v e n
+  i n   a   s
+  o f   o t h
+a n i m a l  
+e a r   t h e
+o f   o t h e
+  a   c o u r
+  a n d   f a
+  w a s   t o
+i t i c a l  
+l a n d   t h
+s t r o n g  
+v e n   t o  
+w h i c h   r
+  a c c o m p
+a t t e r s  
+d   n o t   t
+e   e v e n  
+e o p l e   t
+e r   t h i s
+e u r o p e  
+h e   t i m e
+t e n c e   o
+t h e   r e p
+  a n d   a t
+a t   l a s t
+e   a c t i o
+h e   h o u s
+o   m a n y  
+v e d   t o  
+y   w i l l  
+  t o   e x p
+a n   n a t u
+c o n c l u d
+h o s e   o f
+i n t e n d e
+i t i z e n s
+n s i d e r  
+s i n g l e  
+s s i o n   i
+  w h o   w a
+a n c e s   o
+b u t   i t  
+e   c o n f i
+e n s i o n  
+m a n   n a t
+m m o n   l a
+o s s e s s e
+s   o f   r e
+  i n   s u c
+c o m m i t t
+e m   t h e  
+e n s i o n s
+o m m i s s i
+s   t h e   t
+s e   o f   a
+  h i s   s u
+  o n   h i s
+f   b e i n g
+i n   s u c h
+o u r a g e  
+p o w e r   a
+t h   o f   t
+t y   w i t h
+  o f   d i s
+  t h i r d  
+c i e n t   t
+h e   f o u n
+l   t h e   p
+m m i s s i o
+r c e p t i o
+t h e   t e r
+t i m e   t h
+w i l l   n o
+  a t   l a s
+a c k n o w l
+a n   a n d  
+c k n o w l e
+e v e n t s  
+e v e r y   t
+f   h i s   f
+i o u s   a n
+o   t h e   w
+s i s t a n c
+  i n   g e n
+  p u r c h a
+e n t   i s  
+n t   f r o m
+y i n g   t h
+  i t   w i l
+a t   o f   t
+a t e r i a l
+e r s   i n  
+e v e r y   c
+g   i n   t h
+m a t e r i a
+y   a n d   h
+  i f   i t  
+  t h e   d o
+  t h e y   r
+  w e r e   c
+e   t h e s e
+e t h e r   t
+i n   g e n e
+n   a n d   s
+s e   t h a t
+t h a t   a l
+t h e   h u m
+t o   o u r  
+t r y   a n d
+  g e n i u s
+c r i m i n a
+e g r e e   o
+e s   o f   h
+e t   t h e  
+i   s h a l l
+l i g a t i o
+o n s   t h a
+r e s o l u t
+r o t h e r  
+w e r e   i n
+  a d m i t t
+  i   s h a l
+  l o n d o n
+a i n e d   a
+b l e   i n  
+e q u e n t  
+e s s   i n  
+f i c u l t y
+g e s   o f  
+o n a b l e  
+s t r u c t i
+t h e   r e l
+  t h e y   d
+a n s w e r  
+a t   p r e s
+b l i g a t i
+e   o r i g i
+e n g a g e d
+n g a g e d  
+  m u c h   a
+a r i e t y  
+e r e   n o t
+h i c h   i n
+h o u t   t h
+i o n   w h e
+l e s   a n d
+o f   m o r a
+e s s   t o  
+i e s   i n  
+p r e s s e d
+p u r c h a s
+t h e   f o u
+t i n g   t o
+y   a n d   w
+  t h e   a l
+a g e m e n t
+e   c i r c u
+m e n   o f  
+m s e l f   t
+r s   t h a t
+v e n   i n  
+  d i d   n o
+  w i t h   e
+a r t s   o f
+e s t   a n d
+g r e e   o f
+m   f r o m  
+n d e d   t h
+t i o n   f r
+u r e d   t o
+  a n d   i s
+b j e c t   t
+c o n f i n e
+d   b y   a n
+e   p r o p o
+n   a g a i n
+o u n d   t o
+t h e   u n i
+  a n d   c h
+  g r a n t e
+  s o u r c e
+  w i t h   o
+g e n i u s  
+i c u l t y  
+i t y   w h i
+p t i o n s  
+a c h   o f  
+e n t   w i t
+h e   s e n t
+i m   t h e  
+m a t t e r s
+n   a n d   w
+n c e s   t h
+u p p o s e  
+  m o r e   i
+  o n l y   a
+a c e   a n d
+e v e r   t h
+h a t   i f  
+h e   g o o d
+i d   n o t  
+n   a n d   c
+o f f i c e r
+t   a n d   s
+w h e n   w e
+  a n d   s h
+  h i s   e n
+h u m a n   n
+i t i o n   i
+o n   t h e i
+t e d   f r o
+  a   p r o p
+  a t t a c k
+  b e c a m e
+  h i s   a r
+  w h o   w e
+b e c a m e  
+e   e n e m y
+n t m e n t  
+o m   t h e i
+r y   o n e  
+s i d e r e d
+t h e   g o o
+u m a n   n a
+v e s   t o  
+w i l l i n g
+  a   m o r e
+d   t h e   k
+d g e   o f  
+m   i n   t h
+t h e   l e g
+t h i n g   t
+w h a t   t h
+  b u t   a  
+  h e   w o u
+a t e d   t o
+e   c a n n o
+e s i d e s  
+i n e d   b y
+r e s s   o f
+s   c o n c e
+  b o u n d  
+  c l e r g y
+  v o l   p  
+  w i t h   f
+a s e   o f  
+h a l l   b e
+h i s   p r i
+h o   w a s  
+i t   m u s t
+o f f i c e  
+r e a t e d  
+u n d   t o  
+y   t h e   r
+  a t   p r e
+a u g h t e r
+c t e d   t o
+d i d   n o t
+h   g r e a t
+n t e r p r i
+o f   b e i n
+o m p l a i n
+w h o   w a s
+  e n t e r p
+  e s t a t e
+  m a t e r i
+  n o t   a  
+a n c e   i n
+d   w h e r e
+e d u c e d  
+e n t e r p r
+p a s s e d  
+r e v e n t  
+t h e   d e f
+t o   b e   d
+y   t h a n  
+  a n d   l e
+a t i s f a c
+d   a n d   e
+i n e d   i n
+i t a b l e  
+r e s   o f  
+r i n c e s  
+t h e   e n d
+  c o n s t a
+  h o p e s  
+  o f   b e i
+e l v e s   t
+e n t   w h i
+i n d   t h e
+t h e   s o u
+t o   h e r  
+  t h i s   h
+n d   y e t  
+t   f i r s t
+t e r   t o  
+t h e   d e b
+  a p p o i n
+  j u d g e  
+a n d   i n d
+a t   t h a t
+c t e d   t h
+f e r r e d  
+i n g   o r  
+n c e   i t  
+n g   h i m  
+n t   o f   a
+  p r i c e  
+  p r i s o n
+c e s   t h e
+c t i o n   b
+f r o m   a n
+i l l   n o t
+n d e r e d  
+s e l f   i n
+  o f   l a n
+  r e s o l u
+n   t h a n  
+n d s   a n d
+r e d   a s  
+y   o n   t h
+  i t   m u s
+  r e s t o r
+d   b e i n g
+e   q u a l i
+e   s u c c e
+e i n g   t h
+h o   w e r e
+i z a b e t h
+l i z a b e t
+m o t i o n s
+t   i s   a  
+t h e i r   h
+  d e f e c t
+  o r d i n a
+  p r o c u r
+d   a s   a  
+e f f e c t u
+e n t s   t h
+i g n i t y  
+n d   a r e  
+o f   m i n d
+t h e   m a t
+v e r y   o n
+  a r e   t o
+  e l i z a b
+  i n   a   c
+  m o s t   p
+  p a r i s  
+  t h e   e s
+  w e r e   o
+e c t u a l  
+e l i z a b e
+n d   w h o  
+s a t i s f a
+t l e   o f  
+  i s   p r o
+  o r   i n  
+a i d   t o  
+e v e n   i n
+g h   t h e  
+h e m   a n d
+m e n t   w h
+n d   c o n s
+n g   f o r  
+o u n c i l  
+r   t o   b e
+t i s f a c t
+  a s s i s t
+  t o   h e r
+b a t t l e  
+e l v e s   a
+e r y   o n e
+e s   o f   s
+o   s u c h  
+w h o   w e r
+  g r a t i f
+a n   t h a t
+c r e a t u r
+e   p r o v i
+e p e n d e n
+i s   p a r t
+l o n d o n  
+m i n a t i o
+n e   t h e  
+o n c e i v e
+t h e   o r d
+t h o u t   t
+  a p p r o a
+  f a c u l t
+  h a d   r e
+  w h o   a r
+a l l   b e  
+a p p r o a c
+e   c h a r a
+f   h i s   a
+f f e c t u a
+n   i n t o  
+o b a b l y  
+o n t i n u a
+r e a t u r e
+r o b a b l y
+t h   t h a t
+  a n d   y e
+b l e   t h e
+n t i o n   o
+p p r o a c h
+f   j u s t i
+n s i d e r e
+n t e d   t o
+s   p r e s e
+t h e y   m a
+  i f   w e  
+  i t   a n d
+  m e t h o d
+  o f   e q u
+  o f   g o d
+  o f   s o m
+c t   o f   t
+i s   i n t e
+i t i o n   w
+i t y   o r  
+o f   s o m e
+r s o n a l  
+s   e v e r y
+s   o f   m a
+s o u r c e  
+  h a v e   e
+  o f   j u s
+  t h e y   t
+  t h i s   b
+n   h i s   p
+s   a t   t h
+s   p r o p e
+  c r i m i n
+  l a w s   o
+  l i f e   a
+  m i n d   i
+  o f   r e a
+e s   o f   m
+f o r   t h a
+p o s i t e  
+r d e r e d  
+s   s h o u l
+s t a t e s  
+  a n y   t h
+  s u b m i t
+c h   w e r e
+d   a n d   h
+d   o n l y  
+d u c e d   t
+e   l a s t  
+e   s e n s e
+e n d   t h e
+e v e r y   s
+l i k e l y  
+n d   w e r e
+o v e   t h e
+s h a l l   b
+s o m e   o f
+t h a n   t o
+u i s h e d  
+v e s   t h e
+v o u r e d  
+a i n   a n d
+h i s   s u b
+m a r k a b l
+r e g u l a t
+s   m a y   b
+  f o r m s  
+a f t e r   a
+e   c o n s t
+h e   s e c o
+h i n g   t h
+j o i n e d  
+n   a n d   h
+o n n e c t i
+o t h e r   o
+p o s i n g  
+p r e h e n s
+r   n a t u r
+r e c t i o n
+t t e m p t  
+  a n y   c o
+  n o t   c o
+h a n   t o  
+n d   b y   t
+n i t y   o f
+o n c l u d e
+o r t a n t  
+p o r t a n t
+r e h e n s i
+  f a m i l i
+  t h e y   e
+a n d   n o t
+e f l e c t i
+h e   c o m p
+i n d i n g  
+n i m a l s  
+o f   t h i n
+t h e   t w o
+y   s u c h  
+  s o m e   p
+a t h e r   t
+b a r o n s  
+d   i n   h i
+d u s t r y  
+e n   t h e y
+e s s   t h a
+o t h e r   m
+r i g h t s  
+r i m i n a l
+t h a t   c a
+  m u t u a l
+  n o t i o n
+  o f   a   m
+  s u p p l y
+a n d   y e t
+c h a r g e  
+h e   t w o  
+i n g   o n  
+n   o n   t h
+p p o s i t e
+r   s o m e  
+s   c o u n t
+t h e   h a n
+  b a r o n s
+  e n c o u r
+  f o r   i t
+a i n   o f  
+e s   o f   p
+g u m e n t  
+l e t t e r  
+m e n   a n d
+n t i o n   t
+n v e n t i o
+p p l i c a t
+s   t h e   w
+t h e   a r m
+t h e   a r t
+  h a v e   r
+  l i k e l y
+  t h e m   f
+b e s i d e s
+e   h i g h e
+e n c o u r a
+e r f e c t i
+h i c h   i  
+n c o u r a g
+n e c t i o n
+o f   j u s t
+t   t h a n  
+t s   t h a t
+  f i e l d  
+a b s o l u t
+a n i m a l s
+e   t h e   b
+f   m i n d  
+g   t h e   m
+s   n e c e s
+t   p a r t  
+w e a l t h  
+  a b s o l u
+  c o u n t e
+  e v e n t s
+  p r o f e s
+b u t   t o  
+b y   a n y  
+i p l e s   o
+n t   o f   h
+s   s u p p o
+t a k i n g  
+t h e   i n h
+  b y   a n y
+a r e   i n  
+c h   i s   t
+e   d i s c o
+e n t e d   t
+h o   a r e  
+k i n g   a n
+m b i t i o n
+s e l f   a n
+  d i s o r d
+  i t   t h e
+a b i l i t y
+b o u t   t h
+d   f o r   a
+d i s o r d e
+e   a t   t h
+f e   a n d  
+i s   c o u n
+i s o r d e r
+n g   a n y  
+n m e n t   o
+o n   a f t e
+o t h e r   h
+r t   t h e  
+v e s   a n d
+w h o   a r e
+  d o   n o t
+  m o r e   f
+  o r   c o n
+  v a l u e  
+  w h a t   h
+a n d   m o r
+c a t i o n s
+e   a f t e r
+h e i r   i n
+j e c t e d  
+r e c t e d  
+s   t h e   b
+u t   t h a t
+  e x a m i n
+  i n d e p e
+b j e c t   i
+c o u l d   b
+e   w a s   t
+e d   b y   s
+h   i n   t h
+i n d e p e n
+s   i s   t h
+  n o   m o r
+  s h o r t  
+  t o   i t s
+  v i c t o r
+c e e d i n g
+f e c t u a l
+i e t y   o f
+i n g   a n y
+l e t   u s  
+n d u s t r y
+n t   b u t  
+p o r t u n i
+p r o f e s s
+u p o n   h i
+v a r i e t y
+  d e i t y  
+  g e n t l e
+  r i g h t s
+h   h e   h a
+i l l i n g  
+l y   f r o m
+r d   a n d  
+r f e c t i o
+t   i n t o  
+v o l e n c e
+  d i g n i t
+  h a v e   p
+  i n t e r p
+  o f   a   f
+  t h e y   b
+a   c o u r t
+e p a r a t i
+h e   v e r y
+i e s   w h i
+o   e v e r y
+o   t h e   n
+o m m i t t e
+p o p u l a r
+t e m p e r  
+t h e   e m p
+t h e   t h i
+t h e   t r u
+t i o n   w e
+u r c h a s e
+  l e t   u s
+  o f   o n e
+  o f   y o u
+  r e p u b l
+a n d s   o f
+d   t h e   b
+h   m o r e  
+i e d   w i t
+o s e   t h e
+r   w h a t  
+r e p u b l i
+t e r p r i z
+t y   t h a t
+  b e s t o w
+  i n   c o m
+  o f   i n t
+  o n   w h i
+a d e   t h e
+c o n v e n i
+e   w a s   n
+e d   i n   h
+h e r   w i t
+n d   a s   t
+o r t u n i t
+v e r   t o  
+  a n y   o f
+  t h e   n u
+  w h o m   h
+a r e   t o  
+a t   w h i c
+e   a n d   r
+e   n u m b e
+e d   t o   i
+e r i n g   t
+h e   h a n d
+n d e d   w i
+t e n s i o n
+  a n d   s i
+  p a s s e d
+a t   h e   w
+d e s i g n  
+e   o f   p r
+h a d   t h e
+h o u g h   t
+n t e n c e  
+s t i t u t e
+a n y   t h i
+d e r i n g  
+e r   o f   a
+h   t h e   f
+r e m a r k a
+s e s s e d  
+t e   o f   t
+t h a t   a r
+t u a l l y  
+  a l t o g e
+  a n d   m e
+  r e t a i n
+  u s u a l  
+a w s   o f  
+c q u i r e d
+e m a r k a b
+p p l i e d  
+s t r a t i o
+t   t o   r e
+y   a n d   p
+  t h e   a b
+  t h e y   f
+  w e r e   p
+e p u b l i c
+e x p l a i n
+h e   h u m a
+i b l e   t h
+n s   o f   a
+s e l f   t o
+t o r y   o f
+v e r y   t h
+w e r   t o  
+  a n d   h o
+  h i s   f o
+a v o u r e d
+b e n e f i c
+c e   f r o m
+e   e x e c u
+e r c i s e  
+n d e p e n d
+o f   o n e  
+r y   o f   t
+  b r i n g  
+a t   a r e  
+e r e d   t o
+l   m o r e  
+t   h e   h a
+  a n d   p u
+  k i n g   a
+  t h e   g a
+  t o   a p p
+e   i m a g i
+h i s t o r i
+i s   m o r e
+n   o f   a n
+s   t h e m  
+t h e   d e s
+t h e r   c o
+t i m e n t  
+t s   o f   a
+  e x p l a i
+  t h e   f l
+e   o f   r e
+e f o r e   h
+i a t i o n  
+i v e   a n d
+l f   a n d  
+m e d   t h e
+n   a c c o u
+n s   w i t h
+r s   w e r e
+  a n c i e n
+  i n d u l g
+a m e   o f  
+a t h   o f  
+d   t h e   h
+e   c o n t i
+e   w a s   s
+f   h i s   o
+f o r m e r l
+h e   c r e d
+l a w s   o f
+m e n t s   t
+n v e n i e n
+o n v e n i e
+s   t o   h a
+s e e m s   t
+t h e   l a s
+t h i n g   b
+t i o n   h a
+  a l m o s t
+  a n d   o b
+  a t t a c h
+  c u s t o m
+  r e m o v e
+a l m o s t  
+a n c i e n t
+e n t   f r o
+e s   t h e y
+i o n   o n  
+o r m e r l y
+r m e r l y  
+t   s o m e  
+t a i n i n g
+t h e   t r i
+t i o n s   b
+  d o m i n i
+  p h i l i p
+a i n e d   i
+d   a m o n g
+e   u s e   o
+f   t h e y  
+f a r   a s  
+l y   t o   t
+m   o f   t h
+n g u i s h e
+o u r   t o  
+s   a s   t h
+s t a t i o n
+  e v e n   a
+  i n f e r i
+  p r i d e  
+  t h e   a f
+e v o l e n c
+  b e e n   t
+  f a r   a s
+  m u s t   h
+a n d   p e r
+a n d   p r e
+b l e   f o r
+b u t   t h i
+e   c i t y  
+e   m o r a l
+e c i e s   o
+h e   l a s t
+i t   h a s  
+l e s s   t h
+n y   t h i n
+p a r a t i o
+s   o f   l i
+s t i l l   m
+t o   b e   r
+t o   p r e v
+  d i s p u t
+d e r s t a n
+e r s t a n d
+n o   m o r e
+n o t   i n  
+o   t h o s e
+r t y   a n d
+s u b s i s t
+t h e   a t t
+v e n t u r e
+  s u b s i s
+c o n t r a c
+e   s e v e r
+i e n c e   t
+i t s   o f  
+n   t h e   k
+n n e c t i o
+r d e r   o f
+t h e y   r e
+d o   n o t  
+g   t h e   f
+h i s   i n t
+m a n   i s  
+p r o v e d  
+r d   t o   t
+t   a n d   m
+t h e   a d v
+t h e   g r a
+u d g m e n t
+  c h r o n  
+  j u d g m e
+  l o n g e r
+  w h o m   t
+g   t h e   r
+i n f e r i o
+j u d g m e n
+r a n t e d  
+s   a u t h o
+t h a t   i f
+w r i t i n g
+  o r d e r s
+  t o   i t  
+e   h a d   b
+h a t   a r e
+i n   p a r t
+r s   w h o  
+w i t h   s o
+  a r i s e  
+  i n s t r u
+  o r   o f  
+b s o l u t e
+c l u s i o n
+c o n s t a n
+h a d   n o t
+h i c h   r e
+i m a g i n e
+l o n g e r  
+t h e   b a r
+u p o n   a  
+y   w h e n  
+  t h e   m u
+d   t h e s e
+e   a r e   t
+e x p e c t e
+s   o f   p r
+s e q u e n t
+u m b e r s  
+x p e c t e d
+  c o u r a g
+  o p p o r t
+  s u c h   i
+  w e r e   d
+a n d   f r o
+d e n c e   o
+e   e m p l o
+l i t i c a l
+o f   g o d  
+o p p o r t u
+s i s t e d  
+t   o f   a n
+t h a t   i  
+t h e r   w i
+  t h e   s h
+  t o   a n  
+  t o   t h o
+a l t o g e t
+e e d   t o  
+h i s   f o r
+l e c t e d  
+l t o g e t h
+l y   t h a t
+m o m e n t  
+n d e r s t a
+p o w e r f u
+s   a s   w e
+s s e s s e d
+t   w a s   t
+u g h t   t h
+  t h i s   n
+a c t   o f  
+d o c t r i n
+e l f   t o  
+o   l e s s  
+o w e r f u l
+  b e e n   e
+  e x c i t e
+  i t   h a s
+  w a s   s o
+e   h i s t o
+e s o l u t i
+n s   f o r  
+n t s   t h e
+n u m b e r s
+o c t r i n e
+o m   a n d  
+t o   t h o s
+  b u t   n o
+  d o c t r i
+  o f   w a r
+  o u r   c o
+  p o w e r f
+  t h a t   g
+  w a s   p r
+f   g r e a t
+g h t   t h e
+h e   c h i e
+n d   w h a t
+o m i n i o n
+r e m a i n  
+t h e   a s s
+  b e a u t i
+  b e g a n  
+a d   n o t  
+a r i o u s  
+c u l i a r  
+d   t o   s u
+d o m i n i o
+e a r i n g  
+l e n c e   a
+o l i t i c a
+s a r y   t o
+s s i o n   w
+t h e   t r a
+u e   a n d  
+  a   c o n s
+  h a v e   o
+  u s e f u l
+e   o b l i g
+e n   a r e  
+i s   s u b j
+n c e   o n  
+n t e d   t h
+p p o r t u n
+t h e   c a r
+t o   e v e r
+t o   i t s  
+t r e n g t h
+  b a r b a r
+d i g n i t y
+e x c e p t  
+h e   l a n d
+h i c h   c o
+n m e n t   a
+t   t i m e  
+  a   c e r t
+  a s   a n  
+  b e   f o u
+  e a r t h  
+  o f   r e l
+  w e r e   f
+a t u r e s  
+d   m a d e  
+e   f o r   a
+e c t   a n d
+l d   b e   a
+l e d   i n  
+s o n   w h o
+t h e   m a r
+w e r   a n d
+  m o r a l i
+  t h a t   l
+e   a l l   t
+e d   t o   f
+e o p l e   w
+h a t   p r i
+h e   c i t y
+j e c t s   a
+m p o s i t i
+s   w h a t  
+  e x c e l l
+  h i s   m a
+e r   p a r t
+e r p r i z e
+f i c u l t  
+f o r m a t i
+l   t h e i r
+o f   g r e a
+o r m a t i o
+r   b e i n g
+r e d u c e d
+s e   w h i c
+s t r a n g e
+t h a t   s u
+t o   b e   p
+w h o m   h e
+z a b e t h  
+  c a s e s  
+  n e g l e c
+a n d   w e r
+c e d   b y  
+c i t y   o f
+c o m p r e h
+d   t h e   n
+g r a n t e d
+j o y m e n t
+n d   i t   i
+n s   w h o  
+r   t h e   i
+s e c u r e  
+t e a d   o f
+v e d   i n  
+w h o m   t h
+  c h i e f l
+  d i s t r e
+  i t   a p p
+  j e a l o u
+  o t h e r w
+a   c e r t a
+c h i e f l y
+d i s t r e s
+e r e d   i n
+h i e f l y  
+i n d   o f  
+n d   n o t  
+s   m u s t  
+s   w h o   h
+u r e   i n  
+y   p e r s o
+  i d e a   o
+  w r i t i n
+e   t h e   h
+e m b e r s  
+e n c e   i s
+g   t h e   a
+h e r e   w a
+j e c t s   o
+n c e s   a n
+n e c t e d  
+n f e r i o r
+o m p r e h e
+o w   t h e  
+p p o i n t e
+t h i n g   i
+y   o f   a  
+  s t r a n g
+e   d a n g e
+g r e a t   p
+l   i n   t h
+m p r e h e n
+n   a n d   p
+n   h a v e  
+s   t o   w h
+  a t   f i r
+  i t   i n  
+e   s t i l l
+e l f   a n d
+f r i e n d  
+h e   d e b t
+m e m b e r s
+m m i t t e d
+o v e m e n t
+r i g h t   o
+t i o n   m a
+  a n   a c t
+  w e r e   m
+c o l l e c t
+d m i t t e d
+e n d e r e d
+j e a l o u s
+l   t h e   c
+o   t h e   k
+t e s   o f  
+t i l l   t h
+  c o m p r e
+  g o o d s  
+  o f   m y  
+  p r o v e  
+  s o m e   t
+a d m i t t e
+a t   f i r s
+c h   a n d  
+e   c o n s e
+e m s   t o  
+h e   e n d  
+h e   s e n s
+n e d   w i t
+o n   t o   a
+r s   a r e  
+r y   t h i n
+t i t l e d  
+t o   b e   i
+y   c o n s i
+  s t r e n g
+  s t r i c t
+  t o   d o  
+a y   t h e  
+e r v e d   t
+h e   a p p e
+h o m   h e  
+i g i o u s  
+l   a n d   t
+o n t r a c t
+o w n   t o  
+r e d   t h a
+s t r e n g t
+  c h a r g e
+  c o m p a n
+  m o r e   d
+  t h e   r a
+b e   f o u n
+e r   t h e y
+f   s o m e  
+m o d e r a t
+o o d   a n d
+o r t a n c e
+o w e r   a n
+p e r a t e  
+s t e a d   o
+  h i s   p o
+  w i l l i n
+  y e t   t h
+a t e   t o  
+b a t i o n  
+d   t h a n  
+e   m a t t e
+e   n e v e r
+e e m s   t o
+f o r c e   o
+i l i t y   o
+m   t h e   f
+n d   t h o  
+o n e   t o  
+o r d e r   o
+o y m e n t  
+r t a n c e  
+s   t h o u g
+t h e i r   g
+u s e   a n d
+  a   p r i n
+  g o o d   o
+  t h e   o f
+  t r o o p s
+  w e r e   r
+a s   i n   t
+a t   e v e r
+e r e   w a s
+e t h e r   i
+f i r s t   a
+g e d   t h e
+h e   a c t i
+i t h s t a n
+n j o y m e n
+p o r t a n c
+s t   h a v e
+t h e   m o n
+t h s t a n d
+t r o o p s  
+u t a t i o n
+w i t h s t a
+  r e f u s e
+  s c e n e  
+  w h a t   a
+a n d   i n t
+c t e d   b y
+e   b u t   i
+e e l i n g  
+e n j o y m e
+e x p o s e d
+h e   i m a g
+i m p o s s i
+n g s   o f  
+q u i r e s  
+  i m p o s s
+  p   a n d  
+a l l o w e d
+a t   p r i n
+c e d   t h e
+e f o r e   i
+i t   a p p e
+l y   i n   t
+m p o s s i b
+p r o p o s i
+s   i n t e r
+t h i s   s u
+t y   f o r  
+w e r f u l  
+x p o s e d  
+y   t h e r e
+  d i s c o u
+  f o r m   o
+  i n v e n t
+  s e r v e  
+  t o   r e m
+  u s   t o  
+a c q u a i n
+a s e   t h e
+a s o n a b l
+e   d i s p o
+e a b l e   t
+e a s o n a b
+e r y   t h i
+g a r d e d  
+i f   t h e y
+m a d e   t h
+o t h e r   b
+p r o b a t i
+t   m o r e  
+t h e   n u m
+t h e   s p e
+t r o d u c e
+t y   o f   h
+u l a t e d  
+w h i c h   f
+  o f   c h a
+a g e   t h e
+c e   o f   m
+e   t o   c o
+e   u n i v e
+g r e a t   m
+h a v e   r e
+i k e l y   t
+i n g   a n  
+n   b u t   t
+r   o t h e r
+t h e   e x t
+t h i s   c a
+  a n d   t r
+  s u p e r s
+a   p r i n c
+a r k a b l e
+c o n c l u s
+d e r e d   t
+e   m e a n s
+m a n   o f  
+n o   l e s s
+o   s u p p o
+o m   t h a t
+o n c l u s i
+o p o s e d  
+r o p o s e d
+s   t o   c o
+  f o r   i n
+  i s   m o r
+  m a g i s t
+  n o   l e s
+  t i m e   i
+a r   f r o m
+b e i n g   i
+c o n t r i b
+c q u a i n t
+d   b u t   t
+e d   a t   t
+e r e   i n  
+e s   o f   c
+h a t   w h i
+i s e   o f  
+j e c t i o n
+n   a n d   e
+n t i t l e d
+t   w a s   a
+  e n j o y m
+  g o o d   a
+  t o   m a n
+  t r i b u n
+e g a r d e d
+i b l e   o f
+o n t r i b u
+r e g a r d e
+r k a b l e  
+s   o f   w h
+s   t h e s e
+s t r e s s  
+t   i s   i n
+t u r n e d  
+w h e r e   a
+  c r e a t u
+  s t a t e s
+f   h i s   s
+i l l   m o r
+l l   m o r e
+n   w h e r e
+o u r   o w n
+p e a r s   t
+r e   t h e r
+s   p l a c e
+t h e   d u t
+t h e r   h a
+u r   o w n  
+  a n d   n e
+  f r o m   b
+  f r o m   m
+  n o b i l i
+  o f   r o m
+  t h e   c e
+d   b e f o r
+d i s p u t e
+e r e   t o  
+h e   c o n d
+i f e   a n d
+l d   t h e  
+n   l i f e  
+n c e   f o r

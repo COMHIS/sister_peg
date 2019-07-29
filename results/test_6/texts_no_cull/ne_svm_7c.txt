@@ -1,0 +1,82 @@
+
+
+
+EB_History 	-->	 Blair
+Ferguson_1767_Civil_Society_4610 	-->	 Blair
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+100 MFW , culled @ 0%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+sister_peg_checked 	-->	 Hume
+
+200 MFW , culled @ 0%,  11 of 12	(91.7%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+300 MFW , culled @ 0%,  11 of 12	(91.7%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+sister_peg_checked 	-->	 Kames
+
+400 MFW , culled @ 0%,  11 of 12	(91.7%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Kames
+
+500 MFW , culled @ 0%,  12 of 12	(100%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Kames
+
+600 MFW , culled @ 0%,  12 of 12	(100%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+700 MFW , culled @ 0%,  12 of 12	(100%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Kames
+
+800 MFW , culled @ 0%,  12 of 12	(100%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+900 MFW , culled @ 0%,  12 of 12	(100%)
+
+
+
+EB_History 	-->	 Hume
+sister_peg_checked 	-->	 Ferguson
+
+1000 MFW , culled @ 0%,  12 of 12	(100%)
+
+General attributive success:  115 of 120 (95.8%)
+
+MFWs from 100 to 1000 @ increment 100
+Culling from 0 to 0 @ increment 10
+Pronouns deleted: FALSE
+

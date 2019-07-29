@@ -1,0 +1,367 @@
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+100 MFW , culled @ 0%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Hume
+
+200 MFW , culled @ 0%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+300 MFW , culled @ 0%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+400 MFW , culled @ 0%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+500 MFW , culled @ 0%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+600 MFW , culled @ 0%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+700 MFW , culled @ 0%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+800 MFW , culled @ 0%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+900 MFW , culled @ 0%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+1000 MFW , culled @ 0%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+100 MFW , culled @ 10%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Hume
+
+200 MFW , culled @ 10%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+300 MFW , culled @ 10%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+400 MFW , culled @ 10%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+500 MFW , culled @ 10%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+600 MFW , culled @ 10%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+700 MFW , culled @ 10%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+800 MFW , culled @ 10%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+900 MFW , culled @ 10%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+1000 MFW , culled @ 10%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+100 MFW , culled @ 20%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Hume
+
+200 MFW , culled @ 20%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+300 MFW , culled @ 20%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+400 MFW , culled @ 20%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+500 MFW , culled @ 20%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+600 MFW , culled @ 20%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+700 MFW , culled @ 20%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+800 MFW , culled @ 20%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+900 MFW , culled @ 20%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+1000 MFW , culled @ 20%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+100 MFW , culled @ 30%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Hume
+
+200 MFW , culled @ 30%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+300 MFW , culled @ 30%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+400 MFW , culled @ 30%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+500 MFW , culled @ 30%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+600 MFW , culled @ 30%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+700 MFW , culled @ 30%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+800 MFW , culled @ 30%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+900 MFW , culled @ 30%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+1000 MFW , culled @ 30%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+100 MFW , culled @ 40%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Hume
+
+200 MFW , culled @ 40%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+300 MFW , culled @ 40%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+400 MFW , culled @ 40%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+500 MFW , culled @ 40%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+600 MFW , culled @ 40%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+700 MFW , culled @ 40%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+800 MFW , culled @ 40%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+900 MFW , culled @ 40%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+1000 MFW , culled @ 40%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+100 MFW , culled @ 50%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Hume
+
+200 MFW , culled @ 50%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+300 MFW , culled @ 50%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+400 MFW , culled @ 50%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+500 MFW , culled @ 50%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+600 MFW , culled @ 50%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+700 MFW , culled @ 50%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+800 MFW , culled @ 50%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+900 MFW , culled @ 50%,  7 of 7	(100%)
+
+
+
+sister_peg_checked 	-->	 Ferguson
+
+1000 MFW , culled @ 50%,  7 of 7	(100%)
+
+General attributive success:  420 of 420 (100%)
+
+MFWs from 100 to 1000 @ increment 100
+Culling from 0 to 50 @ increment 10
+Pronouns deleted: FALSE
+

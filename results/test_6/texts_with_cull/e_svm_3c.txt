@@ -1,0 +1,523 @@
+
+
+
+EB_History 	-->	 Hume
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+100 MFW , culled @ 0%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+200 MFW , culled @ 0%,  11 of 12	(91.7%)
+
+
+
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+300 MFW , culled @ 0%,  11 of 12	(91.7%)
+
+
+
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+400 MFW , culled @ 0%,  11 of 12	(91.7%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+500 MFW , culled @ 0%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+600 MFW , culled @ 0%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+700 MFW , culled @ 0%,  11 of 12	(91.7%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+800 MFW , culled @ 0%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+900 MFW , culled @ 0%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+1000 MFW , culled @ 0%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+100 MFW , culled @ 10%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+200 MFW , culled @ 10%,  11 of 12	(91.7%)
+
+
+
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+300 MFW , culled @ 10%,  11 of 12	(91.7%)
+
+
+
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+400 MFW , culled @ 10%,  11 of 12	(91.7%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+500 MFW , culled @ 10%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+600 MFW , culled @ 10%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+700 MFW , culled @ 10%,  11 of 12	(91.7%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+800 MFW , culled @ 10%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+900 MFW , culled @ 10%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+1000 MFW , culled @ 10%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+100 MFW , culled @ 20%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+200 MFW , culled @ 20%,  11 of 12	(91.7%)
+
+
+
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+300 MFW , culled @ 20%,  11 of 12	(91.7%)
+
+
+
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+400 MFW , culled @ 20%,  11 of 12	(91.7%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+500 MFW , culled @ 20%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+600 MFW , culled @ 20%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+700 MFW , culled @ 20%,  11 of 12	(91.7%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+800 MFW , culled @ 20%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+900 MFW , culled @ 20%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+1000 MFW , culled @ 20%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+100 MFW , culled @ 30%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+200 MFW , culled @ 30%,  11 of 12	(91.7%)
+
+
+
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+300 MFW , culled @ 30%,  11 of 12	(91.7%)
+
+
+
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+400 MFW , culled @ 30%,  11 of 12	(91.7%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+500 MFW , culled @ 30%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+600 MFW , culled @ 30%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+700 MFW , culled @ 30%,  11 of 12	(91.7%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+800 MFW , culled @ 30%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+900 MFW , culled @ 30%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+1000 MFW , culled @ 30%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+100 MFW , culled @ 40%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+200 MFW , culled @ 40%,  11 of 12	(91.7%)
+
+
+
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+300 MFW , culled @ 40%,  11 of 12	(91.7%)
+
+
+
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+400 MFW , culled @ 40%,  11 of 12	(91.7%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+500 MFW , culled @ 40%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+600 MFW , culled @ 40%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+700 MFW , culled @ 40%,  11 of 12	(91.7%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+800 MFW , culled @ 40%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+900 MFW , culled @ 40%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+1000 MFW , culled @ 40%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_dialogues_from_manuscript_edited 	-->	 Kames
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+100 MFW , culled @ 50%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+200 MFW , culled @ 50%,  11 of 12	(91.7%)
+
+
+
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+300 MFW , culled @ 50%,  11 of 12	(91.7%)
+
+
+
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+400 MFW , culled @ 50%,  11 of 12	(91.7%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+500 MFW , culled @ 50%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+600 MFW , culled @ 50%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+700 MFW , culled @ 50%,  11 of 12	(91.7%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+800 MFW , culled @ 50%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+900 MFW , culled @ 50%,  10 of 12	(83.3%)
+
+
+
+EB_History 	-->	 Hume
+Ferguson_Sermon_preached_in_the_ersh 	-->	 Carlyle
+Hume_Archibald_Stewart 	-->	 Carlyle
+sister_peg_checked 	-->	 Carlyle
+
+1000 MFW , culled @ 50%,  10 of 12	(83.3%)
+
+General attributive success:  624 of 720 (86.7%)
+
+MFWs from 100 to 1000 @ increment 100
+Culling from 0 to 50 @ increment 10
+Pronouns deleted: FALSE
+
