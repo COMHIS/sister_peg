@@ -15,7 +15,8 @@ tok_num <- c("1", "2", "3", "2", "3", "4", "5", "6", "7")
 tests <- c("delta", "knn", "nb", "nsc", "svm_linear")
 accuracies <- c(100,95,90,85,80,79)
 
-results_dir <- "par_test/results_7c_test2/"
+#results_dir <- "par_test/results_7c_test2/"
+results_dir <- "testing_test/ne/test_6/"
 
 total_model_results <- data.frame(hume_100=rep(0, 5), ferg_100=rep(0, 5), hume_95=rep(0, 5), ferg_95=rep(0, 5), 
                                   hume_90=rep(0, 5), ferg_90=rep(0, 5), hume_85=rep(0, 5), ferg_85=rep(0, 5), 
@@ -117,6 +118,7 @@ for (i in 1:length(batch_tests)) {
 # tok_num <- c("1", "2", "3", "2", "3", "4", "5", "6")
 tests <- c("delta", "knn", "nb", "nsc", "svm_linear")
 accuracies <- c(100,95,90,85,80,79)
+
 for (i in 1:length(char_word)) {
   temp_results <- data.frame(hume_100=rep(0, 5), ferg_100=rep(0, 5), hume_95=rep(0, 5), ferg_95=rep(0, 5), 
                              hume_90=rep(0, 5), ferg_90=rep(0, 5), hume_85=rep(0, 5), ferg_85=rep(0, 5), 

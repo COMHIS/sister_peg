@@ -27,27 +27,46 @@ batch_tests <- c("small_samp_no_cull", "small_samp_with_cull", "large_samp_no_cu
 
 batch_tests <- c("small_samp_no_cull", "large_samp_no_cull", "texts_no_cull", "texts_with_cull")
 
+batch_tests <- c("small_samp_no_cull", "large_samp_no_cull", "texts_no_cull")
+
 char_word <- c("w", "w", "w", "c", "c", "c", "c", "c")
 tok_num <- c("1", "2", "3", "3", "4", "5", "6", "7")
 
-primary_sets_merged <- c("back_up_test_data/primary_set_backup/test1_merged/", "back_up_test_data/primary_set_backup/test2_merged/", "back_up_test_data/primary_set_backup/test3_merged/",
-                         "back_up_test_data/primary_set_backup/test4_merged/", "back_up_test_data/primary_set_backup/test5_merged/", "back_up_test_data/primary_set_backup/test6_merged/")
-primary_sets_unmerged <- c("back_up_test_data/primary_set_backup/test1_unmerged/", "back_up_test_data/primary_set_backup/test2_unmerged/", "back_up_test_data/primary_set_backup/test3_unmerged/",
-                           "back_up_test_data/primary_set_backup/test4_unmerged/", "back_up_test_data/primary_set_backup/test5_unmerged/", "back_up_test_data/primary_set_backup/test6_unmerged/")
+#tests 1-6
 
-secondary_sets_merged <- c("back_up_test_data/secondary_set_backup/test1_merged/", "back_up_test_data/secondary_set_backup/test2_merged/", "back_up_test_data/secondary_set_backup/test3_merged/",
-                           "back_up_test_data/secondary_set_backup/test4_merged/", "back_up_test_data/secondary_set_backup/test5_merged/", "back_up_test_data/secondary_set_backup/test6_merged/")
-secondary_sets_unmerged <- c("back_up_test_data/secondary_set_backup/test1_unmerged/", "back_up_test_data/secondary_set_backup/test2_unmerged/", "back_up_test_data/secondary_set_backup/test3_unmerged/", 
-                             "back_up_test_data/secondary_set_backup/test4_unmerged/", "back_up_test_data/secondary_set_backup/test5_unmerged/", "back_up_test_data/secondary_set_backup/test6_unmerged/")
+# primary_sets_merged <- c("back_up_test_data/primary_set_backup/test1_merged/", "back_up_test_data/primary_set_backup/test2_merged/", "back_up_test_data/primary_set_backup/test3_merged/",
+#                          "back_up_test_data/primary_set_backup/test4_merged/", "back_up_test_data/primary_set_backup/test5_merged/", "back_up_test_data/primary_set_backup/test6_merged/")
+# primary_sets_unmerged <- c("back_up_test_data/primary_set_backup/test1_unmerged/", "back_up_test_data/primary_set_backup/test2_unmerged/", "back_up_test_data/primary_set_backup/test3_unmerged/",
+#                            "back_up_test_data/primary_set_backup/test4_unmerged/", "back_up_test_data/primary_set_backup/test5_unmerged/", "back_up_test_data/primary_set_backup/test6_unmerged/")
+# 
+# secondary_sets_merged <- c("back_up_test_data/secondary_set_backup/test1_merged/", "back_up_test_data/secondary_set_backup/test2_merged/", "back_up_test_data/secondary_set_backup/test3_merged/",
+#                            "back_up_test_data/secondary_set_backup/test4_merged/", "back_up_test_data/secondary_set_backup/test5_merged/", "back_up_test_data/secondary_set_backup/test6_merged/")
+# secondary_sets_unmerged <- c("back_up_test_data/secondary_set_backup/test1_unmerged/", "back_up_test_data/secondary_set_backup/test2_unmerged/", "back_up_test_data/secondary_set_backup/test3_unmerged/", 
+#                              "back_up_test_data/secondary_set_backup/test4_unmerged/", "back_up_test_data/secondary_set_backup/test5_unmerged/", "back_up_test_data/secondary_set_backup/test6_unmerged/")
+# 
+# primary_sets_merged_edited <- c("back_up_test_data/primary_set_backup_edited/test1_merged/", "back_up_test_data/primary_set_backup_edited/test2_merged/", "back_up_test_data/primary_set_backup_edited/test3_merged/", 
+#                                 "back_up_test_data/primary_set_backup_edited/test4_merged/", "back_up_test_data/primary_set_backup_edited/test5_merged/", "back_up_test_data/primary_set_backup_edited/test6_merged/")
+# primary_sets_unmerged_edited <- c("back_up_test_data/primary_set_backup_edited/test1_unmerged/", "back_up_test_data/primary_set_backup_edited/test2_unmerged/", "back_up_test_data/primary_set_backup_edited/test3_unmerged/", 
+#                                   "back_up_test_data/primary_set_backup_edited/test4_unmerged/", "back_up_test_data/primary_set_backup_edited/test5_unmerged/", "back_up_test_data/primary_set_backup_edited/test6_unmerged/")
+# secondary_sets_merged_edited <- c("back_up_test_data/secondary_set_backup_edited/test1_merged/", "back_up_test_data/secondary_set_backup_edited/test2_merged/", "back_up_test_data/secondary_set_backup_edited/test3_merged/",
+#                                   "back_up_test_data/secondary_set_backup_edited/test4_merged/", "back_up_test_data/secondary_set_backup_edited/test5_merged/", "back_up_test_data/secondary_set_backup_edited/test6_merged/")
+# secondary_sets_unmerged_edited <- c("back_up_test_data/secondary_set_backup_edited/test1_unmerged/", "back_up_test_data/secondary_set_backup_edited/test2_unmerged/", "back_up_test_data/secondary_set_backup_edited/test3_unmerged/", 
+#                                     "back_up_test_data/secondary_set_backup_edited/test4_unmerged/", "back_up_test_data/secondary_set_backup_edited/test5_unmerged/", "back_up_test_data/secondary_set_backup_edited/test6_unmerged/")
 
-primary_sets_merged_edited <- c("back_up_test_data/primary_set_backup_edited/test1_merged/", "back_up_test_data/primary_set_backup_edited/test2_merged/", "back_up_test_data/primary_set_backup_edited/test3_merged/", 
-                                "back_up_test_data/primary_set_backup_edited/test4_merged/", "back_up_test_data/primary_set_backup_edited/test5_merged/", "back_up_test_data/primary_set_backup_edited/test6_merged/")
-primary_sets_unmerged_edited <- c("back_up_test_data/primary_set_backup_edited/test1_unmerged/", "back_up_test_data/primary_set_backup_edited/test2_unmerged/", "back_up_test_data/primary_set_backup_edited/test3_unmerged/", 
-                                  "back_up_test_data/primary_set_backup_edited/test4_unmerged/", "back_up_test_data/primary_set_backup_edited/test5_unmerged/", "back_up_test_data/primary_set_backup_edited/test6_unmerged/")
-secondary_sets_merged_edited <- c("back_up_test_data/secondary_set_backup_edited/test1_merged/", "back_up_test_data/secondary_set_backup_edited/test2_merged/", "back_up_test_data/secondary_set_backup_edited/test3_merged/",
-                                  "back_up_test_data/secondary_set_backup_edited/test4_merged/", "back_up_test_data/secondary_set_backup_edited/test5_merged/", "back_up_test_data/secondary_set_backup_edited/test6_merged/")
-secondary_sets_unmerged_edited <- c("back_up_test_data/secondary_set_backup_edited/test1_unmerged/", "back_up_test_data/secondary_set_backup_edited/test2_unmerged/", "back_up_test_data/secondary_set_backup_edited/test3_unmerged/", 
-                                    "back_up_test_data/secondary_set_backup_edited/test4_unmerged/", "back_up_test_data/secondary_set_backup_edited/test5_unmerged/", "back_up_test_data/secondary_set_backup_edited/test6_unmerged/")
+#tests 7 - 9
+
+primary_sets_merged <- c("back_up_test_data/primary_set_backup/test7_merged/", "back_up_test_data/primary_set_backup/test8_merged/", "back_up_test_data/primary_set_backup/test9_merged/")
+primary_sets_unmerged <- c("back_up_test_data/primary_set_backup/test7_unmerged/", "back_up_test_data/primary_set_backup/test8_unmerged/", "back_up_test_data/primary_set_backup/test9_unmerged/")
+
+secondary_sets_merged <- c("back_up_test_data/secondary_set_backup/test7_merged/", "back_up_test_data/secondary_set_backup/test8_merged/", "back_up_test_data/secondary_set_backup/test9_merged/")
+secondary_sets_unmerged <- c("back_up_test_data/secondary_set_backup/test7_unmerged/", "back_up_test_data/secondary_set_backup/test8_unmerged/", "back_up_test_data/secondary_set_backup/test9_unmerged/")
+
+primary_sets_merged_edited <- c("back_up_test_data/primary_set_backup_edited/test7_merged/", "back_up_test_data/primary_set_backup_edited/test8_merged/", "back_up_test_data/primary_set_backup_edited/test9_merged/")
+primary_sets_unmerged_edited <- c("back_up_test_data/primary_set_backup_edited/test7_unmerged/", "back_up_test_data/primary_set_backup_edited/test8_unmerged/", "back_up_test_data/primary_set_backup_edited/test9_unmerged/")
+
+secondary_sets_merged_edited <- c("back_up_test_data/secondary_set_backup_edited/test7_merged/", "back_up_test_data/secondary_set_backup_edited/test8_merged/", "back_up_test_data/secondary_set_backup_edited/test9_merged/")
+secondary_sets_unmerged_edited <- c("back_up_test_data/secondary_set_backup_edited/test7_unmerged/", "back_up_test_data/secondary_set_backup_edited/test8_unmerged/", "back_up_test_data/secondary_set_backup_edited/test9_unmerged/")
+
 
 
 for (num_of_test in 1:length(primary_sets_unmerged)) {
