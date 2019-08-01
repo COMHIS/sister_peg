@@ -17,7 +17,7 @@ features <- c("w1", "w2", "w3", "c3", "c4", "c5", "c6", "c7")
 
 
 results_dir <- "testing_test/ne/"
-test_dirs <- c("test_6")
+test_dirs <- c("test_9")
 test_dirs <- c("test_2")
 
 total_model_results <- data.frame(is_100=rep(0, 5), is_95=rep(0, 5), is_90=rep(0, 5), is_85=rep(0, 5), is_80=rep(0, 5), is_79=rep(0, 5), row.names = tests)
