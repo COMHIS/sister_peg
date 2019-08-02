@@ -268,7 +268,7 @@ for (num_of_test in 1:length(primary_sets_unmerged)) {
         classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i],
                  ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="naivebayes",
                  use.existing.freq.tables = TRUE
-                 , sampling=text.or.samp.var, sample.size=1988
+                 , sampling=text.or.samp.var, sample.size=samp.size.var
                  , culling.min = 0, culling.max = culling.max.var, culling.incr = 10
         )
         if(mod_text == 1) {
