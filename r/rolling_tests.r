@@ -1,5 +1,91 @@
 #rolling tests
 
+
+slice.var <- 5000
+overlap.var <- 500
+
+slice.var <- 2500
+overlap.var <- 200
+
+
+#1000,900, 800, 700
+#3C, 2W, 1W, 4C
+
+features <- c("W", "W", "C", "C")
+grams <- c(1, 2, 3, 4)
+
+#small samp, 1000 mfw
+
+for (i in 1:length(features)) {
+  rolling.classify(plot.legend = TRUE, slice.size = slice.var, slice.overlap = overlap.var, classification.method = "svm",
+                   milestone.labels = c("I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX",
+                                        "X", "XI", "XII - BB", "XIII", "XIV - BE", "XV", "XVI", "XVII"),
+                   mfw=1000, training.set.sampling = "normal.sampling", analyzed.features=features[i], ngram.size=grams[i])
+}
+
+#1 - mixed( 3, 6-10), 2 mixed (1-3, 4-5, 12), 3 early (1-4), 4 late, 11-13) 
+
+for (i in 1:length(features)) {
+  rolling.classify(plot.legend = TRUE, slice.size = slice.var, slice.overlap = overlap.var, classification.method = "svm",
+                   milestone.labels = c("I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX",
+                                        "X", "XI", "XII - BB", "XIII", "XIV - BE", "XV", "XVI", "XVII"),
+                   mfw=900, training.set.sampling = "normal.sampling", analyzed.features=features[i], ngram.size=grams[i])
+}
+
+#1 mixed (intro, 3, 7-10), 2 miex (1-3, 12), 4 early (1-4), 4 leate - 11-12 
+
+for (i in 1:length(features)) {
+  rolling.classify(plot.legend = TRUE, slice.size = slice.var, slice.overlap = overlap.var, classification.method = "svm",
+                   milestone.labels = c("I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX",
+                                        "X", "XI", "XII - BB", "XIII", "XIV - BE", "XV", "XVI", "XVII"),
+                   mfw=800, training.set.sampling = "normal.sampling", analyzed.features=features[i], ngram.size=grams[i])
+}
+
+
+
+for (i in 1:length(features)) {
+  rolling.classify(plot.legend = TRUE, slice.size = slice.var, slice.overlap = overlap.var, classification.method = "svm",
+                   milestone.labels = c("I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX",
+                                        "X", "XI", "XII - BB", "XIII", "XIV - BE", "XV", "XVI", "XVII"),
+                   mfw=700, training.set.sampling = "normal.sampling", analyzed.features=features[i], ngram.size=grams[i])
+}
+
+
+for (i in 1:length(features)) {
+  rolling.classify(plot.legend = TRUE, slice.size = slice.var, slice.overlap = overlap.var, classification.method = "svm",
+                   milestone.labels = c("I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX",
+                                        "X", "XI", "XII - BB", "XIII", "XIV - BE", "XV", "XVI", "XVII"),
+                   mfw=200, training.set.sampling = "normal.sampling", analyzed.features=features[i], ngram.size=grams[i])
+}
+
+
+
+rolling.classify(plot.legend = TRUE, slice.size = 1000, slice.overlap = 500, classification.method = "svm", 
+                 mfw=900, training.set.sampling = "normal.sampling", analyzed.features="w", ngram.size=1)
+
+rolling.classify(plot.legend = TRUE, slice.size = 1000, slice.overlap = 500, classification.method = "svm", 
+                 mfw=700, training.set.sampling = "normal.sampling", analyzed.features="w", ngram.size=1)
+
+
+rolling.classify(plot.legend = TRUE, slice.size = 1000, slice.overlap = 500, classification.method = "svm", 
+                 mfw=1000, training.set.sampling = "normal.sampling", analyzed.features="c", ngram.size=3)
+
+rolling.classify(plot.legend = TRUE, slice.size = 1000, slice.overlap = 500, classification.method = "svm", 
+                 mfw=900, training.set.sampling = "normal.sampling", analyzed.features="c", ngram.size=3)
+
+rolling.classify(plot.legend = TRUE, slice.size = 1000, slice.overlap = 500, classification.method = "svm", 
+                 mfw=700, training.set.sampling = "normal.sampling", analyzed.features="c", ngram.size=3)
+
+
+rolling.classify(plot.legend = TRUE, slice.size = 1000, slice.overlap = 500, classification.method = "svm", 
+                 mfw=1000, training.set.sampling = "normal.sampling", analyzed.features="c", ngram.size=4)
+
+rolling.classify(plot.legend = TRUE, slice.size = 1000, slice.overlap = 500, classification.method = "svm", 
+                 mfw=900, training.set.sampling = "normal.sampling", analyzed.features="c", ngram.size=4)
+
+rolling.classify(plot.legend = TRUE, slice.size = 1000, slice.overlap = 500, classification.method = "svm", 
+                 mfw=700, training.set.sampling = "normal.sampling", analyzed.features="c", ngram.size=4)
+
 #1w
 
 #500 is pretty split
