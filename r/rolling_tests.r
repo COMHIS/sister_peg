@@ -1,6 +1,106 @@
 #rolling tests
 
 
+char_word <- c("W", "W", "W", "C", "C", "C", "C", "C")
+tok_num <- c(1, 2, 3, 3, 4, 5, 6, 7)
+
+mffeatures <- c(100, 200, 300, 400, 500, 600, 700, 800, 900, 1000)
+
+
+#all - first, feature and ngram
+for (feature_test in 8:8) {
+  cat("\r", char_word[feature_test], tok_num[feature_test])
+  #second, sample size
+  for (x in 1:2) {
+    if (x == 1) {
+      slice.var <- 5000
+      overlap.var <- 500
+    } else {
+      slice.var <- 2500
+      overlap.var <- 200
+    }
+    #third, number of features
+    for (i in 1:length(mffeatures)) {
+      rolling.classify(plot.legend = TRUE, 
+                       #SAMPLE VARS
+                       slice.size = slice.var, slice.overlap = overlap.var, 
+                       #METHOD
+                       classification.method = "svm",
+                       milestone.labels = c("I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX",
+                                            "X", "XI", "XII - BB", "XIII", "XIV - BE", "XV", "XVI", "XVII"),
+                       #MFF
+                       mfw=mffeatures[i], 
+                       training.set.sampling = "normal.sampling", 
+                       #FEATURE
+                       analyzed.features=char_word[feature_test], 
+                       #NGRAM
+                       ngram.size=tok_num[feature_test],
+                       #write.svg.file = TRUE,
+                       write.png.file = TRUE
+      )
+    }
+    dir.create(paste0("images/", slice.var, "_", char_word[feature_test], tok_num[feature_test]))
+    #svg_temp <- list.files(".", full.names = TRUE, include.dirs = FALSE, pattern = "*[.]svg")
+    png_temp <- list.files("/mnt/d/HDD Stuff/github/sister_peg/", full.names = TRUE, include.dirs = FALSE, pattern = "*[.]png")
+    
+    #file.rename(from = "/*.svm",
+    #               to = "C:/Users/msc2/Desktop/Halwa/BADMASHI/SCOP/rabata.txt")
+    #file.copy(svg_temp, paste0("images/", char_word[feature_test], tok_num[feature_test]))
+    file.copy(png_temp, paste0("images/", slice.var, "_", char_word[feature_test], tok_num[feature_test]))
+    #file.remove(svg_temp)
+    file.remove(png_temp)
+    #rm(png_temp)
+  }
+}
+
+
+#TEMP
+for (feature_test in 3:length(char_word)) {
+  cat("\r", char_word[feature_test], tok_num[feature_test])
+  #second, sample size
+  for (x in 2:2) {
+    if (x == 1) {
+      slice.var <- 5000
+      overlap.var <- 500
+    } else {
+      slice.var <- 2500
+      overlap.var <- 200
+    }
+    #third, number of features
+    for (i in 3:length(mffeatures)) {
+      rolling.classify(plot.legend = TRUE, 
+                       #SAMPLE VARS
+                       slice.size = slice.var, slice.overlap = overlap.var, 
+                       #METHOD
+                       classification.method = "svm",
+                       milestone.labels = c("I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX",
+                                            "X", "XI", "XII - BB", "XIII", "XIV - BE", "XV", "XVI", "XVII"),
+                       #MFF
+                       mfw=mffeatures[i], 
+                       training.set.sampling = "normal.sampling", 
+                       #FEATURE
+                       analyzed.features=char_word[feature_test], 
+                       #NGRAM
+                       ngram.size=tok_num[feature_test],
+                       #write.svg.file = TRUE,
+                       write.png.file = TRUE
+      )
+    }
+  }
+  dir.create(paste0("images/", char_word[feature_test], tok_num[feature_test]))
+  #svg_temp <- list.files(".", full.names = TRUE, include.dirs = FALSE, pattern = "*[.]svg")
+  png_temp <- list.files(".", full.names = TRUE, include.dirs = FALSE, pattern = "*[.]png")
+  #file.rename(from = "/*.svm",
+  #               to = "C:/Users/msc2/Desktop/Halwa/BADMASHI/SCOP/rabata.txt")
+  #file.copy(svg_temp, paste0("images/", char_word[feature_test], tok_num[feature_test]))
+  file.copy(png_temp, paste0("images/", char_word[feature_test], tok_num[feature_test]))
+  #file.remove(svg_temp)
+  file.remove(png_temp)
+}
+
+
+
+
 slice.var <- 5000
 overlap.var <- 500
 
@@ -20,8 +120,12 @@ for (i in 1:length(features)) {
   rolling.classify(plot.legend = TRUE, slice.size = slice.var, slice.overlap = overlap.var, classification.method = "svm",
                    milestone.labels = c("I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX",
                                         "X", "XI", "XII - BB", "XIII", "XIV - BE", "XV", "XVI", "XVII"),
-                   mfw=1000, training.set.sampling = "normal.sampling", analyzed.features=features[i], ngram.size=grams[i])
+                   mfw=1000, training.set.sampling = "normal.sampling", analyzed.features=features[i], ngram.size=grams[i],
+                   
+                   )
 }
+
+
 
 #1 - mixed( 3, 6-10), 2 mixed (1-3, 4-5, 12), 3 early (1-4), 4 late, 11-13) 
 
@@ -51,12 +155,34 @@ for (i in 1:length(features)) {
 }
 
 
-for (i in 1:length(features)) {
+for (i in 3:length(features)) {
   rolling.classify(plot.legend = TRUE, slice.size = slice.var, slice.overlap = overlap.var, classification.method = "svm",
                    milestone.labels = c("I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX",
                                         "X", "XI", "XII - BB", "XIII", "XIV - BE", "XV", "XVI", "XVII"),
-                   mfw=200, training.set.sampling = "normal.sampling", analyzed.features=features[i], ngram.size=grams[i])
+                   mfw=1000, training.set.sampling = "normal.sampling", analyzed.features=features[i], ngram.size=grams[i])
 }
+
+
+
+rolling.classify(plot.legend = TRUE, slice.size = slice.var, slice.overlap = overlap.var, classification.method = "svm",
+                 milestone.labels = c("I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX",
+                                      "X", "XI", "XII - BB", "XIII", "XIV - BE", "XV", "XVI", "XVII"),
+                 mfw=1000, training.set.sampling = "normal.sampling", analyzed.features="W", ngram.size=3)
+
+
+rolling.classify(plot.legend = TRUE, slice.size = slice.var, slice.overlap = overlap.var, classification.method = "svm",
+                 milestone.labels = c("I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX",
+                                      "X", "XI", "XII - BB", "XIII", "XIV - BE", "XV", "XVI", "XVII"),
+
+                 mfw=1000, 
+                 training.set.sampling = "normal.sampling", 
+                 #FEATURE
+                 analyzed.features="W", 
+                 #NGRAM
+                 ngram.size=3,
+                 #write.svg.file = TRUE,
+                 write.png.file = TRUE
+)
 
 
 
