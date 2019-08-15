@@ -6,18 +6,27 @@ tok_num <- c(1, 2, 3, 3, 4, 5, 6, 7)
 
 mffeatures <- c(100, 200, 300, 400, 500, 600, 700, 800, 900, 1000)
 
+slice.var <- 4000
+overlap.var <- 100
+
 
 #all - first, feature and ngram
-for (feature_test in 8:8) {
+for (feature_test in 1:8) {
   cat("\r", char_word[feature_test], tok_num[feature_test])
   #second, sample size
-  for (x in 1:2) {
+  for (x in 4:4) {
     if (x == 1) {
       slice.var <- 5000
       overlap.var <- 500
-    } else {
+    } else if (x == 2) {
       slice.var <- 2500
       overlap.var <- 200
+    } else if (x == 3) {
+      slice.var <- 4000
+      overlap.var <- 100 
+    } else if (x == 4) {
+      slice.var <- 2500
+      overlap.var <- 125 
     }
     #third, number of features
     for (i in 1:length(mffeatures)) {
@@ -39,16 +48,21 @@ for (feature_test in 8:8) {
                        write.png.file = TRUE
       )
     }
-    dir.create(paste0("images/", slice.var, "_", char_word[feature_test], tok_num[feature_test]))
+    temp_dir <- paste0("images/", slice.var, "_", char_word[feature_test], tok_num[feature_test])
+    dir.create(temp_dir)
+    
     #svg_temp <- list.files(".", full.names = TRUE, include.dirs = FALSE, pattern = "*[.]svg")
-    png_temp <- list.files("/mnt/d/HDD Stuff/github/sister_peg/", full.names = TRUE, include.dirs = FALSE, pattern = "*[.]png")
+    #use system
+    system(paste0("cp *png ", temp_dir))
+    system("rm *png")
+    #png_temp <- list.files("/mnt/d/HDD Stuff/github/sister_peg/", full.names = TRUE, include.dirs = FALSE, pattern = "*[.]png")
     
     #file.rename(from = "/*.svm",
     #               to = "C:/Users/msc2/Desktop/Halwa/BADMASHI/SCOP/rabata.txt")
     #file.copy(svg_temp, paste0("images/", char_word[feature_test], tok_num[feature_test]))
-    file.copy(png_temp, paste0("images/", slice.var, "_", char_word[feature_test], tok_num[feature_test]))
+    #file.copy(png_temp, paste0("images/", slice.var, "_", char_word[feature_test], tok_num[feature_test]))
     #file.remove(svg_temp)
-    file.remove(png_temp)
+    #file.remove(png_temp)
     #rm(png_temp)
   }
 }
@@ -107,6 +121,12 @@ overlap.var <- 500
 slice.var <- 2500
 overlap.var <- 200
 
+slice.var <- 4000
+overlap.var <- 100
+
+slice.var <- 2500
+overlap.var <- 150 #382
+overlap.var <- 125 #132
 
 #1000,900, 800, 700
 #3C, 2W, 1W, 4C
@@ -120,7 +140,7 @@ for (i in 1:length(features)) {
   rolling.classify(plot.legend = TRUE, slice.size = slice.var, slice.overlap = overlap.var, classification.method = "svm",
                    milestone.labels = c("I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX",
                                         "X", "XI", "XII - BB", "XIII", "XIV - BE", "XV", "XVI", "XVII"),
-                   mfw=1000, training.set.sampling = "normal.sampling", analyzed.features=features[i], ngram.size=grams[i],
+                   mfw=1000, training.set.sampling = "normal.sampling", analyzed.features=features[i], ngram.size=grams[i]
                    
                    )
 }
