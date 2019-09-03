@@ -210,8 +210,13 @@ for (i in 1:length(batch_tests)) {
   #result_files <- list.files(paste0("results/", batch_tests[i], "/"), full.names = TRUE)
   #result_files <- list.files(paste0("par_test/results/", batch_tests[i], "/"), full.names = TRUE)
   
-  #result_files <- list.files(paste0("testing_test/ne/test_1/", batch_tests[i], "/"), full.names = TRUE) #blair
-  result_files <- list.files(paste0("testing_test/ne/test_2/", batch_tests[i], "/"), full.names = TRUE) #blair
+  result_files <- list.files(paste0("testing_test/ne/test_1/", batch_tests[i], "/"), full.names = TRUE) #blair
+  # result_files <- result_files[-c(which(!grepl("delta", result_files)))]
+  # result_files <- result_files[-c(which(!grepl("knn", result_files)))]
+  # result_files <- result_files[-c(which(!grepl("nsc", result_files)))]
+  # result_files <- result_files[-c(which(!grepl("nb", result_files)))]
+  # result_files <- result_files[-c(which(!grepl("svm", result_files)))]
+  # #result_files <- list.files(paste0("testing_test/ne/test_2/", batch_tests[i], "/"), full.names = TRUE) #blair
   
   #result_files <- list.files(paste0("testing_test/ne/test_7/", batch_tests[i], "/"), full.names = TRUE) #blair
   #result_files <- list.files(paste0("testing_test/ne/test_8/", batch_tests[i], "/"), full.names = TRUE) #carlyle

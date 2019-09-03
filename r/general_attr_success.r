@@ -8,8 +8,13 @@ library(ggrepel)
 
 
 batch_tests <- c("small_samp_no_cull", "large_samp_no_cull", "texts_no_cull")
+batch_tests <- c("small_samp_no_cull")
+batch_tests <- c("large_samp_no_cull")
+batch_tests <- c("texts_no_cull")
 char_word <- c("w", "w", "w", "c", "c", "c", "c", "c")
 tok_num <- c("1", "2", "3", "3", "4", "5", "6", "7")
+tests <- c("delta", "knn", "nb", "nsc", "svm")
+tests <- c("svm")
 tests <- c("delta", "knn", "nb", "nsc", "svm")
 accuracies <- c(100,95,90,85,80,79)
 mffeatures <- c(100, 200, 300, 400, 500, 600, 700, 800, 900, 1000)
@@ -17,10 +22,13 @@ features <- c("w1", "w2", "w3", "c3", "c4", "c5", "c6", "c7")
 
 
 results_dir <- "testing_test/ne/"
+test_dirs <- c("test_1")
 test_dirs <- c("test_9")
 test_dirs <- c("test_2")
+test_dirs <- c("test_1", "test_2", "test_7", "test_8", "test_9")
 
-total_model_results <- data.frame(is_100=rep(0, 5), is_95=rep(0, 5), is_90=rep(0, 5), is_85=rep(0, 5), is_80=rep(0, 5), is_79=rep(0, 5), row.names = tests)
+total_model_results <- data.frame(is_100=rep(0, length(tests)), is_95=rep(0, length(tests)), is_90=rep(0, length(tests)), is_85=rep(0, length(tests)), 
+                                  is_80=rep(0, length(tests)), is_79=rep(0, length(tests)), row.names = tests)
 total_dataset_results <- data.frame(is_100=rep(0, length(batch_tests)), is_95=rep(0, length(batch_tests)), is_90=rep(0, length(batch_tests)), 
                                     is_85=rep(0, length(batch_tests)), is_80=rep(0, length(batch_tests)), is_79=rep(0, length(batch_tests)), row.names = batch_tests)
 
@@ -32,7 +40,8 @@ for (test_dir_var in 1:length(test_dirs)) {
     #get results
     result_files <- list.files(paste0(results_dir, test_dirs[test_dir_var], "/", batch_tests[i], "/"), full.names = TRUE)
     
-    results <- data.frame(is_100=rep(0, 5), is_95=rep(0, 5), is_90=rep(0, 5), is_85=rep(0, 5), is_80=rep(0, 5), is_79=rep(0, 5), row.names = tests)
+    results <- data.frame(is_100=rep(0, length(tests)), is_95=rep(0, length(tests)), is_90=rep(0, length(tests)), is_85=rep(0, length(tests)),
+                          is_80=rep(0, length(tests)), is_79=rep(0, length(tests)), row.names = tests)
     to_test <- c()
     for(z in 1:length(tests)) { 
       to_test <- c(to_test, grep(tests[z], result_files))
@@ -94,7 +103,8 @@ for (test_dir_var in 1:length(test_dirs)) {
 # tests <- c("delta", "knn", "nb", "nsc", "svm")
 # accuracies <- c(100,95,90,85,80,79)
 for (i in 1:length(char_word)) {
-  temp_results <- data.frame(is_100=rep(0, 5), is_95=rep(0, 5), is_90=rep(0, 5), is_85=rep(0, 5), is_80=rep(0, 5), is_79=rep(0, 5), row.names = tests) 
+  temp_results <- data.frame(is_100=rep(0, length(tests)), is_95=rep(0, length(tests)), is_90=rep(0, length(tests)), 
+                             is_85=rep(0, length(tests)), is_80=rep(0, length(tests)), is_79=rep(0, length(tests)), row.names = tests) 
   assign(paste0(char_word[i], tok_num[i], "_results"), temp_results)
 }
 
