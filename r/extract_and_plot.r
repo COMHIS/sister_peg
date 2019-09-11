@@ -7,6 +7,7 @@ setwd("")
 
 batch_tests <- c("small_samp_no_cull", "large_samp_no_cull", "texts_no_cull")
 batch_tests <- c("texts_no_cull", "texts_with_cull")
+batch_tests <- c("texts_no_cull")
 
 char_word <- c("w", "w", "w", "c", "c", "c", "c", "c")
 tok_num <- c("1", "2", "3", "3", "4", "5", "6", "7")
@@ -14,6 +15,7 @@ tok_num <- c("1", "2", "3", "3", "4", "5", "6", "7")
 mffeatures <- c(100, 200, 300, 400, 500, 600, 700, 800, 900, 1000)
 
 tests <- c("delta", "knn", "nb", "nsc", "svm")
+tests <- c("svm")
 accuracies <- c(100,95,90,85,80,79)
 
 test_dirs <- c("test_1", "test_2", "test_3")
@@ -27,18 +29,20 @@ test_dirs <- c("test_1", "test_2", "test_3", "test_5", "test_6")
 for (e_ne_var in 1:1) {
   if (e_ne_var == 1) { results_dir <- "testing_test/ne/" } else { results_dir <- "testing_test/e/" }
   
-  total_model_results <- data.frame(hume_100=rep(0, 5), ferg_100=rep(0, 5), hume_95=rep(0, 5), ferg_95=rep(0, 5), 
-                                    hume_90=rep(0, 5), ferg_90=rep(0, 5), hume_85=rep(0, 5), ferg_85=rep(0, 5), 
-                                    hume_80=rep(0, 5), ferg_80=rep(0, 5),  hume_79=rep(0, 5), ferg_79=rep(0, 5), 
+  total_model_results <- data.frame(hume_100=rep(0, length(tests)), ferg_100=rep(0, length(tests)), hume_95=rep(0, length(tests)),
+                                    ferg_95=rep(0, length(tests)), hume_90=rep(0, length(tests)), ferg_90=rep(0, length(tests)),
+                                    hume_85=rep(0, length(tests)), ferg_85=rep(0, length(tests)), hume_80=rep(0, length(tests)),
+                                    ferg_80=rep(0, length(tests)),  hume_79=rep(0, length(tests)), ferg_79=rep(0, length(tests)), 
                                     row.names = tests)
   
   for (test_dir_var in 1:length(test_dirs)) {
     for (i in 1:length(batch_tests)) {
       #get results  
       result_files <- list.files(paste0(results_dir, test_dirs[test_dir_var], "/", batch_tests[i], "/"), full.names = TRUE)
-      results <- data.frame(hume_100=rep(0, 5), ferg_100=rep(0, 5), hume_95=rep(0, 5), ferg_95=rep(0, 5), 
-                            hume_90=rep(0, 5), ferg_90=rep(0, 5), hume_85=rep(0, 5), ferg_85=rep(0, 5), 
-                            hume_80=rep(0, 5), ferg_80=rep(0, 5),  hume_79=rep(0, 5), ferg_79=rep(0, 5), 
+      results <- data.frame(hume_100=rep(0, length(tests)), ferg_100=rep(0, length(tests)), hume_95=rep(0, length(tests)),
+                            ferg_95=rep(0, length(tests)), hume_90=rep(0, length(tests)), ferg_90=rep(0, length(tests)),
+                            hume_85=rep(0, length(tests)), ferg_85=rep(0, length(tests)), hume_80=rep(0, length(tests)),
+                            ferg_80=rep(0, length(tests)),  hume_79=rep(0, length(tests)), ferg_79=rep(0, length(tests)), 
                             row.names = tests)
       to_test <- c()
       for(z in 1:length(tests)) { 
@@ -139,17 +143,19 @@ for (e_ne_var in 1:1) {
   #create and load test by features
   
   for (i in 1:length(char_word)) {
-    temp_results <- data.frame(hume_100=rep(0, 5), ferg_100=rep(0, 5), hume_95=rep(0, 5), ferg_95=rep(0, 5), 
-                               hume_90=rep(0, 5), ferg_90=rep(0, 5), hume_85=rep(0, 5), ferg_85=rep(0, 5), 
-                               hume_80=rep(0, 5), ferg_80=rep(0, 5),  hume_79=rep(0, 5), ferg_79=rep(0, 5), 
+    temp_results <- data.frame(hume_100=rep(0, length(tests)), ferg_100=rep(0, length(tests)), hume_95=rep(0, length(tests)),
+                               ferg_95=rep(0, length(tests)), hume_90=rep(0, length(tests)), ferg_90=rep(0, length(tests)),
+                               hume_85=rep(0, length(tests)), ferg_85=rep(0, length(tests)), hume_80=rep(0, length(tests)),
+                               ferg_80=rep(0, length(tests)),  hume_79=rep(0, length(tests)), ferg_79=rep(0, length(tests)), 
                                row.names = tests) 
     assign(paste0(char_word[i], tok_num[i], "_results"), temp_results)
   }
   
   features <- c("w1", "w2", "w3", "c3", "c4", "c5", "c6", "c7")
-  total_feature_results <- data.frame(hume_100=rep(0, 8), ferg_100=rep(0, 8), hume_95=rep(0, 8), ferg_95=rep(0, 8), 
-                                      hume_90=rep(0, 8), ferg_90=rep(0, 8), hume_85=rep(0, 8), ferg_85=rep(0, 8), 
-                                      hume_80=rep(0, 8), ferg_80=rep(0, 8),  hume_79=rep(0, 8), ferg_79=rep(0, 8), 
+  total_feature_results <- data.frame(hume_100=rep(0, length(features)), ferg_100=rep(0, length(features)), hume_95=rep(0, length(features)),
+                                      ferg_95=rep(0, length(features)), hume_90=rep(0, length(features)), ferg_90=rep(0, length(features)),
+                                      hume_85=rep(0, length(features)), ferg_85=rep(0, length(features)), hume_80=rep(0, length(features)),
+                                      ferg_80=rep(0, length(features)),  hume_79=rep(0, length(features)), ferg_79=rep(0, length(features)),
                                       row.names = features)
   
   

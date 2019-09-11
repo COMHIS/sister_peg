@@ -3,6 +3,8 @@
 
 #dataframe params
 batch_tests <- c("small_samp_no_cull", "large_samp_no_cull", "texts_no_cull")
+batch_tests <- c("large_samp_no_cull", "texts_no_cull")
+batch_tests <- c("small_samp_no_cull")
 #batch_tests <- c("small_samp_no_cull")
 #batch_tests <- c("large_samp_no_cull")
 #batch_tests <- c("texts_no_cull")
@@ -18,10 +20,15 @@ features <- c("1w", "2w", "3w", "3c", "4c", "5c", "6c", "7c")
 
 results_dir <- "testing_test/ne/"
 test_dirs <- c("test_1")
+test_dirs <- c("test_2")
+test_dirs <- c("test_7")
+test_dirs <- c("test_8")
+test_dirs <- c("test_9")
 
 #test_dirs <- c("test_9")
 #test_dirs <- c("test_2")
-#test_dirs <- c("test_1", "test_2", "test_7", "test_8", "test_9")
+test_dirs <- c("test_1", "test_2", "test_7", "test_8", "test_9")
+test_dirs <- c("test_1", "test_2")
 
 total_tests <- (length(batch_tests) * length(char_word) * length(tests) * length(mffeatures))
 
@@ -282,7 +289,7 @@ for (test_dir_var in 1:length(test_dirs)) {
       }
     }
   }
-  assign(paste0("results.", test_dirs[test_dir_var]), long_results_temp)
+  assign(paste0("long_results.", test_dirs[test_dir_var]), long_results_temp)
 }
 
 

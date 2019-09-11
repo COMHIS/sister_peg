@@ -6,27 +6,60 @@ tok_num <- c(1, 2, 3, 3, 4, 5, 6, 7)
 
 mffeatures <- c(100, 200, 300, 400, 500, 600, 700, 800, 900, 1000)
 
+#ALL SAMP ALL DATASETS
+char_word <- c("W", "C", "W")
+tok_num <- c(2, 3, 3)
+
+mffeatures <- c(500, 600, 700, 800, 900, 1000)
+
+#LARGE SAMP ALL DATASETS
+char_word <- c("W", "W")
+tok_num <- c(2, 3)
+
+mffeatures <- c(400, 500, 600, 700, 800, 900, 1000)
+
+#SMAL SAMP ALL DATASETS
+char_word <- c("W", "C", "C", "C")
+tok_num <- c(2, 3, 4, 5)
+
+mffeatures <- c(600, 700, 800, 900, 1000)
+
+#SMAL SAMP H+F DATASETS
+char_word <- c("W", "C", "C")
+tok_num <- c(1, 3, 4)
+mffeatures <- c(500, 600, 700, 800, 900, 1000)
+
+#LARGE/TEXTS SAMP H+F DATASETS (SAME FOR ALL SAMPS)
+char_word <- c("W", "W", "C", "C")
+tok_num <- c(1, 2, 3, 7)
+mffeatures <- c(400, 500, 600, 700, 800, 900, 1000)
+
+
+
 slice.var <- 4000
 overlap.var <- 100
 
 
 #all - first, feature and ngram
-for (feature_test in 1:8) {
+for (feature_test in 1:length(char_word)) {
   cat("\r", char_word[feature_test], tok_num[feature_test])
   #second, sample size
-  for (x in 4:4) {
+  for (x in 1:1) {
     if (x == 1) {
-      slice.var <- 5000
+      slice.var <- 5000 #1382
       overlap.var <- 500
     } else if (x == 2) {
       slice.var <- 2500
       overlap.var <- 200
     } else if (x == 3) {
-      slice.var <- 4000
+      slice.var <- 4000 #482
       overlap.var <- 100 
-    } else if (x == 4) {
+    } else if (x == 4) { #132
       slice.var <- 2500
       overlap.var <- 125 
+    } else if (x == 5) {
+      slice.var <- 5000
+      overlap.var <- 150
     }
     #third, number of features
     for (i in 1:length(mffeatures)) {
