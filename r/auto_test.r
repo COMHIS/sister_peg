@@ -28,6 +28,7 @@ batch_tests <- c("small_samp_no_cull", "small_samp_with_cull", "large_samp_no_cu
 batch_tests <- c("small_samp_no_cull", "large_samp_no_cull", "texts_no_cull", "texts_with_cull")
 
 batch_tests <- c("small_samp_no_cull", "large_samp_no_cull", "texts_no_cull")
+batch_tests <- c("small_samp_no_cull", "texts_no_cull")
 
 char_word <- c("w", "w", "w", "c", "c", "c", "c", "c")
 tok_num <- c("1", "2", "3", "3", "4", "5", "6", "7")
@@ -55,21 +56,37 @@ tok_num <- c("1", "2", "3", "3", "4", "5", "6", "7")
 
 #tests 7 - 9
 
-primary_sets_merged <- c("back_up_test_data/primary_set_backup/test7_merged/", "back_up_test_data/primary_set_backup/test8_merged/", "back_up_test_data/primary_set_backup/test9_merged/")
-primary_sets_unmerged <- c("back_up_test_data/primary_set_backup/test7_unmerged/", "back_up_test_data/primary_set_backup/test8_unmerged/", "back_up_test_data/primary_set_backup/test9_unmerged/")
+# primary_sets_merged <- c("back_up_test_data/primary_set_backup/test7_merged/", "back_up_test_data/primary_set_backup/test8_merged/", "back_up_test_data/primary_set_backup/test9_merged/")
+# primary_sets_unmerged <- c("back_up_test_data/primary_set_backup/test7_unmerged/", "back_up_test_data/primary_set_backup/test8_unmerged/", "back_up_test_data/primary_set_backup/test9_unmerged/")
+# 
+# secondary_sets_merged <- c("back_up_test_data/secondary_set_backup/test7_merged/", "back_up_test_data/secondary_set_backup/test8_merged/", "back_up_test_data/secondary_set_backup/test9_merged/")
+# secondary_sets_unmerged <- c("back_up_test_data/secondary_set_backup/test7_unmerged/", "back_up_test_data/secondary_set_backup/test8_unmerged/", "back_up_test_data/secondary_set_backup/test9_unmerged/")
+# 
+# primary_sets_merged_edited <- c("back_up_test_data/primary_set_backup_edited/test7_merged/", "back_up_test_data/primary_set_backup_edited/test8_merged/", "back_up_test_data/primary_set_backup_edited/test9_merged/")
+# primary_sets_unmerged_edited <- c("back_up_test_data/primary_set_backup_edited/test7_unmerged/", "back_up_test_data/primary_set_backup_edited/test8_unmerged/", "back_up_test_data/primary_set_backup_edited/test9_unmerged/")
+# 
+# secondary_sets_merged_edited <- c("back_up_test_data/secondary_set_backup_edited/test7_merged/", "back_up_test_data/secondary_set_backup_edited/test8_merged/", "back_up_test_data/secondary_set_backup_edited/test9_merged/")
+# secondary_sets_unmerged_edited <- c("back_up_test_data/secondary_set_backup_edited/test7_unmerged/", "back_up_test_data/secondary_set_backup_edited/test8_unmerged/", "back_up_test_data/secondary_set_backup_edited/test9_unmerged/")
 
-secondary_sets_merged <- c("back_up_test_data/secondary_set_backup/test7_merged/", "back_up_test_data/secondary_set_backup/test8_merged/", "back_up_test_data/secondary_set_backup/test9_merged/")
-secondary_sets_unmerged <- c("back_up_test_data/secondary_set_backup/test7_unmerged/", "back_up_test_data/secondary_set_backup/test8_unmerged/", "back_up_test_data/secondary_set_backup/test9_unmerged/")
+#tests 10 - 11
 
-primary_sets_merged_edited <- c("back_up_test_data/primary_set_backup_edited/test7_merged/", "back_up_test_data/primary_set_backup_edited/test8_merged/", "back_up_test_data/primary_set_backup_edited/test9_merged/")
-primary_sets_unmerged_edited <- c("back_up_test_data/primary_set_backup_edited/test7_unmerged/", "back_up_test_data/primary_set_backup_edited/test8_unmerged/", "back_up_test_data/primary_set_backup_edited/test9_unmerged/")
+primary_sets_merged <- c("back_up_test_data/primary_set_backup/test10_merged/", "back_up_test_data/primary_set_backup/test11_merged/")
+primary_sets_unmerged <- c("back_up_test_data/primary_set_backup/test10_unmerged/", "back_up_test_data/primary_set_backup/test11_unmerged/")
 
-secondary_sets_merged_edited <- c("back_up_test_data/secondary_set_backup_edited/test7_merged/", "back_up_test_data/secondary_set_backup_edited/test8_merged/", "back_up_test_data/secondary_set_backup_edited/test9_merged/")
-secondary_sets_unmerged_edited <- c("back_up_test_data/secondary_set_backup_edited/test7_unmerged/", "back_up_test_data/secondary_set_backup_edited/test8_unmerged/", "back_up_test_data/secondary_set_backup_edited/test9_unmerged/")
+secondary_sets_merged <- c("back_up_test_data/secondary_set_backup/test10_merged/", "back_up_test_data/secondary_set_backup/test11_merged/")
+secondary_sets_unmerged <- c("back_up_test_data/secondary_set_backup/test10_unmerged/", "back_up_test_data/secondary_set_backup/test11_unmerged/")
 
+# primary_sets_merged_edited <- c("back_up_test_data/primary_set_backup_edited/test7_merged/", "back_up_test_data/primary_set_backup_edited/test8_merged/", "back_up_test_data/primary_set_backup_edited/test9_merged/")
+# primary_sets_unmerged_edited <- c("back_up_test_data/primary_set_backup_edited/test7_unmerged/", "back_up_test_data/primary_set_backup_edited/test8_unmerged/", "back_up_test_data/primary_set_backup_edited/test9_unmerged/")
+# 
+# secondary_sets_merged_edited <- c("back_up_test_data/secondary_set_backup_edited/test7_merged/", "back_up_test_data/secondary_set_backup_edited/test8_merged/", "back_up_test_data/secondary_set_backup_edited/test9_merged/")
+# secondary_sets_unmerged_edited <- c("back_up_test_data/secondary_set_backup_edited/test7_unmerged/", "back_up_test_data/secondary_set_backup_edited/test8_unmerged/", "back_up_test_data/secondary_set_backup_edited/test9_unmerged/")
 
 
 for (num_of_test in 1:length(primary_sets_unmerged)) {
+  #####################################################
+  #1 for unedited, 2 for edident! CHANGE IF RERUNNING
+  #######################################################
   for (mod_text in 1:2) {
   #prepare test data
     if (mod_text == 1) {
@@ -141,6 +158,7 @@ for (num_of_test in 1:length(primary_sets_unmerged)) {
       
         cat("\nRunning test", i, " out of ", length(tok_num))
         #Delta test
+        
         classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i],
                  ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="delta"
                  , sampling=text.or.samp.var, sample.size=samp.size.var
@@ -153,16 +171,16 @@ for (num_of_test in 1:length(primary_sets_unmerged)) {
           results_fn <- paste0("results/", "test_", num_of_test, "/", batch_tests[x], "/e_delta_", paste0(tok_num[i], char_word[i]), ".txt")
         }
         file.rename("final_results.txt", results_fn)
-    
+
         #Knn test
         knn_test <- TRUE
         current_knn_test <- 1
         best_k <- 0
         highest_score <- 0
         extra_runs <- 0
-    
+
         while(knn_test == TRUE) {
-    
+
           knn_results <- classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i],
                                   ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="knn",
                                   k.value=current_knn_test,
@@ -211,7 +229,7 @@ for (num_of_test in 1:length(primary_sets_unmerged)) {
         #          , culling.min = 0, culling.max = culling.max.var, culling.incr = 10)
         # results_fn <- paste0("results/", batch_tests[x], "/knn_", best_k, "_", paste0(tok_num[i], char_word[i]), ".txt")
         # file.rename("final_results.txt", results_fn)
-    
+
         #NSC test
         classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i],
                  ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="nsc",
@@ -230,7 +248,9 @@ for (num_of_test in 1:length(primary_sets_unmerged)) {
         classify(gui = FALSE, mfw.min = 100, mfw.max = 1000, analyzed.features=char_word[i],
                  ngram.size=as.numeric(tok_num[i]), encoding = "UTF-8", classification.method="svm",
                  svm.kernel="linear", svm.cost=1,
+                 #####################################
                  use.existing.freq.tables = TRUE
+                 #use.existing.freq.tables = FALSE
                  , sampling=text.or.samp.var, sample.size=samp.size.var
                  , culling.min = 0, culling.max = culling.max.var, culling.incr = 10
         )
@@ -276,7 +296,7 @@ for (num_of_test in 1:length(primary_sets_unmerged)) {
         } else {
           results_fn <- paste0("results/", "test_", num_of_test, "/", batch_tests[x], "/e_nb_", paste0(tok_num[i], char_word[i]), ".txt")
         }
-        
+
         file.rename("final_results.txt", results_fn)
       }
     }

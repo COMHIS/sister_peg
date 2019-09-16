@@ -34,6 +34,19 @@ t_feat_freq <- table(dat$feat_freq, dat$result_dumb)
 prop.table(t_feat_freq, 1)
 summary(t_feat_freq)
 
+#one for all
+par(mfrow=c(2,2))
+mosaicplot(t_sample, shade = TRUE, las=2,
+           main = "Sample")
+mosaicplot(t_dist, shade = TRUE, las=2,
+           main = "Measurements")
+mosaicplot(t_feature, shade = TRUE, las=2,
+           main = "Feature")
+mosaicplot(t_feat_freq, shade = TRUE, las=2,
+           main = "Frequency")
+par(mfrow=c(1,1))
+
+
 for(i in 1:5) {
   if(i == 1) {
     dat <- results.test_1

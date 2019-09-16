@@ -1,5 +1,5 @@
 #rolling tests
-
+library(stylo)
 
 char_word <- c("W", "W", "W", "C", "C", "C", "C", "C")
 tok_num <- c(1, 2, 3, 3, 4, 5, 6, 7)
@@ -39,18 +39,21 @@ mffeatures <- c(400, 500, 600, 700, 800, 900, 1000)
 slice.var <- 4000
 overlap.var <- 100
 
+300 = 2282
+150 = 1082
+100 = 682
 
 #all - first, feature and ngram
 for (feature_test in 1:length(char_word)) {
   cat("\r", char_word[feature_test], tok_num[feature_test])
   #second, sample size
-  for (x in 1:1) {
+  for (x in 6:6) {
     if (x == 1) {
       slice.var <- 5000 #1382
       overlap.var <- 500
     } else if (x == 2) {
-      slice.var <- 2500
-      overlap.var <- 200
+      slice.var <- 3000
+      overlap.var <- 50 #282
     } else if (x == 3) {
       slice.var <- 4000 #482
       overlap.var <- 100 
@@ -60,8 +63,17 @@ for (feature_test in 1:length(char_word)) {
     } else if (x == 5) {
       slice.var <- 5000
       overlap.var <- 150
+    } else if (x == 6) {
+      slice.var <- 1500
+      overlap.var <- 25 #150 - 932 ; 100 - 1482 ; 50 - 682 ; 125 - 507 ; 75 - 1082 ; 25 - 282
+    } else if (x == 7) {
+      slice.var <- 2000 #182
+      overlap.var <- 25 #25 - 
+    } else if (x == 8) {
+      slice.var <- 1000 #182
+      overlap.var <- 10 #25 - 482 ; 10 - 122 ; 
     }
-    #third, number of features
+      #third, number of features
     for (i in 1:length(mffeatures)) {
       rolling.classify(plot.legend = TRUE, 
                        #SAMPLE VARS
