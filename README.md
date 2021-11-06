@@ -8,4 +8,6 @@ Scripts (held in the "r" subdirectory) used to conduct the analysis conducted nu
 
 Training and test material is not included with this repo for copyright reasons. The exact works and editions used are included in the appendix to the publication. As many outputs can be overwritten when a test is run, it should not be assumed that any of the results on the repo at any time are the results you are interested in. Instead, re-run the tests to ensure you get results relevant for the test you may be interested in.
 
+For code used to normnalise words for testing the impact spelling variations had on attribution see: https://github.com/COMHIS/sister_peg/blob/master/r/normalize_words.r
+
 *(Publication available here: https://muse.jhu.edu/article/802445)
