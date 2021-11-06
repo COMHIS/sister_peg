@@ -10,4 +10,6 @@ Training and test material is not included with this repo for copyright reasons.
 
 For code used to normnalise words for testing the impact spelling variations had on attribution see: https://github.com/COMHIS/sister_peg/blob/master/r/normalize_words.r
 
+For an extracted 7-gram wordlist (note 39) see: https://github.com/COMHIS/sister_peg/blob/master/wordlist.txt.
+
 *(Publication available here: https://muse.jhu.edu/article/802445)
